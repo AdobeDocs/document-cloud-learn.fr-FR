@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -51,6 +51,28 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <a href="send-to-multiple-recipients.md"><strong>Envoi à plusieurs destinataires</strong></a>
     </div>
     <em>Envoyer un document pour signature électronique à plus d’une personne dans l’ordre exact souhaité</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Prise en main d’Adobe Sign pour les nouveaux expéditeurs" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Prise en main d’Adobe Sign pour les nouveaux expéditeurs</strong></a>
+    </div>
+    <em>Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs d'Adobe Sign.</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espacement" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espacement" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
