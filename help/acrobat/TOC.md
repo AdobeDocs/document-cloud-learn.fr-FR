@@ -1,0 +1,93 @@
+---
+user-guide-title: Tutorials Acrobat
+solution: Document Cloud, Acrobat DC
+solution-title: Learn & Support
+solution-hub-url: https://helpx.adobe.com/support/acrobat.html
+getting-started-title: Getting Started
+getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
+tutorials-title: Tutorials
+tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
+breadcrumb-title: Tutorials Acrobat
+source-git-commit: 2506e570fa5b18608c7525318fc38841bdc337e2
+workflow-type: tm+mt
+source-wordcount: '268'
+ht-degree: 14%
+
+---
+
+
+# Tutoriels Acrobat {#acrobat-learning}
+
++ [Aperçu](overview.md)
++ Prise en main {#getting-started}
+   + [Aperçu](getting-started/getting-started-overview.md)
+   + [Se familiariser avec l’interface d’Acrobat DC](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [D’où proviennent les fichiers PDF ?](getting-started/where-do-pdfs-come-from.md)
+   + [Combinaison de fichiers au format PDF](getting-started/combine-to-pdf.md)
+   + [Création de fichiers PDF](getting-started/create-pdf.md)
+   + [Commentaires sur les fichiers PDF dans Acrobat DC](getting-started/comment-on-pdf-files.md)
+   + [Modification d’un fichier PDF dans Acrobat DC](getting-started/edit-pdf.md)
+   + [Exportation d’un fichier PDF dans des formats modifiables](getting-started/export-pdf.md)
+   + [Création de formulaires à remplir](getting-started/create-fillable-forms.md)
+   + [Numérisation et OCR](getting-started/scan-and-ocr.md)
+   + [Organisation des pages](getting-started/organize.md)
+   + [Protect d’un fichier PDF avec un mot de passe](getting-started/password-protect.md)
+   + [Remplissage et signature d’un formulaire PDF](getting-started/fill-and-sign.md)
++ Tâches avancées {#advanced-tasks}
+   + [Aperçu](advanced-tasks/advanced-tasks-overview.md)
+   + [Détection des différences entre deux fichiers PDF](advanced-tasks/compare.md)
+   + [Assistant d’action](advanced-tasks/action.md)
+   + [Biffer et assainir](advanced-tasks/redact.md)
+   + [Réduction de la taille des fichiers et optimisation](advanced-tasks/reduce.md)
+   + [Utilisation des données de formulaire](advanced-tasks/formdata.md)
+   + [Préparation de fichiers PDF accessibles](advanced-tasks/accessibility.md)
+   + série d&#39;accessibilité Acrobat {#accessibility-series}
+      + [Aperçu](advanced-tasks/accessibility-series.md)
+      + [Présentation de l’accessibilité PDF](advanced-tasks/accessibilitysession1.md)
+      + [Correction d’un fichier PDF inaccessible](advanced-tasks/accessibilitysession2.md)
+      + [Tableaux complexes](advanced-tasks/accessibilitysession3.md)
+      + [Documents numérisés et listes complexes](advanced-tasks/accessibilitysession4.md)
+      + [Ajout de champs de formulaire à un fichier PDF balisé](advanced-tasks/accessibilitysession5.md)
+      + [Ajout de champs de formulaire à un document PDF non balisé](advanced-tasks/accessibilitysession6.md)
++ Acrobat de 60 secondes {#60-second}
+   + [Aperçu](60-second/60-second-overview.md)
+   + [Combinaison de fichiers dans un seul fichier PDF](60-second/combine-to-one-pdf.md)
+   + [Modification d’un fichier PDF avec Acrobat Web](60-second/edit.md)
+   + [Recherche simultanée de plusieurs fichiers PDF](60-second/search.md)
+   + [Création instantanée d&#39;un PDF de photos](60-second/photo.md)
+   + [Conversion d’un fichier PPT au format PDF sur votre téléphone](60-second/phone.md)
+   + [Charger des commentaires PDF dans l’InDesign](60-second/indesign.md)
++ Créateurs de compétences {#skill-builders}
+   + [Aperçu](skill-builder/skill-builder-overview.md)
+   + [Webinaires](skill-builder/skill-builder-webinars.md)
++ Intégrer {#integrations}
+   + [Aperçu](integrate/integrate-overview.md)
+   + [Création d’un fichier PDF à partir de Microsoft Word](integrate/createfromword.md)
+   + [[!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [Utilisation de vos fichiers SharePoint](integrate/acrobatandsp.md)
+   + [Adobe Acrobat pour Google Drive](integrate/acrobatandgoogle.md)
+   + [Conversion de messages électroniques et de pièces jointes au format PDF dans Outlook](integrate/outlook.md)
++ Industrie {#by-industry}
+   + [Aperçu](industry/industry-overview.md)
+   + Gouvernement {#gov}
+      + [Aperçu](industry/gov/gov-overview.md)
+      + 5 Conseils pour travailler n’importe où avec Acrobat DC {#tips}
+         + [5 Conseils pour travailler n’importe où avec Acrobat DC](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [Conseil n° 1 : utilisation des outils](industry/gov/get-your-tools.md)
+         + [Conseil n° 2 : collaboration sur des documents](industry/gov/collaborate-on-documents.md)
+         + [Conseil n° 3 - Documents numériques Protect](industry/gov/protect-digital-documents.md)
+         + [Conseil n° 4 : utilisation de formulaires et de signatures](industry/gov/work-with-forms-and-signatures.md)
+         + [Conseil n° 5 - Numérisation et modification sur mobile](industry/gov/scan-and-edit-on-mobile.md)
+      + Accessibilité {#pdfs}
+         + [Accessibilité des fichiers PDF](industry/gov/making-pdfs-accessible.md)
+         + [#1 - Comprendre l’accessibilité](industry/gov/understanding-accessibility.md)
+         + [#2 - Création dans Word](industry/gov/authoring-in-word.md)
+         + [#3 - Finalisation en Acrobat](industry/gov/finishing-in-acrobat.md)
+         + [Rendre les bulletins de vote PDF plus accessibles](industry/gov/making-pdf-ballots-accessible.md)
++ Développement {#develop}
+   + [Aperçu](develop/develop-overview.md)
++ Déployer {#deploy}
+   + [Aperçu](deploy/deploy-overview.md)
+   + [Mises à jour importantes des produits Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
++ Application mobile {#mobile}
+   + [Aperçu](mobile/mobile-overview.md)

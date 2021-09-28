@@ -1,0 +1,116 @@
+---
+title: Présentation des tâches avancées
+description: Découvrez comment envoyer un document pour signature à 100 destinataires à la fois, configurer un document prêt pour signature pour votre site web, gérer les transactions de signature et créer et gérer des modèles de document.
+role: User
+product: adobe sign
+solution: Document Cloud
+level: Experienced
+thumbnail: KT-6848.jpg
+exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
+source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+workflow-type: tm+mt
+source-wordcount: '241'
+ht-degree: 0%
+
+---
+
+# Présentation des tâches avancées
+
+![Signer l’image avancée](../assets/Hero-Advanced.png)
+
+Découvrez comment envoyer un document pour signature à 100 destinataires à la fois, configurer un document prêt pour signature pour votre site web, gérer les transactions de signature et créer et gérer des modèles de document. Ces tutoriels s’adressent à tous ceux qui connaissent déjà les principes de base de l’envoi et de la demande de signature, et souhaitent en savoir plus sur les possibilités offertes par Adobe Sign pour eux.
+
+## Envoi
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="setting-up-routing.md">
+      <img alt="Configuration de l'ordre de routage" src="../assets/Routing.png">
+    </a>
+    <div>
+    <a href="setting-up-routing.md"><strong>Configuration de l'ordre de routage</strong></a>
+    </div>
+    <em>Configuration de l’ordre de routage pour plusieurs signataires</em>
+    <br>
+  </td>
+  <td>
+    <a href="delegate-signature.md">
+      <img alt="Délégation à quelqu’un d’autre" src="../assets/Delegating.png" />
+    </a>  
+    <div>
+    <a href="delegate-signature.md"><strong>Délégation à quelqu’un d’autre</strong></a>
+    </div>
+    <em>Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite l’acheminer pour signature.</em>
+    <br>
+  </td>
+  <td>
+    <a href="add-an-approver.md">
+      <img alt="Ajout d’un approbateur" src="../assets/Approver.png" />
+    </a>
+    <div>
+    <a href="add-an-approver.md"><strong>Ajout d’un approbateur</strong></a>
+    </div>
+    <em>Ajouter un rôle d’approbateur à votre processus d’approbation de contrat</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="megasign.md">
+      <img alt="Collecte de signatures en bloc" src="../assets/Megasign.png" />
+    </a>
+    <div>
+    <a href="megasign.md"><strong>Collecte de signatures en bloc</strong></a>
+    </div>
+    <em>Recueillez des centaines de signatures en même temps pour n’importe quel document en quelques étapes rapides</em>
+    <br>
+  </td>
+  <td>
+    <a href="webform.md">
+      <img alt="Configuration d’un formulaire Web" src="../assets/Webform.png" />
+    </a>
+    <div>
+    <a href="webform.md"><strong>Configuration d’un formulaire Web</strong></a>
+    </div>
+    <em>Création d’un document pouvant être signé électroniquement directement sur votre site web</em>
+    <br>
+  </td> 
+  <td>
+    <a href="adobe-sign-text-tagging.md">
+      <img alt="Balisage de texte Adobe Sign" src="../assets/Text-Tagging.png" />
+  </a>
+    <div>
+    <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Adobe Sign</strong></a>
+    </div>
+    <em>Création de champs de formulaire Adobe Sign par balisage de texte à l’aide d’Adobe Acrobat DC</em>
+    <br>
+  </td> 
+</table>
+
+## Gestion
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="edit-a-template.md">
+      <img alt="Gestion des modèles de document" src="../assets/ManageTemplate.png" />
+    </a>
+    <div>
+    <a href="edit-a-template.md"><strong>Gestion des modèles de document</strong></a>
+    </div>
+    <em>Modification ou suppression d’un modèle de votre bibliothèque</em>
+    <br>
+  </td>  
+  <td>
+    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
