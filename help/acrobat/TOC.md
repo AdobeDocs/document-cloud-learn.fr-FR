@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
 workflow-type: tm+mt
-source-wordcount: '276'
-ht-degree: 14%
+source-wordcount: '281'
+ht-degree: 13%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 14%
 + Prise en main {#getting-started}
    + [Aperçu](getting-started/getting-started-overview.md)
    + [Se familiariser avec l’interface d’Acrobat DC](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [D’où proviennent les fichiers PDF ?](getting-started/where-do-pdfs-come-from.md)
+   + [Utilisation de Acrobat Web n’importe où](getting-started/acrobatweb.md)
    + [Combinaison de fichiers au format PDF](getting-started/combine-to-pdf.md)
    + [Création de fichiers PDF](getting-started/create-pdf.md)
    + [Commentaires sur les fichiers PDF dans Acrobat DC](getting-started/comment-on-pdf-files.md)
@@ -33,6 +33,7 @@ ht-degree: 14%
    + [Organisation des pages](getting-started/organize.md)
    + [Protect d’un fichier PDF avec un mot de passe](getting-started/password-protect.md)
    + [Remplissage et signature d’un formulaire PDF](getting-started/fill-and-sign.md)
+   + [D’où proviennent les fichiers PDF ?](getting-started/where-do-pdfs-come-from.md)
 + Tâches avancées {#advanced-tasks}
    + [Aperçu](advanced-tasks/advanced-tasks-overview.md)
    + [Détection des différences entre deux fichiers PDF](advanced-tasks/compare.md)

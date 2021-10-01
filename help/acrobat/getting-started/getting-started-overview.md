@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 8d4260937ffc2c0bd907332dd4b805fb59147872
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '338'
 ht-degree: 5%
 
 ---
@@ -34,13 +34,13 @@ Découvrez comment commencer à utiliser Adobe Acrobat à l’aide de ces didact
     <br>
   </td>
   <td>
-    <a href="where-do-pdfs-come-from.md">
-      <img alt="D’où proviennent les fichiers PDF ?" src="../assets/WherePDFs.jpg" />
+    <a href="acrobatweb.md">
+      <img alt="Utilisation de Acrobat Web n’importe où" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="where-do-pdfs-come-from.md"><strong>D’où proviennent les fichiers PDF ?</strong></a>
+    <a href="acrobatweb.md"><strong>Utilisation de Acrobat Web n’importe où</strong></a>
     </div>
-    <em>Présentation de l’origine des fichiers PDF et de leur utilisation</em>
+    <em>Découvrez comment traiter les demandes de documents d'entreprise en tout lieu à l'aide des outils web Acrobat dans votre navigateur.</em>
     <br>
   </td>
   <td>
@@ -147,6 +147,28 @@ Découvrez comment commencer à utiliser Adobe Acrobat à l’aide de ces didact
     <a href="fill-and-sign.md"><strong>Remplissage et signature d’un formulaire PDF</strong></a>
     </div>
     <em>Remplissage et signature rapides d’un formulaire PDF</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="where-do-pdfs-come-from.md">
+      <img alt="D’où proviennent les fichiers PDF ?" src="../assets/WherePDFs.jpg" />
+    </a>
+    <div>
+    <a href="where-do-pdfs-come-from.md"><strong>D’où proviennent les fichiers PDF ?</strong></a>
+    </div>
+    <em>Présentation de l’origine des fichiers PDF et de leur utilisation</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
