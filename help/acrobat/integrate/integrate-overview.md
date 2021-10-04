@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: e59d56662ae9325fe1bcea5f067f847b25c396c3
+source-git-commit: a6af71e2c1b20c6b3f9a899cdfecb81dfd7f6c36
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '329'
 ht-degree: 1%
 
 ---
@@ -37,6 +37,16 @@ Découvrez comment tous les membres de votre équipe peuvent travailler sans pro
     <br>
   </td>
   <td>
+    <a href="createofficeweb.md">
+      <img alt="Créer des fichiers PDF dans [!DNL Office] pour le web" src="../assets/Officeweb_1280.png" />
+    </a>
+    <div>
+    <a href="createofficeweb.md"><strong>Créer des fichiers PDF dans [!DNL Office] pour le web</strong></a>
+    </div>
+    <em>Découvrez comment créer des fichiers PDF sans quitter votre [ ! DNL Microsoft Office] pour les applications web</em>
+    <br>
+  </td>  
+  <td>
     <a href="acrobatandsp.md">
       <img alt="Utilisation de vos fichiers [ ! DNL SharePoint]" src="../assets/SharePoint.png" />
     </a>
@@ -46,6 +56,8 @@ Découvrez comment tous les membres de votre équipe peuvent travailler sans pro
     <em>Rationalisation des flux de production de documents avec [ ! DNL SharePoint] et Acrobat DC</em>
     <br>
   </td>  
+</tr>
+<tr>
   <td>
     <a href="acrobatandteams.md">
       <img alt="Collaboration PDF dans [ ! Microsofts Teams DNL]" src="../assets/MicrosoftTeams.png" />
@@ -56,8 +68,6 @@ Découvrez comment tous les membres de votre équipe peuvent travailler sans pro
     <em>Collaborez et travaillez avec vos collègues en affichant, annotant et révisant des fichiers PDF sans jamais quitter [ ! Microsofts Teams DNL]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="outlook.md">
       <img alt="Conversion de messages électroniques et de pièces jointes au format PDF dans Outlook" src="../assets/Outlook.jpg" />
@@ -76,11 +86,6 @@ Découvrez comment tous les membres de votre équipe peuvent travailler sans pro
     <a href="edge.md"><strong>Créer du contenu PDF lors de l’exploration avec [ ! DNL Microsoft Edge]</strong></a>
     </div>
     <em>Découvrez comment archiver des pages web au format PDF à la volée avec l’extension Adobe Acrobat pour [ ! DNL Microsoft Edge]</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espacement" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
