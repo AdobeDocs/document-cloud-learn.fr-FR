@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '161'
 ht-degree: 4%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 ![Image de Acrobat Hero](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de continuer à évoluer en convertissant, modifiant, partageant et signant des fichiers PDF. Vous y trouverez un large éventail d’expériences d’apprentissage conçues pour permettre aux utilisateurs débutants et expérimentés d’être rapidement à la fine pointe de la technologie sur Adobe Acrobat.
+Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de continuer à évoluer en convertissant, modifiant, partageant et signant des PDF. Vous y trouverez un large éventail d’expériences d’apprentissage conçues pour permettre aux utilisateurs débutants et expérimentés d’être rapidement à la fine pointe de la technologie sur Adobe Acrobat.
 
 ## Chemins d’apprentissage
 
@@ -30,7 +30,7 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de cont
     <div>
     <a href="getting-started/getting-started-overview.md"><strong>Prise en main</strong></a>
     </div>
-    <em>Découvrez comment créer, modifier, convertir, protéger et bien plus encore avec les fichiers PDF.</em>
+    <em>Découvrez comment créer, modifier, convertir, protéger et bien plus encore avec des fichiers PDF.</em>
     <br>
   </td>
   <td>
@@ -62,7 +62,7 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de cont
     <div>
     <a href="integrate/integrate-overview.md"><strong>Intégrer</strong></a>
     </div>
-    <em>Ajout de Acrobat à vos systèmes, processus et applications existants</em>
+    <em>Ajout d'Acrobat à vos systèmes, processus et applications d'entreprise existants</em>
     <br>
   </td>
   <td>
@@ -104,7 +104,7 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de cont
     <div>
     <a href="mobile/mobile-overview.md"><strong>Application mobile</strong></a>
     </div>
-    <em>Création, remplissage et signature de fichiers PDF sur votre appareil mobile</em>
+    <em>Création, remplissage et signature de PDF sur votre appareil mobile</em>
     <br>
   </td>  
   <td>
