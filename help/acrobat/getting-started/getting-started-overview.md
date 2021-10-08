@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 22a37cff7bd4ee2c1e124e33946bc914d5e0a237
+source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
 workflow-type: tm+mt
-source-wordcount: '382'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -80,7 +80,7 @@ Découvrez comment commencer à utiliser Adobe Acrobat à l’aide de ces didact
       <img alt="Création de fichiers PDF" src="../assets/Create.jpg" />
     </a>
     <div>
-    <a href="create-pdf.md"><strong>Création de fichiers PDF</strong></a>
+    <a href="create-pdf.md"><strong>Création d’un fichier PDF </strong></a>
     </div>
     <em>Création de PDF à partir de différents types de documents</em>
     <br>
@@ -92,7 +92,7 @@ Découvrez comment commencer à utiliser Adobe Acrobat à l’aide de ces didact
       <img alt="Commentaires sur les fichiers PDF dans Acrobat DC" src="../assets/Comment.jpg" />
     </a>
     <div>
-    <a href="comment-on-pdf-files.md"><strong>Commentaires sur les fichiers PDF dans Acrobat DC</strong></a>
+    <a href="comment-on-pdf-files.md"><strong>Commentaire sur un PDF</strong></a>
     </div>
     <em>Ajout de commentaires à un fichier PDF, puis partage avec d’autres personnes</em>
     <br>
@@ -102,7 +102,7 @@ Découvrez comment commencer à utiliser Adobe Acrobat à l’aide de ces didact
       <img alt="Modification d’un PDF dans Acrobat DC" src="../assets/Edit.jpg" />
     </a>
     <div>
-    <a href="edit-pdf.md"><strong>Modification d’un PDF dans Acrobat DC</strong></a>
+    <a href="edit-pdf.md"><strong>Modifier un fichier PDF</strong></a>
     </div>
     <em>Modification de texte et d’images dans des fichiers PDF</em>
     <br>
@@ -166,7 +166,7 @@ Découvrez comment commencer à utiliser Adobe Acrobat à l’aide de ces didact
       <img alt="Remplissage et signature d’un formulaire PDF" src="../assets/FillSign.jpg" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Remplissage et signature d’un formulaire PDF</strong></a>
+    <a href="fill-and-sign.md"><strong>Remplissage et signature de formulaires PDF</strong></a>
     </div>
     <em>Remplissage et signature rapides d’un formulaire PDF</em>
     <br>
