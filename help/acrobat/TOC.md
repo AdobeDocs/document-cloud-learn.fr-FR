@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 7e9a97cbfbb39fe7958d3bc060142f9eabf4ebcc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '295'
+ht-degree: 14%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 0%
    + [Utilisation de Acrobat Web n’importe où](getting-started/acrobatweb.md)
    + [Utilisation de [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Collaboration en temps réel](getting-started/collaborate.md)
-   + [Combinaison de fichiers au format PDF](getting-started/combine-to-pdf.md)
+   + [Combine Files au PDF](getting-started/combine-to-pdf.md)
    + [Création d’un fichier PDF ](getting-started/create-pdf.md)
    + [Commentaire sur un PDF](getting-started/comment-on-pdf-files.md)
    + [Modifier un fichier PDF](getting-started/edit-pdf.md)
@@ -44,7 +44,7 @@ ht-degree: 0%
    + [Réduction de la taille des fichiers et optimisation](advanced-tasks/reduce.md)
    + [Utilisation des données de formulaire](advanced-tasks/formdata.md)
    + [Préparation de fichiers de PDF accessibles](advanced-tasks/accessibility.md)
-   + série d&#39;accessibilité Acrobat {#accessibility-series}
+   + Série sur l’accessibilité Acrobat {#accessibility-series}
       + [Aperçu](advanced-tasks/accessibility-series.md)
       + [Introduction à l’accessibilité des PDF](advanced-tasks/accessibilitysession1.md)
       + [Correction d’un PDF inaccessible](advanced-tasks/accessibilitysession2.md)
@@ -76,7 +76,7 @@ ht-degree: 0%
    + [Aperçu](industry/industry-overview.md)
    + Gouvernement {#gov}
       + [Aperçu](industry/gov/gov-overview.md)
-      + 5 Conseils pour travailler n&#39;importe où avec Acrobat DC {#tips}
+      + 5 conseils pour travailler n’importe où avec Acrobat DC {#tips}
          + [5 Conseils pour travailler n’importe où avec Acrobat DC](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Conseil n° 1 : utilisation des outils](industry/gov/get-your-tools.md)
          + [Conseil n° 2 : collaboration sur des documents](industry/gov/collaborate-on-documents.md)
