@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 6f539172b9d008ede42d5241454992f428a0045b
+source-git-commit: 4778ac9431a9f5067e3f90d86ba80c94e46580bc
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '363'
+ht-degree: 8%
 
 ---
 
@@ -25,10 +25,10 @@ Découvrez comment commencer à utiliser Adobe Acrobat à l’aide de ces didact
 <tr>
   <td>
     <a href="get-to-know-the-acrobat-dc-interface.md">
-      <img alt="Découverte de l'interface Acrobat DC" src="../assets/Interface.jpg" />
+      <img alt="Espace de travail – Principes de base" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Se familiariser avec l’interface d’Acrobat DC</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Espace de travail – Principes de base</strong></a>
     </div>
     <em>Découvrez comment l’interface d’Adobe Acrobat DC facilite l’accès aux fichiers et outils sur les postes de travail, le web et les terminaux mobiles.</em>
     <br>
@@ -50,7 +50,7 @@ Découvrez comment commencer à utiliser Adobe Acrobat à l’aide de ces didact
     <div>
      <a href="../integrate/integrate-overview.md#microsoft"><strong>Utilisation de Microsoft 365</strong></a>
     </div>
-    <em>Augmenter la productivité et les workflows de documents professionnels avec Acrobat et [ ! DNL Microsoft 365]</em>
+    <em>Augmenter la productivité et les workflows de documents professionnels avec Acrobat et [!DNL Microsoft 365]</em>
     <br>
   </td>
 </tr>
