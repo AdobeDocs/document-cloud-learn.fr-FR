@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Adobe Sign
-source-git-commit: 626ef6a53b548c77134f9f551d9f8b05581c46db
+source-git-commit: 31f5623ae68845e137d3b0fbc9b173cfe825a7f4
 workflow-type: tm+mt
 source-wordcount: '414'
 ht-degree: 6%
@@ -32,7 +32,7 @@ ht-degree: 6%
       + [Obtention d’une signature en personne](sign-beginner-tutorials/sign-in-person.md)
       + [Qu’est-ce qu’une signature numérique ?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Signature avec un tampon](sign-beginner-tutorials/sign-with-a-stamp.md)
-   + Gestion de {#getting-started-managing}
+   + Gestion {#getting-started-managing}
       + [Gestion et suivi des documents](sign-beginner-tutorials/manage-and-track.md)
       + [Création d’un modèle de document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
       + [Modification d’un document déjà envoyé pour signature](sign-beginner-tutorials/modify-in-flight.md)
@@ -45,7 +45,7 @@ ht-degree: 6%
       + [Collecte de signatures en bloc](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Configuration d’un formulaire Web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Balisage de texte Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
-   + Gestion de {#advanced-tasks-managing}
+   + Gestion {#advanced-tasks-managing}
       + [Gestion des modèles de document](sign-advanced-users/edit-a-template.md)
 + Administrer {#admin-set-up}
    + [Aperçu](admin/intro-admin-overview.md)
@@ -75,14 +75,14 @@ ht-degree: 6%
       + [Obtention d’une identification numérique à partir du groupe Intesi (avancé)](digitalid/intesi-advanced.md)
       + [Obtenir une identification numérique à partir du groupe Intesi (qualifié)](digitalid/intesi-qualified.md)
       + [Signature à l’aide du groupe Intesi](digitalid/intesi-sign.md)
-+ Intégrer {#integrations}
++ Intégrations {#integrations}
    + [Aperçu](integrations/integrations-overview.md)
-   + Microsoft {#microsoft}
+   + Microsoft {#microsoft}
       + [Remplissage et signature dans Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Envoyer pour signature dans Outlook](integrations/send-for-signature-with-outlook.md)
       + [Envoyer pour signature dans SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
-      + [Suivi dans SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [Envoi de documents pour signature dans  [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Suivi à SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [Envoi de documents pour signature dans [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Automatisation des documents avec Adobe Sign pour Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Création d’un modèle de document](integrations/create-an-agreement-template.md)
@@ -95,13 +95,13 @@ ht-degree: 6%
       + [Envoi de notifications à l’aide d’Adobe Sign pour Salesforce et Marketo](integrations/marketo-salesforce-sms.md)
       + [Didacticiel vidéo sur l’envoi de rappels à l’aide d’Adobe Sign pour Salesforce et Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Envoyer des rappels à l’aide du guide de configuration Adobe Sign pour Salesforce et Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Envoi de notifications à l’aide d’Adobe Sign pour Microsoft Dynamics et Marketo](integrations/marketo-dynamics-sms.md)
+      + [Envoyer des notifications à l’aide d’Adobe Sign pour Microsoft Dynamics et Marketo](integrations/marketo-dynamics-sms.md)
       + [Envoi de rappels à l’aide d’Adobe Sign pour Microsoft Dynamics 365 et Marketo](integrations/marketo-dynamics-reminder.md)
-+ Industrie et département {#expand}
++ Industries et départements {#expand}
    + [Aperçu](sign-usecase/expand-inspire-overview.md)
    + Créateur de compétences {#innovation}
       + [Webinaires](sign-usecase/innovation-series.md)
-   + Utiliser les recettes de dossier {#recipes}
+   + Utilisation des recettes de casse {#recipes}
       + [Aperçu](sign-usecase/recipes.md)
       + Gouvernement {#gov}
          + [Subventions et prêts aux entreprises](sign-usecase/usecasegovgrants.md)

@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
 workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -67,20 +67,20 @@ Adobe Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoin
   </td>
   <td>
     <a href="integrations/integrations-overview.md">
-      <img alt="Intégrer" src="assets/AS_Title_Integrate.png" />
+      <img alt="Intégrations" src="assets/AS_Title_Integrate.png" />
     </a>
     <div>
-    <a href="integrations/integrations-overview.md"><strong>Intégrer</strong></a>
+    <a href="integrations/integrations-overview.md"><strong>Intégrations</strong></a>
     </div>
     <em>Ajout de Adobe Sign directement dans d’autres applications déjà utilisées par votre entreprise</em>
     <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Industrie et département" src="assets/AS_Title_Industry.png" />
+      <img alt="Industries et départements" src="assets/AS_Title_Industry.png" />
     </a>
     <div>
-    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industrie et département</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industries et départements</strong></a>
     </div>
     <em>Explorez les cas d'utilisation et les recettes de l'industrie et des départements du monde réel et redéfinissez ce qui est possible avec les signatures électroniques.</em>
     <br>
