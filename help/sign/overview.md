@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 9e334f9523601cf5c5bad3a80663724d7b3670de
+source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 6%
 
 ---
@@ -82,7 +82,7 @@ Adobe Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoin
     <div>
     <a href="sign-usecase/expand-inspire-overview.md"><strong>Industries et départements</strong></a>
     </div>
-    <em>Explorez les cas d'utilisation et les recettes de l'industrie et des départements du monde réel et redéfinissez ce qui est possible avec les signatures électroniques.</em>
+    <em>Explorez les cas d’utilisation et les recettes de l’industrie et des départements du monde réel pour découvrir les possibilités offertes par les signatures électroniques.</em>
     <br>
   </td>
 </tr>
