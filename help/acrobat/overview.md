@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
+source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
 workflow-type: tm+mt
-source-wordcount: '161'
-ht-degree: 4%
+source-wordcount: '165'
+ht-degree: 5%
 
 ---
 
@@ -57,20 +57,20 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de cont
 <tr>
   <td>
     <a href="integrate/integrate-overview.md">
-      <img alt="Intégrer" src="assets/acrobat_title_integrate.png" />
+      <img alt="Intégrations" src="assets/acrobat_title_integrate.png" />
     </a>
     <div>
-    <a href="integrate/integrate-overview.md"><strong>Intégrer</strong></a>
+    <a href="integrate/integrate-overview.md"><strong>Intégrations</strong></a>
     </div>
     <em>Ajout d'Acrobat à vos systèmes, processus et applications d'entreprise existants</em>
     <br>
   </td>
   <td>
     <a href="industry/industry-overview.md">
-      <img alt="Industrie" src="assets/acrobat_title_industry.png" />
+      <img alt="Industries et départements" src="assets/acrobat_title_industry.png" />
     </a>
     <div>
-    <a href="industry/industry-overview.md"><strong>Industrie</strong></a>
+    <a href="industry/industry-overview.md"><strong>Industries et départements</strong></a>
     </div>
     <em>Découvrez comment les entreprises du monde réel peuvent évoluer 100 % vers le numérique</em>
     <br>
