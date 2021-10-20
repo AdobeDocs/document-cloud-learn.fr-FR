@@ -1,5 +1,5 @@
 ---
-title: Aperçu de l'industrie et du département
+title: Aperçu des industries et des ministères
 description: Découvrez comment transformer les expériences de signature électronique des clients et des employés grâce à ces exemples d’utilisation, recettes et webinaires de l’industrie et du service réels.
 role: User
 product: adobe sign
@@ -7,14 +7,14 @@ level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 5418e505275fb8c9d889e8928278dad69179cdc1
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
 
 ---
 
-# Présentation de l&#39;industrie et des services
+# Aperçu des industries et des ministères
 
 ![Image de l&#39;industrie Adobe Sign](../assets/Hero-Industry.png)
 

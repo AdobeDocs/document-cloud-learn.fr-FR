@@ -1,5 +1,5 @@
 ---
-title: Présentation de l’intégration
+title: Présentation des intégrations
 description: Découvrez comment ajouter Adobe Sign à vos systèmes, processus et applications existants.
 role: User
 product: adobe sign
@@ -7,23 +7,23 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 9521930d29ca7e73e9658029733c5fe2c267d7ba
+source-git-commit: 34490d609f3e19d2e0100a96e6c4858831e5c22c
 workflow-type: tm+mt
-source-wordcount: '552'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
 
-# Présentation de l’intégration
+# Présentation des intégrations
 
 ![Sign Integrate Image](../assets/Hero-Integrate.png)
 
-Vous pouvez utiliser Adobe Sign dans d’autres applications déjà utilisées par votre entreprise, telles que Microsoft, Salesforce, Workday et Marketo, pour en nommer quelques-unes. Découvrez comment simplifier vos processus de signature électronique dans ces guides et tutoriels d’intégration.
+Vous pouvez utiliser Adobe Sign dans d’autres applications déjà utilisées par votre organisation, telles que Microsoft, Salesforce, Workday et Marketo, pour en nommer quelques-unes. Découvrez comment simplifier vos processus de signature électronique dans ces guides et tutoriels d’intégration.
 
 >[!NOTE]
 > Si vous ne parvenez pas à accéder à l’une de ces fonctionnalités, vérifiez auprès de l’administrateur de votre organisation que l’intégration est activée.
 
-## Tutoriels sur les intégrations Microsoft
+## Tutoriels d’intégration Microsoft
 
 <table style="table-layout:fixed">
 <tr>
@@ -61,22 +61,22 @@ Vous pouvez utiliser Adobe Sign dans d’autres applications déjà utilisées p
 <tr>
   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
-      <img alt="Suivi dans SharePoint Online" src="../assets/MS-TrackSP.png" />
+      <img alt="Suivi à SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
     <div>
-    <a href="track-an-agreement-with-sharepoint-online.md"><strong>Suivi dans SharePoint Online</strong></a>
+    <a href="track-an-agreement-with-sharepoint-online.md"><strong>Suivi à SharePoint Online</strong></a>
     </div>
-    <em>Suivi de la progression d’un accord directement dans Microsoft SharePoint</em>
+    <em>Suivi de la progression d’un accord directement dans Microsoft Sharepoint</em>
     <br>
   </td>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Envoi de documents pour signature dans [ ! Microsofts Teams DNL]" src="../assets/teamsmortgage.png" />
+      <img alt="Envoi de documents pour signature dans [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Envoi de documents pour signature dans [ ! Microsofts Teams DNL]</strong></a>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Envoi de documents pour signature dans [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Envoyer des documents pour signature directement dans [ ! Microsofts Teams DNL]</em>
+    <em>Envoyer des documents pour signature directement dans [!DNL Microsoft Teams]</em>
     <br>
   </td>
   <td>
@@ -86,7 +86,7 @@ Vous pouvez utiliser Adobe Sign dans d’autres applications déjà utilisées p
     <div>
     <a href="documentautomation.md"><strong>Automatisation des documents avec Adobe Sign pour Microsoft Power Platform</strong></a>
     </div>
-    <em>Découvrez comment activer et utiliser les connecteurs Adobe Sign et Adobe PDF Tools pour Microsoft Power Apps.</em>
+    <em>Découvrez comment activer et utiliser les connecteurs Adobe Sign et Adobe PDF Tools pour Microsoft Power Apps</em>
     <br>
   </td>
 </tr>
@@ -226,10 +226,10 @@ Vous pouvez utiliser Adobe Sign dans d’autres applications déjà utilisées p
   </td>
   <td>
     <a href="marketo-dynamics-sms.md">
-      <img alt="Envoi de notifications à l’aide d’Adobe Sign pour Microsoft Dynamics et Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
+      <img alt="Envoyer des notifications à l’aide d’Adobe Sign pour Microsoft Dynamics et Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Envoi de notifications à l’aide d’Adobe Sign pour Microsoft Dynamics et Marketo</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Envoyer des notifications à l’aide d’Adobe Sign pour Microsoft Dynamics et Marketo</strong></a>
     </div>
     <em>Découvrez comment envoyer un message texte, un courrier électronique ou une notification push afin de faire savoir au signataire qu’un accord est en cours d’envoi.</em>
     <br>
