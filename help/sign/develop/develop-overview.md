@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 7a97e60cff77466541f7126b93ee3b8607455f9f
+source-git-commit: 3f23da91f1b4c90e8c70e564653c6be44d1f5b58
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 15%
+source-wordcount: '170'
+ht-degree: 12%
 
 ---
 
@@ -24,17 +24,17 @@ ht-degree: 15%
 <tr>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank">
-      <img alt="Démarrer" src="../assets/Develop_Getting-Started.png" />
+      <img alt="Création d’un compte de développeur" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Prise en main</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Création d’un compte de développeur</strong></a>
     </div>
-    <em>Création de votre compte de développeur pour commencer</em>
+    <em>Initiation à un compte de développeur</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
-      <img alt="Formation" src="../assets/Develop_Learn.png" />
+      <img alt="Découverte des possibilités" src="../assets/Develop_Learn.png" />
     </a>
     <div>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Découverte des possibilités</strong></a>
