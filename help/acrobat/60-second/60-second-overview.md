@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,19 @@ Acrobat, d’une durée de 60 secondes, vous propose des tutoriels de petite tai
     <em>Apprenez à convertir une pièce jointe PowerPoint d'un courrier électronique en PDF sur votre téléphone.</em>
     <br>
   </td>  
- <td>
+  <td>
+    <a href="sign.md">
+      <img alt="Signature électronique d’un document papier" src="../assets/60sec_Sign_1280.jpg" />
+    </a>
+    <div>
+    <a href="sign.md"><strong>Signature électronique d’un document papier</strong></a>
+    </div>
+    <em>Apprenez à utiliser Adobe Scan pour signer un formulaire imprimé</em>
+    <br>
+  </td>  
+</tr>
+<tr>
+  <td>
     <a href="indesign.md">
       <img alt="Charger des commentaires PDF dans l’InDesign" src="../assets/60sec_InDesign_1280.jpg" />
     </a>
@@ -85,10 +97,8 @@ Acrobat, d’une durée de 60 secondes, vous propose des tutoriels de petite tai
     </div>
     <em>Découvrez comment charger à nouveau des commentaires de PDF dans l’InDesign après une révision partagée Acrobat</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="editphoto.md">
       <img alt="Retouche d'une photo dans votre PDF" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
@@ -107,8 +117,10 @@ Acrobat, d’une durée de 60 secondes, vous propose des tutoriels de petite tai
     </div>
     <em>Apprenez à apporter des modifications avancées à un graphique dans votre PDF à l’aide d’Illustrator</em>
     <br>
-  </td>  
- <td>
+  </td> 
+</tr>
+<tr>
+  <td>
     <a href="organize.md">
       <img alt="Organisation instantanée des pages" src="../assets/60sec_Organize_1280.jpg" />
     </a>
@@ -116,6 +128,16 @@ Acrobat, d’une durée de 60 secondes, vous propose des tutoriels de petite tai
     <a href="organize.md"><strong>Organisation instantanée des pages</strong></a>
     </div>
     <em>Découvrez comment utiliser l’outil Organiser les pages pour obtenir une vue d’ensemble de votre PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espacement" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espacement" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>  
 </tr>

@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+source-git-commit: 27c2eebfcdf359a3b3cca5cc9f31ba4ed39f7652
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '317'
 ht-degree: 9%
 
 ---
@@ -60,6 +60,7 @@ ht-degree: 9%
    + [Recherche simultanée de plusieurs fichiers PDF](60-second/search.md)
    + [Création instantanée d&#39;un PDF de photos](60-second/photo.md)
    + [Conversion d’un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
+   + [Signature électronique d’un document papier](60-second/sign.md)
    + [Charger des commentaires PDF dans l’InDesign](60-second/indesign.md)
    + [Retouche d&#39;une photo dans votre PDF](60-second/editphoto.md)
    + [Modification d’un graphique dans votre PDF](60-second/editgraphic.md)
