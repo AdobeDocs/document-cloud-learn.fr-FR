@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Tutorials Acrobat
-source-git-commit: cc76ad13f7c49c27600cd6fc7a44032bf77de454
+source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
 workflow-type: tm+mt
-source-wordcount: '295'
-ht-degree: 10%
+source-wordcount: '312'
+ht-degree: 9%
 
 ---
 
@@ -61,6 +61,9 @@ ht-degree: 10%
    + [Création instantanée d&#39;un PDF de photos](60-second/photo.md)
    + [Conversion d’un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
    + [Charger des commentaires PDF dans l’InDesign](60-second/indesign.md)
+   + [Retouche d&#39;une photo dans votre PDF](60-second/editphoto.md)
+   + [Modification d’un graphique dans votre PDF](60-second/editgraphic.md)
+   + [Organisation instantanée des pages](60-second/organize.md)
 + Créateurs de compétences {#skill-builders}
    + [Aperçu](skill-builder/skill-builder-overview.md)
    + [Webinaires](skill-builder/skill-builder-webinars.md)
