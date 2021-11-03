@@ -6,43 +6,41 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 1%
+source-wordcount: '191'
+ht-degree: 2%
 
 ---
 
 # Assistant d’action
 
-Gagnez du temps et des touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs fichiers.
+Gagnez du temps et des touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs.
 
 >[!NOTE]
 >
 >Disponible dans Acrobat Pro DC uniquement.
 
-1. Dans Acrobat Pro DC, sélectionnez **[!UICONTROL Action Wizard]** dans le centre ou le volet [!UICONTROL Outils].
+1. Sélectionner **[!UICONTROL Action Wizard]** de [!UICONTROL Outils] volet central ou droit.
 
    ![Action Wizard Étape 1](../assets/ActionWizard_1.png)
 
-   Les actions prédéfinies apparaissent dans la **liste Actions**.
+   Les actions prédéfinies s’affichent dans la boîte de dialogue **Liste d’actions**.
 
-1. Pour créer une action personnalisée, cliquez sur **Nouvelle action** dans la barre de menus supérieure.
+1. Sélectionner **[!UICONTROL Nouvelle action]** dans le menu supérieur pour créer une action personnalisée.
 
    ![Action Wizard Étape 2](../assets/ActionWizard_2.png)
 
-1. Dans la boîte de dialogue **Créer une action**, ajoutez des commandes à l&#39;action.
+1. Sélectionnez une tâche dans la liste de gauche, puis sélectionnez la flèche centrale pour l’ajouter à la colonne de droite dans la zone **[!UICONTROL Créer une action]** boîte de dialogue.
 
-   Pour ajouter des commandes, sélectionnez une tâche dans la liste de gauche, puis cliquez sur la flèche au centre pour l’ajouter à la colonne de droite.
-
-   *Les paramètres de chaque tâche peuvent être prédéfinis dans cette boîte de dialogue, ou vous pouvez permettre à l’utilisateur d’être invité à prendre les décisions nécessaires au cours de l’exécution de l’action.*
+   *Les paramètres de chaque tâche sont prédéfinis dans cette boîte de dialogue ou vous pouvez inviter l’utilisateur à prendre les décisions nécessaires au cours de l’exécution de l’action.*
 
    ![Action Wizard Étape 3](../assets/ActionWizard_3.png)
 
-1. Cliquez sur **[!UICONTROL Enregistrer]**, attribuez un nom à votre nouvelle action et enregistrez-la dans votre **[!UICONTROL liste d&#39;actions]**.
+1. Sélectionner **[!UICONTROL Enregistrer]** et donnez un nom à votre action pour qu’elle apparaisse sur la **[!UICONTROL Liste d’actions]**.
 
-Vous pouvez désormais exécuter l’action personnalisée à tout moment lorsque vous souhaitez effectuer cette série d’étapes sur un fichier PDF.
+Vous pouvez désormais exécuter l’action personnalisée à tout moment pour effectuer ces étapes spécifiques sur un ou plusieurs fichiers PDF.
 
-Cliquez pour télécharger un fichier PDF du *tutoriel sur l&#39;Action Wizard*.
+Sélectionnez l’icône de PDF pour télécharger le fichier *Action Wizard* tutoriel.
 
-[![Téléchargez le tutoriel](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf) sur l’Action Wizard.
+[![Didacticiel sur le téléchargement d’Actions Wizard](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).

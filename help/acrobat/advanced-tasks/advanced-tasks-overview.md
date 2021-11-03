@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: bfdfb6c9b4d3bb76d8526b0c0f8707c20cf26b5a
+source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 3%
 
 ![Image de prise en main d’Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat DC. Découvrez comment créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser les fichiers volumineux, collecter rapidement des données de formulaire et créer des fichiers PDF accessibles à tous.
+Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvrez comment créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser les fichiers volumineux, collecter rapidement des données de formulaire et créer des fichiers de PDF universellement accessibles.
 
 ## Tutoriels Acrobat
 
@@ -25,10 +25,10 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat DC. Décou
 <tr>
   <td>
     <a href="compare.md">
-      <img alt="Détection des différences entre deux fichiers PDF" src="../assets/Compare_1280.png" />
+      <img alt="Détecter les différences entre deux PDF" src="../assets/Compare_1280.png" />
     </a>
     <div>
-    <a href="compare.md"><strong>Détection des différences entre deux fichiers PDF</strong></a>
+    <a href="compare.md"><strong>Détecter les différences entre deux PDF</strong></a>
     </div>
     <em>Détecter rapidement et précisément les différences entre deux fichiers PDF pour améliorer les flux de révision de documents</em>
     <br>
@@ -40,7 +40,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat DC. Décou
     <div>
     <a href="action.md"><strong>Assistant d’action</strong></a>
     </div>
-    <em>Création d’une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs fichiers</em>
+    <em>Gagnez du temps et des touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat DC. Décou
     <div>
     <a href="redact.md"><strong>Biffer et assainir</strong></a>
     </div>
-    <em>Suppression définitive des informations confidentielles ou sensibles de votre PDF</em>
+    <em>Supprimer définitivement les informations confidentielles ou sensibles de votre PDF</em>
     <br>
   </td>  
 </tr>
@@ -62,7 +62,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat DC. Décou
     <div>
     <a href="reduce.md"><strong>Réduction de la taille des fichiers et optimisation</strong></a>
     </div>
-    <em>Réduisez les fichiers volumineux et optimisez vos fichiers PDF sans compromettre la qualité du partage, de la publication ou de l’archivage.</em>
+    <em>Réduisez les fichiers volumineux et optimisez vos PDF sans compromettre la qualité du partage, de la publication ou de l’archivage.</em>
     <br>
   </td>
   <td>
@@ -77,24 +77,24 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat DC. Décou
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Préparation des fichiers PDF accessibles" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Préparation des fichiers de PDF accessibles" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Préparation de fichiers PDF accessibles</strong></a>
+    <a href="accessibility.md"><strong>Préparation de fichiers de PDF accessibles</strong></a>
     </div>
-    <em>Création de fichiers PDF universellement accessibles</em>
+    <em>Création de fichiers de PDF universellement accessibles</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="accessibility-series.md">
-      <img alt="Préparation des fichiers PDF accessibles" src="../assets/Accessibilityseries_1280.png" />
+      <img alt="Préparation des fichiers de PDF accessibles" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
     <a href="accessibility-series.md"><strong>Série sur l’accessibilité Acrobat</strong></a>
     </div>
-    <em>Dans cette série de webinaires en six parties à la demande, passez des principes de base de l’accessibilité à une exploration approfondie du balisage de vos fichiers PDF.</em>
+    <em>Dans cette série de webinaires en six parties à la demande, passez des principes de base de l’accessibilité à une plongée profonde dans le balisage de vos fichiers de PDF.</em>
     <br>
   </td>
   <td>
