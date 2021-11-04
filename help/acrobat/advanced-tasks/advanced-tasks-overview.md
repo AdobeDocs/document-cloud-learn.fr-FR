@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 436a3d53d7978baf7d9b74291e0ae06d6837fdfc
+source-git-commit: 19eaddb4279de3cb41675714575ee451089c947c
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '209'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,7 @@ Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvr
     <div>
     <a href="action.md"><strong>Assistant d’action</strong></a>
     </div>
-    <em>Gagnez du temps et des touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs</em>
+    <em>Gagnez du temps et des touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs fichiers</em>
     <br>
   </td>
   <td>
@@ -77,12 +77,12 @@ Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvr
   </td>
   <td>
     <a href="accessibility.md">
-      <img alt="Préparation des fichiers de PDF accessibles" src="../assets/PreparingAccessible.jpg" />
+      <img alt="Vérification de l’accessibilité des PDF" src="../assets/PreparingAccessible.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Préparation de fichiers de PDF accessibles</strong></a>
+    <a href="accessibility.md"><strong>Vérification de l’accessibilité des PDF</strong></a>
     </div>
-    <em>Création de fichiers de PDF universellement accessibles</em>
+    <em>Découvrez comment vérifier si votre PDF est universellement accessible aux personnes handicapées.</em>
     <br>
   </td>
 </tr>
