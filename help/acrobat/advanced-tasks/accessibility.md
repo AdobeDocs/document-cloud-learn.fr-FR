@@ -7,16 +7,16 @@ level: Intermediate
 topics: Accessibility
 thumbnail: KT-6829.jpg
 exl-id: 1f72fe22-c3f7-4aad-8f57-a48ed8fc7193
-source-git-commit: 38120816e9a49575ef0d14a230525ce7b7b9fd4f
+source-git-commit: 511ca8853dd7072b50b3a73d9bc09a45b232e1c3
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
 
 # Vérification de l’accessibilité des PDF
 
-Découvrez comment vérifier si votre PDF est universellement accessible aux personnes handicapées. Cela comprend l&#39;accès des personnes handicapées, aveugles, malvoyantes, sourdes, malentendantes ou ayant des déficiences cognitives.
+Apprenez à vérifier si votre PDF est universellement accessible aux personnes handicapées, y compris les personnes à mobilité réduite, les aveugles, les malvoyants, les sourds, les malentendants ou les personnes ayant des déficiences cognitives.
 
 >[!NOTE]
 >
