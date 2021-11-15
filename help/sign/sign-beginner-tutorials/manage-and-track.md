@@ -1,25 +1,25 @@
 ---
-title: Gestion et suivi des documents
-description: Découvrez comment gérer et suivre les accords que vous avez envoyés pour signature.
+title: Gestion et suivi de vos accords
+description: Découvrez comment gérer et suivre les accords envoyés pour signature dans Adobe Sign
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Beginner
 thumbnail: 17341.jpg
 exl-id: af5683ba-8376-4f0d-8985-b647f901d2c0
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# Gestion et suivi des documents
+# Gestion et suivi de vos accords
 
-Découvrez comment gérer et suivre les documents que vous avez envoyés pour signature dans Adobe Sign.
+Découvrez comment gérer et suivre les documents envoyés pour signature dans Adobe Sign. Obtenez des mises à jour d’état et des notifications en temps réel sur chaque document avec lequel vous travaillez.
 
->[!VIDEO](https://video.tv.adobe.com/v/17341?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/338695?hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Prise en main d&#39;Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Prise en main d’Adobe Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) disponible gratuitement sur Experience League !

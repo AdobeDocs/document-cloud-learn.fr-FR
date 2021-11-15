@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 03591d0e9e5fac66b8ea083c8db98669c1b4f646
+source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '338'
 ht-degree: 0%
 
 ---
@@ -148,12 +148,12 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gestion et suivi des documents" src="../assets/Managing.png" />
+      <img alt="Gestion et suivi de vos accords" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Gestion et suivi des documents</strong></a>
+    <a href="manage-and-track.md"><strong>Gestion et suivi de vos accords</strong></a>
     </div>
-    <em>Gestion et suivi des accords que vous avez envoyés pour signature</em>
+    <em>Découvrez comment gérer et suivre les accords envoyés pour signature.</em>
     <br>
   </td>
   <td>
