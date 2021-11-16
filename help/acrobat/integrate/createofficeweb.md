@@ -1,25 +1,26 @@
 ---
-title: Créer des fichiers PDF dans  [!DNL Office] pour le Web
-description: Apprenez à créer des fichiers PDF sans jamais quitter votre  [!DNL Microsoft Office] application web
+title: Créer des PDF dans [!DNL Office] pour le Web
+description: Apprenez à créer des fichiers PDF sans quitter votre [!DNL Microsoft Office] pour les applications web
 role: User
 product: adobe acrobat
 level: Beginner
 topic-revisit: Integrations
-thumbnail: kt-8497.jpg
+thumbnail: KT-8497.jpg
 kt: 8497
-source-git-commit: 43c14489680e482e9450a42e82d126ffa28bb977
+exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
+source-git-commit: b924af71abccea63f50cf27fb7ee2eafbacc0656
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
 
-# Créer des fichiers PDF dans [!DNL Office] pour le web
+# Créer des PDF dans [!DNL Office] pour le web
 
-Apprenez à créer des fichiers PDF sans jamais quitter votre [!DNL Microsoft Office] application web. Ce module complémentaire nécessite un abonnement à Acrobat DC pour les équipes ou un abonnement à Acrobat DC pour les entreprises.
+Apprenez à créer des fichiers PDF sans quitter votre [!DNL Microsoft Office] pour les applications web. Ce module complémentaire nécessite un abonnement à Acrobat DC abonnement Équipe ou à Acrobat DC abonnement Entreprise.
 
 >[!NOTE]
 >
->Adobe Acrobat pour [!DNL Microsoft 365] inclut des fonctionnalités gratuites (telles que l’affichage et la recherche dans les fichiers PDF) disponibles pour tous les utilisateurs. D’autres fonctionnalités (telles que la création et la combinaison de fichiers PDF) nécessitent un Acrobat DC payant pour les équipes ou un abonnement Entreprise Acrobat DC.
+>Adobe Acrobat pour [!DNL Microsoft 365] inclut des fonctionnalités gratuites (telles que l’affichage et la recherche dans les PDF) disponibles pour tous les utilisateurs. D’autres fonctionnalités (telles que la création et la combinaison de PDF) nécessitent un Acrobat DC payant pour les équipes ou un abonnement Acrobat DC pour les entreprises.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
