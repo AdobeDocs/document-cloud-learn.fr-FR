@@ -6,9 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
-source-git-commit: 315ecb65a53d4f76f5ae12a12ff4207ac1f0d01d
+exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
@@ -18,3 +19,7 @@ ht-degree: 0%
 Découvrez comment traiter les demandes de documents d&#39;entreprise en tout lieu à l&#39;aide des outils web Acrobat de votre navigateur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337436?hidetitle=true)
+
+>[!TIP]
+>
+>Cette vidéo fait partie du cours [Travaillez plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !

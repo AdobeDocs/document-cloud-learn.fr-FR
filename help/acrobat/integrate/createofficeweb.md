@@ -8,9 +8,9 @@ topic-revisit: Integrations
 thumbnail: KT-8497.jpg
 kt: 8497
 exl-id: 0653049b-32f3-4d78-b301-c6c3b6d85a1f
-source-git-commit: b924af71abccea63f50cf27fb7ee2eafbacc0656
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -24,3 +24,7 @@ Apprenez à créer des fichiers PDF sans quitter votre [!DNL Microsoft Office] p
 >Adobe Acrobat pour [!DNL Microsoft 365] inclut des fonctionnalités gratuites (telles que l’affichage et la recherche dans les PDF) disponibles pour tous les utilisateurs. D’autres fonctionnalités (telles que la création et la combinaison de PDF) nécessitent un Acrobat DC payant pour les équipes ou un abonnement Acrobat DC pour les entreprises.
 
 >[!VIDEO](https://video.tv.adobe.com/v/337482?hidetitle=true)
+
+>[!TIP]
+>
+>Cette vidéo fait partie du cours [Travaillez plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !

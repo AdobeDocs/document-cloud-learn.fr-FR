@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 85117d10744e8a2c9c18579d1f4b94c0a6516040
+source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Découvrez comment exporter vos fichiers PDF vers des formats modifiables, tels 
 
 >[!TIP]
 >
->Pour exporter plusieurs fichiers PDF vers un autre format, essayez d’utiliser l’[Action Wizard](../advanced-tasks/action.md).
+>Pour exporter plusieurs fichiers de PDF vers un autre format, essayez d’utiliser l’option [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -27,4 +27,8 @@ Découvrez comment exporter vos fichiers PDF vers des formats modifiables, tels 
 
 >[!TIP]
 >
->Découvrez comment utiliser [Acrobat et Microsoft 365](../integrate/integrate-overview.md).
+>Tout savoir sur l&#39;utilisation [Acrobat et Microsoft 365](../integrate/integrate-overview.md).
+
+>[!TIP]
+>
+>Cette vidéo fait partie du cours [Travaillez plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !
