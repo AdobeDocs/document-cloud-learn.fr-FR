@@ -1,27 +1,28 @@
 ---
 title: Amélioration de votre PDF
-description: Découvrez comment transformer votre PDF en ajoutant des embellissements graphiques et une numérotation automatique.
+description: Découvrez comment transformer votre PDF en ajoutant des améliorations graphiques et une numérotation automatique.
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 8aef75c4b6317ce72dad3c57ca46dd1f4636ef23
+source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
 
 # Amélioration de votre PDF
 
-Apprenez à transformer votre PDF en ajoutant des embellissements graphiques et une numérotation automatique.
+Dans ce tutoriel pratique, apprenez à transformer votre PDF en ajoutant des améliorations graphiques et une numérotation automatique.
 
 <br> 
 
 ## Ce dont vous aurez besoin
 
-[![Téléch. fichiers](../assets/Getfiles.png)](../assets/Enhance.zip)   Fichiers d&#39;exemple pour s&#39;entraîner (ZIP, 342 Ko)
+[![Téléch. fichiers](../assets/Getfiles.png)](../assets/Enhance.zip)
+Fichiers d&#39;exemple pour s&#39;entraîner (ZIP, 342 Ko)
 
 <br> 
 

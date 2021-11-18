@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
+source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 2%
@@ -30,7 +30,7 @@ Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvr
     <div>
     <a href="enhance.md"><strong>Amélioration de votre PDF</strong></a>
     </div>
-    <em>Transformation du PDF en ajoutant des embellissements graphiques et une numérotation automatique</em>
+    <em>Transformation de votre PDF en ajoutant des améliorations graphiques et une numérotation automatique</em>
     <br>
   </td>
   <td>
