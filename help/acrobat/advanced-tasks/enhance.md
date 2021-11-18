@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: c27632c8a4ed98d75120062bb0ee976a3bb9fb21
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
@@ -17,14 +17,10 @@ ht-degree: 0%
 
 Dans ce tutoriel pratique, apprenez à transformer votre PDF en ajoutant des améliorations graphiques et une numérotation automatique.
 
-<br> 
-
-## Ce dont vous aurez besoin
-
-[![Téléch. fichiers](../assets/Getfiles.png)](../assets/Enhance.zip)
-Fichiers d&#39;exemple pour s&#39;entraîner (ZIP, 342 Ko)
-
-<br> 
+>[!TIP]
+>
+>[![Téléch. fichiers](../assets/Getfiles.png)](../assets/Enhance.zip)
+> Téléchargez ces fichiers d&#39;exemple pour vous entraîner (ZIP, 342 Ko)
 
 ## Ajout d&#39;images d&#39;arrière-plan
 
@@ -39,7 +35,7 @@ L’ajout d’arrière-plans vous permet d’ajouter des éléments visuels à v
 1. Ouvrir *Altura Technology Employee Handbook.pdf* dans les fichiers d’exemple.
 1. Sélectionner **Modifier le PDF** dans le volet de droite.
 1. Sélectionner **Plus > Arrière-plan > Ajouter**.
-1. Sélectionner **Options d’étendue de pages...** et choisissez 2 à 26 sous le **Pages de :** , puis sélectionnez **OK**.
+1. Sélectionner **Options d’étendue de pages...**, puis choisissez 2 à 26 sous le **Pages de** , puis sélectionnez **OK**.
 1. Sous l’option Source, sélectionnez **Fichier** et sélectionnez **Parcourir** pour ajouter la *Background Graphic.pdf* fichier d’exemple.
 1. Sélectionner **OK** pour ajouter l’image d’arrière-plan.
 
