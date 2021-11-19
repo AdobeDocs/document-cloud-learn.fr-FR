@@ -6,7 +6,8 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
-source-git-commit: e3a2ea5687ac123e88a051f320df2d4051cb63d7
+exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
+source-git-commit: b9fa2e683c88094f1fa92628c04f5d2bd4c00b94
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 0%
@@ -19,9 +20,9 @@ Dans ce tutoriel pratique, apprenez à transformer votre PDF en ajoutant des am�
 
 >[!TIP]
 >
->Téléchargez ces fichiers d&#39;exemple pour vous entraîner (ZIP, 342 Ko)
+>[Télécharger ces fichiers d’exemple](../assets/Enhance.zip) pour s&#39;entraîner (ZIP, 342 Ko)
 
-[![Téléch. fichiers](../assets/Getfiles.png)](../assets/Enhance.zip)
+[![Téléch. fichiers](../assets/Getfiles.svg)](../assets/Enhance.zip)
 
 ## Ajout d&#39;images d&#39;arrière-plan
 
@@ -61,5 +62,3 @@ L’ajout de nouveaux en-têtes ou pieds de page vous permet de créer des fichi
 1. Sélectionnez 0,7 dans la liste déroulante **Bas** de la section Marge.
 1. Sélectionner **Enregistrer les paramètres**, saisissez Révision 3.0 dans la zone et sélectionnez **OK**.
 1. Sélectionner **OK** pour appliquer le nouveau pied de page au PDF.
-
-
