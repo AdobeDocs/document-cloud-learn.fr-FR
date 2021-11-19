@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 912ddee4f8bb9a5f6854908aeb8f1aabd98db910
+source-git-commit: fbf25815db0f441874f7afaf9ffdbdcddfad70da
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -18,16 +18,9 @@ ht-degree: 0%
 
 Dans ce tutoriel pratique, apprenez à transformer votre PDF en ajoutant des améliorations graphiques et une numérotation automatique.
 
-<table style="table-layout:auto">
-<tr>
-  <td>
-   <img alt="Téléch. fichiers" src="../assets/Getfiles.svg" />
-  </td>
-  <td>
-    Téléchargez ces fichiers d'exemple pour vous entraîner (ZIP, 342 Ko)
-  </td>
-</tr>
-</table>
+[![Téléch. fichiers](../assets/Getfiles.svg)](../assets/Enhance.zip)   Téléchargez ces fichiers d&#39;exemple pour vous entraîner (ZIP, 342 Ko)
+
+<br> 
 
 ## Ajout d&#39;images d&#39;arrière-plan
 
@@ -65,14 +58,14 @@ L’ajout de nouveaux en-têtes ou pieds de page vous permet de créer des fichi
 1. Saisissez 2 dans la zone **Page Aperçu** boîte.
 1. Dans la section Police, sélectionnez Calibri Bold dans la zone **Nom** vers le bas.
 Sélectionnez 12 dans le menu **Taille** , puis choisissez une couleur blanche.
-1. Saisissez Altura Technology Confidential dans le champ **Texte de pied de page gauche** boîte.
+1. Type *Technologie Altura Confidentielle* dans la **Texte de pied de page gauche** boîte.
 1. Sélectionner **Insérer un numéro de page** dans la **Centrer le texte de pied de page** boîte.
-1. Saisissez Revision 3.0 dans le champ **Texte de pied de page droit** boîte.
+1. Type *Révision 3.0* dans la **Texte de pied de page droit** boîte.
 1. Sélectionner **Format de date et de numéro de page**.
 Entrez 2 sous **Numéro de page de début** et sélectionnez **OK**.
 1. Sélectionner **Options d’étendue de pages...**.
 Entrez 2 à 26 sous le **Pages de :** , puis sélectionnez **OK**.
 1. Saisissez 0,7 dans le champ **Bas** de la section Marge.
 1. Sélectionner **Enregistrer les paramètres**.
-Saisissez Revision 3.0 dans la zone et sélectionnez **OK**.
+Type *Révision 3.0* dans la zone et sélectionnez **OK**.
 1. Sélectionner **OK** pour appliquer le nouveau pied de page au PDF.
