@@ -1,23 +1,23 @@
 ---
 title: Présentation des tâches avancées
-description: Allez au-delà des principes de base en utilisant ces outils avancés dans Acrobat
+description: Allez au-delà de l’essentiel en utilisant ces outils avancés dans Acrobat
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 58d605c20b66590c47f2aaaced35ba6afe0bcbe4
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '223'
 ht-degree: 2%
 
 ---
 
 # Présentation des tâches avancées
 
-![Image de prise en main d’Acrobat](../assets/Hero-AdvancedTasks.png)
+![Image de prise en main d&#39;Acrobat](../assets/Hero-AdvancedTasks.png)
 
-Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvrez comment créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser les fichiers volumineux, collecter rapidement des données de formulaire et créer des fichiers de PDF universellement accessibles.
+Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvrez comment créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser des fichiers volumineux, recueillir rapidement des données de formulaire et créer des fichiers de PDF accessibles à tous.
 
 ## Tutoriels Acrobat
 
@@ -30,7 +30,7 @@ Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvr
     <div>
     <a href="enhance.md"><strong>Amélioration de votre PDF</strong></a>
     </div>
-    <em>Transformation de votre PDF en ajoutant des améliorations graphiques et une numérotation automatique</em>
+    <em>Transformez votre PDF en y ajoutant des améliorations graphiques et une numérotation automatique</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvr
     <div>
     <a href="compare.md"><strong>Détecter les différences entre deux PDF</strong></a>
     </div>
-    <em>Détecter rapidement et précisément les différences entre deux fichiers PDF pour améliorer les flux de révision de documents</em>
+    <em>Détectez rapidement et avec précision les différences entre deux fichiers PDF pour améliorer les workflows de révision des documents</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvr
     <div>
     <a href="action.md"><strong>Assistant d’action</strong></a>
     </div>
-    <em>Gagnez du temps et des touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs fichiers</em>
+    <em>Gagnez du temps et économisez des frappes de touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs fichiers</em>
     <br>
   </td>  
 </tr>
@@ -62,17 +62,17 @@ Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvr
     <div>
     <a href="redact.md"><strong>Biffer et assainir</strong></a>
     </div>
-    <em>Supprimer définitivement les informations confidentielles ou sensibles de votre PDF</em>
+    <em>Supprimer définitivement des informations privées ou sensibles de votre PDF</em>
     <br>
   </td>
   <td>
     <a href="reduce.md">
-      <img alt="Réduction de la taille des fichiers et optimisation" src="../assets/Reduce.jpg" />
+      <img alt="Réduire la taille des fichiers et optimiser" src="../assets/Reduce.jpg" />
     </a>
     <div>
-    <a href="reduce.md"><strong>Réduction de la taille des fichiers et optimisation</strong></a>
+    <a href="reduce.md"><strong>Réduire la taille des fichiers et optimiser</strong></a>
     </div>
-    <em>Réduisez les fichiers volumineux et optimisez vos PDF sans compromettre la qualité du partage, de la publication ou de l’archivage.</em>
+    <em>Réduisez les fichiers volumineux et optimisez vos PDF sans compromettre la qualité du partage, de la publication ou de l’archivage</em>
     <br>
   </td>
   <td>
@@ -82,19 +82,19 @@ Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvr
     <div>
     <a href="formdata.md"><strong>Utilisation des données de formulaire</strong></a>
     </div>
-    <em>Compilation des données d’un formulaire dans une seule feuille de calcul</em>
+    <em>Compiler les données de formulaire dans une seule feuille de calcul</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="accessibility.md">
-      <img alt="Vérification de l’accessibilité des PDF" src="../assets/Checkingaccessible_1280.jpg" />
+      <img alt="Vérifier l’accessibilité du PDF" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
     <div>
-    <a href="accessibility.md"><strong>Vérification de l’accessibilité des PDF</strong></a>
+    <a href="accessibility.md"><strong>Vérifier l’accessibilité du PDF</strong></a>
     </div>
-    <em>Découvrez comment vérifier si votre PDF est universellement accessible aux personnes handicapées.</em>
+    <em>Apprenez à vérifier si votre PDF est accessible à tous les handicapés</em>
     <br>
   </td>
   <td>
@@ -102,13 +102,13 @@ Allez au-delà des fondamentaux avec ces outils avancés à Acrobat DC. Découvr
       <img alt="Préparation des fichiers de PDF accessibles" src="../assets/Accessibilityseries_1280.png" />
     </a>
     <div>
-    <a href="accessibility-series.md"><strong>Série sur l’accessibilité Acrobat</strong></a>
+    <a href="accessibility-series.md"><strong>Série Accessibilité d’Acrobat</strong></a>
     </div>
-    <em>Dans cette série de webinaires en six parties à la demande, passez des principes de base de l’accessibilité à une plongée profonde dans le balisage de vos fichiers de PDF.</em>
+    <em>Dans cette série de webinaires à la demande en six parties, passez des principes de base de l’accessibilité au balisage profond de vos fichiers de PDF</em>
     <br>
   </td>
   <td>
-   <img alt="Espacement" src="../assets/Whitespacer.png" />
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

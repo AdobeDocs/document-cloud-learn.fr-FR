@@ -1,15 +1,15 @@
 ---
 title: Amélioration de votre PDF
-description: Découvrez comment transformer votre PDF en ajoutant des améliorations graphiques et une numérotation automatique.
+description: Découvrez comment transformer votre PDF en ajoutant des améliorations graphiques et une numérotation automatique
 role: User
 product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9343.jpg
 kt: 9343
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: 20fc08c045a8ade2ebd4994e9d6295a18c9f33a2
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -27,27 +27,27 @@ Fichiers d&#39;exemple pour s&#39;entraîner (ZIP, 342 Ko)
 
 <br> 
 
-## Ajout d&#39;images d&#39;arrière-plan
+## Ajout de graphiques d&#39;arrière-plan
 
-Utilisez l’outil Modifier pour ajouter des graphiques d’arrière-plan à votre PDF.
+Utilisez l’outil Modifier pour ajouter des images d’arrière-plan dans votre PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
 
 <br> 
 
-**Vous savez maintenant comment : Pour ajouter des images d’arrière-plan à votre PDF à l’aide de l’outil Modifier.**
+## Ce que vous avez appris : Pour ajouter des graphiques d’arrière-plan à votre PDF
 
 L’ajout d’arrière-plans vous permet d’ajouter des éléments visuels à votre PDF sans revenir au fichier source ou à l’application d’origine.
 
 1. Ouvrir *Altura Technology Employee Handbook.pdf* dans les fichiers d’exemple.
 1. Sélectionner **Modifier le PDF** dans le volet de droite.
 1. Sélectionner **Plus > Arrière-plan > Ajouter**.
-1. Sélectionner **Options d’étendue de pages...**.
+1. Sélectionner **Options d&#39;étendue de pages...**.
 Entrez 2 à 26 dans le champ **Pages de** , puis sélectionnez **OK**.
-1. Sous la section Source, sélectionnez **Fichier** et sélectionnez **Parcourir** pour ajouter la *Background Graphic.pdf* fichier d’exemple.
-1. Sélectionner **OK** pour ajouter l’image d’arrière-plan.
+1. Dans la section Source, choisissez **Fichier** et sélectionnez **Parcourir** pour ajouter le fichier *Background Graphic.pdf* exemple de fichier.
+1. Sélectionner **OK** pour ajouter le graphique d’arrière-plan.
 
-## Ajout d&#39;un pied de page
+## Apprenez à ajouter un nouveau pied de page
 
 Utilisez l’outil Modifier pour ajouter un nouveau pied de page à votre PDF.
 
@@ -55,22 +55,22 @@ Utilisez l’outil Modifier pour ajouter un nouveau pied de page à votre PDF.
 
 <br> 
 
-**Vous savez maintenant comment : Pour ajouter un nouveau pied de page à votre PDF.**
+## Ce que vous avez appris : Pour ajouter un nouveau pied de page à votre PDF
 
-L’ajout de nouveaux en-têtes ou pieds de page vous permet de créer des fichiers de PDF uniformes pour une expérience d’affichage améliorée.
+L’ajout d’en-têtes ou de pieds de page permet de créer des fichiers de PDF uniformes pour une expérience de visionnage améliorée.
 
 1. Sélectionner **En-tête et pied de page > Ajouter > Ajouter nouveau**.
-1. Saisissez 2 dans la zone **Page Aperçu** boîte.
-1. Dans la section Police, sélectionnez Calibri Bold dans la zone **Nom** vers le bas.
-Sélectionnez 12 dans le menu **Taille** , puis choisissez une couleur blanche.
-1. Type *Technologie Altura Confidentielle* dans la **Texte de pied de page gauche** boîte.
-1. Sélectionner **Insérer un numéro de page** dans la **Centrer le texte de pied de page** boîte.
-1. Type *Révision 3.0* dans la **Texte de pied de page droit** boîte.
-1. Sélectionner **Format de date et de numéro de page**.
+1. Entrez 2 dans le champ **Page Aperçu** s&#39;affiche.
+1. Dans la section Police, sélectionnez Étalonner en gras dans la **Nom** du document.
+Sélectionnez 12 dans la **Taille** et choisissez une couleur blanche.
+1. Type *Altura Technology Confidential* dans le **Texte de pied de page gauche** s&#39;affiche.
+1. Sélectionner **Insérer Numéro de page** dans le **Texte de pied de page central** s&#39;affiche.
+1. Type *Révision 3.0* dans le **Texte de pied de page droit** s&#39;affiche.
+1. Sélectionner **Numéro de page et format de date**.
 Entrez 2 sous **Numéro de page de début** et sélectionnez **OK**.
-1. Sélectionner **Options d’étendue de pages...**.
-Entrez 2 à 26 sous le **Pages de :** , puis sélectionnez **OK**.
-1. Saisissez 0,7 dans le champ **Bas** de la section Marge.
+1. Sélectionner **Options d&#39;étendue de pages...**.
+Entrez 2 à 26 sous le champ **Pages de :** , puis sélectionnez **OK**.
+1. Entrez 0,7 dans le champ **Bas** de la section Marge.
 1. Sélectionner **Enregistrer les paramètres**.
 Type *Révision 3.0* dans la zone et sélectionnez **OK**.
 1. Sélectionner **OK** pour appliquer le nouveau pied de page au PDF.

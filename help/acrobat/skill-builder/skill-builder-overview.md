@@ -1,23 +1,23 @@
 ---
-title: Créateurs de compétences Acrobat DC
-description: Utilisez Acrobat DC pour vous familiariser avec ces développeurs de compétences interactives
+title: Acrobat DC Skill Builders
+description: Soyez rapidement opérationnel sur Acrobat grâce à ces outils de développement de compétences interactifs
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: 44e5709089c40474fae3646da79577a1cf6c2761
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
 
-# Acrobat Skills Builders
+# Acrobat Skill Builders
 
-Grâce à ces outils interactifs de création de compétences, soyez à la pointe de la technologie sur Acrobat DC. Vous pouvez également participer à une [session en direct mensuelle](skill-builder-webinars.md).
+Soyez rapidement opérationnel sur Acrobat grâce à ces outils de développement de compétences interactifs. Ou bien, rejoignez un [session en direct mensuelle](skill-builder-webinars.md).
 
-![Image du générateur de compétences Acrobat](../assets/Hero-SkillBuilders.png)
+![Image Acrobat Skill Builder](../assets/Hero-SkillBuilders.png)
 
 ## Go Digital
 
@@ -25,26 +25,26 @@ Grâce à ces outils interactifs de création de compétences, soyez à la point
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank">
-      <img alt="Papier au format PDF" src="../assets/sb_papertopdf.png" />
+      <img alt="Papier vers PDF" src="../assets/sb_papertopdf.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/paperpdf/" target="_blank"><strong>Passer du papier au PDF</strong></a>
     </div>
-    <em>Transformation numérique d’un document papier au format PDF</em>
+    <em>Convertissez numériquement en PDF tout document papier</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank">
-      <img alt="Papier au format PDF" src="../assets/sb_prepareforsignature.png" />
+      <img alt="Papier vers PDF" src="../assets/sb_prepareforsignature.png" />
     </a>
     <div>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Préparation pour signature</strong></a>
     </div>
-    <em>Création de fichiers PDF avec des champs de signature électronique</em>
+    <em>Créer des PDF avec des champs de signature électronique</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
@@ -57,12 +57,12 @@ Grâce à ces outils interactifs de création de compétences, soyez à la point
 <tr>
  <td>
     <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank">
-      <img alt="Création et organisation de fichiers PDF" src="../assets/sb_create.png" />
+      <img alt="Création et organisation des PDF" src="../assets/sb_create.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank"><strong>Création et organisation de fichiers PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/createpdfs/" target="_blank"><strong>Création et organisation des PDF</strong></a>
     </div>
-    <em>Création et organisation de fichiers PDF à partir de n’importe quel type de fichier</em>
+    <em>Création et organisation de PDF à partir de tout type de fichier</em>
     <br>
   </td>
   <td>
@@ -72,102 +72,102 @@ Grâce à ces outils interactifs de création de compétences, soyez à la point
     <div>
     <a href="https://doccloud.adobeconnect.com/micro/" target="_blank"><strong>Acrobat et Microsoft 101</strong></a>
     </div>
-    <em>Création et gestion de fichiers PDF directement dans SharePoint</em>
+    <em>Création et gestion de PDF directement dans SharePoint</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank">
-      <img alt="Modification de vos fichiers PDF" src="../assets/sb_edit.png" />
+      <img alt="Modification De Vos PDF" src="../assets/sb_edit.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank"><strong>Modification de vos fichiers PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/editpdf/" target="_blank"><strong>Modification De Vos PDF</strong></a>
     </div>
-    <em>Ajout de texte, d’images, de liens et de filigranes dans votre document PDF</em>
+    <em>Ajouter du texte, des images, des liens et des filigranes dans votre PDF</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
-      <img alt="Signez Votre Travail" src="../assets/sb_signed.png" />
+      <img alt="Signature De Votre Travail" src="../assets/sb_signed.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/sign/" target="_blank"><strong>Signez Votre Travail</strong></a>
+    <a href="https://doccloud.adobeconnect.com/sign/" target="_blank"><strong>Signature De Votre Travail</strong></a>
     </div>
-    <em>Signature de documents directement dans Microsoft Outlook</em>
+    <em>Signature directe de documents dans Microsoft Outlook</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
-      <img alt="Conversion de vos fichiers PDF" src="../assets/sb_convert.png" />
+      <img alt="Convertissez vos PDF" src="../assets/sb_convert.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank"><strong>Conversion de vos fichiers PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank"><strong>Convertissez vos PDF</strong></a>
     </div>
-    <em>Conversion de fichiers PDF au format Word, Excel et PowerPoint</em>
+    <em>Convertir des PDF aux formats Word, Excel et PowerPoint</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/fillsign/" target="_blank">
-      <img alt="Remplir et signer n’importe où" src="../assets/sb_fill.png" />
+      <img alt="Remplir et signer en tout lieu" src="../assets/sb_fill.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/fillsign/" target="_blank"><strong>Remplir et signer n’importe où</strong></a>
+    <a href="https://doccloud.adobeconnect.com/fillsign/" target="_blank"><strong>Remplir et signer en tout lieu</strong></a>
     </div>
-    <em>Remplissage, signature et envoi de formulaires par voie électronique sur n’importe quel appareil</em>
+    <em>Remplir, signer et envoyer des formulaires par voie électronique sur n'importe quel appareil</em>
     <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
-      <img alt="Optimisation des fichiers PDF" src="../assets/sb_optimize.png" />
+      <img alt="Optimisation De Vos PDF" src="../assets/sb_optimize.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimisation des fichiers PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimisation De Vos PDF</strong></a>
     </div>
-    <em>Préparation de fichiers PDF pour distribution</em>
+    <em>Préparation des PDF pour la distribution</em>
     <br>
   </td>
   <td>
-   <img alt="Espacement" src="../assets/Whitespacer.png" />
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-   <img alt="Espacement" src="../assets/Whitespacer.png" />
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
 </tr>
 </table>
 
-## Terminer
+## Terminer le travail
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/skillbuilder-share/" target="_blank">
-      <img alt="Partager et recueillir des commentaires" src="../assets/sb_feedback.png" />
+      <img alt="Partage et collecte de commentaires" src="../assets/sb_feedback.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/skillbuilder-share/" target="_blank"><strong>Partager et recueillir des commentaires</strong></a>
+    <a href="https://doccloud.adobeconnect.com/skillbuilder-share/" target="_blank"><strong>Partage et collecte de commentaires</strong></a>
     </div>
-    <em>Collecte et commentaires sur vos fichiers PDF</em>
+    <em>Rassemblez et recueillez des commentaires sur vos PDF</em>
     <br>
   </td>
   <td>
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank">
-      <img alt="Sécurisation de vos fichiers PDF" src="../assets/sb_secure.png" />
+      <img alt="Sécurisez vos PDF" src="../assets/sb_secure.png" />
     </a>
     <div>
-    <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Sécurisation de vos fichiers PDF</strong></a>
+    <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Sécurisez vos PDF</strong></a>
     </div>
-    <em>Biffure et protection des informations sensibles dans vos fichiers PDF</em>
+    <em>Biffure et protection des informations confidentielles dans vos PDF</em>
     <br>
   </td>
   <td>
-   <img alt="Espacement" src="../assets/Whitespacer.png" />
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

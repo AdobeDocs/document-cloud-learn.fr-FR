@@ -1,24 +1,24 @@
 ---
 title: Présentation des tâches avancées
-description: Découvrez comment envoyer un document pour signature à 100 destinataires à la fois, configurer un document prêt pour signature pour votre site web, gérer les transactions de signature et créer et gérer des modèles de document.
+description: Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer des transactions de signature et créer et gérer des modèles de document
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: a4f35378f4f45bd2c3f2ef4ddf95474a83655709
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
 # Présentation des tâches avancées
 
-![Signer l’image avancée](../assets/Hero-Advanced.png)
+![Signer une image avancée](../assets/Hero-Advanced.png)
 
-Découvrez comment envoyer un document pour signature à 100 destinataires à la fois, configurer un document prêt pour signature pour votre site web, gérer les transactions de signature et créer et gérer des modèles de document. Ces tutoriels s’adressent à tous ceux qui connaissent déjà les principes de base de l’envoi et de la demande de signature, et souhaitent en savoir plus sur les possibilités offertes par Adobe Sign pour eux.
+Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer des transactions de signature et créer et gérer des modèles de document. Ces tutoriels s’adressent à tous ceux qui connaissent déjà les principes de base de l’envoi et de la demande de signatures et qui souhaitent découvrir d’autres méthodes de travail pour Adobe Sign.
 
 ## Envoi
 
@@ -26,22 +26,22 @@ Découvrez comment envoyer un document pour signature à 100 destinataires à la
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Configuration de l'ordre de routage" src="../assets/Routing.png">
+      <img alt="Configurer l'ordre de gamme" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Configuration de l'ordre de routage</strong></a>
+    <a href="setting-up-routing.md"><strong>Configurer l'ordre de gamme</strong></a>
     </div>
-    <em>Configuration de l’ordre de routage pour plusieurs signataires</em>
+    <em>Paramétrer l’ordre d’acheminement pour plusieurs signataires</em>
     <br>
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Délégation à quelqu’un d’autre" src="../assets/Delegating.png" />
+      <img alt="Délégation à une autre personne" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Délégation à quelqu’un d’autre</strong></a>
+    <a href="delegate-signature.md"><strong>Délégation à une autre personne</strong></a>
     </div>
-    <em>Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite l’acheminer pour signature.</em>
+    <em>Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite router le document pour signature</em>
     <br>
   </td>
   <td>
@@ -51,7 +51,7 @@ Découvrez comment envoyer un document pour signature à 100 destinataires à la
     <div>
     <a href="add-an-approver.md"><strong>Ajout d’un approbateur</strong></a>
     </div>
-    <em>Ajouter un rôle d’approbateur à votre processus d’approbation de contrat</em>
+    <em>Ajouter un rôle d'approbateur à votre processus d'approbation de contrat</em>
     <br>
   </td>
 </tr>
@@ -63,17 +63,17 @@ Découvrez comment envoyer un document pour signature à 100 destinataires à la
     <div>
     <a href="megasign.md"><strong>Collecte de signatures en bloc</strong></a>
     </div>
-    <em>Recueillez des centaines de signatures en même temps pour n’importe quel document en quelques étapes rapides</em>
+    <em>Collectez des centaines de signatures à la fois pour n’importe quel document en quelques étapes</em>
     <br>
   </td>
   <td>
     <a href="webform.md">
-      <img alt="Configuration d’un formulaire Web" src="../assets/Webform.png" />
+      <img alt="Configuration d’un formulaire web" src="../assets/Webform.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Configuration d’un formulaire Web</strong></a>
+    <a href="webform.md"><strong>Configuration d’un formulaire web</strong></a>
     </div>
-    <em>Création d’un document pouvant être signé électroniquement directement sur votre site web</em>
+    <em>Créez un document pouvant être signé électroniquement directement sur votre site web</em>
     <br>
   </td> 
   <td>
@@ -83,7 +83,7 @@ Découvrez comment envoyer un document pour signature à 100 destinataires à la
     <div>
     <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Adobe Sign</strong></a>
     </div>
-    <em>Création de champs de formulaire Adobe Sign par balisage de texte à l’aide d’Adobe Acrobat DC</em>
+    <em>Création de champs de formulaire Adobe Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
     <br>
   </td> 
 </table>
@@ -103,12 +103,12 @@ Découvrez comment envoyer un document pour signature à 100 destinataires à la
     <br>
   </td>  
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Whitespacer.png" />
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
     <br>
   </td>

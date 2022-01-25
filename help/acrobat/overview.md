@@ -1,25 +1,25 @@
 ---
 title: Didacticiels
-description: Collection de tutoriels, de webinaires et d’exemples d’utilisation pour Adobe Acrobat DC
+description: Collection de tutoriels, webinaires et cas d’usage concernant Adobe Acrobat
 role: User
 product: adobe acrobat
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: d389fd51354a2ecf1a1b0e10716509c18966bc69
+source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 5%
 
 ---
 
 # Tutoriels Adobe Acrobat
 
-![Image de Acrobat Hero](assets/Hero_Acrobat.jpg)
+![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
 
-Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de continuer à évoluer en convertissant, modifiant, partageant et signant des PDF. Vous y trouverez un large éventail d’expériences d’apprentissage conçues pour permettre aux utilisateurs débutants et expérimentés d’être rapidement à la fine pointe de la technologie sur Adobe Acrobat.
+Adobe Acrobat, solution Adobe Document Cloud, contribue à la continuité de l’activité en convertissant, modifiant, partageant et signant des mots de PDF. Vous y trouverez un large éventail d’expériences d’apprentissage conçues pour permettre aux utilisateurs débutants et chevronnés de se familiariser rapidement avec Adobe Acrobat.
 
-## Chemins d’apprentissage
+## Pistes de formation
 
 <table style="table-layout:fixed">
 <tr>
@@ -30,7 +30,7 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de cont
     <div>
     <a href="getting-started/getting-started-overview.md"><strong>Prise en main</strong></a>
     </div>
-    <em>Découvrez comment créer, modifier, convertir, protéger et bien plus encore avec des fichiers PDF.</em>
+    <em>Découvrez rapidement comment créer, modifier, convertir, protéger et bien plus encore avec des fichiers de PDF</em>
     <br>
   </td>
   <td>
@@ -40,17 +40,17 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de cont
     <div>
     <a href="advanced-tasks/advanced-tasks-overview.md"><strong>Tâches avancées</strong></a>
     </div>
-    <em>Aller au-delà des fondamentaux avec des tâches spécifiques et l'automatisation</em>
+    <em>Dépassez les fondamentaux avec des tâches spécifiques et l’automatisation</em>
     <br>
   </td>
   <td>
     <a href="skill-builder/skill-builder-overview.md">
-      <img alt="Créateur de compétences" src="assets/acrobat_title_skill_builder.png" />
+      <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
     </a>
     <div>
-    <a href="skill-builder/skill-builder-overview.md"><strong>Créateurs de compétences</strong></a>
+    <a href="skill-builder/skill-builder-overview.md"><strong>Skill Builders</strong></a>
     </div>
-    <em>Conseils basés sur des tâches pour vous aider à passer au numérique, à rester numérique et à travailler</em>
+    <em>Des conseils pratiques pour passer au digital et travailler l'esprit tranquille</em>
     <br>
   </td>
 </tr>
@@ -62,17 +62,17 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de cont
     <div>
     <a href="integrate/integrate-overview.md"><strong>Intégrations</strong></a>
     </div>
-    <em>Ajout d'Acrobat à vos systèmes, processus et applications d'entreprise existants</em>
+    <em>Intégrez Acrobat à vos systèmes, processus et applications d'entreprise</em>
     <br>
   </td>
   <td>
     <a href="industry/industry-overview.md">
-      <img alt="Industries et départements" src="assets/acrobat_title_industry.png" />
+      <img alt="Industries et services" src="assets/acrobat_title_industry.png" />
     </a>
     <div>
-    <a href="industry/industry-overview.md"><strong>Industries et départements</strong></a>
+    <a href="industry/industry-overview.md"><strong>Industries et services</strong></a>
     </div>
-    <em>Découvrez comment les entreprises du monde réel peuvent évoluer 100 % vers le numérique</em>
+    <em>Découvrez comment une entreprise réaliste devient 100 % digitale</em>
     <br>
   </td>  
   <td>
@@ -89,12 +89,12 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de cont
 <tr>
   <td>
     <a href="deploy/deploy-overview.md">
-      <img alt="Déployer" src="assets/acrobat_title_deploy.png" />
+      <img alt="Déploiement" src="assets/acrobat_title_deploy.png" />
     </a>
     <div>
-    <a href="deploy/deploy-overview.md"><strong>Déployer</strong></a>
+    <a href="deploy/deploy-overview.md"><strong>Déploiement</strong></a>
     </div>
-    <em>Informations et meilleures pratiques pour le déploiement d’Acrobat au sein de votre entreprise</em>
+    <em>Insights et bonnes pratiques pour le déploiement d’Acrobat au sein de votre entreprise</em>
     <br>
   </td>
   <td>
@@ -104,11 +104,11 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet aux entreprises de cont
     <div>
     <a href="mobile/mobile-overview.md"><strong>Application mobile</strong></a>
     </div>
-    <em>Création, remplissage et signature de PDF sur votre appareil mobile</em>
+    <em>Création, remplissage et signature de mots de PDF sur votre appareil mobile</em>
     <br>
   </td>  
   <td>
-   <img alt="Espacement" src="assets/Whitespacer.png" />
+   <img alt="Espaceur" src="assets/Whitespacer.png" />
     <div>
     <br>
   </td>

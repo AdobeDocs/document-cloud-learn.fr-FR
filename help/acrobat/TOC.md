@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutorials Acrobat
+user-guide-title: Acrobat Tutorials
 solution: Document Cloud, Acrobat DC
 solution-title: Learn & Support
 solution-hub-url: https://helpx.adobe.com/support/acrobat.html
@@ -7,10 +7,10 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
-breadcrumb-title: Tutorials Acrobat
-source-git-commit: 351ae53b4a4a5d80094d76f01aa504ef775f0c21
+breadcrumb-title: Acrobat Tutorials
+source-git-commit: 5dd1f4ed06940181869991a6361a365c8571c990
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '334'
 ht-degree: 9%
 
 ---
@@ -21,22 +21,22 @@ ht-degree: 9%
 + [Aperçu](overview.md)
 + Prise en main {#getting-started}
    + [Aperçu](getting-started/getting-started-overview.md)
-   + [Base de l’espace de travail](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [Utilisation de Acrobat Web n’importe où](getting-started/acrobatweb.md)
-   + [Productivité en situation de mobilité](getting-started/productivity.md)
+   + [Base Workspace](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [Utilisation d’Acrobat sur le web](getting-started/acrobatweb.md)
+   + [Productivité en déplacement](getting-started/productivity.md)
    + [Utilisation de [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Collaboration en temps réel](getting-started/collaborate.md)
-   + [Combine Files au PDF](getting-started/combine-to-pdf.md)
+   + [Combine Files vers PDF](getting-started/combine-to-pdf.md)
    + [Création d’un fichier PDF ](getting-started/create-pdf.md)
-   + [Commentaire sur un PDF](getting-started/comment-on-pdf-files.md)
+   + [Commenter sur un PDF](getting-started/comment-on-pdf-files.md)
    + [Modifier un fichier PDF](getting-started/edit-pdf.md)
    + [Exportation d’un PDF vers des formats modifiables](getting-started/export-pdf.md)
-   + [Création de formulaires à remplir](getting-started/create-fillable-forms.md)
+   + [Création de formulaires à compléter](getting-started/create-fillable-forms.md)
    + [Numérisation et OCR](getting-started/scan-and-ocr.md)
    + [Organisation des pages](getting-started/organize.md)
-   + [Protect d’un fichier PDF avec un mot de passe](getting-started/password-protect.md)
+   + [Protect d’un fichier de mot de PDF avec un mot de passe](getting-started/password-protect.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Obtention de signatures](getting-started/signatures.md)
+   + [Obtenir des signatures](getting-started/signatures.md)
    + [Suivi de vos documents](getting-started/track.md)
    + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
 + Tâches avancées {#advanced-tasks}
@@ -45,63 +45,63 @@ ht-degree: 9%
    + [Détecter les différences entre deux PDF](advanced-tasks/compare.md)
    + [Assistant d’action](advanced-tasks/action.md)
    + [Biffer et assainir](advanced-tasks/redact.md)
-   + [Réduction de la taille des fichiers et optimisation](advanced-tasks/reduce.md)
+   + [Réduire la taille des fichiers et optimiser](advanced-tasks/reduce.md)
    + [Utilisation des données de formulaire](advanced-tasks/formdata.md)
-   + [Vérification de l’accessibilité des PDF](advanced-tasks/accessibility.md)
-   + Série sur l’accessibilité Acrobat {#accessibility-series}
+   + [Vérifier l’accessibilité du PDF](advanced-tasks/accessibility.md)
+   + Série Accessibilité d’Acrobat {#accessibility-series}
       + [Aperçu](advanced-tasks/accessibility-series.md)
       + [Introduction à l’accessibilité des PDF](advanced-tasks/accessibilitysession1.md)
       + [Correction d’un PDF inaccessible](advanced-tasks/accessibilitysession2.md)
       + [Tableaux complexes](advanced-tasks/accessibilitysession3.md)
       + [Documents numérisés et listes complexes](advanced-tasks/accessibilitysession4.md)
       + [Ajout de champs de formulaire à un PDF balisé](advanced-tasks/accessibilitysession5.md)
-      + [Ajout de champs de formulaire à un PDF non balisé](advanced-tasks/accessibilitysession6.md)
+      + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
 + Acrobat de 60 secondes {#60-second}
    + [Aperçu](60-second/60-second-overview.md)
-   + [Combinaison de fichiers dans un PDF](60-second/combine-to-one-pdf.md)
-   + [Modifier le PDF avec le web Acrobat](60-second/edit.md)
-   + [Recherche simultanée de plusieurs fichiers PDF](60-second/search.md)
+   + [Regroupement de fichiers dans un PDF](60-second/combine-to-one-pdf.md)
+   + [Modification d’un PDF avec Acrobat web](60-second/edit.md)
+   + [Rechercher plusieurs fichiers de PDF en même temps](60-second/search.md)
    + [Création instantanée d&#39;un PDF de photos](60-second/photo.md)
-   + [Conversion d’un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
-   + [Signature électronique d’un document papier](60-second/sign.md)
-   + [Charger des commentaires PDF dans l’InDesign](60-second/indesign.md)
+   + [Convertir un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
+   + [Signer électroniquement un document papier](60-second/sign.md)
+   + [Charger les commentaires PDF dans l’InDesign](60-second/indesign.md)
    + [Retouche d&#39;une photo dans votre PDF](60-second/editphoto.md)
-   + [Modification d’un graphique dans votre PDF](60-second/editgraphic.md)
-   + [Organisation instantanée des pages](60-second/organize.md)
-+ Créateurs de compétences {#skill-builders}
+   + [Modification d’une image dans votre PDF](60-second/editgraphic.md)
+   + [Agencement des pages en un clin d’oeil](60-second/organize.md)
++ Skill Builders {#skill-builders}
    + [Aperçu](skill-builder/skill-builder-overview.md)
    + [Webinaires](skill-builder/skill-builder-webinars.md)
 + Intégrations {#integrations}
    + [Aperçu](integrate/integrate-overview.md)
-   + [Créer un PDF à partir de [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [Créer des PDF dans [!DNL Office] pour le web](integrate/createofficeweb.md)
+   + [Créer un PDF depuis [!DNL Microsoft Word]](integrate/createfromword.md)
+   + [Création de PDF dans [!DNL Office] pour le web](integrate/createofficeweb.md)
    + [Collaboration PDF dans [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
    + [Utilisation de vos fichiers SharePoint](integrate/acrobatandsp.md)
-   + [Conversion de messages électroniques et de pièces jointes en PDF dans Outlook](integrate/outlook.md)
+   + [Convertir les messages électroniques et les pièces jointes en PDF dans Outlook](integrate/outlook.md)
    + [Création de contenu PDF lors de la navigation avec Microsoft Edge](integrate/edge.md)
-   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
-+ Industries et départements {#by-industry}
+   + [Adobe Acrobat pour Google Drive](integrate/acrobatandgoogle.md)
++ Industries et services {#by-industry}
    + [Aperçu](industry/industry-overview.md)
-   + Gouvernement {#gov}
+   + Administration {#gov}
       + [Aperçu](industry/gov/gov-overview.md)
-      + 5 conseils pour travailler n’importe où avec Acrobat DC {#tips}
-         + [5 Conseils pour travailler n’importe où avec Acrobat DC](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [Conseil n° 1 : utilisation des outils](industry/gov/get-your-tools.md)
-         + [Conseil n° 2 : collaboration sur des documents](industry/gov/collaborate-on-documents.md)
-         + [Conseil n° 3 - Documents numériques Protect](industry/gov/protect-digital-documents.md)
-         + [Conseil n° 4 : utilisation de formulaires et de signatures](industry/gov/work-with-forms-and-signatures.md)
-         + [Conseil n° 5 - Numérisation et modification sur mobile](industry/gov/scan-and-edit-on-mobile.md)
+      + Cinq conseils pour travailler en tout lieu avec Acrobat DC {#tips}
+         + [Cinq conseils pour travailler en tout lieu avec Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [Conseil #1 - Obtenez vos outils](industry/gov/get-your-tools.md)
+         + [Conseil #2 - Collaborer sur des documents](industry/gov/collaborate-on-documents.md)
+         + [Conseil #3 - Documents numériques Protect](industry/gov/protect-digital-documents.md)
+         + [Conseil #4 : utilisez des formulaires et des signatures](industry/gov/work-with-forms-and-signatures.md)
+         + [Conseil #5 - Numériser et modifier des images sur un appareil mobile](industry/gov/scan-and-edit-on-mobile.md)
       + Accessibilité {#pdfs}
          + [Accessibilité des PDF](industry/gov/making-pdfs-accessible.md)
          + [#1 - Comprendre l’accessibilité](industry/gov/understanding-accessibility.md)
          + [#2 - Création dans Word](industry/gov/authoring-in-word.md)
-         + [#3 - Finalisation en Acrobat](industry/gov/finishing-in-acrobat.md)
+         + [#3 - Finition dans Acrobat](industry/gov/finishing-in-acrobat.md)
          + [Rendre les bulletins de vote PDF plus accessibles](industry/gov/making-pdf-ballots-accessible.md)
 + Développement {#develop}
    + [Aperçu](develop/develop-overview.md)
-+ Déployer {#deploy}
++ Déploiement {#deploy}
    + [Aperçu](deploy/deploy-overview.md)
-   + [Mises à jour importantes des produits Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
+   + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
    + [Aperçu](mobile/mobile-overview.md)
-   + [Productivité en situation de mobilité](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [Productivité en déplacement](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
