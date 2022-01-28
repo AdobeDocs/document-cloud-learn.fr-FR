@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 2%
@@ -24,6 +24,16 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="workforms.md">
+      <img alt="Utilisation des champs de formulaire" src="../assets/Workform_1280.png" />
+    </a>
+    <div>
+    <a href="workforms.md"><strong>Utilisation des champs de formulaire</strong></a>
+    </div>
+    <em>Ajoutez différents types de champs de formulaire, définissez leurs propriétés et ajoutez des options de sécurité pour créer des formulaires professionnels de qualité</em>
+    <br>
+  </td>
+  <td>
     <a href="enhance.md">
       <img alt="Amélioration de votre PDF" src="../assets/Enhance_1280.png" />
     </a>
@@ -33,16 +43,9 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Transformez votre PDF en y ajoutant des améliorations graphiques et une numérotation automatique</em>
     <br>
   </td>
-  <td>
-    <a href="compare.md">
-      <img alt="Détecter les différences entre deux PDF" src="../assets/Compare_1280.png" />
-    </a>
-    <div>
-    <a href="compare.md"><strong>Détecter les différences entre deux PDF</strong></a>
-    </div>
-    <em>Détectez rapidement et avec précision les différences entre deux fichiers PDF pour améliorer les workflows de révision des documents</em>
-    <br>
-  </td>
+  <td>  
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Assistant d’action" src="../assets/Action.jpg" />
@@ -53,8 +56,6 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Gagnez du temps et économisez des frappes de touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs fichiers</em>
     <br>
   </td>  
-</tr>
-<tr>
   <td>
     <a href="redact.md">
       <img alt="Biffer et assainir" src="../assets/Redact.jpg" />
@@ -75,6 +76,8 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Réduisez les fichiers volumineux et optimisez vos PDF sans compromettre la qualité du partage, de la publication ou de l’archivage</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="formdata.md">
       <img alt="Assistant d’action" src="../assets/FormData.jpg" />
@@ -85,9 +88,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Compiler les données de formulaire dans une seule feuille de calcul</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="accessibility.md">
       <img alt="Vérifier l’accessibilité du PDF" src="../assets/Checkingaccessible_1280.jpg" />
     </a>
@@ -105,11 +106,6 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <a href="accessibility-series.md"><strong>Série Accessibilité d’Acrobat</strong></a>
     </div>
     <em>Dans cette série de webinaires à la demande en six parties, passez des principes de base de l’accessibilité au balisage profond de vos fichiers de PDF</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
