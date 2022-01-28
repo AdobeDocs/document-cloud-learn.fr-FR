@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-9345.jpg
 kt: 9345
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: b728e0bee2743cd24059a5958bc657bb6a4a64cb
 workflow-type: tm+mt
 source-wordcount: '725'
 ht-degree: 0%
@@ -33,6 +33,8 @@ Utilisez l&#39;outil Prepare Form pour ajouter automatiquement des champs dans u
 >[!TIP]
 >
 >Activez les touches d’accès rapide uniques dans vos préférences sous la catégorie Général .
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/340084?hidetitle=true)
 
@@ -89,6 +91,8 @@ Les propriétés combinées permettent de répartir le texte de manière réguli
 
 ## Apprenez à définir simultanément les propriétés de plusieurs champs, l’ordre de tabulation et à sécuriser un formulaire
 
+<br> 
+
 >[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
@@ -104,13 +108,13 @@ Pour définir les propriétés de plusieurs champs à la fois, définissez l’o
 
 La définition de l’ordre de tabulation garantit que le chargé de remplissage peut facilement passer d’un champ à l’autre lors du remplissage d’un formulaire.
 
-1. Appuyez sur Maj + N pour afficher l’ordre des tabulations.
+1. Type *Maj + N* pour afficher l’ordre de tabulation.
 1. Déplacez le *Lieu du siège* sous le champ *Nombre d&#39;employés* dans le volet de droite.
 1. Déplacez le *Début du projet* et *Fin du projet* sous le champ *ADRESSE ÉLECTRONIQUE* dans le volet de droite.
 
 La protection d’un formulaire empêche toute modification des champs ou du contenu du document.
 
-1. Appuyez sur Ctrl + D (Cmd + D sur Mac) pour afficher la boîte de dialogue **Propriétés du document** s&#39;affiche.
+1. Type *Ctrl + D (Cmd + D sur Mac)* pour afficher la boîte de dialogue **Propriétés du document** s&#39;affiche.
 1. Sélectionnez le fichier **Sécurité** .
 1. Sélectionner **Sécurité du mot de passe** sous le **Méthode de sécurité :** du document.
 1. Vérifier **Restreignez la modification et l’impression du document. Un mot de passe sera requis pour modifier ces paramètres d’autorisation.**
