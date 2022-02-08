@@ -8,101 +8,102 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 933c6a81397c381c05e69a5d7d0e438c6d55260d
+source-git-commit: cfa5577ff7e3b956059a97af30139054664a9683
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '342'
 ht-degree: 9%
 
 ---
 
 
-# Tutoriels Acrobat {#acrobat-learning}
+# Acrobat tutorials {#acrobat-learning}
 
 + [Aperçu](overview.md)
 + Prise en main {#getting-started}
    + [Aperçu](getting-started/getting-started-overview.md)
-   + [Base Workspace](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [Utilisation d’Acrobat sur le web](getting-started/acrobatweb.md)
-   + [Productivité en déplacement](getting-started/productivity.md)
-   + [Utilisation de [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [Workspace basis](getting-started/get-to-know-the-acrobat-dc-interface.md)
+   + [Work anywhere with Acrobat web](getting-started/acrobatweb.md)
+   + [Productivity on the go](getting-started/productivity.md)
+   + [ [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Collaboration en temps réel](getting-started/collaborate.md)
-   + [Combine Files vers PDF](getting-started/combine-to-pdf.md)
+   + [Combine Files to PDF](getting-started/combine-to-pdf.md)
    + [Création d’un fichier PDF ](getting-started/create-pdf.md)
-   + [Commenter sur un PDF](getting-started/comment-on-pdf-files.md)
+   + [Comment on a PDF](getting-started/comment-on-pdf-files.md)
    + [Modifier un fichier PDF](getting-started/edit-pdf.md)
-   + [Exportation d’un PDF vers des formats modifiables](getting-started/export-pdf.md)
-   + [Création de formulaires à compléter](getting-started/create-fillable-forms.md)
-   + [Numérisation et OCR](getting-started/scan-and-ocr.md)
+   + [Export a PDF to editable formats](getting-started/export-pdf.md)
+   + [Create fillable forms](getting-started/create-fillable-forms.md)
+   + [Scan &amp; OCR](getting-started/scan-and-ocr.md)
    + [Organisation des pages](getting-started/organize.md)
-   + [Protect d’un fichier de mot de PDF avec un mot de passe](getting-started/password-protect.md)
+   + [Protect a PDF file with a password](getting-started/password-protect.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Obtenir des signatures](getting-started/signatures.md)
-   + [Suivi de vos documents](getting-started/track.md)
-   + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
-+ Tâches avancées {#advanced-tasks}
+   + [Get signatures](getting-started/signatures.md)
+   + [Track your documents](getting-started/track.md)
+   + [Where do PDFs come from?](getting-started/where-do-pdfs-come-from.md)
++ {#advanced-tasks}
    + [Aperçu](advanced-tasks/advanced-tasks-overview.md)
-   + [Utilisation des champs de formulaire](advanced-tasks/workforms.md)
-   + [Amélioration de votre PDF](advanced-tasks/enhance.md)
-   + [Détecter les différences entre deux PDF](advanced-tasks/compare.md)
+   + [Optimize PDFs for SEO](advanced-tasks/optimizeseo.md)
+   + [Work with form fields](advanced-tasks/workforms.md)
+   + [Enhance your PDF](advanced-tasks/enhance.md)
+   + [Detect differences between two PDFs](advanced-tasks/compare.md)
    + [Assistant d’action](advanced-tasks/action.md)
-   + [Biffer et assainir](advanced-tasks/redact.md)
-   + [Réduire la taille des fichiers et optimiser](advanced-tasks/reduce.md)
-   + [Utilisation des données de formulaire](advanced-tasks/formdata.md)
-   + [Vérifier l’accessibilité du PDF](advanced-tasks/accessibility.md)
-   + Série Accessibilité d’Acrobat {#accessibility-series}
+   + [Redact &amp; Sanitize](advanced-tasks/redact.md)
+   + [Reduce file size &amp; optimize](advanced-tasks/reduce.md)
+   + [Working with form data](advanced-tasks/formdata.md)
+   + [Check PDF accessibility](advanced-tasks/accessibility.md)
+   + {#accessibility-series}
       + [Aperçu](advanced-tasks/accessibility-series.md)
-      + [Introduction à l’accessibilité des PDF](advanced-tasks/accessibilitysession1.md)
-      + [Correction d’un PDF inaccessible](advanced-tasks/accessibilitysession2.md)
-      + [Tableaux complexes](advanced-tasks/accessibilitysession3.md)
-      + [Documents numérisés et listes complexes](advanced-tasks/accessibilitysession4.md)
-      + [Ajout de champs de formulaire à un PDF balisé](advanced-tasks/accessibilitysession5.md)
-      + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
-+ Acrobat de 60 secondes {#60-second}
+      + [Introduction to PDF Accessibility](advanced-tasks/accessibilitysession1.md)
+      + [Remediating an inaccessible PDF](advanced-tasks/accessibilitysession2.md)
+      + [Complex tables](advanced-tasks/accessibilitysession3.md)
+      + [Scanned documents &amp; complex lists](advanced-tasks/accessibilitysession4.md)
+      + [Adding form fields to a tagged PDF](advanced-tasks/accessibilitysession5.md)
+      + [Adding form fields to an untagged PDF](advanced-tasks/accessibilitysession6.md)
++ {#60-second}
    + [Aperçu](60-second/60-second-overview.md)
-   + [Regroupement de fichiers dans un PDF](60-second/combine-to-one-pdf.md)
-   + [Modification d’un PDF avec Acrobat web](60-second/edit.md)
-   + [Rechercher plusieurs fichiers de PDF en même temps](60-second/search.md)
-   + [Création instantanée d&#39;un PDF de photos](60-second/photo.md)
-   + [Convertir un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
-   + [Signer électroniquement un document papier](60-second/sign.md)
-   + [Charger les commentaires PDF dans l’InDesign](60-second/indesign.md)
-   + [Retouche d&#39;une photo dans votre PDF](60-second/editphoto.md)
-   + [Modification d’une image dans votre PDF](60-second/editgraphic.md)
-   + [Agencement des pages en un clin d’oeil](60-second/organize.md)
-+ Skill Builders {#skill-builders}
+   + [Combine files into one PDF](60-second/combine-to-one-pdf.md)
+   + [Edit PDF with Acrobat web](60-second/edit.md)
+   + [Search multiple PDF files at once](60-second/search.md)
+   + [Create a PDF of photos in an instant](60-second/photo.md)
+   + [Convert a PPT file to PDF on your phone](60-second/phone.md)
+   + [Electronically sign a paper document](60-second/sign.md)
+   + [Load PDF comments into InDesign](60-second/indesign.md)
+   + [Edit a photo in your PDF](60-second/editphoto.md)
+   + [Edit a graphic in your PDF](60-second/editgraphic.md)
+   + [Organize pages in a snap](60-second/organize.md)
++ {#skill-builders}
    + [Aperçu](skill-builder/skill-builder-overview.md)
-   + [Webinaires](skill-builder/skill-builder-webinars.md)
+   + [Webinars](skill-builder/skill-builder-webinars.md)
 + Intégrations {#integrations}
    + [Aperçu](integrate/integrate-overview.md)
-   + [Créer un PDF depuis [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [Création de PDF dans [!DNL Office] pour le web](integrate/createofficeweb.md)
-   + [Collaboration PDF dans [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Utilisation de vos fichiers SharePoint](integrate/acrobatandsp.md)
-   + [Convertir les messages électroniques et les pièces jointes en PDF dans Outlook](integrate/outlook.md)
-   + [Création de contenu PDF lors de la navigation avec Microsoft Edge](integrate/edge.md)
-   + [Adobe Acrobat pour Google Drive](integrate/acrobatandgoogle.md)
-+ Industries et services {#by-industry}
+   + [ [!DNL Microsoft Word]](integrate/createfromword.md)
+   + [ [!DNL Office] ](integrate/createofficeweb.md)
+   + [ [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [Work with your SharePoint files](integrate/acrobatandsp.md)
+   + [Convert email messages and attachments to PDF in Outlook](integrate/outlook.md)
+   + [Create PDF content while browsing with Microsoft Edge](integrate/edge.md)
+   + [Adobe Acrobat for Google Drive](integrate/acrobatandgoogle.md)
++ {#by-industry}
    + [Aperçu](industry/industry-overview.md)
-   + Administration {#gov}
+   + {#gov}
       + [Aperçu](industry/gov/gov-overview.md)
-      + Cinq conseils pour travailler en tout lieu avec Acrobat DC {#tips}
-         + [Cinq conseils pour travailler en tout lieu avec Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
-         + [Conseil #1 - Obtenez vos outils](industry/gov/get-your-tools.md)
-         + [Conseil #2 - Collaborer sur des documents](industry/gov/collaborate-on-documents.md)
-         + [Conseil #3 - Documents numériques Protect](industry/gov/protect-digital-documents.md)
-         + [Conseil #4 : utilisez des formulaires et des signatures](industry/gov/work-with-forms-and-signatures.md)
-         + [Conseil #5 - Numériser et modifier des images sur un appareil mobile](industry/gov/scan-and-edit-on-mobile.md)
+      + {#tips}
+         + [](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+         + [Tip #1 – Get your tools](industry/gov/get-your-tools.md)
+         + [Tip #2 – Collaborate on documents](industry/gov/collaborate-on-documents.md)
+         + [Tip #3 – Protect digital documents](industry/gov/protect-digital-documents.md)
+         + [Tip #4 – Work with forms and signatures](industry/gov/work-with-forms-and-signatures.md)
+         + [Tip #5 – Scan and edit on mobile](industry/gov/scan-and-edit-on-mobile.md)
       + Accessibilité {#pdfs}
-         + [Accessibilité des PDF](industry/gov/making-pdfs-accessible.md)
-         + [#1 - Comprendre l’accessibilité](industry/gov/understanding-accessibility.md)
-         + [#2 - Création dans Word](industry/gov/authoring-in-word.md)
-         + [#3 - Finition dans Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Rendre les bulletins de vote PDF plus accessibles](industry/gov/making-pdf-ballots-accessible.md)
-+ Développement {#develop}
+         + [Making PDFs Accessible](industry/gov/making-pdfs-accessible.md)
+         + [#1 – Understanding Accessibility](industry/gov/understanding-accessibility.md)
+         + [#2 – Authoring in Word](industry/gov/authoring-in-word.md)
+         + [#3 – Finishing in Acrobat](industry/gov/finishing-in-acrobat.md)
+         + [Making PDF Ballots more Accessible](industry/gov/making-pdf-ballots-accessible.md)
++ {#develop}
    + [Aperçu](develop/develop-overview.md)
-+ Déploiement {#deploy}
++ {#deploy}
    + [Aperçu](deploy/deploy-overview.md)
-   + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
+   + [Important Acrobat DC product updates for ETLA customers](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
    + [Aperçu](mobile/mobile-overview.md)
-   + [Productivité en déplacement](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
