@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 1ed8a83a49d8e87a6ddb806c70b3b26d428fd567
+source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
 workflow-type: tm+mt
-source-wordcount: '655'
+source-wordcount: '690'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,10 @@ Optimisez l’expérience d’interaction avec votre PDF en le préparant pour u
 Cette étape réduit la taille du fichier et active **Affichage Web rapide** dans le PDF. **Affichage Web rapide** permet d’ouvrir, de consulter et de rechercher immédiatement le fichier avant de le diffuser ou de le télécharger dans son intégralité, garantissant ainsi une expérience optimale pour l’utilisateur final. Ouvrir **[!UICONTROL Propriétés du document]** (*Ctrl + D* sous Windows ou *Cmd + D* sur Mac) pour déterminer si **Affichage Web rapide** est activée.
 
 ![Capture d&#39;écran des Propriétés du document](../assets/optimizeseo5.png)
+
+>[!TIP]
+>
+>Si vous disposez d’Acrobat Pro, exécutez l’option Optimiser pour le web et les appareils mobiles dans l’outil Action Wizard. Cette action convertit les couleurs en sRVB et incorpore les polices pour un affichage cohérent des PDF sur les navigateurs et les appareils mobiles.
 
 ## Création d’un nom de fichier
 
