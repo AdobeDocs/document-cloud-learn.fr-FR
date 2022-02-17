@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: f9b2d1afb21b3b6b67fbc8f2ef7f5f0b8aa80d0c
+source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
 workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 10%
+source-wordcount: '387'
+ht-degree: 9%
 
 ---
 
@@ -61,6 +61,12 @@ ht-degree: 10%
       + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
 + Acrobat de 60 secondes {#60-second}
    + [Aperçu](60-second/60-second-overview.md)
+   + [Création rapide de fichiers de PDF plus efficaces](60-second/optimize.md)
+   + [Protect de vos fichiers de mot de PDF avec un mot de passe](60-second/protect.md)
+   + [Conversion de Word en PDF, y compris les champs de formulaire](60-second/wordform.md)
+   + [Laissez Acrobat vous aider à créer des PDF accessibles](60-second/accessible.md)
+   + [Export PDF à Word depuis votre téléphone](60-second/exportwordphone.md)
+   + [Reconnaissance du texte d’un fichier de PDF numérisé](60-second/textrecognition.md)
    + [Regroupement de fichiers dans un PDF](60-second/combine-to-one-pdf.md)
    + [Modification d’un PDF avec Acrobat web](60-second/edit.md)
    + [Rechercher plusieurs fichiers de PDF en même temps](60-second/search.md)
