@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d3e1c0c09fd9a65acb2d9a437c0ba1667c882937
+source-git-commit: a659861d626e5b6799959ec2b4208bbbdf574885
 workflow-type: tm+mt
-source-wordcount: '299'
-ht-degree: 4%
+source-wordcount: '321'
+ht-degree: 3%
 
 ---
 
@@ -23,6 +23,16 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="optimizescan.md">
+      <img alt="Optimisation des documents numérisés" src="../assets/Scan_1280.png" />
+    </a>
+    <div>
+    <a href="optimizescan.md"><strong>Optimisation des documents numérisés</strong></a>
+    </div>
+    <em>Découvrez comment améliorer les documents numérisés pour optimiser l’expérience de recherche et d’affichage des PDF</em>
+    <br>
+  </td>
   <td>
     <a href="custom.md">
       <img alt="Commandes et outils personnalisés" src="../assets/Createcustom_1280.png" />
@@ -43,6 +53,8 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Apprenez des techniques avancées pour créer des PDF forms professionnels</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF pour SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
@@ -53,8 +65,6 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Optimisation d'un PDF pour une meilleure visibilité et un meilleur référencement sur le web</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="workforms.md">
       <img alt="Utilisation des champs de formulaire" src="../assets/Workform_1280.png" />
@@ -74,7 +84,9 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     </div>
     <em>Transformez votre PDF en y ajoutant des améliorations graphiques et une numérotation automatique</em>
     <br>
-  </td>
+  </td>   
+</tr>
+<tr>
   <td>
     <a href="compare.md">
       <img alt="Détecter les différences entre deux PDF" src="../assets/Compare_1280.png" />
@@ -84,9 +96,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     </div>
     <em>Détectez rapidement et précisément les différences entre deux fichiers PDF</em>
     <br>
-  </td>   
-</tr>
-<tr>
+  </td>
   <td>
     <a href="action.md">
       <img alt="Assistant d’action" src="../assets/Action.jpg" />
@@ -107,7 +117,9 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Supprimer définitivement des informations privées ou sensibles de votre PDF</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+ <td>
     <a href="reduce.md">
       <img alt="Réduire la taille des fichiers et optimiser" src="../assets/Reduce.jpg" />
     </a>
@@ -117,8 +129,6 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Réduisez les fichiers volumineux et optimisez vos PDF sans compromettre la qualité du partage, de la publication ou de l’archivage</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="formdata.md">
       <img alt="Assistant d’action" src="../assets/FormData.jpg" />
@@ -139,6 +149,8 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Vérifiez si votre PDF est universellement accessible aux personnes handicapées</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="accessibility-series.md">
       <img alt="Préparation des fichiers de PDF accessibles" src="../assets/Accessibilityseries_1280.png" />
@@ -149,5 +161,15 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Dans cette série de webinaires à la demande en six parties, passez des principes de base de l’accessibilité au balisage profond de vos fichiers de PDF</em>
     <br>
   </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>  
 </tr>
 </table>

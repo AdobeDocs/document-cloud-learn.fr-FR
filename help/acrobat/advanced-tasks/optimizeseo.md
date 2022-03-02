@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 2f144b3c657e77fa043fe572f18bbbf162fbad6a
+source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '702'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,11 @@ Découvrez comment optimiser un PDF pour améliorer sa visibilité et améliorer
 
 ## Création de contenu unique
 
-Créez un contenu PDF différent des informations contenues dans vos pages web. Le contenu du PDF doit être unique et structuré comme suit :
+Créez un contenu PDF différent des informations contenues dans vos pages web.
+
++++En savoir plus
+
+Le contenu du PDF doit être unique et structuré comme suit :
 
 * Utilisez un seul titre/titre principal commençant par un mot-clé
 * Utilisation de sous-titres de mots-clés organisés selon une structure hiérarchique
@@ -31,9 +35,15 @@ Créez un contenu PDF différent des informations contenues dans vos pages web. 
 
    ![Capture d&#39;écran de Liquid Mode dans l&#39;application mobile Acrobat Reader](../assets/optimizeseo1.png)
 
++++
+
 ## Ajouter des propriétés de document
 
-Les fichiers de PDF ont un titre et une méta-description comme une page web. Ajouter une clé **[!UICONTROL Propriétés du document]** comme suit :
+Les fichiers de PDF ont un titre et une méta-description comme une page web.
+
++++En savoir plus
+
+Ajouter une clé **[!UICONTROL Propriétés du document]** comme suit :
 
 1. Sélectionner **[!UICONTROL Fichier > Propriétés]** ou utilisez le raccourci clavier *Ctrl + D* sous Windows ou *Cmd + D* dans Mac et sélectionnez l’option **[!UICONTROL Description]** .
 1. Saisissez un titre optimisé pour les mots-clés dans le champ **[!UICONTROL Titre :]** .
@@ -44,13 +54,19 @@ Essayez de commencer le résumé à l’aide d’un verbe d’action comme Appre
 
    ![Capture d&#39;écran des Propriétés du document](../assets/optimizeseo2.png)
 
++++
+
 ## Balisez votre PDF
 
 >[!NOTE]
 >
 >Disponible dans Acrobat Pro uniquement.
 
-Le balisage de contenu dans votre PDF ne fait pas que créer votre fichier [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) pour les personnes handicapées, il améliore également le référencement naturel. Balisez un PDF comme suit :
+Le balisage de contenu dans votre PDF ne fait pas que créer votre fichier [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) pour les personnes handicapées, il améliore également le référencement naturel.
+
++++En savoir plus
+
+Balisez un PDF comme suit :
 
 1. Sélectionner **[!UICONTROL Accessibilité]** dans le **[!UICONTROL Outils]** centre.
 1. Sélectionner **[!UICONTROL Baliser automatiquement le document]** dans le volet de droite.
@@ -60,9 +76,15 @@ Le balisage de contenu dans votre PDF ne fait pas que créer votre fichier [Acce
 
    ![Capture d&#39;écran de la configuration du texte alternatif dans le PDF](../assets/optimizeseo3.png)
 
++++
+
 ## Préparation pour le web
 
-Optimisez l’expérience d’interaction avec votre PDF en le préparant pour une consultation web et en réduisant la taille du fichier. Pour préparer votre PDF pour le Web, sélectionnez **[!UICONTROL Fichier > Enregistrer sous un autre > PDF de taille réduite]**.
+Optimisez l’expérience d’interaction avec votre PDF en le préparant pour une consultation web et en réduisant la taille du fichier.
+
++++En savoir plus
+
+Pour préparer votre PDF pour le Web, sélectionnez **[!UICONTROL Fichier > Enregistrer sous un autre > PDF de taille réduite]**.
 
 ![Capture d&#39;écran des Propriétés du document](../assets/optimizeseo4.png)
 
@@ -74,13 +96,23 @@ Cette étape réduit la taille du fichier et active **Affichage Web rapide** dan
 >
 >Si vous disposez d’Acrobat Pro, exécutez l’option Optimiser pour le web et les appareils mobiles dans l’outil Action Wizard. Cette action convertit les couleurs en sRVB et incorpore les polices pour un affichage cohérent des PDF sur les navigateurs et les appareils mobiles.
 
++++
+
 ## Création d’un nom de fichier
+
++++En savoir plus
 
 Le nom de fichier devient partie intégrante de l’URL lorsqu’un PDF est publié sur le Web. Une bonne pratique consiste à faire correspondre votre titre optimisé pour les mots-clés au nom du fichier. Pour faciliter la recherche : utilisez des minuscules, pas de ponctuation ou de hachage, et évitez les mots exclus (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). Si vous utilisez des mots séparés, ajoutez des tirets ou des traits de soulignement entre les mots.
 
++++
+
 ## Sécurisation de votre PDF
 
-La dernière étape consiste à protéger votre PDF pour empêcher toute modification non autorisée. Sécurisez un PDF comme suit :
+La dernière étape consiste à protéger votre PDF pour empêcher toute modification non autorisée.
+
++++En savoir plus
+
+Sécurisez un PDF comme suit :
 
 1. Ouvrir **[!UICONTROL Propriétés du document]** (*Ctrl + D* sous Windows ou *Cmd + D* dans Mac) et sélectionnez l’option **[!UICONTROL Sécurité]** .
 1. Vérifier **[!UICONTROL Impression de la modification et de l’impression du document. Un mot de passe sera requis pour modifier ces paramètres.]**
@@ -90,5 +122,7 @@ La dernière étape consiste à protéger votre PDF pour empêcher toute modific
 1. Sélectionner **[!UICONTROL OK]** et enregistrez le fichier.
 
    ![Capture d&#39;écran des Propriétés du document](../assets/optimizeseo6.png)
+
++++
 
 Votre PDF est maintenant prêt à être publié sur le web, avec un potentiel de classement optimal des mots-clés et une interaction optimale avec l’utilisateur final.
