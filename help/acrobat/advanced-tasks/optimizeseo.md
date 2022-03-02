@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: b2a6119b6c862bb77efbddaab6d61c851f15d138
+source-git-commit: eabcb0741c65c37561ffee0f5f99fa0ed3eb0682
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Découvrez comment optimiser un PDF pour améliorer sa visibilité et améliorer
 
 Créez un contenu PDF différent des informations contenues dans vos pages web.
 
-+++En savoir plus
++++Découvrez comment créer un contenu unique en son genre
 
 Le contenu du PDF doit être unique et structuré comme suit :
 
@@ -37,11 +37,13 @@ Le contenu du PDF doit être unique et structuré comme suit :
 
 +++
 
+<br> 
+
 ## Ajouter des propriétés de document
 
 Les fichiers de PDF ont un titre et une méta-description comme une page web.
 
-+++En savoir plus
++++Affichage des détails sur l’ajout des propriétés du document
 
 Ajouter une clé **[!UICONTROL Propriétés du document]** comme suit :
 
@@ -56,6 +58,8 @@ Essayez de commencer le résumé à l’aide d’un verbe d’action comme Appre
 
 +++
 
+<br> 
+
 ## Balisez votre PDF
 
 >[!NOTE]
@@ -64,7 +68,7 @@ Essayez de commencer le résumé à l’aide d’un verbe d’action comme Appre
 
 Le balisage de contenu dans votre PDF ne fait pas que créer votre fichier [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) pour les personnes handicapées, il améliore également le référencement naturel.
 
-+++En savoir plus
++++Affichage des détails sur l’étiquetage d’un PDF
 
 Balisez un PDF comme suit :
 
@@ -78,11 +82,15 @@ Balisez un PDF comme suit :
 
 +++
 
+<br> 
+
 ## Préparation pour le web
 
 Optimisez l’expérience d’interaction avec votre PDF en le préparant pour une consultation web et en réduisant la taille du fichier.
 
-+++En savoir plus
++++Découvrez comment préparer votre PDF pour le web en détail
+
+Préparez votre PDF pour le Web comme suit :
 
 Pour préparer votre PDF pour le Web, sélectionnez **[!UICONTROL Fichier > Enregistrer sous un autre > PDF de taille réduite]**.
 
@@ -98,19 +106,25 @@ Cette étape réduit la taille du fichier et active **Affichage Web rapide** dan
 
 +++
 
+<br> 
+
 ## Création d’un nom de fichier
 
-+++En savoir plus
++++Découvrez comment créer un nom de fichier de mot-clé
+
+Créez un nom de fichier de mot-clé comme suit :
 
 Le nom de fichier devient partie intégrante de l’URL lorsqu’un PDF est publié sur le Web. Une bonne pratique consiste à faire correspondre votre titre optimisé pour les mots-clés au nom du fichier. Pour faciliter la recherche : utilisez des minuscules, pas de ponctuation ou de hachage, et évitez les mots exclus (a, an, the, and, it, for, or, but, in, my, your, our, and their, etc.). Si vous utilisez des mots séparés, ajoutez des tirets ou des traits de soulignement entre les mots.
 
 +++
 
+<br> 
+
 ## Sécurisation de votre PDF
 
 La dernière étape consiste à protéger votre PDF pour empêcher toute modification non autorisée.
 
-+++En savoir plus
++++Consultez les détails sur la sécurisation de votre PDF
 
 Sécurisez un PDF comme suit :
 
