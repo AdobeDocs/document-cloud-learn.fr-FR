@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 5adbbe1b9791cc50822e49957a254f79639a30cc
+source-git-commit: 058905c4830374745bc3e42dab923b9dd57ed056
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '340'
 ht-degree: 3%
 
 ---
@@ -30,7 +30,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <div>
     <a href="bookmarks.md"><strong>Ajout de signets et d’hyperliens</strong></a>
     </div>
-    <em>Découvrez comment améliorer les documents numérisés pour optimiser l’expérience de recherche et d’affichage des PDF</em>
+    <em>Découvrez comment ajouter des signets et des hyperliens pour une meilleure navigation et une meilleure interaction</em>
     <br>
   </td>
   <td>
