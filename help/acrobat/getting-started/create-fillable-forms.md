@@ -1,42 +1,38 @@
 ---
-title: Créer Forms à remplir
-description: Transformation d’un document créé dans InDesign, Microsoft Word ou Excel en formulaire PDF à remplir
+title: Création de Forms à compléter
+description: Conversion d’un document créé dans InDesign, Microsoft Word ou Excel en formulaire PDF à compléter
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: dede0ea5f15c49b27a210d0574e6fb2e3255269b
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
 
-# Création de formulaires à remplir
+# Création de formulaires à compléter
 
-Convertissez un formulaire papier numérisé ou un document créé dans InDesign, Microsoft Word, Excel ou toute autre application en formulaire PDF à remplir.
+Convertissez un formulaire papier numérisé ou un document créé dans InDesign, Microsoft Word, Excel ou une autre application en formulaire PDF à compléter.
 
-1. Sélectionner **[!UICONTROL Prepare Form]** de [!UICONTROL Outils] volet central ou droit.
+1. Sélectionner **[!UICONTROL Prepare Form]** dans le [!UICONTROL Outils] au centre ou à droite.
 
-   ![Étape de formulaire 1](../assets/Form_1.png)
+   ![Étape 1 du formulaire](../assets/Form_1.png)
 
-1. Sélectionnez un document existant à utiliser comme formulaire (par exemple un fichier Word, Excel, InDesign ou PDF) et sélectionnez **Démarrer**.
+1. Sélectionnez un document à utiliser comme formulaire (par exemple, un fichier Word, Excel, InDesign ou PDF), puis sélectionnez **Début**.
 
-   ![Étape de formulaire 2](../assets/Form_2.png)
+   ![Étape 2 du formulaire](../assets/Form_2.png)
 
-   Si [!UICONTROL Détection automatique des champs de formulaire] est **ACTIVÉ**, les champs de formulaire sont automatiquement détectés dans le fichier PDF. Vérifiez deux fois l’emplacement des champs de formulaire.
+   Si [!UICONTROL Détection automatique des champs de formulaire] est **ON**, les champs de formulaire sont automatiquement détectés dans le fichier du PDF. Vérifiez l’emplacement des champs de formulaire.
 
-   Faites glisser des champs depuis le menu supérieur et modifiez les détails des champs de formulaire dans le volet de droite.
+   Faites glisser et déposez des champs à partir du menu supérieur et modifiez les détails des champs de formulaire dans le panneau de droite.
 
-1. Sélectionner **[!UICONTROL Aperçu]** pour voir votre formulaire.
+1. Sélectionner **[!UICONTROL Aperçu]** pour afficher votre formulaire.
 
-   ![Étape de formulaire 3](../assets/Form_3.png)
+   ![Étape 3 du formulaire](../assets/Form_3.png)
 
-1. Sélectionner **[!UICONTROL Modifier]** pour poursuivre le travail ou sélectionnez **[!UICONTROL Fichier]** **>** **[!UICONTROL Enregistrer sous]** pour enregistrer le formulaire PDF.
+1. Sélectionner **[!UICONTROL Modifier]** pour continuer à travailler, ou sélectionnez **[!UICONTROL Fichier]** **>** **[!UICONTROL Enregistrer sous]** pour enregistrer le formulaire du PDF.
 
-   ![Étape de formulaire 4](../assets/Form_4.png)
-
-Sélectionnez l’icône de PDF pour télécharger le fichier *Création de formulaires à remplir* tutoriel.
-
-[![Télécharger le tutoriel sur la création de formulaires à remplir](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCForms.pdf)
+   ![Étape 4 du formulaire](../assets/Form_4.png)

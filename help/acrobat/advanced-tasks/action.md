@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6803.jpg
 exl-id: d932f20e-7e7c-4087-8ccc-cba7253f1394
-source-git-commit: 680e3d304959b96e864c4438c95ab66b3d510eb0
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '218'
+source-wordcount: '204'
 ht-degree: 1%
 
 ---
@@ -40,10 +40,6 @@ Gagnez du temps et économisez des frappes en utilisant une action pour applique
 1. Sélectionner **[!UICONTROL Enregistrer]** et nommez votre action afin qu’elle apparaisse dans le **[!UICONTROL Liste des actions]**.
 
 Vous pouvez désormais exécuter l’action personnalisée à tout moment pour effectuer cette série d’étapes spécifique sur un ou plusieurs fichiers de PDF.
-
-Sélectionnez l’icône du PDF pour télécharger le fichier *Action Wizard* tutoriel.
-
-[![Télécharger le tutoriel Action Wizard](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCActionWizard.pdf).
 
 >[!TIP]
 >

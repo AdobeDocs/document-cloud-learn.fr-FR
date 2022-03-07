@@ -1,14 +1,14 @@
 ---
 title: Numérisation et OCR
-description: Conversion d’numérisations ou d’images de documents en fichiers de PDF indexables et modifiables, et réglage de la qualité du fichier obtenu
+description: Convertissez des numérisations ou des images de documents en fichiers de PDF indexables et modifiables, et ajustez la qualité du fichier obtenu
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '182'
 ht-degree: 1%
 
 ---
@@ -19,36 +19,32 @@ Convertissez des numérisations ou des images de documents en fichiers de PDF in
 
 >[!TIP]
 >
->Pour ROC de plusieurs fichiers de PDF, essayez d’utiliser la [Action Wizard](../advanced-tasks/action.md).
+>Pour OCR plusieurs fichiers de PDF, essayez d’utiliser le [Action Wizard](../advanced-tasks/action.md).
 
-1. Sélectionner **[!UICONTROL Numérisation et OCR]** de [!UICONTROL Outils] volet central ou droit.
+1. Sélectionner **[!UICONTROL Numérisation et OCR]** dans le [!UICONTROL Outils] au centre ou à droite.
 
-   ![Étape 1](../assets/Scan_1.png)
+   ![Étape de numérisation 1](../assets/Scan_1.png)
 
 1. Sélectionner un fichier.
 
-   Ce fichier peut être une photo d’un document ou un fichier déjà numérisé créé à l’aide d’un scanner ou de l’application mobile Adobe Scan. Vous pouvez également numériser un document pour créer un fichier à l’aide d’un scanner connecté.
+   Il peut s’agir de la photo d’un document ou d’un fichier déjà numérisé créé à l’aide d’un scanner ou de l’application mobile Adobe Scan. Vous pouvez également numériser un document pour créer un nouveau fichier à l’aide d’un scanner connecté.
 
-   ![Étape 2 de l&#39;analyse](../assets/Scan_2.png)
+   ![Étape de numérisation 2](../assets/Scan_2.png)
 
-1. Choisir **[!UICONTROL Document numérisé]** ou **[!UICONTROL Image de la caméra]** pour améliorer le document.
+1. Choisissez **[!UICONTROL Document numérisé]** ou **[!UICONTROL Image de caméra]** pour améliorer le document.
 
-1. Sélectionner **[!UICONTROL Améliorer]** pour nettoyer l’image.
+1. Sélectionner **[!UICONTROL Accentuer]** pour nettoyer l’image.
 
-   ![Étape 3](../assets/Scan_3.png)
+   ![Étape de numérisation 3](../assets/Scan_3.png)
 
    Acrobat reconnaît automatiquement le texte des documents numérisés.
 
-1. Sélectionner **[!UICONTROL Reconnaître le texte]** pour reconnaître manuellement le texte des fichiers image.
+1. Sélectionner **[!UICONTROL Reconnaître le texte]** pour reconnaître manuellement le texte sur les fichiers image.
 
-   ![Étape 4](../assets/Scan_4.png)
+   ![Étape de numérisation 4](../assets/Scan_4.png)
 
-Le fichier est désormais un fichier PDF indexable et modifiable.
-
-Cliquez pour télécharger un PDF de la *Numérisation et OCR* tutoriel.
-
-[![Télécharger le tutoriel Scan &amp; OCR](../assets/acrobat_PDF_96.png)](../assets/AcrobatDCScan.pdf)
+Le fichier est désormais un fichier de PDF indexable et modifiable.
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Travaillez plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Gagnez en efficacité avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !

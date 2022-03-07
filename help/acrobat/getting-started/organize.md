@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '145'
 ht-degree: 2%
 
 ---
@@ -40,7 +40,3 @@ Utilisation **[!UICONTROL Organiser les pages]** dans Acrobat pour ajouter, remp
    Lors du fractionnement d’un PDF, vous pouvez vous séparer en fonction du nombre de pages, de la taille du fichier ou des signets de niveau supérieur.
 
    ![Numérisation étape 5](../assets/Organize_4.png)
-
-Cliquez pour télécharger un PDF du *Organiser les pages* tutoriel.
-
-[![Télécharger le tutoriel Organize Pages] (../assets/acrobat_PDF_96.png)](../assets/AcrobatDCOrganize.pdf)
