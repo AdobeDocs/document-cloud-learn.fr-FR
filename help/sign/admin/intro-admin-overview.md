@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '395'
 ht-degree: 1%
 
 ---
@@ -51,7 +51,7 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <div>
     <a href="add-users-to-your-account.md"><strong>Ajout d’utilisateurs</strong></a>
     </div>
-    <em>Add users individually or in bulk to your Adobe Sign account</em>
+    <em>Ajouter des utilisateurs individuellement ou en bloc à votre compte Adobe Sign</em>
     <br>
   </td>
 </tr>
@@ -125,9 +125,9 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
       <img alt="Configuration d’un workflow" src="../assets/BuildingWorkflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Setting up a workflow</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Configuration d’un workflow</strong></a>
     </div>
-    <em>Automate document workflows to quickly get electronic signatures and data</em>
+    <em>Automatisez les workflows documentaires pour récupérer rapidement les signatures et données électroniques</em>
     <br>
   </td>
   <td>
