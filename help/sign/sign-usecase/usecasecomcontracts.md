@@ -1,26 +1,25 @@
 ---
-title: Contrats et demandes d'approvisionnement Forms
-description: Remplacement rapide du traitement papier par des workflows numériques conformes, accompagnés de rapports d’audit
+title: Forms des contrats et des demandes
+description: Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d'audit
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Contrats et formulaires de demande
 
-Remplacez rapidement le traitement papier par des workflows numériques conformes, accompagnés de rapports d’audit. Découvrez comment utiliser l’outil Concepteur de flux de travaux d’Adobe Sign pour vous aider.
-rationalisez l&#39;ensemble du processus.
+Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d&#39;audit. Découvrez l’outil Adobe Sign Workflow Designer pour simplifier l’ensemble du processus.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
 
-Cliquez sur cette option pour télécharger la recette PDF étape par étape pour les contrats et les formulaires de demande d&#39;approvisionnement.
+Cliquez ici pour télécharger la recette du PDF étape par étape pour les contrats et les demandes d&#39;approvisionnement.
 
-[![Télécharger la recette PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
+[![Télécharger la recette du PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)
