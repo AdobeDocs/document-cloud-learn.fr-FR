@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '410'
+ht-degree: 6%
 
 ---
 
@@ -30,7 +30,7 @@ Découvrez comment commencer à utiliser Adobe Acrobat grâce à ces brefs tutor
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Espace de travail – Principes de base</strong></a>
     </div>
-    <em>Découvrez comment l’espace de travail d’Adobe Acrobat facilite l’accès aux fichiers et outils sur les ordinateurs, le web et les appareils mobiles</em>
+    <em>Découvrez comment l’espace de travail d’Acrobat facilite l’accès aux fichiers et outils sur les ordinateurs, le web et les appareils mobiles</em>
     <br>
   </td>
   <td>

@@ -6,7 +6,7 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: bb9dd666e77c36a1d16ec747a1182f71e388efa3
+source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
 workflow-type: tm+mt
 source-wordcount: '756'
 ht-degree: 0%
@@ -62,10 +62,6 @@ Essayez de commencer le résumé à l’aide d’un verbe d’action comme Appre
 
 ## 3. Balisez votre PDF
 
->[!NOTE]
->
->Disponible dans Acrobat Pro uniquement.
-
 Le balisage de contenu dans votre PDF ne fait pas que créer votre fichier [Accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) pour les personnes handicapées, il améliore également le référencement naturel.
 
 +++Affichage des détails sur l’étiquetage d’un PDF
@@ -81,6 +77,10 @@ Balisez un PDF comme suit :
    ![Capture d&#39;écran de la configuration du texte alternatif dans le PDF](../assets/optimizeseo3.png)
 
 +++
+
+>[!NOTE]
+>
+>Disponible dans Acrobat Pro uniquement.
 
 <br> 
 
