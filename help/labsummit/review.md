@@ -3,9 +3,9 @@ title: Partage de fichiers de PDF et révision en ligne
 description: Découvrez quelques astuces et conseils pour utiliser Adobe Document Cloud
 solution: Document Cloud
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '519'
 ht-degree: 26%
 
 ---
@@ -39,7 +39,7 @@ Vous recevrez un e-mail lorsque les destinataires auront consulté votre fichier
 
 ## Expérience du réviseur
 
-Les réviseurs reçoivent une invitation électronique contenant un lien vers le fichier PDF en révision. Lorsqu’ils cliquent sur le lien ou le bouton **[!UICONTROL Révision]** dans l’invitation, le fichier PDF s’ouvre dans un navigateur Web. Ils peuvent utiliser les outils de commentaire pour ajouter des commentaires au fichier PDF. Ils peuvent également utiliser Acrobat Reader DC ou les applications de bureau Acrobat DC pour ajouter des commentaires.
+Les réviseurs reçoivent une invitation électronique contenant un lien vers le fichier PDF en révision. Lorsqu’ils cliquent sur le lien ou le bouton **[!UICONTROL Révision]** dans l’invitation, le fichier PDF s’ouvre dans un navigateur Web. Ils peuvent utiliser les outils de commentaire pour ajouter des commentaires au fichier PDF. Ils peuvent également utiliser Acrobat Reader  ou les applications de bureau Acrobat  pour ajouter des commentaires.
 
 ## Envoyer un lien anonyme ou public dans un courrier électronique
 

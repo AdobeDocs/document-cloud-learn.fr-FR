@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '280'
 ht-degree: 1%
 
 ---
@@ -75,7 +75,7 @@ Découvrez comment tous les membres de votre équipe peuvent manipuler sans prob
     <div>
     <a href="outlook.md"><strong>Convertir les e-mails et les pièces jointes en PDF dans [!DNL Outlook]</strong></a>
     </div>
-    <em>Apprenez à fournir des informations de manière plus professionnelle et plus sécurisée dans [!DNL Outlook]</em>
+    <em>Apprenez à diffuser des informations de manière plus professionnelle et plus sécurisée dans [!DNL Outlook]</em>
     <br>
   </td>
   <td>
@@ -122,7 +122,7 @@ Gagnez en efficacité en un temps record en intégrant les principaux outils de 
 
 ## Box
 
-Découvrez comment Acrobat DC et [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} simplifiez la tâche de tous les membres de votre entreprise.
+Découvrez comment Acrobat et [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} simplifiez la tâche de tous les membres de votre entreprise.
 
 ## Dropbox
 

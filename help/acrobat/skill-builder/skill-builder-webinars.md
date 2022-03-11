@@ -4,9 +4,9 @@ description: Les créateurs de compétences Adobe Acrobat sont des sessions de 3
 product: adobe acrobat
 level: Intermediate
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 90a87ef20bd46d3439c93a2876c6026576bb2e55
+source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '512'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ Les créateurs de compétences Adobe Acrobat sont des sessions de 30 minutes con
 Date : 25 août 2022 Obtenez toutes les informations dont vous avez besoin sur la protection du contenu de votre PDF. Dans cette session, vous apprendrez à ajouter des mots de passe pour empêcher l’affichage, la modification ou l’impression d’un PDF, et à supprimer définitivement les informations sensibles, même des métadonnées non visibles.
 
 * **[Automatisation simple avec Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
-Date : 28 juillet 2022 Arrêtez de répéter des tâches manuelles simples ! Cet atelier vous apprendra à utiliser l’Action Wizard dans Acrobat DC pour traiter vos fichiers de PDF par lots et effectuer automatiquement des tâches répétitives en série.
+Date : 28 juillet 2022 Arrêtez de répéter des tâches manuelles simples ! Cet atelier vous apprendra à utiliser l’Action Wizard dans Acrobat pour traiter vos fichiers de PDF par lots et effectuer automatiquement des tâches répétitives en série.
 
 * **[Lisibilité pour tous : Création de PDF accessibles](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/18c111bd-9c63-4636-a4fd-8dc045a20423/8484f6c9-e2c9-4e1c-8d03-c2ca1d4db77c){target=&quot;_blank&quot;}**
 Date : 23 juin 2022 L’ajout de fonctionnalités d’accessibilité à vos PDF permet à tous les lecteurs d’accéder au contenu. Dans cet atelier, découvrez comment créer des PDF accessibles et conformes avec Acrobat.

@@ -1,22 +1,24 @@
 ---
-title: '5 conseils pour travailler n’importe où avec Acrobat DC : utilisation de Forms et des signatures'
-description: Comment rester numérique lors du remplissage de formulaires
+title: 'Cinq conseils pour travailler en tout lieu avec Acrobat : utilisation de Forms et signatures'
+description: Comment rester digital lors du remplissage de formulaires
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 5f505e95db7bd069f81e810978c8de67ebad0549
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
 
-# 5 conseils pour travailler n’importe où avec Acrobat DC : utilisation de Forms et des signatures
+# Cinq conseils pour travailler n’importe où avec Acrobat : utilisez des formulaires et des signatures
 
-Tout le monde doit à un moment donné remplir des formulaires. Comme vous n&#39;avez pas toujours accès à une imprimante, apprenez à rester numérique lorsque vous remplissez des formulaires.
+À un moment donné, tout le monde doit remplir des formulaires. Comme vous n’avez pas toujours accès à une imprimante, découvrez comment rester digital lorsque vous remplissez des formulaires.
 
-## Conseil n° 4 : utilisation des formulaires et des signatures (7:03)
+## Conseil #4 - Utilisation de formulaires et de signatures (7:03)
 
->[!VIDEO](https://video.tv.adobe.com/v/34512)
+>[!VIDEO](https://video.tv.adobe.com/v/34512?hidetitle=true)
+
+[Accéder au conseil #5 - Numériser et retoucher sur un appareil mobile](scan-and-edit-on-mobile.md)
