@@ -8,7 +8,7 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: afd1dbcf2c4b1c3ceb5509f646ad744f719946bc
+source-git-commit: ff57490a32735815d354ba7b620ec226c9998d15
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 6%
@@ -59,7 +59,7 @@ ht-degree: 6%
       + [Création d&#39;un rapport](admin/create-a-report.md)
       + [Configuration d’un formulaire web](sign-advanced-users/webform.md)
       + [Collecte de signatures en bloc](sign-advanced-users/megasign.md)
-      + [Configuration d’un workflow](admin/building-a-custom-workflow.md)
+      + [Création d’un workflow personnalisé](admin/building-a-custom-workflow.md)
    + Tâches avancées {#advanced-tasks-admins}
       + [Paramètres généraux](admin/learn-about-global-settings.md)
       + [Accès au compte de partage](admin/share-account-access.md)
