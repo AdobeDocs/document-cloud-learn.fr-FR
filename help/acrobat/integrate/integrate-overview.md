@@ -1,5 +1,5 @@
 ---
-title: Présentation des intégrations
+title: Présentation des intégrations Acrobat
 description: Intégration d’Acrobat avec les applications Box, Dropbox, Google Drive, OneDrive et Microsoft
 role: User
 product: adobe acrobat
@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '281'
 ht-degree: 1%
 
 ---
@@ -75,7 +75,7 @@ Découvrez comment tous les membres de votre équipe peuvent manipuler sans prob
     <div>
     <a href="outlook.md"><strong>Convertir les e-mails et les pièces jointes en PDF dans [!DNL Outlook]</strong></a>
     </div>
-    <em>Apprenez à diffuser des informations de manière plus professionnelle et plus sécurisée dans [!DNL Outlook]</em>
+    <em>Apprenez à fournir des informations de manière plus professionnelle et plus sécurisée dans [!DNL Outlook]</em>
     <br>
   </td>
   <td>

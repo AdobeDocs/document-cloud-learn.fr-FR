@@ -1,5 +1,5 @@
 ---
-title: Présentation des intégrations
+title: Présentation des intégrations Sign
 description: Découvrez comment ajouter Adobe Sign à vos systèmes, processus et applications existants
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 3717f0805eec8d413fe55c1f0cc2bac24199abc0
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '546'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Image d’intégration Sign](../assets/Hero-Integrate.png)
 
-Vous pouvez utiliser Adobe Sign dans d’autres applications que votre entreprise utilise déjà, notamment Microsoft, Salesforce, Workday et Marketo. Découvrez comment simplifier vos workflows de signature électronique dans ces guides et tutoriels d’intégration.
+You can use Adobe Sign inside other applications your organization already uses, such as Microsoft, Salesforce, Workday, and Marketo to name a few. Découvrez comment simplifier vos workflows de signature électronique dans ces guides et tutoriels d’intégration.
 
 >[!NOTE]
 > Si vous ne parvenez pas à accéder à l’une de ces fonctionnalités, vérifiez auprès de l’administrateur de votre organisation que l’intégration est activée.
@@ -52,7 +52,7 @@ Vous pouvez utiliser Adobe Sign dans d’autres applications que votre entrepris
       <img alt="Envoyer pour signature dans SharePoint Online" src="../assets/Sending-in-SP.png" />
     </a>
     <div>
-    <a href="send-for-signature-with-sharepoint-online.md"><strong>Envoyer pour signature dans SharePoint Online</strong></a>
+    <a href="send-for-signature-with-sharepoint-online.md"><strong>Send for signature in SharePoint Online</strong></a>
     </div>
     <em>Envoyer un document pour signature directement dans SharePoint Online</em>
     <br>
@@ -86,7 +86,7 @@ Vous pouvez utiliser Adobe Sign dans d’autres applications que votre entrepris
     <div>
     <a href="documentautomation.md"><strong>Automatisation des documents avec Adobe Sign pour Microsoft Power Platform</strong></a>
     </div>
-    <em>Découvrez comment activer et utiliser les connecteurs Adobe Sign et Adobe PDF Tools pour Microsoft Power Apps</em>
+    <em>Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft Power Apps</em>
     <br>
   </td>
 </tr>
@@ -123,7 +123,7 @@ Vous pouvez utiliser Adobe Sign dans d’autres applications que votre entrepris
     <div>
     <a href="set-up-merging-map.md"><strong>Définition du mappage de fusion</strong></a>
     </div>
-    <em>Fusionner des données de Salesforce directement dans un accord</em>
+    <em>Merge data from Salesforce directly into an agreement</em>
     <br>
   </td>
 </tr>
@@ -178,13 +178,13 @@ Vous pouvez utiliser Adobe Sign dans d’autres applications que votre entrepris
 </tr>
 </table>
 
-## Tutoriels d’intégration et guides de configuration Marketo
+## Marketo integration tutorials &amp; configuration guides
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="marketo-salesforce-sms.md">
-      <img alt="Envoi de notifications à l’aide d’Adobe Sign pour Salesforce et Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
+      <img alt="Send notifications using Adobe Sign for Salesforce and Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
     <a href="marketo-salesforce-sms.md"><strong>Envoi de notifications à l’aide d’Adobe Sign pour Salesforce et Marketo</strong></a>

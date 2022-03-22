@@ -1,23 +1,23 @@
 ---
-title: Présentation de la prise en main
-description: Découvrez comment envoyer des documents, les signer et les suivre rapidement grâce à ces tutoriels détaillés
+title: Présentation de la prise en main d’Acrobat Sign
+description: Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivre des documents en un clin d’oeil
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 08fed7bdd64ee6d4aff253c34a6205bc155adf8e
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '340'
 ht-degree: 0%
 
 ---
 
 # Présentation de la prise en main
 
-![Signer la prise en main de l’image](../assets/Hero-GettingStarted.png)
+![Image de prise en main Sign](../assets/Hero-GettingStarted.png)
 
-Découvrez rapidement comment envoyer des documents, les signer et en effectuer le suivi à l’aide de ces courts tutoriels détaillés. Visitez rapidement Adobe Sign, puis envoyez un document à une ou plusieurs personnes. Ce contenu est conçu pour faciliter les processus de signature électronique.
+Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivre des documents en un clin d’oeil. Suivez la visite guidée d&#39;Adobe Sign, puis lancez-vous dans l&#39;envoi d&#39;un document à une ou plusieurs personnes. Ce contenu est conçu pour faciliter les workflows de signature électronique.
 
 ## Envoi
 
@@ -25,12 +25,12 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Visite rapide d'Adobe Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Présentation rapide d’Adobe Sign" src="../assets/Quick-Tour.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Visite rapide d'Adobe Sign</strong></a>
+    <a href="quick-tour.md"><strong>Présentation rapide d’Adobe Sign</strong></a>
     </div>
-    <em>Visitez rapidement l'interface d'Adobe Sign pour vous familiariser</em>
+    <em>Suivez la visite guidée de l'interface d'Adobe Sign pour prendre en main votre logiciel</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <div>
     <a href="send-to-single-recipient.md"><strong>Envoi à un destinataire unique</strong></a>
     </div>
-    <em>Rendez-vous et découvrez à quel point il est facile d’envoyer un document pour signature.</em>
+    <em>Découvrez à quel point il est facile d’envoyer un document pour signature</em>
     <br>
   </td>
   <td>
@@ -50,7 +50,7 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Envoi à plusieurs destinataires</strong></a>
     </div>
-    <em>Envoyer un document pour signature électronique à plus d’une personne dans l’ordre exact souhaité</em>
+    <em>Envoyez un document pour signature électronique à plusieurs personnes dans l'ordre souhaité</em>
     <br>
   </td>
 </tr>
@@ -62,16 +62,16 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <div>
     <a href="new-sender.md"><strong>Prise en main d’Adobe Sign pour les nouveaux expéditeurs</strong></a>
     </div>
-    <em>Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs d'Adobe Sign.</em>
+    <em>Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs dans Adobe Sign</em>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Grayspacer.png" />
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
   <td>
-    <img alt="Espacement" src="../assets/Grayspacer.png" />
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -99,7 +99,7 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <div>
     <a href="fill-and-sign.md"><strong>Remplissage et signature d’un document</strong></a>
     </div>
-    <em>Remplissez les formulaires et ajoutez votre signature électronique aux documents.</em>
+    <em>Remplissage de formulaires et apposition de votre signature électronique sur les documents</em>
     <br>
   </td>
   <td>
@@ -109,7 +109,7 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <div>
     <a href="sign-in-person.md"><strong>Obtention d’une signature en personne</strong></a>
     </div>
-    <em>Obtenir la signature de quelqu'un d'autre en personne à l'aide de l'application mobile Adobe Sign</em>
+    <em>Obtenir la signature d’une autre personne en personne à l’aide de l’application mobile Adobe Sign</em>
     <br>
   </td>
 </tr>
@@ -121,21 +121,21 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Qu’est-ce qu’une signature numérique ?</strong></a>
     </div>
-    <em>En savoir plus sur les signatures numériques basées sur certificat</em>
+    <em>En savoir plus sur les signatures numériques à base de certificat</em>
     <br>
   </td>
   <td>
     <a href="sign-with-a-stamp.md">
-      <img alt="Signature à l’aide d’un tampon" src="../assets/Stamp.png" />
+      <img alt="Signature avec un tampon" src="../assets/Stamp.png" />
     </a>
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Signature à l’aide d’un tampon</strong></a>
+    <a href="sign-with-a-stamp.md"><strong>Signature avec un tampon</strong></a>
     </div>
     <em>Utiliser des tampons pour marquer un document approuvé ou complété</em>
      <br>
   </td> 
   <td>
-    <img alt="Espacement" src="../assets/Grayspacer.png" />
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>
@@ -153,7 +153,7 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <div>
     <a href="manage-and-track.md"><strong>Gestion et suivi de vos accords</strong></a>
     </div>
-    <em>Découvrez comment gérer et suivre les accords envoyés pour signature.</em>
+    <em>Découvrez comment gérer et suivre les accords envoyés pour signature</em>
     <br>
   </td>
   <td>
@@ -163,7 +163,7 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Création d’un modèle de document</strong></a>
     </div>
-    <em>Création d’un modèle de document réutilisable pour garantir la rapidité et la cohérence de votre entreprise</em>
+    <em>Créez un modèle de document réutilisable pour offrir rapidité et cohérence à votre entreprise</em>
     <br>
   </td>
   <td>
@@ -174,7 +174,7 @@ Découvrez rapidement comment envoyer des documents, les signer et en effectuer 
     <a href="modify-in-flight.md"><strong>Modification d’un document déjà envoyé pour signature</strong></a>
     </div>
     <br>
-    <em>Modification du flux de travaux d’un document déjà en cours</em>
+    <em>Modifier le flux de travail pour un document déjà en cours</em>
   </td>
 </tr>
 </table>

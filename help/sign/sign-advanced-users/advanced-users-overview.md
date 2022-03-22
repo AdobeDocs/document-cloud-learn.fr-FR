@@ -1,5 +1,5 @@
 ---
-title: Présentation des tâches avancées
+title: Présentation des tâches avancées Sign
 description: Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer des transactions de signature et créer et gérer des modèles de document
 role: User
 product: adobe sign
@@ -7,9 +7,9 @@ solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
