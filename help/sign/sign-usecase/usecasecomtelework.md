@@ -1,24 +1,23 @@
 ---
-title: Accord de télétravail gouvernemental
-description: Collectez efficacement les signatures de tous vos employés sur les contrats de télétravail, les mises à jour des stratégies, etc
+title: Accord de télétravail commercial
+description: Collectez efficacement les signatures de tous vos employés sur les contrats de télétravail
 role: User
 product: adobe sign
 solution: Document Cloud
 level: Intermediate
-thumbnail: 33808.jpg
-exl-id: 4efd2d9a-715b-4d1a-9c6b-0ff5795cbf3b
+thumbnail: 33978.jpg
 source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
 
-# Accord de télétravail gouvernemental
+# Contrat de télétravail commercial
 
 Apprenez à recueillir efficacement les signatures de tous vos employés sur des contrats de télétravail, des mises à jour de règles, etc. Vous devez d’abord créer un modèle de document réutilisable, rapidement accessible depuis votre bibliothèque de documents. Deuxièmement, vous pouvez envoyer le nouveau modèle de document pour signature à des centaines d’employés à l’aide de Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33808?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33978?hidetitle=true)
 
 Cliquez ici pour télécharger la recette du PDF étape par étape pour les accords de télétravail.
 

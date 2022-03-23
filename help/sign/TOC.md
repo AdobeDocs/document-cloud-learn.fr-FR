@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Adobe Sign Tutorials
-source-git-commit: ff57490a32735815d354ba7b620ec226c9998d15
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 6%
 
 ---
@@ -115,6 +115,7 @@ ht-degree: 6%
       + Commercial {#com}
          + [Contrats et formulaires de demande](sign-usecase/usecasecomcontracts.md)
          + [Accords de stratégie](sign-usecase/usecasecompolicy.md)
+         + [Accord de télétravail](sign-usecase/usecasecomtelework.md)
    + Vitrine de cas {#use-case}
       + [Vitrine](sign-usecase/use-case-showcase.md)
 + Développement {#develop}
@@ -126,5 +127,5 @@ ht-degree: 6%
    + [Aperçu](deploy-overview.md)
 + Application mobile {#mobile}
    + [Aperçu](mobile/mobile-overview.md)
-   + Tutoriels mobiles {#mobile-tutorials}
+   + Tutoriels Mobile {#mobile-tutorials}
       + [Liquid Mode dans Adobe Sign](mobile/liquidmode.md)

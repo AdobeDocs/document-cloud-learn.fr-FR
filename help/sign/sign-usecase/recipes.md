@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d8abe34e1228a32f5cf4fecfe7fcad67884d0bc5
+source-git-commit: ab0f7428b37d4069879c31bf063ebdb1bc39bd2c
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '243'
 ht-degree: 0%
 
 ---
@@ -110,12 +110,17 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
     <div>
     <a href="usecasecompolicy.md"><strong>Accords de stratégie</strong></a>
     </div>
-    <em>Collectez efficacement les signatures de tous vos employés sur les contrats de télétravail, les mises à jour des stratégies, etc</em>
+    <em>Collectez efficacement les signatures de tous vos employés sur les contrats et les mises à jour</em>
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <a href="usecasecomtelework.md">
+      <img alt="Accord de télétravail" src="../assets/UC_MegasignR.png" />
+    </a>
     <div>
+    <a href="usecasecomtelework.md"><strong>Accord de télétravail</strong></a>
+    </div>
+    <em>Collectez efficacement les signatures de tous vos employés sur les contrats de télétravail</em>
     <br>
   </td>
 </tr>
