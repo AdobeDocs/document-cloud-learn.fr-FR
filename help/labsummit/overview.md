@@ -1,21 +1,21 @@
 ---
-title: Présentation et présentation des laboratoires
+title: Présentation et introduction en laboratoire
 description: Découvrez quelques astuces et conseils pour utiliser Adobe Document Cloud
-solution: Document Cloud
+solution: Acrobat, Acrobat Sign
 exl-id: 254bfc9f-fb19-4e4e-a91f-b08a1b3da87f
-source-git-commit: 99ed9ab8bc276df2011e8a693c043a9d3e1fba17
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Présentation et présentation des laboratoires
+# Présentation et introduction en laboratoire
 
-Saviez-vous que le Document Cloud et ses produits de base, Acrobat et Sign, sont parmi les outils de productivité les plus utilisés aujourd’hui ? Ils sont utilisés par les équipes commerciales et marketing de plus de 80 % des entreprises du Fortune 100.
+Saviez-vous que Document Cloud et ses produits phares, Acrobat et Sign, comptent parmi les outils de productivité les plus couramment utilisés aujourd’hui ? Elles sont utilisées par les équipes commerciales et marketing de plus de 80 % des entreprises du Fortune 100.
 
-Dans ce laboratoire, passez au niveau supérieur de votre productivité et de votre créativité en apprenant à :
+Dans ce laboratoire, donnez une nouvelle dimension à votre productivité et à votre créativité en apprenant à :
 
-* Numérique avec PDF
-* Autres fonctionnalités du format PDF
-* Transforme les expériences des clients et des employés
+* Misez sur le digital avec PDF
+* Allez plus loin avec PDF
+* Transforme les expériences des clients et des collaborateurs

@@ -1,22 +1,22 @@
 ---
-title: Délégation à quelqu’un d’autre
-description: Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite l’acheminer pour signature.
+title: Déléguer à un autre
+description: Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite router le document pour signature
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Délégation à quelqu’un d’autre
+# Délégation à une autre personne
 
-Découvrez comment utiliser le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite l’acheminer pour signature.
+Apprenez à utiliser le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite l’acheminer pour signature.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
 

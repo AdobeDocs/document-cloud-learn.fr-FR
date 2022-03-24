@@ -1,25 +1,25 @@
 ---
-title: Aide au réemploi
-description: Aidez les citoyens à obtenir l'aide dont ils ont besoin sans se conformer aux formulaires d'application entièrement numériques qui peuvent être utilisés en temps réel
+title: Assistance au réemploi
+description: Aidez les administrés à obtenir l'aide dont ils ont besoin, sans être au point avec des formulaires d'inscription 100 % digitaux, qui peuvent être mis à disposition en quelques jours
 role: User
 product: adobe sign
-solution: Document Cloud
+solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
 
 ---
 
-# Aide au retour au travail
+# Assistance au réemploi
 
-Aidez les citoyens à obtenir l&#39;aide dont ils ont besoin sans se conformer aux formulaires d&#39;application entièrement numériques qui peuvent être utilisés en direct dans les jours qui suivent. Découvrez comment créer un formulaire web en ligne pouvant être complété **et** signé sans impression ni envoi.
+Aidez les administrés à obtenir l&#39;aide dont ils ont besoin, sans être au point avec des formulaires d&#39;inscription 100 % digitaux, qui peuvent être mis à disposition en quelques jours. Découvrez comment créer un formulaire web en ligne à compléter **et** signé sans impression ni envoi de courrier.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?hidetitle=true)
 
-Cliquez pour télécharger la recette PDF détaillée pour l’aide au réemploi.
+Cliquez ici pour télécharger la recette du PDF étape par étape pour obtenir de l&#39;aide pour le réemploi.
 
-[![Télécharger la recette PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)
+[![Télécharger la recette du PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)

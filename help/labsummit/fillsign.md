@@ -1,66 +1,66 @@
 ---
-title: Remplissage et signature d’un formulaire sur un poste de travail ou un appareil mobile
-description: Remplissage, signature et envoi rapides de formulaires depuis votre poste de travail, votre navigateur ou votre application mobile
-solution: Document Cloud
+title: Remplissage et signature de formulaires sur ordinateur et appareils mobiles
+description: Remplissez, signez et envoyez rapidement des formulaires depuis votre ordinateur, votre navigateur ou votre application mobile
+solution: Acrobat Sign
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 790f1dd6bdf8755c2a4891be33b9c3fa0052ae9b
+source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
 
 ---
 
-# Remplissage et signature d’un formulaire sur un poste de travail ou un appareil mobile
+# Remplissage et signature de formulaires sur ordinateur et appareils mobiles
 
-Remplissez, signez et envoyez rapidement des formulaires depuis votre poste de travail, votre navigateur ou votre application mobile. Adobe Sensei reconnaît et enregistre les données couramment utilisées pour une utilisation dans un formulaire PDF. Créez une signature en dessinant, en important une numérisation ou en saisissant votre nom, puis appliquez-la de manière sécurisée à un document.
+Remplissez, signez et envoyez rapidement des formulaires depuis votre ordinateur, votre navigateur ou votre application mobile. Adobe Sensei reconnaît et enregistre les données couramment utilisées pour les utiliser dans un PDF. Créez une signature en dessinant, en important une numérisation ou en tapant votre nom, puis appliquez-la de manière sécurisée à un document.
 
-Dans cet exercice, vous importerez, remplissez, signez et envoyez un formulaire à partir de votre appareil mobile.
+Dans cet exercice, vous allez importer, remplir, signer et envoyer un formulaire à l’aide de votre appareil mobile.
 
-Voici les [fichiers de démonstration](assets/03_FillSignScan.zip) pour cet exercice.
+Voici le fichier [fichiers de démonstration](assets/03_FillSignScan.zip) pour cet exercice.
 
-**Étape 1 :** Téléchargez l’ [!DNL Adobe Fill & Sign] application à partir de la  [!DNL Apple App] boutique ou  [!DNL Google Play].
+**Étape 1 :** Téléchargez le fichier [!DNL Adobe Fill & Sign] de l’application [!DNL Apple App] stocker ou [!DNL Google Play].
 
-**Étape 2 :** Ouvrez l&#39;application, appuyez sur  **[!UICONTROL Sélectionner un formulaire à remplir]**.
+**Étape 2 :** Ouvrez l’application, appuyez sur . **[!UICONTROL Sélectionner un formulaire à remplir]**.
 
-![Image de téléchargement](assets/mobilescan.jpg)
+![Télécharger une image doc](assets/mobilescan.jpg)
 
-**Étape 3 :** Sélectionnez l’une des options d’importation. Pour cet exercice, nous allons prendre une photo.
+**Étape 3 :** Choisissez l’une des options d’importation. Pour cet exercice, nous allons &quot;prendre une photo&quot;.
 
-![Image Etape 2F](assets/Step2F.jpg)
+![Image de l’étape 2F](assets/Step2F.jpg)
 
-**Étape 4 :** Utilisez le bouton blanc pour prendre une photo, puis appuyez sur  **[!UICONTROL Utiliser la photo]**. Appuyez sur **[!UICONTROL Terminé]** dans le coin supérieur droit.
+**Étape 4 :** Utilisez le bouton blanc pour prendre une photo, puis appuyez sur **[!UICONTROL Utiliser la photo]**. Appuyez sur **[!UICONTROL Terminé]** dans le coin supérieur droit.
 
-**Étape 5 :** Au bas de l&#39;application, appuyez sur l&#39;outil  **** Recadrage et utilisez les repères pour recadrer l&#39;image. Une fois terminé, appuyez sur **[!UICONTROL Terminé]**.
+**Étape 5 :** Au bas de l’application, appuyez sur l’icône **[!UICONTROL Recadrer]** et utilisez les repères pour recadrer l’image. Appuyez sur **[!UICONTROL Terminé]** lorsque vous avez terminé.
 
-![image de document local](assets/localdoc.jpg)
+![image doc locale](assets/localdoc.jpg)
 
-**Étape 6 :** Utilisez l’outil Baguette magique pour nettoyer l’image si nécessaire. Une fois terminé, appuyez sur **[!UICONTROL Terminé]**.
+**Étape 6 :** Utilisez l’outil Baguette magique pour nettoyer l’image si nécessaire. Appuyez sur **[!UICONTROL Terminé]** lorsque vous avez terminé.
 
-**Étape 7 :** Appuyez n’importe où sur la page pour créer un champ et ajouter les informations nécessaires à votre document. Sélectionnez l’ellipse pour afficher d’autres options.
+**Étape 7 :** Appuyez n’importe où sur la page pour créer un champ et ajouter les informations nécessaires à votre document. Sélectionnez l’ellipse pour afficher plus d’options.
 
-![Remplir l’image](assets/fill.jpg)
+![Image de fond](assets/fill.jpg)
 
 
-**Étape 8 :** Appuyez sur le bouton  **** Signatures au bas de l’application pour ajouter votre signature.
+**Étape 8 :** Appuyez sur **[!UICONTROL Signature]** au bas de l’application pour ajouter votre signature.
 
 ![Créer une image de signature](assets/createsign.jpg)
 
-**Étape 9 :** Utilisez un stylet ou votre doigt pour signer le champ de signature. Déplacez et placez le champ de signature.
+**Étape 9 :** Utilisez un stylet ou le doigt pour signer dans le champ de signature. Déplacez et placez le champ de signature.
 
 ![Image de signature](assets/sign.jpg)
 
-**Étape 10 :** Appuyez sur le bouton  **** Profil en bas de l’application pour obtenir des valeurs préremplies telles que votre nom et votre date. Il vous suffit de remplir cette information une fois, puis de l’utiliser sur tous les futurs formulaires que vous compléterez avec l’application Fill &amp; Sign.
+**Étape 10 :** Appuyez sur **[!UICONTROL Profil]** au bas de l’application pour obtenir des valeurs préremplies telles que votre nom et votre date. Il vous suffit de remplir ces informations une seule fois, puis de les utiliser sur tous les futurs formulaires que vous compléterez avec l’application Fill &amp; Sign.
 
 ![rempli](assets/filled.jpg)
 
-![pré-pop](assets/prepop.jpg)
+![pre pop](assets/prepop.jpg)
 
-**Étape 11 :** Une fois le formulaire rempli, appuyez sur le bouton Partager dans le coin inférieur droit pour envoyer un e-mail.
+**Étape 11 :** Une fois le formulaire rempli, appuyez sur le bouton Partager en bas à droite pour envoyer le formulaire par e-mail.
 
-## Récupérer :
+## Récapitulatif :
 
-* Ouvrez un fichier à partir d’un courrier électronique ou prenez une photo d’un formulaire papier avec l’appareil photo de votre appareil.
+* Ouvrez un fichier joint à un e-mail ou prenez en photo un formulaire imprimé avec la caméra de votre appareil mobile.
 
-* Appuyez sur cette option pour saisir du texte ou des coches dans les champs de formulaire. Pour plus de vitesse, utilisez des entrées de remplissage automatique personnalisées.
+* Touchez pour saisir du texte ou des coches dans les champs de formulaire. Pour aller encore plus vite, utilisez la saisie personnalisée pour le remplissage automatique.
 
-* Créez votre signature à l’aide de votre doigt ou de votre stylet. Ensuite, appliquez-la au formulaire ou ajoutez vos initiales là où nécessaire.
+* Créez votre signature avec le doigt ou un stylet. puis apposez-la sur le formulaire ou paraphez aux endroits requis.
