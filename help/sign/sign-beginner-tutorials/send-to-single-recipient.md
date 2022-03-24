@@ -7,16 +7,16 @@ solution: Document Cloud
 level: Beginner
 thumbnail: 341295.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
-source-git-commit: 778f5d16056da5ef77490d8f00385bdff2ac73e7
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
 # Envoi à un destinataire unique
 
-Processus le plus courant dans Adobe Sign : envoi d’un document pour signature. Dans ce tutoriel vidéo, apprenez à charger un document, à ajouter des champs de formulaire et à l’envoyer pour signature.
+Processus le plus courant dans Adobe Sign : envoi d’un document pour signature. Découvrez comment télécharger un document, ajouter des champs de formulaire et l’envoyer pour signature.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341295?hidetitle=true)
 

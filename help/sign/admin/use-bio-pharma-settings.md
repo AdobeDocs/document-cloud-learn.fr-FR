@@ -1,21 +1,21 @@
 ---
 title: Utilisation des paramètres Bio-Pharma
-description: Découvrez les paramètres Bio-pharma qui vous permettent de configurer Adobe Sign pour qu'il réponde aux exigences de la FDA 21 CFR Part 11.
+description: Découvrez les paramètres Bio-Pharma qui vous permettent de configurer Adobe Sign pour répondre aux exigences de la règlementation 21 CFR Part 11 de la FDA
 role: Admin
 product: adobe sign
 level: Experienced
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: 30c606ec458931ac352cd99e7aec5b38074db262
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
 # Utilisation des paramètres Bio-Pharma
 
-Dans ce tutoriel vidéo, découvrez les paramètres Bio-pharma qui vous permettent de configurer Adobe Sign pour qu&#39;il réponde aux exigences de la FDA 21 CFR Part 11.
+Découvrez les paramètres Bio-Pharma qui vous permettent de configurer Adobe Sign pour répondre aux exigences de la règlementation 21 CFR Part 11 de la FDA.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21748?hidetitle=true)
 

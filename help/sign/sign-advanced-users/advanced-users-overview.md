@@ -7,9 +7,9 @@ solution: Document Cloud
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '242'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
     <div>
     <a href="setting-up-routing.md"><strong>Configurer l'ordre de gamme</strong></a>
     </div>
-    <em>Paramétrer l’ordre d’acheminement pour plusieurs signataires</em>
+    <em>Paramétrer l’ordre d’acheminement de plusieurs signataires</em>
     <br>
   </td>
   <td>

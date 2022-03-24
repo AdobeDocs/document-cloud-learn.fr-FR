@@ -1,22 +1,22 @@
 ---
 title: Paramètres généraux
-description: Découvrez comment modifier les paramètres globalement pour l’ensemble de votre organisation ou pour des groupes spécifiques.
+description: Découvrez comment modifier les paramètres de manière globale pour l’ensemble de votre organisation ou pour des groupes spécifiques
 role: Admin
 product: adobe sign
 level: Intermediate, Experienced
 topic-revisit: Administration
 thumbnail: 17358.jpg
 exl-id: 6500d797-0292-4a1b-8922-5c92a962cc8a
-source-git-commit: 0ed358068fefe5ce52f7afb0ecdba7d5a5b750bf
+source-git-commit: d180ee4a986ea9c1bddd30387359bafdda56ffc7
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '55'
 ht-degree: 3%
 
 ---
 
 # Paramètres généraux
 
-Dans ce tutoriel vidéo, apprenez à modifier globalement les paramètres pour l’ensemble de votre entreprise ou pour des groupes spécifiques.
+Découvrez comment modifier les paramètres de manière globale pour l’ensemble de votre organisation ou pour des groupes spécifiques.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17358?hidetitle=true)
 
