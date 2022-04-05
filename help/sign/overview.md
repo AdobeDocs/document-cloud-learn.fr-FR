@@ -1,25 +1,25 @@
 ---
 title: Didacticiels
-description: Collection de tutoriels, de webinaires et de cas d’utilisation conçus pour mettre rapidement à jour les débutants et les administrateurs sur Adobe Sign
+description: Collection de tutoriels, webinaires et cas d’usage conçus pour offrir rapidement aux débutants et administrateurs des fonctionnalités avancées sur Acrobat Sign
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: ec2ddf579a10d659ac8f92f2c8d7dcade74c56b9
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '198'
-ht-degree: 6%
+ht-degree: 4%
 
 ---
 
-# Didacticiels Adobe Sign
+# Tutoriels Acrobat Sign
 
-![Image de Adobe Sign Hero](assets/Hero_Sign.jpg)
+![Image héros Acrobat Sign](assets/Hero_Sign.jpg)
 
-Adobe Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoins de votre entreprise avec des intégrations, des API, une authentification avancée, des fonctionnalités d’administration supplémentaires, etc. Vous y trouverez un large éventail d’expériences d’apprentissage conçues pour permettre aux débutants et aux administrateurs d’être rapidement à la fine pointe de la technologie sur Adobe Sign.
+Acrobat Sign, une solution Adobe Document Cloud, s’adapte aux besoins de votre entreprise par le biais d’intégrations, d’API, d’une authentification avancée, de fonctionnalités d’administration supplémentaires, etc. Vous trouverez ici un large éventail d’expériences d’apprentissage conçues pour offrir rapidement aux débutants et aux administrateurs des informations actualisées sur Acrobat Sign.
 
-## Chemins d’apprentissage
+## Pistes de formation
 
 <table style="table-layout:fixed">
 <tr>
@@ -30,7 +30,7 @@ Adobe Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoin
     <div>
     <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Prise en main</strong></a>
     </div>
-    <em>Découvrez comment envoyer des documents, les signer et en effectuer le suivi rapidement.</em>
+    <em>Découvrez rapidement comment envoyer, signer et suivre des documents.</em>
     <br>
   </td>
   <td>
@@ -40,7 +40,7 @@ Adobe Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoin
     <div>
     <a href="sign-advanced-users/advanced-users-overview.md"><strong>Tâches avancées</strong></a>
     </div>
-    <em>Aller au-delà des fondamentaux avec des tâches spécifiques et l'automatisation</em>
+    <em>Dépassez les fondamentaux avec des tâches spécifiques et l’automatisation</em>
     <br>
   </td>  
   <td>
@@ -62,7 +62,7 @@ Adobe Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoin
     <div>
     <a href="digitalid/digitalid-overview.md"><strong>ID numérique</strong></a>
     </div>
-    <em>Découvrez comment utiliser des identifications numériques du monde entier avec Adobe Sign</em>
+    <em>Découvrez comment utiliser des identifications numériques du monde entier avec Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -72,17 +72,17 @@ Adobe Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoin
     <div>
     <a href="integrations/integrations-overview.md"><strong>Intégrations</strong></a>
     </div>
-    <em>Ajout de Adobe Sign directement dans d’autres applications déjà utilisées par votre entreprise</em>
+    <em>Ajoutez Acrobat Sign directement dans d’autres applications que votre entreprise utilise déjà</em>
     <br>
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Industries et départements" src="assets/AS_Title_Industry.png" />
+      <img alt="Industries et services" src="assets/AS_Title_Industry.png" />
     </a>
     <div>
-    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industries et départements</strong></a>
+    <a href="sign-usecase/expand-inspire-overview.md"><strong>Industries et services</strong></a>
     </div>
-    <em>Explorez les cas d’utilisation et les recettes de l’industrie et des départements du monde réel pour découvrir les possibilités offertes par les signatures électroniques.</em>
+    <em>Explorez des cas d’usage et des recettes réalistes dans différents services pour découvrir les possibilités offertes par les signatures électroniques</em>
     <br>
   </td>
 </tr>
@@ -94,17 +94,17 @@ Adobe Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoin
     <div>
     <a href="develop/develop-overview.md"><strong>Développement</strong></a>
     </div>
-    <em>Obtenir des ressources de développement sur les E/S Adobe Sign</em>
+    <em>Obtenir des ressources de développement sur Acrobat Sign I/O</em>
     <br>
   </td>
    <td>
     <a href="deploy-overview.md">
-      <img alt="Déployer" src="assets/AS_Title_Deploy.png" />
+      <img alt="Déploiement" src="assets/AS_Title_Deploy.png" />
     </a>
     <div>
-    <a href="deploy-overview.md"><strong>Déployer</strong></a>
+    <a href="deploy-overview.md"><strong>Déploiement</strong></a>
     </div>
-    <em>Informations et meilleures pratiques pour le déploiement d’Adobe Sign au sein de votre entreprise</em>
+    <em>Insights et bonnes pratiques pour le déploiement d’Acrobat Sign au sein de votre entreprise</em>
     <br>
   </td>
   <td>
@@ -114,7 +114,7 @@ Adobe Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoin
     <div>
     <a href="mobile/mobile-overview.md"><strong>Application mobile</strong></a>
     </div>
-    <em>Envoi, suivi et obtention de mises à jour en temps réel sur votre appareil mobile</em>
+    <em>Envoyez, suivez et recevez des notifications en temps réel sur votre appareil mobile</em>
     <br>
   </td>  
 </tr>

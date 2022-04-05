@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -26,4 +26,4 @@ Découvrez ce nouveau monde réel. [Accord de télétravail](https://experiencel
 
 >[!TIP]
 >
->Cette vidéo fait partie du [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) et [Prise en main d’Adobe Sign pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) cours disponibles gratuitement sur Experience League !
+>Cette vidéo fait partie du [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) et [Prise en main d’Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) cours disponibles gratuitement sur Experience League !

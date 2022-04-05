@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 41263.jpg
 exl-id: a9a112e8-b599-4578-86da-8a8c6f22059e
-source-git-commit: b4413d3243190c5892a3ab4635ad3f03bb5a5f7a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Envoyer pour signature dans SharePoint Online
 
-Découvrez comment rationaliser les workflows de documents en envoyant un document pour signature directement dans SharePoint Online.
+Découvrez comment simplifier les workflows documentaires en envoyant un document pour signature directement dans SharePoint Online.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41263?hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Utilisation d&#39;Adobe Sign Inside Microsoft Apps](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Utilisation D’Acrobat Sign Dans Les Applications Microsoft](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.2) qui est disponible gratuitement sur Experience League !

@@ -1,5 +1,5 @@
 ---
-title: Envoi de rappels à l’aide d’Adobe Sign pour Microsoft Dynamics 365 et Marketo
+title: Envoyer des rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo
 description: Découvrez comment envoyer un rappel par e-mail lorsqu’un accord n’est pas signé après un certain temps
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 3%
 
 ---
 
-# Envoi de rappels à l’aide d’Adobe Sign pour Microsoft Dynamics 365 et Marketo
+# Envoyer des rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo
 
-Découvrez comment envoyer un rappel par e-mail lorsqu’un accord n’est pas signé après un certain temps. Cette intégration utilise Adobe Sign, Adobe Sign pour Microsoft Dynamics, Marketo et Marketo Microsoft Dynamics Sync.
+Découvrez comment envoyer un rappel par e-mail lorsqu’un accord n’est pas signé après un certain temps. Cette intégration utilise Acrobat Sign, Acrobat Sign pour Microsoft Dynamics, Marketo et Marketo Microsoft Dynamics Sync.
 
 ## Conditions préalables
 
@@ -25,13 +25,13 @@ Découvrez comment envoyer un rappel par e-mail lorsqu’un accord n’est pas s
 
    Des informations et le dernier plug-in pour Microsoft Dynamics Sync sont disponibles [ici.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html)
 
-1. Installer [Adobe Sign pour Microsoft Dynamics](https://appsource.microsoft.com/fr-fr/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
+1. Installer [Acrobat Sign pour Microsoft Dynamics](https://appsource.microsoft.com/fr-fr/product/dynamics-365/adobesign.f3b856fc-a427-4d47-ad4b-d5d1baba6f86).
 
    Des informations sur ce plugin sont disponibles [ici.](https://helpx.adobe.com/ca/sign/using/microsoft-dynamics-integration-installation-guide.html)
 
 ## Recherche de l’objet personnalisé
 
-Une fois les configurations Marketo Microsoft Dynamics Sync et Adobe Sign pour Dynamics terminées, deux nouvelles options s’affichent dans le terminal d’administration de Marketo.
+Une fois les configurations Marketo Microsoft Dynamics Sync et Acrobat Sign pour Dynamics terminées, deux nouvelles options s’affichent dans le terminal d’administration de Marketo.
 
 ![Administrateur](assets/adminTerminal.png)
 
@@ -205,4 +205,4 @@ Parce que le filtre de campagne **Jours avant expiration** a été utilisé, vou
 
 >[!TIP]
 >
->Ce tutoriel fait partie du cours [Accélérez les cycles de vente avec Adobe Sign pour Microsoft Dynamics et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) qui est disponible gratuitement sur Experience League !
+>Ce tutoriel fait partie du cours [Accélérez les cycles de vente avec Acrobat Sign pour Microsoft Dynamics et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) qui est disponible gratuitement sur Experience League !

@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Signer une image avancée](../assets/Hero-Advanced.png)
 
-Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer des transactions de signature et créer et gérer des modèles de document. Ces tutoriels s’adressent à tous ceux qui connaissent déjà les principes de base de l’envoi et de la demande de signatures et qui souhaitent découvrir d’autres méthodes de travail pour Adobe Sign.
+Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer des transactions de signature et créer et gérer des modèles de document. Ces tutoriels s’adressent à tous ceux qui connaissent déjà les principes de base de l’envoi et de la demande de signatures et souhaitent découvrir d’autres méthodes de travail pour Acrobat Sign.
 
 ## Envoi
 
@@ -78,12 +78,12 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
   </td> 
   <td>
     <a href="adobe-sign-text-tagging.md">
-      <img alt="Balisage de texte Adobe Sign" src="../assets/Text-Tagging.png" />
+      <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
   </a>
     <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Adobe Sign</strong></a>
+    <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Acrobat Sign</strong></a>
     </div>
-    <em>Création de champs de formulaire Adobe Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
+    <em>Création de champs de formulaire Acrobat Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
     <br>
   </td> 
 </table>

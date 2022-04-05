@@ -1,5 +1,5 @@
 ---
-title: Envoyer des rappels à l’aide du Guide de configuration d’Adobe Sign pour Salesforce et Marketo
+title: Envoyer des rappels à l’aide du Guide de configuration d’Acrobat Sign pour Salesforce et Marketo
 description: Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps
 role: Admin
 product: adobe sign
@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
 workflow-type: tm+mt
 source-wordcount: '953'
 ht-degree: 1%
 
 ---
 
-# Envoyer des rappels à l’aide du Guide de configuration d’Adobe Sign pour Salesforce et Marketo
+# Envoyer des rappels à l’aide du Guide de configuration d’Acrobat Sign pour Salesforce et Marketo
 
-Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps. Cette intégration utilise Adobe Sign, Adobe Sign pour Salesforce, Marketo et Marketo et Salesforce Sync.
+Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps. Cette intégration utilise Acrobat Sign, Acrobat Sign pour Salesforce, Marketo et Marketo et Salesforce Sync.
 
 ## Conditions préalables
 
@@ -25,13 +25,13 @@ Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accor
 
    Informations et le dernier plug-in pour Salesforce Sync est disponible [ici.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
 
-1. Installez Adobe Sign pour Salesforce.
+1. Installez Acrobat Sign pour Salesforce.
 
    Des informations sur ce plugin sont disponibles [ici.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
 
 ## Recherche de l’objet personnalisé
 
-Une fois les configurations Marketo Salesforce Sync et Adobe Sign pour Salesforce terminées, plusieurs nouvelles options s’affichent dans le portail Marketo Admin Terminal.
+Une fois les configurations Marketo Salesforce Sync et Acrobat Sign pour Salesforce terminées, plusieurs nouvelles options s’affichent dans le portail Marketo Admin Terminal.
 
 ![Administrateur](assets/adminTab.png)
 
@@ -201,4 +201,4 @@ Parce que le filtre de campagne **Jours non signés** a été utilisé, vous pou
 
 >[!TIP]
 >
->Ce tutoriel fait partie du cours [Accélérez les cycles de vente avec Adobe Sign pour Salesforce et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) qui est disponible gratuitement sur Experience League !
+>Ce tutoriel fait partie du cours [Accélérez les cycles de vente avec Acrobat Sign pour Salesforce et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) qui est disponible gratuitement sur Experience League !

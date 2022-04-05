@@ -1,5 +1,5 @@
 ---
-title: Envoi de notifications à l’aide d’Adobe Sign pour Microsoft Dynamics 365 et Marketo
+title: Envoi de notifications à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo
 description: Découvrez comment envoyer un SMS, un e-mail ou une notification Push pour informer le signataire qu’un accord est en cours d’envoi
 role: Admin
 product: adobe sign
@@ -8,7 +8,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 089b6768cee4e3af8f1a349d5754d84aa3f4f69a
+source-git-commit: 60582eeaf8437ca1206f45b0b6daf96629c16b61
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 1%
