@@ -1,25 +1,25 @@
 ---
-title: Configurer l'ordre de gamme
-description: Découvrez comment configurer l’ordre d’acheminement pour plusieurs signataires
+title: Configuration de l’ordre de signature
+description: Découvrez comment configurer l’ordre de signature pour plusieurs signataires
 role: User
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
-thumbnail: 17347.jpg
+thumbnail: KT-9942.jpg
 exl-id: bf7771ef-1abe-423c-8b0f-ebdee555b53a
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
-source-wordcount: '51'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
 
-# Configurer l&#39;ordre de gamme
+# Configuration de l’ordre de signature
 
-Découvrez comment configurer l’ordre d’acheminement pour plusieurs signataires. Envoyez un document dans l’ordre, en parallèle ou en combinant les deux.
+Découvrez comment configurer l’ordre de signature pour plusieurs signataires. Envoyez un document dans l’ordre et/ou en parallèle, ou à des groupes spécifiques de personnes.
 
 >[!NOTE]
 >
->Le routage hybride est uniquement disponible pour les formules d’entreprise.
+>Le routage hybride est uniquement disponible pour les formules d’entreprise. Vous devrez peut-être contacter votre administrateur Acrobat Sign pour activer les paramètres spécifiques abordés dans ce tutoriel.
 
->[!VIDEO](https://video.tv.adobe.com/v/17347?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342249?hidetitle=true)

@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
 workflow-type: tm+mt
 source-wordcount: '242'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Signer une image avancée](../assets/Hero-Advanced.png)
 
-Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer des transactions de signature et créer et gérer des modèles de document. Ces tutoriels s’adressent à tous ceux qui connaissent déjà les principes de base de l’envoi et de la demande de signatures et souhaitent découvrir d’autres méthodes de travail pour Acrobat Sign.
+Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer des transactions de signature et créer et gérer des modèles de document. Ces tutoriels s’adressent à tous ceux qui connaissent déjà les principes de base de l’envoi et de la demande de signatures et qui souhaitent découvrir d’autres méthodes de travail pour Acrobat Sign.
 
 ## Envoi
 
@@ -26,12 +26,12 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Configurer l'ordre de gamme" src="../assets/Routing.png">
+      <img alt="Configuration de l’ordre de signature" src="../assets/Routing.png">
     </a>
     <div>
-    <a href="setting-up-routing.md"><strong>Configurer l'ordre de gamme</strong></a>
+    <a href="setting-up-routing.md"><strong>Configuration de l’ordre de signature</strong></a>
     </div>
-    <em>Paramétrer l’ordre d’acheminement de plusieurs signataires</em>
+    <em>Configuration de l’ordre de signature pour plusieurs signataires</em>
     <br>
   </td>
   <td>
