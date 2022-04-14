@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '340'
+source-wordcount: '333'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ![Image de prise en main Sign](../assets/Hero-GettingStarted.png)
 
-Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivre des documents en un clin d’oeil. Suivez la visite guidée d&#39;Acrobat Sign, puis envoyez un document à une ou plusieurs personnes. Ce contenu est conçu pour faciliter les workflows de signature électronique.
+Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivre des documents en un clin d’oeil. Suivez la visite guidée d&#39;Acrobat Sign, puis lancez-vous dans l&#39;envoi d&#39;un document à une ou plusieurs personnes. Ce contenu est conçu pour faciliter les workflows de signature électronique.
 
 ## Envoi
 
@@ -62,13 +62,18 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <div>
     <a href="new-sender.md"><strong>Prise en main d’Acrobat Sign pour les nouveaux expéditeurs</strong></a>
     </div>
-    <em>Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs dans Acrobat Sign.</em>
+    <em>Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs dans Acrobat Sign</em>
     <br>
   </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+ <td>
+    <a href="modify-in-flight.md">
+      <img alt="Modification d’un document après envoi" src="../assets/Modifying-sending.png" />
+    </a>
     <div>
+    <a href="modify-in-flight.md"><strong>Modification d’un document après envoi</strong></a>
+    </div>
     <br>
+    <em>Modifier un document déjà en cours</em>
   </td>
   <td>
     <img alt="Espaceur" src="../assets/Grayspacer.png" />
@@ -167,14 +172,9 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <br>
   </td>
   <td>
-    <a href="modify-in-flight.md">
-      <img alt="Modification d’un document déjà envoyé pour signature" src="../assets/Modifying-sending.png" />
-    </a>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
-    <a href="modify-in-flight.md"><strong>Modification d’un document déjà envoyé pour signature</strong></a>
-    </div>
     <br>
-    <em>Modifier le flux de travail pour un document déjà en cours</em>
   </td>
 </tr>
 </table>

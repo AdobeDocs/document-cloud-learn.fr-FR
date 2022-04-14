@@ -8,15 +8,15 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '418'
 ht-degree: 6%
 
 ---
 
 
-# Tutorials Acrobat Sign {#sign-learning-hub}
+# Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [Aperçu](overview.md)
 + Prise en main {#getting-started}
@@ -26,6 +26,7 @@ ht-degree: 6%
       + [Envoi à un destinataire unique](sign-beginner-tutorials/send-to-single-recipient.md)
       + [Envoi à plusieurs destinataires](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Prise en main d’Acrobat Sign pour les nouveaux expéditeurs](sign-beginner-tutorials/new-sender.md)
+      + [Modification d’un document après envoi](sign-beginner-tutorials/modify-in-flight.md)
    + Signing {#getting-started-signing}
       + [Signature électronique d’un document](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Remplissage et signature d’un document](sign-beginner-tutorials/fill-and-sign.md)
@@ -35,7 +36,6 @@ ht-degree: 6%
    + Gestion {#getting-started-managing}
       + [Gestion et suivi de vos accords](sign-beginner-tutorials/manage-and-track.md)
       + [Création d’un modèle de document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
-      + [Modification d’un document déjà envoyé pour signature](sign-beginner-tutorials/modify-in-flight.md)
 + Tâches avancées {#advanced-tasks}
    + [Aperçu](sign-advanced-users/advanced-users-overview.md)
    + Envoi en cours {#advanced-tasks-sending}
@@ -98,7 +98,7 @@ ht-degree: 6%
       + [Tutoriel vidéo sur l’envoi de rappels avec Acrobat Sign pour Salesforce et Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Envoyer des rappels à l’aide du guide de configuration d’Acrobat Sign pour Salesforce et Marketo](integrations/marketo-salesforce-reminder.md)
       + [Envoi de notifications à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo](integrations/marketo-dynamics-sms.md)
-      + [Envoyer des rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Envoi de rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo](integrations/marketo-dynamics-reminder.md)
 + Industries et services {#expand}
    + [Aperçu](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
