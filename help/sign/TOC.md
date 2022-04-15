@@ -8,15 +8,15 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Tutorials Acrobat Sign
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '421'
 ht-degree: 6%
 
 ---
 
 
-# Acrobat Sign Tutorials {#sign-learning-hub}
+# Tutorials Acrobat Sign {#sign-learning-hub}
 
 + [Aperçu](overview.md)
 + Prise en main {#getting-started}
@@ -27,6 +27,7 @@ ht-degree: 6%
       + [Envoi à plusieurs destinataires](sign-beginner-tutorials/send-to-multiple-recipients.md)
       + [Prise en main d’Acrobat Sign pour les nouveaux expéditeurs](sign-beginner-tutorials/new-sender.md)
       + [Modification d’un document après envoi](sign-beginner-tutorials/modify-in-flight.md)
+      + [Remplacement d’un signataire](sign-beginner-tutorials/replace-signer.md)
    + Signing {#getting-started-signing}
       + [Signature électronique d’un document](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Remplissage et signature d’un document](sign-beginner-tutorials/fill-and-sign.md)
@@ -98,7 +99,7 @@ ht-degree: 6%
       + [Tutoriel vidéo sur l’envoi de rappels avec Acrobat Sign pour Salesforce et Marketo](integrations/marketo-salesforce-reminder-video.md)
       + [Envoyer des rappels à l’aide du guide de configuration d’Acrobat Sign pour Salesforce et Marketo](integrations/marketo-salesforce-reminder.md)
       + [Envoi de notifications à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo](integrations/marketo-dynamics-sms.md)
-      + [Envoi de rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Envoyer des rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo](integrations/marketo-dynamics-reminder.md)
 + Industries et services {#expand}
    + [Aperçu](sign-usecase/expand-inspire-overview.md)
    + Skill Builder {#innovation}
@@ -127,5 +128,5 @@ ht-degree: 6%
    + [Aperçu](deploy-overview.md)
 + Application mobile {#mobile}
    + [Aperçu](mobile/mobile-overview.md)
-   + Tutoriels Mobile {#mobile-tutorials}
+   + Tutoriels mobiles {#mobile-tutorials}
       + [Liquid Mode dans Acrobat Sign](mobile/liquidmode.md)

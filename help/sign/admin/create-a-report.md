@@ -6,7 +6,7 @@ product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 65e98d475095e71f95bc6e986e3dd56666c63e58
+source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Découvrez comment exécuter, enregistrer et planifier des rapports dans Acrobat
 
 >[!NOTE]
 >
->La création de rapports est uniquement disponible pour les formules Business et Enterprise.
+>Les rapports sont uniquement disponibles pour les formules professionnelles et d’entreprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
 
