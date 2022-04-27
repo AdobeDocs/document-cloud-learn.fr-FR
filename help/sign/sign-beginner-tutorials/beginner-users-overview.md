@@ -1,15 +1,15 @@
 ---
-title: Présentation de la prise en main d’Acrobat Sign
+title: Présentation de la prise en main Acrobat Sign
 description: Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivre des documents en un clin d’oeil
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
-source-wordcount: '351'
-ht-degree: 0%
+source-wordcount: '345'
+ht-degree: 1%
 
 ---
 
@@ -25,12 +25,12 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Présentation rapide d’Acrobat Sign" src="../assets/Quick-Tour.png" />
+      <img alt="Espace de travail – Principes de base" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Présentation rapide d’Acrobat Sign</strong></a>
+    <a href="quick-tour.md"><strong>Espace de travail – Principes de base</strong></a>
     </div>
-    <em>Suivez la visite guidée de l'interface Acrobat Sign pour prendre en main votre logiciel</em>
+    <em>Visitez rapidement l’espace de travail d’Acrobat Sign pour prendre en main votre logiciel</em>
     <br>
   </td>
   <td>
