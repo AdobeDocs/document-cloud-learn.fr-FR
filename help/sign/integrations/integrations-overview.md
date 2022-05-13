@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 799dbf108a41b7e2286b99df49d259aa0b382f0e
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
@@ -197,7 +197,7 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications que votre entrepr
       <img alt="Tutoriel vidéo sur l’envoi de rappels avec Acrobat Sign pour Salesforce et Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Tutoriel vidéo sur l’envoi de rappels avec Acrobat Sign pour Salesforce et Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Tutoriel vidéo sur l’envoi de rappels avec Adobe Sign pour Salesforce et Marketo</strong></a>
     </div>
     <em>Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps</em>
     <br>
