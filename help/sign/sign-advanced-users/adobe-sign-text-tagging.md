@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 33b3df757a38207d36bf804b957e6ba291a5d3d0
 workflow-type: tm+mt
-source-wordcount: '191'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -20,8 +20,8 @@ Dans ce webinaire enregistré (sans inscription), découvrez comment créer des 
 
 [![Visionner la session](../assets/Text-Tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
-[Regarder le webinaire sur le balisage de texte Acrobat Sign enregistré](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+[Regarder le webinaire sur le balisage de texte enregistré Acrobat Sign](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
 
 >[!TIP]
 >
->Cette vidéo fait partie du [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) et [Tâches avancées pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) cours disponibles gratuitement sur Experience League ! qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.3) et [Tâches avancées pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) cours disponibles gratuitement sur Experience League !
