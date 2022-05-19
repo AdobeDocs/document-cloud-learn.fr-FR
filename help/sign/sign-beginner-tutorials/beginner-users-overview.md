@@ -1,12 +1,12 @@
 ---
-title: Présentation de la prise en main Acrobat Sign
+title: Présentation de la prise en main d’Acrobat Sign
 description: Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivre des documents en un clin d’oeil
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 1%
@@ -72,8 +72,8 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <div>
     <a href="modify-in-flight.md"><strong>Modification d’un document après envoi</strong></a>
     </div>
-    <br>
     <em>Modifier un document déjà en cours</em>
+    <br>
   </td>
  <td>
     <a href="replace-signer.md">
@@ -82,8 +82,8 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <div>
     <a href="replace-signer.md"><strong>Remplacement d’un signataire</strong></a>
     </div>
-    <br>
     <em>Découvrez comment modifier le signataire d’un document déjà en cours.</em>
+     <br>
   </td>
 </tr>
 </table>

@@ -7,10 +7,10 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 16%
+source-wordcount: '152'
+ht-degree: 9%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 16%
 
 ![Image de déploiement Sign](assets/Hero-Deploy.png)
 
-Des articles sur les bonnes pratiques accompagnés de précieux insights sur le déploiement d’Acrobat Sign au sein de votre entreprise.
+Articles sur les bonnes pratiques contenant des informations utiles sur le déploiement d’Acrobat Sign au sein de votre entreprise.
 
 <table style="table-layout:fixed">
 <tr>
@@ -33,11 +33,11 @@ Des articles sur les bonnes pratiques accompagnés de précieux insights sur le 
     <br>
   </td>
   <td>
-    <a href="https://helpx.adobe.com/fr/sign/using/adobe-sign-training-best-practice.html" target="_blank">
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank">
       <img alt="Bonnes pratiques" src="assets/Deploy_BP.png" />
     </a>
     <div>
-    <a href="https://helpx.adobe.com/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Bonnes pratiques</strong></a>
+    <a href="https://helpx.adobe.com/mt/sign/using/adobe-sign-training-best-practice.html" target="_blank"><strong>Bonnes pratiques</strong></a>
     </div>
     <em>Passez en revue les précieux insights et les connaissances acquises grâce au travail de notre responsable de la réussite client auprès de nos clients lors du déploiement d’Acrobat Sign</em>
     <br>
@@ -56,7 +56,7 @@ Des articles sur les bonnes pratiques accompagnés de précieux insights sur le 
 <tr>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Guide d’étude Les indispensables sur Acrobat Sign" src="assets/SignStudyGuide.png" />
+      <img alt="Guide d’étude Acrobat Sign Essentials" src="assets/SignStudyGuide.png" />
     </a>
     <div>
     <a href="assets/SignStudyGuide.pdf"><strong>Guide d’étude Les indispensables sur Acrobat Sign</strong></a>
