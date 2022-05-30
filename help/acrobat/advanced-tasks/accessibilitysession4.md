@@ -1,6 +1,6 @@
 ---
 title: Documents numérisés et listes complexes
-description: Cette session à la demande traite des problèmes les plus complexes que les personnes rencontrent fréquemment, tels que les documents numérisés et les listes complexes.
+description: Cette session à la demande aborde les problèmes plus complexes auxquels les utilisateurs sont souvent confrontés, tels que les documents numérisés et les listes complexes
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Documents numérisés et listes complexes
 
-Cette session à la demande traite des problèmes les plus complexes que les gens rencontrent fréquemment, tels que les documents numérisés et les listes complexes.
+Cette session à la demande aborde les problèmes plus complexes auxquels les utilisateurs sont souvent confrontés, tels que les documents numérisés et les listes complexes.
 
-Cliquez [ici](../assets/accessibilitysession4.zip) pour télécharger un fichier zip des fichiers pratiques pour cette session.
+Cliquez [ici](../assets/accessibilitysession4.zip) pour télécharger un fichier zip des fichiers pratiques de cette session.
 
 Sélectionnez l’image pour afficher la vidéo dans un onglet de navigateur distinct.
 
-[![Session 4 Vidéo](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}
+[![Vidéo Session 4](../assets/Accessibilitysession4_YT.png)](https://youtu.be/RuBk6DqJBFc){target=&quot;_blank&quot;}

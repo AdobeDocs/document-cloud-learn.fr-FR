@@ -75,7 +75,7 @@ Dans la deuxième partie, vous découvrirez l’option low/no-code lorsque vous 
 1. Accédez à Acrobat Sign avec votre compte développeur.
 1. Cliquez **Publication d’un formulaire web** sur la page d’accueil.
 
-   ![Capture d’écran page d’accueil Acrobat Sign](assets/embeddedesignature/embed_1.png)
+   ![Capture d&#39;écran page d&#39;accueil Acrobat Sign](assets/embeddedesignature/embed_1.png)
 
 1. Créez votre accord.
 
@@ -100,7 +100,7 @@ Maintenant que vous avez accès à l’API et pouvez interagir avec celle-ci, d�
 
 1. Accédez à l’onglet [Méthodes de l’API REST Acrobat Sign version 6](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Capture d’écran des méthodes de navigation dans l’API REST Acrobat Sign version 6](assets/embeddedesignature/embed_5.png)
+   ![Capture d’écran des méthodes de navigation de l’API REST Acrobat Sign version 6](assets/embeddedesignature/embed_5.png)
 
 1. Utilisez le jeton en tant que valeur &quot;porteur&quot;.
 

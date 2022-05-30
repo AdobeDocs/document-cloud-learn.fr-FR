@@ -15,9 +15,9 @@ ht-degree: 0%
 
 ---
 
-# Présentation de Mobile
+# Présentation du mobile
 
-![Image Acrobat Mobile](../assets/Hero-Mobile.png)
+![Image mobile Acrobat](../assets/Hero-Mobile.png)
 
 Créez, remplissez et signez des PDF sur votre appareil mobile.
 

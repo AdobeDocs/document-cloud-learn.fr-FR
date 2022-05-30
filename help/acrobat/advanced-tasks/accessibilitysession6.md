@@ -1,6 +1,6 @@
 ---
-title: Ajout de champs de formulaire à un document PDF non balisé
-description: Cette session à la demande approfondit la création de champs de formulaire manuels et de propriétés de champs de formulaire supplémentaires.
+title: Ajout de champs de formulaire à un PDF sans balise
+description: Cet atelier à la demande approfondit la création de champs de formulaire manuels et de propriétés de champs de formulaire supplémentaires
 role: User
 product: adobe acrobat
 level: Experienced
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Ajout de champs de formulaire à un document PDF non balisé
+# Ajout de champs de formulaire à un PDF sans balise
 
-Cette session à la demande approfondit la création de champs de formulaire manuels et de propriétés de champs de formulaire supplémentaires.
+Cet atelier à la demande approfondit la création de champs de formulaire manuels et de propriétés de champs de formulaire supplémentaires.
 
-Cliquez [ici](../assets/accessibilitysession6.zip) pour télécharger un fichier zip des fichiers pratiques pour cette session.
+Cliquez [ici](../assets/accessibilitysession6.zip) pour télécharger un fichier zip des fichiers pratiques de cette session.
 
 Sélectionnez l’image pour afficher la vidéo dans un onglet de navigateur distinct.
 
-[![Session 6 Vidéo](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}
+[![Vidéo Session 6](../assets/Accessibilitysession6_YT.png)](https://youtu.be/xh4pJQiY0nw){target=&quot;_blank&quot;}

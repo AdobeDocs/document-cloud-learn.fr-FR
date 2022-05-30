@@ -22,18 +22,18 @@ Découvrez comment activer et utiliser les connecteurs Acrobat Sign et Adobe PDF
 <tr>
   <td>
     <a href="documentautomation.md#part1">
-        <img alt="Partie 1 : Stocker les accords signés dans SharePoint avec Acrobat Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
+        <img alt="Partie 1 : Stockage des accords signés dans SharePoint avec Acrobat Sign" src="assets/documentautomation/AutomationPart1_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part1"><strong>Partie 1 : Stocker les accords signés dans SharePoint avec Acrobat Sign</strong></a>
+    <a href="documentautomation.md#part1"><strong>Partie 1 : Stockage des accords signés dans SharePoint avec Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="Partie 2 : Processus de validation automatisé pour obtenir une signature électronique avec Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="Partie 2 : Processus de validation automatisé pour l'obtention de signatures électroniques avec Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
-    <a href="documentautomation.md#part2"><strong>Partie 2 : Processus de validation automatisé pour obtenir une signature électronique avec Acrobat Sign</strong></a>
+    <a href="documentautomation.md#part2"><strong>Partie 2 : Processus de validation automatisé pour l'obtention de signatures électroniques avec Acrobat Sign</strong></a>
     </div>
   </td>
   <td>
@@ -59,7 +59,7 @@ Découvrez comment activer et utiliser les connecteurs Acrobat Sign et Adobe PDF
 
 * Familiarité avec Microsoft 365 et Power Automate
 * Connaissances d’Acrobat Sign
-* Compte Microsoft 365 avec accès à SharePoint et Power Automate (de base pour Acrobat Sign, Premium pour les outils Adobe PDF)
+* Compte Microsoft 365 avec accès à SharePoint et Power Automate (de base pour Acrobat Sign, Premium pour Adobe PDF Tools)
 * Compte développeur Acrobat Sign abonnement Entreprise ou Acrobat Sign
 
 **Exercices 1 et 2**
@@ -72,7 +72,7 @@ Découvrez comment activer et utiliser les connecteurs Acrobat Sign et Adobe PDF
 
 Télécharger les matériaux [ici](https://github.com/benvanderberg/adobe-sign-pdftools-powerautomate-tutorial)
 
-## Partie 1 : Stocker les accords signés dans SharePoint avec Acrobat Sign {#part1}
+## Partie 1 : Stockage des accords signés dans SharePoint avec Acrobat Sign {#part1}
 
 Dans la première partie, vous utiliserez un modèle Power Automate Flow pour configurer un workflow automatisé qui enregistrera tous les accords signés sur votre site SharePoint.
 
@@ -88,7 +88,7 @@ Dans la première partie, vous utiliserez un modèle Power Automate Flow pour co
 1. Passez en revue l’écran et configurez les connexions nécessaires. Activez la connexion Acrobat Sign.
 1. Cliquez sur le bleu `+` apparaît.
 
-   ![Capture d&#39;écran de la connexion Acrobat Sign et SharePoint](assets/documentautomation/automation_3.png)
+   ![Capture d&#39;écran de la connexion de flux Acrobat Sign et SharePoint](assets/documentautomation/automation_3.png)
 
 1. Saisissez l’adresse électronique de votre compte Acrobat Sign et cliquez sur le champ du mot de passe dans la nouvelle fenêtre.
 
@@ -125,7 +125,7 @@ Dans la première partie, vous utiliserez un modèle Power Automate Flow pour co
 
 Vous allez tester ce flux dans la partie suivante.
 
-## Partie 2 : Processus de validation automatisé pour obtenir une signature électronique avec Acrobat Sign {#part2}
+## Partie 2 : Processus de validation automatisé pour l&#39;obtention de signatures électroniques avec Acrobat Sign {#part2}
 
 Dans la deuxième partie, nous construisons la première partie avec un flux plus robuste et testons les deux flux pour les voir en action.
 
@@ -183,7 +183,7 @@ Dans la deuxième partie, nous construisons la première partie avec un flux plu
 
    ![Capture d&#39;écran du menu de recherche](assets/documentautomation/automation_16.png)
 
-1. Saisissez &quot;télécharger&quot; dans la zone de recherche d’Acrobat Sign et sélectionnez **Télécharger un document et obtenir un ID de document**.
+1. Saisissez &quot;upload&quot; dans la zone de recherche pour Acrobat Sign et sélectionnez **Télécharger un document et obtenir un ID de document**.
 1. Recherche de la variable dynamique **Nom** pour obtenir le nom de l’élément/du document sélectionné dans le déclencheur sous **Nom du fichier**.
 1. Cliquez **Expression** dans l&#39;assistant variable sous **Contenu du fichier**.
 
@@ -195,7 +195,7 @@ Dans la deuxième partie, nous construisons la première partie avec un flux plu
 
    ![Capture d’écran de l’apparence de l’écran Contenu dynamique](assets/documentautomation/automation_18.png)
 
-1. Recherchez &quot;Créer&quot; dans la zone de recherche d’Acrobat Sign pour ajouter une autre action Acrobat Sign.
+1. Recherchez &quot;création&quot; dans la zone de recherche d’Acrobat Sign pour ajouter une autre action Acrobat Sign.
 1. Sélectionner **Créer un accord à partir d’un document chargé et l’envoyer pour signature**.
 
    ![Capture d&#39;écran de recherche de création](assets/documentautomation/automation_19.png)

@@ -1,5 +1,5 @@
 ---
-user-guide-title: Tutorials Acrobat Sign
+user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
 solution-hub-url: https://helpx.adobe.com/support/sign.html
@@ -7,7 +7,7 @@ getting-started-title: Getting Started
 getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
-breadcrumb-title: Tutorials Acrobat Sign
+breadcrumb-title: Acrobat Sign Tutorials
 source-git-commit: 778fd7f57a7a6271dfaf118bb003d3b930fdb814
 workflow-type: tm+mt
 source-wordcount: '418'
@@ -16,7 +16,7 @@ ht-degree: 7%
 ---
 
 
-# Tutorials Acrobat Sign {#sign-learning-hub}
+# Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [Aperçu](overview.md)
 + Prise en main {#getting-started}

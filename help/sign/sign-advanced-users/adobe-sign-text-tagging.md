@@ -1,6 +1,6 @@
 ---
 title: Balisage de texte Acrobat Sign
-description: Découvrez comment créer des champs de formulaire Acrobat Sign à l’aide du balisage de texte dans Adobe Acrobat
+description: Apprenez à créer des champs de formulaire Acrobat Sign à l’aide d’Adobe Acrobat
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign

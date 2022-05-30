@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Image des administrateurs Sign](../assets/Hero-Admin.png)
 
-Découvrez comment ajouter des utilisateurs à votre compte, configurer des groupes, partager l’accès et configurer un workflow, une archive externe et partager des événements et des alertes. Ces tutoriels sont destinés aux administrateurs qui ont dépassé la phase d’installation et qui sont prêts à commencer à administrer Acrobat Sign. Les tâches avancées couvrent des rubriques qui s’étendent au-delà de la partie configurée par l’administrateur et qui passent à la définition des paramètres globaux, à l’accès et au partage de compte, ainsi qu’au balisage de texte.
+Découvrez comment ajouter des utilisateurs à votre compte, configurer des groupes, partager l’accès et configurer un workflow, une archive externe et partager des événements et des alertes. Ces tutoriels s’adressent aux administrateurs qui ont dépassé la phase d’installation et sont prêts à commencer à administrer Acrobat Sign. Les tâches avancées couvrent des rubriques qui s’étendent au-delà de la partie configurée par l’administrateur et qui passent à la définition des paramètres globaux, à l’accès et au partage de compte, ainsi qu’au balisage de texte.
 
 ## Prise en main
 

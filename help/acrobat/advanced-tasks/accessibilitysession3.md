@@ -1,6 +1,6 @@
 ---
-title: Tables complexes
-description: 'Cette session à la demande aborde l’un des problèmes les plus courants et les plus complexes de correction d’un fichier PDF pour des raisons d’accessibilité : les tableaux complexes.'
+title: Tableaux complexes
+description: 'Cette session à la demande aborde l’un des problèmes les plus courants et les plus difficiles dans la résolution d’un PDF pour l’accessibilité : les tableaux complexes'
 role: User
 product: adobe acrobat
 level: Experienced
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Tableaux complexes
 
-Cette session à la demande aborde l’un des problèmes les plus courants et les plus complexes de correction d’un fichier PDF pour des tableaux complexes d’accessibilité.
+Cette session à la demande aborde l’un des problèmes les plus courants et les plus difficiles dans la résolution d’un PDF pour l’accessibilité : les tableaux complexes.
 
-Cliquez [ici](../assets/accessibilitysession3.zip) pour télécharger un fichier zip des fichiers pratiques pour cette session.
+Cliquez [ici](../assets/accessibilitysession3.zip) pour télécharger un fichier zip des fichiers pratiques de cette session.
 
 Sélectionnez l’image pour afficher la vidéo dans un onglet de navigateur distinct.
 
-[![Session 3 Vidéo](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}
+[![Vidéo Session 3](../assets/Accessibilitysession3_YT.png)](https://youtu.be/kcM_jyHGd6Y){target=&quot;_blank&quot;}
