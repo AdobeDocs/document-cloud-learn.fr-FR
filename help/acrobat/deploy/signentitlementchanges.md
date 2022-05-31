@@ -52,7 +52,7 @@ Contactez votre interlocuteur Adobe pour savoir comment continuer à fournir des
 
 ## Accès aux accords existants
 
-Les utilisateurs pourront toujours accéder aux accords envoyés avant cette action via Adobe Document Cloud en se connectant avec leur Adobe ID à l’adresse https://documentcloud.adobe.com. Si la migration de cet utilisateur vers Sign Enterprise est planifiée, il devra suivre ces instructions [instructions](/content/help/fr/fr/sign/kb/how-to-download-signed-documents---adobe-sign.html).
+Les utilisateurs pourront toujours accéder aux accords envoyés avant cette action via Adobe Document Cloud en se connectant avec leur Adobe ID à l’adresse https://documentcloud.adobe.com. Si la migration de cet utilisateur vers Sign Enterprise est planifiée, il devra suivre ces instructions [instructions](https://helpx.adobe.com/fr/sign/kb/how-to-download-signed-documents---adobe-sign.html).
 
 ## Expérience Acrobat DC sans [!DNL Sign Individual] droit
 
