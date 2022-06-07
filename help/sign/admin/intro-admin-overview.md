@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 8301e965961140248467733e83d9f5c1dad87a6f
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '396'
 ht-degree: 1%
 
 ---
@@ -36,12 +36,12 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Configuration d’événements et d’alertes partagés" src="../assets/SharedEvents.png" />
+      <img alt="Configuration d’événements et d’alertes partagés" src="../assets/Notifications_1280.png" />
     </a>
     <div>
-    <a href="set-up-shared-events-and-alert.md"><strong>Configuration d’événements et d’alertes partagés</strong></a>
+    <a href="set-up-shared-events-and-alert.md"><strong>Configuration des notifications pour les événements et les alertes</strong></a>
     </div>
-    <em>Configuration des paramètres d’événements et d’alertes pour votre organisation</em>
+    <em>Configurer des notifications pour les événements et les alertes de votre compte</em>
     <br>
   </td>
   <td>
