@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3c18280106f1fb950c013db2c0ef47640328c408
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -39,7 +39,7 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
       <img alt="Délégation à une autre personne" src="../assets/Delegating.png" />
     </a>  
     <div>
-    <a href="delegate-signature.md"><strong>Délégation à une autre personne</strong></a>
+    <a href="delegate-signature.md"><strong>Utilisation du rôle de délégant</strong></a>
     </div>
     <em>Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite router le document pour signature</em>
     <br>

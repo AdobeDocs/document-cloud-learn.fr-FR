@@ -1,5 +1,5 @@
 ---
-title: Déléguer à un autre
+title: Utilisation du rôle de délégant
 description: Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite router le document pour signature
 role: User
 product: adobe sign
@@ -7,18 +7,22 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '110'
+ht-degree: 7%
 
 ---
 
-# Délégation à une autre personne
+# Utilisation du rôle de délégant
 
 Apprenez à utiliser le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite l’acheminer pour signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/17366?hidetitle=true)
+>[!NOTE]
+>
+>Le rôle de délégant est uniquement disponible pour les formules d’entreprise. Il se peut que votre administrateur Acrobat Sign doive activer **Autoriser les expéditeurs à marquer certains destinataires en tant que délégants** dans le panneau **Paramètres d’envoi** de la boîte de dialogue **Paramètres du compte** pour utiliser cette fonctionnalité.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
 
 >[!TIP]
 >
