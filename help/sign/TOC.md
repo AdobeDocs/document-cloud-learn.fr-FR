@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: faabeda8f9addffe422f21e6d3c757d1d84f8251
+source-git-commit: b77f225d18b53df750734f53f4e1b77b58edfb36
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 8%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 8%
       + [Configuration de l’ordre de signature](sign-advanced-users/setting-up-routing.md)
       + [Utilisation du rôle de délégant](sign-advanced-users/delegate-signature.md)
       + [Ajout d’un approbateur](sign-advanced-users/add-an-approver.md)
-      + [Collecte de signatures en bloc](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Envoi et collecte simultanée de signatures](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Configuration d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
    + Gestion {#advanced-tasks-managing}
@@ -59,7 +59,7 @@ ht-degree: 8%
       + [Création d’un modèle](sign-advanced-users/create-a-template.md)
       + [Création d&#39;un rapport](admin/create-a-report.md)
       + [Configuration d’un formulaire web](sign-advanced-users/webform.md)
-      + [Collecte de signatures en bloc](sign-advanced-users/megasign.md)
+      + [Envoi et collecte simultanée de signatures](sign-advanced-users/megasign.md)
       + [Création d’un workflow personnalisé](admin/building-a-custom-workflow.md)
    + Tâches avancées {#advanced-tasks-admins}
       + [Paramètres généraux](admin/learn-about-global-settings.md)
