@@ -1,5 +1,5 @@
 ---
-title: Ajout d’un approbateur
+title: Utilisation du rôle d'approbateur
 description: Découvrez comment ajouter un rôle d’approbateur à votre processus d’approbation de contrat
 role: User
 product: adobe sign
@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 0%
+source-wordcount: '93'
+ht-degree: 22%
 
 ---
 
-# Ajout d’un approbateur
+# Utilisation du rôle d&#39;approbateur
 
-Découvrez comment envoyer un document via un processus d’approbation. Dans cet exemple, vous voyez comment envoyer un contrat d&#39;embauche par l&#39;intermédiaire de HR, d&#39;un employé et du responsable du recrutement.
+Découvrez comment envoyer un document via un processus d’approbation. Dans cet exemple, découvrez comment envoyer un contrat de recrutement via le service des ressources humaines, un employé potentiel et le responsable du recrutement. Le rôle d’approbateur fonctionne bien lorsqu’une personne doit « approuver » un document avant qu’il soit envoyé au signataire.
 
->[!VIDEO](https://video.tv.adobe.com/v/17367?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343854?hidetitle=true)
 
 >[!TIP]
 >
