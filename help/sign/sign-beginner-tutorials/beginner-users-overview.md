@@ -1,15 +1,15 @@
 ---
-title: Présentation de la prise en main d’Acrobat Sign
+title: Présentation de la prise en main Acrobat Sign
 description: Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivre des documents en un clin d’oeil
 role: User
 product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: e6a9e565178f8fdc7bc17785fd49804437c2dd5e
+source-git-commit: a58206e7d5da3d0f18b9d70b58407be033983c8f
 workflow-type: tm+mt
-source-wordcount: '345'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -125,6 +125,16 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
 </tr>
 <tr>
   <td>
+    <a href="delegate-signing.md">
+      <img alt="Déléguer la signature à un autre utilisateur" src="../assets/Delegatesigning.png" />
+    </a>
+    <div>
+    <a href="delegate-signing.md"><strong>Déléguer la signature à un autre utilisateur</strong></a>
+    </div>
+    <em>Découvrez comment déléguer la signature d’un document à une autre personne</em>
+    <br>
+  </td>
+  <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="Qu’est-ce qu’une signature numérique ?" src="../assets/Whatisdigsig_1280.jpg" />
     </a>
@@ -144,11 +154,6 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <em>Utiliser des tampons pour marquer un document approuvé ou complété</em>
      <br>
   </td> 
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>  
 </table>
 

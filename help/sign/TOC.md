@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 561ad5b567ac7ea5de32e96ecc8e9b2038389910
+source-git-commit: 52a85fcef686e09bd143eb7c470aa578291de940
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 8%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 8%
       + [Signature électronique d’un document](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Remplissage et signature d’un document](sign-beginner-tutorials/fill-and-sign.md)
       + [Obtention d’une signature en personne](sign-beginner-tutorials/sign-in-person.md)
+      + [Déléguer la signature à un autre utilisateur](sign-beginner-tutorials/delegate-signing.md)
       + [Qu’est-ce qu’une signature numérique ?](sign-beginner-tutorials/sign-with-a-digital-signature.md)
       + [Signature avec un tampon](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Gestion {#getting-started-managing}
