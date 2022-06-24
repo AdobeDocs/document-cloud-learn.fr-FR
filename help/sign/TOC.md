@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 9338767601e88413f6a63fa4537a4f4f8dcbe3f3
+source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '425'
 ht-degree: 8%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 8%
       + [Configuration d&#39;une archive externe](admin/set-up-your-external-archive.md)
       + [Création d’un modèle](sign-advanced-users/create-a-template.md)
       + [Création d&#39;un rapport](admin/create-a-report.md)
-      + [Configuration d’un formulaire web](sign-advanced-users/webform.md)
+      + [Création d’un formulaire web](sign-advanced-users/webform.md)
       + [Envoi et collecte simultanée de signatures](sign-advanced-users/megasign.md)
       + [Création d’un workflow personnalisé](admin/building-a-custom-workflow.md)
    + Tâches avancées {#advanced-tasks-admins}
