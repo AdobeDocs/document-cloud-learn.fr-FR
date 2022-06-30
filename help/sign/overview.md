@@ -1,23 +1,23 @@
 ---
-title: Didacticiels
-description: Collection de tutoriels, webinaires et cas d’usage conçus pour offrir rapidement aux débutants et administrateurs des fonctionnalités avancées sur Acrobat Sign
+title: Acrobat Sign Tutorials
+description: Un ensemble de tutoriels, webinaires et cas d’usage conçus pour donner rapidement accès à Acrobat Sign aux débutants comme aux administrateurs
 role: User, Admin
 product: adobe sign
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '200'
 ht-degree: 4%
 
 ---
 
 # Tutoriels Acrobat Sign
 
-![Image héros Acrobat Sign](assets/Hero_Sign.jpg)
+![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
 
-Acrobat Sign, une solution Adobe Document Cloud, s’adapte aux besoins de votre entreprise par le biais d’intégrations, d’API, d’une authentification avancée, de fonctionnalités d’administration supplémentaires, etc. Vous trouverez ici un large éventail d’expériences d’apprentissage conçues pour offrir rapidement aux débutants et aux administrateurs des informations actualisées sur Acrobat Sign.
+Acrobat Sign, solution Adobe Document Cloud, s’adapte aux besoins de votre entreprise par le biais d’intégrations, d’API, d’une authentification avancée, de fonctionnalités d’administration supplémentaires, etc. Vous trouverez ici un large éventail d’expériences d’apprentissage conçues pour offrir rapidement aux débutants et aux administrateurs des informations actualisées sur Acrobat Sign.
 
 ## Pistes de formation
 
