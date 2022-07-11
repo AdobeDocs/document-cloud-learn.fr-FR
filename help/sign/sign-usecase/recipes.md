@@ -9,14 +9,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
 workflow-type: tm+mt
-source-wordcount: '243'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
 
 # Recettes de cas
+
+![Utiliser la bannière de cas](../assets/Hero-Recipe.png)
 
 Accélérez les workflows digitaux de votre entreprise avec ces exemples de signature électronique à usage gouvernemental et commercial. Cliquez ici pour afficher un PDF avec des ressources et des détails sur la configuration de ces cas d’utilisation de signature électronique spécifiques.
 
