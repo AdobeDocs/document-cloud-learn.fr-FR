@@ -7,7 +7,7 @@ topic: Integrations
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 60c676687a59e9b8f999b0e71fa9e03e94f043d4
+source-git-commit: f68fc211dc315a7d7ef508787c80fbe9882fcdc3
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 3%
@@ -33,6 +33,8 @@ Dans la première partie, découvrez comment commencer à utiliser tout ce dont 
    * Windows — Chocolatey
    * Tous — https://www.python.org/downloads/
 
++++
+
 ## Partie 2 : Code faible/sans — la puissance des formulaires web
 
 Dans la partie 2, explorez l’option low/no-code de l’utilisation de formulaires web. Il est toujours judicieux d’éviter d’écrire du code au début.
@@ -54,6 +56,8 @@ Dans la partie 2, explorez l’option low/no-code de l’utilisation de formulai
 1. Essayez d&#39;ajouter des paramètres de requête de manière dynamique.
 
    ![Capture d&#39;écran de l&#39;ajout de paramètres](assets/embeddedesignature/embed_3.png)
+
++++
 
 ## Partie 3 : Envoi d’un accord avec un formulaire et fusion des données
 
@@ -110,6 +114,8 @@ Le code est assez simple ; il utilise un document de bibliothèque (modèle) pou
 
 ![Capture d&#39;écran du code pour ajouter dynamiquement des signatures](assets/embeddedesignature/embed_11.png)
 
++++
+
 ## Partie 4 : Intégrer l’expérience de signature, les redirections, etc.
 
 Dans de nombreux scénarios, vous pouvez autoriser le participant déclencheur à signer immédiatement un accord. Cette fonction est utile pour les applications orientées client et les bornes interactives.
@@ -135,6 +141,8 @@ Après avoir mis à jour le processus de création de l’accord, l’étape fin
 ![Capture d&#39;écran indiquant qu&#39;il est recommandé d&#39;établir une boucle de nouvelle tentative](assets/embeddedesignature/embed_15.png)
 
 Quand tout est mis en place, la solution est assez simple. Vous créez un accord, puis générez une URL de signature sur laquelle le signataire peut cliquer pour commencer le rituel de signature.
+
++++
 
 ## Rubriques supplémentaires
 
