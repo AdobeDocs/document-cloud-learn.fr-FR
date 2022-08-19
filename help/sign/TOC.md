@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '428'
 ht-degree: 9%
 
 ---
@@ -87,7 +87,7 @@ ht-degree: 9%
       + [Envoyer pour signature dans Outlook](integrations/send-for-signature-with-outlook.md)
       + [Envoyer pour signature dans SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
       + [Suivi dans SharePoint Online](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [Envoi de documents pour signature dans [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Envoyer pour signature dans [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Automatisation des documents avec Acrobat Sign pour Microsoft Power Platform](integrations/documentautomation.md)
    + Salesforce {#salesforce}
       + [Création d’un modèle de document](integrations/create-an-agreement-template.md)

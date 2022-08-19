@@ -1,6 +1,6 @@
 ---
-title: Envoi de documents pour signature dans [!DNL Microsoft Teams]
-description: Acrobat Sign et [!DNL Microsoft Teams] vous permet d’envoyer des accords pour signature ou de vérifier l’état des accords existants, le tout depuis [!DNL Microsoft Teams]
+title: Envoyer pour signature dans [!DNL Microsoft Teams]
+description: Découvrez comment envoyer des accords pour signature, vérifier l’état des accords et envoyer des rappels, le tout depuis Acrobat DC [!DNL Microsoft Teams]
 role: User
 product: adobe sign
 solution: Acrobat Sign
@@ -8,18 +8,19 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 40125.jpg
 exl-id: dc6b8cc8-6d9d-46a0-add2-dc5ada06fbaf
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 14c0cab2c17cae777e7ea5aaaa97fcc0dfca41f4
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
-# Envoi de documents pour signature dans [!DNL Microsoft Teams]
+# Envoyer pour signature dans [!DNL Microsoft Teams]
 
-Acrobat Sign et [!DNL Microsoft Teams] vous permet d’envoyer des accords pour signature ou de vérifier l’état des accords existants, le tout depuis [!DNL Microsoft Teams]. Cet exemple montre comment un courtier en hypothèques envoie une demande de prêt directement à Teams. Cette intégration étroite accélère le processus de prêt hypothécaire, même lorsque vous travaillez avec des demandeurs de prêt hypothécaire dans un environnement de travail à distance.
+Découvrez comment envoyer des accords pour signature, vérifier l’état des accords et envoyer des rappels, le tout depuis Acrobat DC [!DNL Microsoft Teams].
+Cet exemple montre comment passer en revue un courtier en hypothèques qui envoie une demande de prêt pour signature directement dans Teams. Cette intégration étroite accélère le processus de prêt hypothécaire, même lorsque vous travaillez avec des demandeurs de prêt hypothécaire dans un environnement de travail à distance.
 
->[!VIDEO](https://video.tv.adobe.com/v/40125?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/346545?hidetitle=true)
 
 >[!TIP]
 >
