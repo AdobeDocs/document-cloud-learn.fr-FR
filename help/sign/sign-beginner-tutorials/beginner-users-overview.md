@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,6 +31,16 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <a href="quick-tour.md"><strong>Espace de travail – Principes de base</strong></a>
     </div>
     <em>Visitez rapidement l’espace de travail d’Acrobat Sign pour prendre en main votre logiciel</em>
+    <br>
+  </td>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Prise en main d’Acrobat Sign pour les nouveaux expéditeurs" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Prise en main d’Acrobat Sign pour les nouveaux expéditeurs</strong></a>
+    </div>
+    <em>Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs dans Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -56,13 +66,13 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
 </tr>
 <tr>
   <td>
-    <a href="new-sender.md">
-      <img alt="Prise en main d’Acrobat Sign pour les nouveaux expéditeurs" src="../assets/gettingstartednew.png" />
+    <a href="adding-fields.md">
+      <img alt="Ajout de champs à vos documents" src="../assets/AddingFields.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Prise en main d’Acrobat Sign pour les nouveaux expéditeurs</strong></a>
+    <a href="adding-fields.md"><strong>Ajout de champs à vos documents</strong></a>
     </div>
-    <em>Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs dans Acrobat Sign</em>
+    <em>Découvrez comment ajouter différents types de champs à vos documents</em>
     <br>
   </td>
  <td>
@@ -84,6 +94,11 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     </div>
     <em>Découvrez comment modifier le signataire d’un document déjà en cours.</em>
      <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
   </td>
 </tr>
 </table>
@@ -122,8 +137,6 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <em>Obtenir la signature d’une autre personne en personne à l’aide de l’application mobile Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="delegate-signing.md">
       <img alt="Déléguer la signature à un autre utilisateur" src="../assets/Delegatesigning.png" />
@@ -134,6 +147,8 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <em>Découvrez comment déléguer la signature d’un document à une autre personne</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
       <img alt="Qu’est-ce qu’une signature numérique ?" src="../assets/Whatisdigsig_1280.jpg" />
@@ -154,6 +169,21 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <em>Utiliser des tampons pour marquer un document approuvé ou complété</em>
      <br>
   </td> 
+  <td>
+    <a href="sign-with-a-stamp.md">
+      <img alt="Signature avec un tampon" src="../assets/Stamp.png" />
+    </a>
+    <div>
+    <a href="sign-with-a-stamp.md"><strong>Signature avec un tampon</strong></a>
+    </div>
+    <em>Utiliser des tampons pour marquer un document approuvé ou complété</em>
+     <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>  
 </table>
 
@@ -179,6 +209,11 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <a href="../sign-advanced-users/create-a-template.md"><strong>Création d’un modèle de document</strong></a>
     </div>
     <em>Créez un modèle de document réutilisable pour offrir rapidité et cohérence à votre entreprise</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
