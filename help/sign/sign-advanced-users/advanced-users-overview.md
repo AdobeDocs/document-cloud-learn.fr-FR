@@ -7,10 +7,10 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: e5ac7f7782df654f2a59326b8dc14df7abba97ad
+source-git-commit: c1f3544017f268b7f0c9050ed440b3dc97fd20dd
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '284'
+ht-degree: 4%
 
 ---
 
@@ -54,8 +54,6 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
     <em>Ajouter un rôle d'approbateur à votre processus d'approbation de contrat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="set-up-online-payments.md">
       <img alt="Configuration des paiements en ligne" src="../assets/Payments.png" />
@@ -66,7 +64,9 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
     <em>Découvrez comment configurer et accepter les paiements en ligne dans vos documents</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="megasign.md">
       <img alt="Envoi et collecte simultanée de signatures" src="../assets/Megasign.png" />
     </a>
@@ -86,9 +86,7 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
     <em>Créez un document pouvant être signé électroniquement directement sur votre site web</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="adobe-sign-text-tagging.md">
       <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
   </a>
@@ -96,16 +94,6 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
     <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Acrobat Sign</strong></a>
     </div>
     <em>Création de champs de formulaire Acrobat Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +111,16 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
     <a href="edit-a-template.md"><strong>Gestion des modèles de document</strong></a>
     </div>
     <em>Modification ou suppression d’un modèle de votre bibliothèque</em>
+    <br>
+  </td>
+  <td>
+    <a href="modify-webform.md">
+      <img alt="Modification d’un formulaire web existant" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="modify-webform.md"><strong>Modification d’un formulaire web existant</strong></a>
+    </div>
+    <em>Découvrez comment désactiver, modifier et réactiver un formulaire web existant.</em>
     <br>
   </td>  
   <td>
