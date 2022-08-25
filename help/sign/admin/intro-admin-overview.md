@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: ac39f9930a2ee655afe2643b78cf00277460ac8c
+source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
 workflow-type: tm+mt
-source-wordcount: '396'
-ht-degree: 1%
+source-wordcount: '416'
+ht-degree: 0%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 1%
 
 ![Image des administrateurs Sign](../assets/Hero-Admin.png)
 
-Découvrez comment ajouter des utilisateurs à votre compte, configurer des groupes, partager l’accès et configurer un workflow, une archive externe et partager des événements et des alertes. Ces tutoriels s’adressent aux administrateurs qui ont dépassé la phase d’installation et sont prêts à commencer à administrer Acrobat Sign. Les tâches avancées couvrent des rubriques qui s’étendent au-delà de la partie configurée par l’administrateur et qui passent à la définition des paramètres globaux, à l’accès et au partage de compte, ainsi qu’au balisage de texte.
+Découvrez comment ajouter des utilisateurs à votre compte, configurer des groupes, partager l’accès et configurer un workflow, une archive externe et partager des événements et des alertes. Ces tutoriels s’adressent aux administrateurs qui ont dépassé la phase d’installation et sont prêts à commencer à administrer Acrobat Sign. Les tâches avancées couvrent des rubriques qui s’étendent au-delà de la configuration de l’administrateur et se déplacent vers la définition des paramètres globaux, l’accès et le partage de compte, et le balisage de texte.
 
 ## Prise en main
 
@@ -54,8 +54,6 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <em>Ajouter des utilisateurs individuellement ou en bloc à votre compte Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-and-manage-groups.md">
       <img alt="Création et gestion de groupes" src="../assets/Creating-Groups.png" />
@@ -66,7 +64,9 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <em>Création de groupes, ajout d’utilisateurs à des groupes et modification des paramètres de groupe</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="set-up-your-external-archive.md">
       <img alt="Configuration d'une archive externe" src="../assets/ExternalArchive.png" />
     </a>
@@ -86,8 +86,6 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <em>Création d'un modèle de document réutilisable pour plus de rapidité et de cohérence</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-report.md">
       <img alt="Création d'un rapport" src="../assets/Report.png" />
@@ -95,7 +93,7 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <div>
     <a href="create-a-report.md"><strong>Création d'un rapport</strong></a>
     </div>
-    <em>Créez et planifiez des rapports afin d’obtenir de la visibilité sur l’utilisation d’Acrobat Sign par votre entreprise</em>
+    <em>Créez et planifiez des rapports pour avoir une visibilité sur l’utilisation d’Acrobat Sign par votre entreprise</em>
     <br>
   </td>
   <td>
@@ -108,6 +106,18 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <em>Créez un document pouvant être signé électroniquement directement sur votre site web</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="../sign-advanced-users/modify-webform.md">
+      <img alt="Modification d’un formulaire web existant" src="../assets/Modifywebform.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/modify-webform.md"><strong>Modification d’un formulaire web existant</strong></a>
+    </div>
+    <em>Découvrez comment désactiver, modifier et réactiver un formulaire web existant.</em>
+    <br>
+  </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
       <img alt="Envoi et collecte simultanée de signatures" src="../assets/Megasign.png" />
@@ -118,8 +128,6 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <em>Collectez des centaines de signatures à la fois pour tous les documents</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Configuration d’un workflow" src="../assets/BuildingWorkflow.png" />
@@ -128,11 +136,6 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <a href="building-a-custom-workflow.md"><strong>Configuration d’un workflow</strong></a>
     </div>
     <em>Automatisez les workflows documentaires pour récupérer rapidement les signatures et données électroniques</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
@@ -177,8 +180,6 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <em>Configurer le partage de compte pour permettre aux administrateurs et aux utilisateurs de déléguer leurs autorisations d’envoi, de modification et d’affichage</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="use-bio-pharma-settings.md">
       <img alt="Utilisation des paramètres Bio-Pharma" src="../assets/Bio_1280.png" />
@@ -189,7 +190,9 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <em>Configurez les paramètres Bio-Pharma qui vous permettent de respecter les exigences de la règlementation 21 CFR Part 11 de la FDA</em>
     <br>
   </td> 
-  <td>
+</tr>
+<tr>
+   <td>
      <a href="../sign-advanced-users/adobe-sign-text-tagging.md">
       <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
     </a>
@@ -197,6 +200,16 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Balisage de texte Acrobat Sign</strong></a>
     <div>
     <em>Création de champs de formulaire Acrobat Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
