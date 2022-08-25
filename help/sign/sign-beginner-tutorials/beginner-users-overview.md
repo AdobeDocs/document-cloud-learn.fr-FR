@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2594c9b50be3801021f89d60f0fc42389a63c86e
+source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '422'
+ht-degree: 1%
 
 ---
 
@@ -66,6 +66,16 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
 </tr>
 <tr>
   <td>
+    <a href="sending-options.md">
+      <img alt="Configuration des options d’envoi" src="../assets/Sendingoptions.png" />
+    </a>
+    <div>
+    <a href="sending-options.md"><strong>Configuration des options d’envoi</strong></a>
+    </div>
+    <em>Découvrez comment configurer différentes options lors de l’envoi d’un document pour signature</em>
+    <br>
+  </td>
+  <td>
     <a href="adding-fields.md">
       <img alt="Ajout de champs à vos documents" src="../assets/AddingFields.png" />
     </a>
@@ -75,7 +85,7 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <em>Découvrez comment ajouter différents types de champs à vos documents</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="modify-in-flight.md">
       <img alt="Modification d’un document après envoi" src="../assets/Modifying-sending.png" />
     </a>
@@ -85,7 +95,7 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <em>Modifier un document déjà en cours</em>
     <br>
   </td>
- <td>
+  <td>
     <a href="replace-signer.md">
       <img alt="Remplacement d’un signataire" src="../assets/replace-signer.png" />
     </a>
@@ -94,11 +104,6 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     </div>
     <em>Découvrez comment modifier le signataire d’un document déjà en cours.</em>
      <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
   </td>
 </tr>
 </table>
