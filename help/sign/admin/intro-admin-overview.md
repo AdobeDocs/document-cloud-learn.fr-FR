@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e44f36c10c666fc4734df0521dc7c25ae60ce960
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
@@ -88,12 +88,12 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
   </td>
   <td>
     <a href="create-a-report.md">
-      <img alt="Création d'un rapport" src="../assets/Report.png" />
+      <img alt="Création d'un graphique de rapport" src="../assets/Reportchart.png" />
     </a>
     <div>
-    <a href="create-a-report.md"><strong>Création d'un rapport</strong></a>
+    <a href="create-a-report.md"><strong>Création d'un graphique de rapport</strong></a>
     </div>
-    <em>Créez et planifiez des rapports pour avoir une visibilité sur l’utilisation d’Acrobat Sign par votre entreprise</em>
+    <em>Découvrez comment créer, enregistrer et gérer vos propres rapports personnalisés et exportations de données</em>
     <br>
   </td>
   <td>

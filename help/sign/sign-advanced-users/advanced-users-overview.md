@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2b02c5d18f16bf04ea4895308e6116a3d8cad938
+source-git-commit: 23830fe4b27abadc4e2b1f4076a62ec3bd5e1ce9
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '305'
 ht-degree: 4%
 
 ---
@@ -129,10 +129,15 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
     <br>
   </td>  
   <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <a href="creating-a-report.md">
+      <img alt="Création d'un rapport" src="../assets/Report.png" />
+    </a>
     <div>
+    <a href="creating-a-report.md"><strong>Création d'un rapport</strong></a>
+    </div>
+    <em>Découvrez comment créer vos propres rapports pour obtenir une visibilité sur le processus de signature des documents</em>
     <br>
-  </td>
+  </td>  
   <td>
     <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>

@@ -1,27 +1,26 @@
 ---
-title: Création d'un rapport
-description: Découvrez comment exécuter, enregistrer et planifier des rapports dans Acrobat Sign
+title: Création d'un graphique de rapport
+description: Découvrez comment créer, enregistrer et gérer vos propres rapports personnalisés et exportations de données
 role: User, Admin
-product: adobe sign
 level: Intermediate
 thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '97'
+ht-degree: 17%
 
 ---
 
-# Création d&#39;un rapport
+# Création d&#39;un graphique de rapport
 
-Découvrez comment exécuter, enregistrer et planifier des rapports dans Acrobat Sign.
+Découvrez comment créer, enregistrer et gérer vos propres rapports personnalisés et exportations de données dans une vue personnalisée grâce à la nouvelle expérience de création de rapports. La disponibilité des graphiques de rapports dépend du niveau d’autorité des utilisateurs dans le système Acrobat Sign.
 
 >[!NOTE]
 >
 >Les rapports sont uniquement disponibles pour les formules professionnelles et d’entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/17357?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33812?hidetitle=true)
 
 >[!TIP]
 >
