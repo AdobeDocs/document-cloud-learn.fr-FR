@@ -6,9 +6,9 @@ product: adobe sign
 level: Experienced
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 3e12b86951b7d5ba5cde467f385de3a7798c8ba5
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Consultez ces autres cas d’utilisation concrets :
 
 * [Forms des contrats et des demandes d&#39;approvisionnement](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en) cas d’usage.
 * [Forms des contrats commerciaux et des demandes](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en) cas d’usage.
+
+>[!NOTE]
+>
+>Les administrateurs de groupe peuvent affecter des workflows à n’importe quel groupe qu’ils gèrent (et pas seulement à leur groupe principal). Les administrateurs de groupe peuvent également modifier tout workflow affecté à un groupe qu’ils gèrent.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?hidetitle=true)
 
