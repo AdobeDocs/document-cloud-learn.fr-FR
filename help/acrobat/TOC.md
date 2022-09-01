@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: cc64dfeb47dae1b061cc75fffbfc402d549391e3
+source-git-commit: 6c54ff6963cfa41b1c486aeb8c94861448abb627
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '403'
 ht-degree: 8%
 
 ---
@@ -20,20 +20,21 @@ ht-degree: 8%
    + [Utilisation d’Acrobat sur le web](getting-started/acrobatweb.md)
    + [Productivité en déplacement](getting-started/productivity.md)
    + [Utilisation de [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [Collaboration en temps réel](getting-started/collaborate.md)
-   + [Combine Files vers PDF](getting-started/combine-to-pdf.md)
+   + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
    + [Création d’un fichier PDF ](getting-started/create-pdf.md)
-   + [Commenter sur un PDF](getting-started/comment-on-pdf-files.md)
-   + [Modifier un fichier PDF](getting-started/edit-pdf.md)
-   + [Exportation d’un PDF vers des formats modifiables](getting-started/export-pdf.md)
-   + [Création de formulaires à compléter](getting-started/create-fillable-forms.md)
-   + [Numérisation et OCR](getting-started/scan-and-ocr.md)
+   + [Combine Files vers PDF](getting-started/combine-to-pdf.md)
    + [Organisation des pages](getting-started/organize.md)
-   + [Protect d’un fichier de mot de PDF avec un mot de passe](getting-started/password-protect.md)
+   + [Modifier un fichier PDF](getting-started/edit-pdf.md)
+   + [Réglage automatique de la disposition](getting-started/auto-adjust-layout.md)
+   + [Exportation d’un PDF vers des formats modifiables](getting-started/export-pdf.md)
+   + [Collaboration en temps réel](getting-started/collaborate.md)
+   + [Commenter sur un PDF](getting-started/comment-on-pdf-files.md)
+   + [Création de formulaires à compléter](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
+   + [Numérisation et OCR](getting-started/scan-and-ocr.md)
+   + [Protect d’un fichier de mot de PDF avec un mot de passe](getting-started/password-protect.md)
    + [Obtenir des signatures](getting-started/signatures.md)
    + [Suivi de vos documents](getting-started/track.md)
-   + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
 + Tâches avancées {#advanced-tasks}
    + [Aperçu](advanced-tasks/advanced-tasks-overview.md)
    + [Ajout de signets et d’hyperliens](advanced-tasks/bookmarks.md)
