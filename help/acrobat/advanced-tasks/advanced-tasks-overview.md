@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '343'
 ht-degree: 3%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 3%
 
 Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvrez comment créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser des fichiers volumineux, recueillir rapidement des données de formulaire et créer des fichiers de PDF accessibles à tous.
 
-## Tutoriels Acrobat
+## Tutoriels sur les tâches avancées
 
 <table style="table-layout:fixed">
 <tr>
@@ -53,9 +53,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Améliorez la productivité des workflows documentaires en utilisant des commandes et des outils personnalisés</em>
     <br>
   </td>
-</tr>
-<tr>
-   <td>
+  <td>
     <a href="advancedforms.md">
       <img alt="Champs de formulaire avancés" src="../assets/Advancedforms_1280.png" />
     </a>
@@ -65,6 +63,8 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Apprenez des techniques avancées pour créer des PDF forms professionnels</em>
     <br>
   </td>
+</tr>
+<tr>
  <td>
     <a href="optimizeseo.md">
       <img alt="Optimize PDF pour SEO (Search Engine Optimization)" src="../assets/seo_1280.png" />
@@ -85,8 +85,6 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Ajoutez différents types de champs de formulaire, définissez leurs propriétés et ajoutez des options de sécurité pour créer des formulaires professionnels de qualité</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="enhance.md">
       <img alt="Amélioration de votre PDF" src="../assets/Enhance_1280.png" />
@@ -107,6 +105,8 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Détectez rapidement et précisément les différences entre deux fichiers PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="action.md">
       <img alt="Assistant d’action" src="../assets/Action.jpg" />
@@ -117,9 +117,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <em>Gagnez du temps et économisez des frappes de touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs fichiers</em>
     <br>
   </td>
-</tr>
-<tr>
- <td>
+  <td>
     <a href="redact.md">
       <img alt="Biffer et assainir" src="../assets/Redact.jpg" />
     </a>
@@ -172,7 +170,12 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
     <br>
   </td>
   <td>
-   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+   <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td> 
+  <td>
+   <img alt="Espaceur" src="../assets/Grayspacer.png" />
     <div>
     <br>
   </td>  

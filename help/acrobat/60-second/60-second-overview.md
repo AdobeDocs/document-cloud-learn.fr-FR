@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 744006c7d8229df39a202355b7b79bf9f6a38b3d
+source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
 workflow-type: tm+mt
-source-wordcount: '529'
+source-wordcount: '527'
 ht-degree: 0%
 
 ---
@@ -54,8 +54,6 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     <em>Convertissez des fichiers et formulaires Word en PDF et créez automatiquement des champs</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="accessible.md">
       <img alt="Laissez Acrobat vous aider à créer des PDF accessibles" src="../assets/60sec_Accessible_1280.jpg" />
@@ -66,6 +64,8 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     <em>Vérifiez si un PDF est accessible</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="exportwordphone.md">
       <img alt="Export PDF à Word depuis votre téléphone" src="../assets/60sec_Exportphone_1280.jpg" />
@@ -86,8 +86,6 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     <em>Convertir un PDF numérisé afin de pouvoir rechercher du texte dans le PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="combine-to-one-pdf.md">
       <img alt="Regroupement de fichiers dans un PDF" src="../assets/60sec_Combine_1280.jpg" />
@@ -108,6 +106,8 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     <em>Apportez des modifications simples au texte et aux images sans même télécharger le PDF</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="search.md">
       <img alt="Rechercher plusieurs fichiers de PDF en même temps" src="../assets/60sec_Search_1280.jpg" />
@@ -118,8 +118,6 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     <em>Lancez une recherche dans un fichier de PDF, puis lancez la recherche avancée et recherchez un dossier complet de fichiers de PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="photo.md">
       <img alt="Création instantanée d'un PDF de photos" src="../assets/60sec_Photo_1280.jpg" />
@@ -149,7 +147,7 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     </div>
     <em>Apprenez à utiliser Adobe Scan pour signer un formulaire imprimé</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -181,9 +179,7 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     </div>
     <em>Apprenez à apporter des modifications avancées à une image dans votre PDF à l’aide d’Illustrator</em>
     <br>
-  </td> 
-</tr>
-<tr>
+  </td>
   <td>
     <a href="organize.md">
       <img alt="Agencement des pages en un clin d’oeil" src="../assets/60sec_Organize_1280.jpg" />
@@ -194,15 +190,5 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     <em>Apprenez à utiliser l'outil Organiser les pages pour obtenir une vue d'ensemble de votre PDF</em>
     <br>
   </td>
-  <td>
-   <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>  
 </tr>
 </table>
