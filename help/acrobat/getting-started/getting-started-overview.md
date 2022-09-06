@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 6%
+source-wordcount: '484'
+ht-degree: 7%
 
 ---
 
@@ -133,8 +133,13 @@ Découvrez comment commencer à utiliser Adobe Acrobat grâce à ces brefs tutor
       <br>
     </td>
     <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+      <a href="add-custom-page.md">
+        <img alt="Ajout d’une page personnalisée" src="../assets/Custompage.png" />
+      </a>
       <div>
+      <a href="add-custom-page.md"><strong>Ajout d’une page personnalisée</strong></a>
+      </div>
+      <em>Découvrez comment ajouter des pages personnalisées à votre PDF à l’aide de l’application Adobe Express intégrée</em>
       <br>
     </td>
   </tr>
