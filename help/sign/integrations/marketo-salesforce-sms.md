@@ -8,16 +8,16 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4827c827ee06c94c38290d5f0e716e8a8328bd48
 workflow-type: tm+mt
-source-wordcount: '690'
+source-wordcount: '688'
 ht-degree: 1%
 
 ---
 
-# Envoi de notifications à l’aide d’Acrobat Sign pour Salesforce et Marketo
+# Envoyer des notifications à l’aide d’Acrobat Sign pour [!DNL Salesforce] et [!DNL Marketo]
 
-Découvrez comment envoyer un SMS, un e-mail ou une notification push pour informer le signataire qu’un accord est en cours d’envoi à l’aide d’Acrobat Sign, Acrobat Sign pour Salesforce, Marketo et Marketo Salesforce Sync. Pour envoyer des notifications à partir de Marketo, vous devez d’abord acheter ou configurer une fonction de gestion des SMS de Marketo. Cette procédure pas à pas utilise [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), mais d’autres solutions SMS de Marketo sont disponibles.
+Découvrez comment envoyer un SMS, un e-mail ou une notification Push pour informer le signataire qu’un accord est en cours d’envoi à l’aide d’Acrobat Sign, Acrobat Sign pour Salesforce, Marketo et Marketo Salesforce Sync. Pour envoyer des notifications à partir de Marketo, vous devez d’abord acheter ou configurer une fonction de gestion des SMS de Marketo. Cette procédure pas à pas utilise [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), mais d’autres solutions SMS de Marketo sont disponibles.
 
 ## Conditions préalables
 

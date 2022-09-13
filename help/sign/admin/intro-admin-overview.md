@@ -7,7 +7,7 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: e9efa4f72801b5dcccc6c956eb760fe2a9f88595
+source-git-commit: 0c7bec15754d1d09484762d656f1551da839728b
 workflow-type: tm+mt
 source-wordcount: '418'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
     <div>
     <a href="set-up-your-external-archive.md"><strong>Configuration d'une archive externe</strong></a>
     </div>
-    <em>Créer une archive externe pour les copies de sauvegarde des accords qui ont été envoyés</em>
+    <em>Créer une archive externe pour sauvegarder les copies des accords qui ont été signés</em>
     <br>
   </td>
   <td>
