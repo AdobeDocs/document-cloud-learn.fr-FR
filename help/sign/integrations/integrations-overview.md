@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 59ff31d39cbc890a68fba1ca62efb278f154c155
+source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -80,13 +80,35 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications que votre entrepr
     <br>
   </td>
   <td>
-    <a href="documentautomation.md">
-      <img alt="Automatisation des documents avec Acrobat Sign pour Microsoft Power Platform" src="../assets/SF-Button.png" />
+    <a href="auto-archive-sharepoint-power-automate.md">
+      <img alt="Archivage automatique des fichiers dans [!DNL SharePoint] avec [!DNL Power Automate]" src="../assets/Autoarchive.png" />
     </a>
     <div>
-    <a href="documentautomation.md"><strong>Automatisation des documents avec Acrobat Sign pour Microsoft Power Platform</strong></a>
+    <a href="auto-archive-sharepoint-power-automate.md"><strong>Archivage automatique des fichiers dans [!DNL SharePoint] avec [!DNL Power Automate]</strong></a>
     </div>
-    <em>Découvrez comment activer et utiliser les connecteurs Acrobat Sign et Adobe PDF Tools pour Microsoft Power Apps</em>
+    <em>Découvrez comment archiver automatiquement des documents signés dans un [!DNL SharePoint] bibliothèque utilisation [!DNL Power Automate]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="documentautomation.md">
+      <img alt="Automatisation des documents avec [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
+    </a>
+    <div>
+    <a href="documentautomation.md"><strong>Automatisation des documents avec [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
+    </div>
+    <em>Découvrez comment activer et utiliser le [!DNL Acrobat Sign] et [!DNL Adobe PDF Tools] connecteurs pour [!DNL Microsoft Power] applications</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
