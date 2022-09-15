@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 7d25edcbbd49ebc182f74c24fecb2288386204ab
+source-git-commit: 3b2b8993fefea4a719cb0a642245d9339684eebf
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 8%
+source-wordcount: '410'
+ht-degree: 9%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 8%
    + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
    + [Création d’un fichier PDF ](getting-started/create-pdf.md)
    + [Combine Files vers PDF](getting-started/combine-to-pdf.md)
-   + [Organisation des pages](getting-started/organize.md)
+   + [Organiser les pages](getting-started/organize.md)
    + [Ajouter une page personnalisée](getting-started/add-custom-page.md)
    + [Modifier un fichier PDF](getting-started/edit-pdf.md)
    + [Réglage automatique de la disposition](getting-started/auto-adjust-layout.md)
@@ -114,3 +114,4 @@ ht-degree: 8%
 + Application mobile {#mobile}
    + [Aperçu](mobile/mobile-overview.md)
    + [Productivité en déplacement](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [Numérisez tout document dans le PDF](mobile/scan-mobile-app.md)

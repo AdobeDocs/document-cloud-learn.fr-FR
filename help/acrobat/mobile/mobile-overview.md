@@ -8,9 +8,9 @@ topic-revisit: mobile
 thumbnail: KT-6863.jpg
 kt: 6863
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 790253a6c1bf5a7e1dbb2e526b8d8b3d3825396e
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '231'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,33 @@ Créez, remplissez et signez des PDF sur votre appareil mobile.
      <a href="../getting-started/productivity.md"><strong>Productivité en déplacement</strong></a>
     </div>
     <em>Allez plus loin directement depuis votre tablette ou votre téléphone mobile avec l’application mobile Acrobat Reader</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
+## Tutoriels sur les applications mobiles Adobe Scan
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="scan-mobile-app.md">
+      <img alt="Numérisez tout document dans le PDF" src="../assets/Scanmobile.png" />
+    </a>
+    <div>
+     <a href="scan-mobile-app.md"><strong>Numérisez tout document dans le PDF</strong></a>
+    </div>
+    <em>Découvrez comment convertir n’importe quel document papier en PDF avec l’application mobile gratuite Adobe Scan</em>
     <br>
   </td>
   <td>
