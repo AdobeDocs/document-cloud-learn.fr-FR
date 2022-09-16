@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 85bbf4b7eca9e08d30fa941869a50bea1b248eb1
+source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
 workflow-type: tm+mt
-source-wordcount: '422'
+source-wordcount: '406'
 ht-degree: 1%
 
 ---
@@ -174,15 +174,10 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
     <em>Utiliser des tampons pour marquer un document approuvé ou complété</em>
      <br>
   </td> 
-  <td>
-    <a href="sign-with-a-stamp.md">
-      <img alt="Signature avec un tampon" src="../assets/Stamp.png" />
-    </a>
+ <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
     <div>
-    <a href="sign-with-a-stamp.md"><strong>Signature avec un tampon</strong></a>
-    </div>
-    <em>Utiliser des tampons pour marquer un document approuvé ou complété</em>
-     <br>
+    <br>
   </td>
   <td>
     <img alt="Espaceur" src="../assets/Grayspacer.png" />
