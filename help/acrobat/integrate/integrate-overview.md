@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 42ea703db2923063c572a4ff0102eeea1c1f3d19
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '299'
 ht-degree: 1%
 
 ---
@@ -120,10 +120,35 @@ Gagnez en efficacité en un temps record en intégrant les principaux outils de 
 </tr>
 </table>
 
+## Dropbox
+
+Découvrez à quel point il est facile d’accéder aux fichiers stockés dans [!DNL Dropbox].
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="acrobat-dropbox.md">
+      <img alt="Utilisation de fichiers provenant de [!DNL Dropbox]" src="../assets/Dropbox.png" />
+    </a>
+    <div>
+    <a href="acrobat-dropbox.md"><strong>Utilisation de fichiers provenant de [!DNL Dropbox]</strong></a>
+    </div>
+    <em>Découvrez comment ouvrir, créer, modifier, signer et enregistrer les modifications apportées à votre [!DNL Dropbox] fichiers depuis Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
 ## Box
 
 Découvrez comment Acrobat et [Box](https://www.adobe.com/documentcloud/integrations/box.html){target=&quot;_blank&quot;} simplifiez la tâche de tous les membres de votre entreprise.
-
-## Dropbox
-
-Découvrez à quel point il est facile d’accéder aux mots de PDF stockés dans [Dropbox](https://www.adobe.com/documentcloud/integrations/dropbox.html){target=&quot;_blank&quot;}.

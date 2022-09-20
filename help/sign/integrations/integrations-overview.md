@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 16514daae1250663dcee1e441873ac07ee9a3906
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '557'
 ht-degree: 0%
 
 ---
@@ -140,12 +140,12 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications que votre entrepr
   </td>
   <td>
     <a href="set-up-merging-map.md">
-      <img alt="Définition du mappage de fusion" src="../assets/SF-MergeMapping.png" />
+      <img alt="Configuration du mappage de fusion dans Salesforce" src="../assets/SF-MergeMapping.png" />
     </a>
     <div>
-    <a href="set-up-merging-map.md"><strong>Définition du mappage de fusion</strong></a>
+    <a href="set-up-merging-map.md"><strong>Configuration du mappage de fusion dans Salesforce</strong></a>
     </div>
-    <em>Fusionner des données de Salesforce directement dans un accord</em>
+    <em>Découvrez comment fusionner des données de Salesforce directement dans un document Acrobat Sign</em>
     <br>
   </td>
 </tr>

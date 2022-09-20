@@ -1,21 +1,21 @@
 ---
-title: Configuration du mappage de fusion
-description: Découvrez comment fusionner des données de Salesforce directement dans un accord
+title: Configuration du mappage de fusion dans Salesforce
+description: Découvrez comment fusionner des données de Salesforce directement dans un document Acrobat Sign
 role: Admin
 product: adobe sign
 level: Intermediate
 topic-revisit: Integrations
-thumbnail: 17350.jpg
+thumbnail: KT-10600.jpg
 exl-id: 47f3b483-106e-48d9-b554-ad9a87e51a7e
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
 # Configuration du mappage de fusion dans Salesforce
 
-Découvrez comment configurer le mappage de fusion pour Acrobat Sign dans Salesforce. Le mappage de fusion vous permet de fusionner des données de Salesforce directement dans un accord.
+Découvrez comment fusionner des données de Salesforce directement dans un document Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/17350?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409412?hidetitle=true)
