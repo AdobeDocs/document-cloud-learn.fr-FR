@@ -5,9 +5,9 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 887752f71e1ef9573346377ea8853a8a4bbb1301
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '819'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,18 @@ ht-degree: 0%
 Les créateurs de compétences Adobe Acrobat sont des sessions de 30 minutes conçues pour donner une nouvelle dimension à vos workflows PDF. Chaque mois, une nouvelle rubrique est mise en évidence.
 
 ## Sessions mensuelles
+
+* **[Utilisation de PDF dans vos applications Microsoft](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/f7e3961b-e322-4253-bfa4-ff1957a08d99/c1111644-e958-41bf-ad6e-dffafafa7fa0){target=&quot;_blank&quot;}**
+Date : 15 décembre 2022 Acrobat étant entièrement intégré aux applications Microsoft 365, vous n’avez pas à vous déplacer entre les écrans et pouvez faire plus d’choses dans le flux de votre travail. Dans cette session de Skill Builder, vous apprendrez à ajouter des workflows PDF aux applications Microsoft que vous utilisez au quotidien, notamment Teams, Outlook, SharePoint, Word, PowerPoint et Excel.
+
+* **[Collaboration PDF : Partage, révision et collaboration](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/d1eb8544-6268-4855-8500-2370b1e68045/0dd92858-0587-49f4-be60-8d48c140ef39){target=&quot;_blank&quot;}**
+Date : 17 novembre 2022 Ce webinaire Skill Builder est consacré à la collaboration documentaire digitale. Venez découvrir le moyen simple de réviser des documents avec votre équipe et bénéficiez d’une visite guidée des outils de commentaire à votre disposition. Nous parlerons également de la révision de mots de PDF avec d’autres personnes dans les Microsofts Teams, et de la manière de faire des commentaires, où que vous soyez, à l’aide de l’application mobile Acrobat et d’Acrobat Web.
+
+* **[Réutilisez le contenu de votre PDF : Modifier et exporter](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/68a9bbf2-91ca-40f0-baa1-812dd0730e0b/48c2399c-7392-4d7d-ba51-f623dead313a){target=&quot;_blank&quot;}**
+Date : 27 octobre 2022 Découvrez comment modifier vos PDF existants : Modifiez le texte et les images, ajoutez des hyperliens et des signets, convertissez-les en fichiers Microsoft Word, PowerPoint et Excel, etc.
+
+* **[Prise en main d’Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
+Date : 22 septembre 2022 Prise en main d’Adobe Acrobat et de PDF. Nous allons vous présenter l’interface d’Acrobat et vous montrer comment : * Créez des PDF à partir de fichiers image et de documents (Word, Excel et PowerPoint notamment). * Regroupez plusieurs fichiers (PDF, Word, images, etc.) dans un seul PDF modifiable. * Travaillez où que vous soyez et à tout moment avec Acrobat pour le web et les appareils mobiles.
 
 * **[Sécurité du PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
 Date : 25 août 2022 Obtenez toutes les informations dont vous avez besoin sur la protection du contenu de votre PDF. Dans cette session, vous apprendrez à ajouter des mots de passe pour empêcher l’affichage, la modification ou l’impression d’un PDF, et à supprimer définitivement les informations sensibles, même des métadonnées non visibles.

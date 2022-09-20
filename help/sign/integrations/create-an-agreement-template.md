@@ -1,22 +1,22 @@
 ---
-title: Création d’un modèle de document dans Acrobat Sign pour Salesforce
-description: Apprenez à créer un modèle de document réutilisable pour gagner du temps et assurer un maximum de cohérence
+title: Document Builder pour [!DNL Salesforce]
+description: Découvrez comment créer un modèle de document réutilisable à l’aide de Document Builder pour Salesforce
 role: User, Admin
 product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 topic-revisit: Integrations
-thumbnail: 17349.jpg
+thumbnail: KT-10598.jpg
 exl-id: c97d0652-fee5-4533-8567-377e04eabbf2
-source-git-commit: 174ce22fd784210b6241a6a42831497a007377f9
+source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Création d’un modèle de document dans Acrobat Sign pour [!DNL Salesforce]
+# Document Builder pour [!DNL Salesforce]
 
-Découvrez comment créer un modèle de document pour Acrobat Sign dans [!DNL Salesforce]. Les modèles de document garantissent la rapidité et l’homogénéité de vos transactions Sign, tout en offrant la possibilité de gérer les révisions et les modifications de documents.
+Découvrez comment créer un modèle de document réutilisable à l’aide de Document Builder pour Salesforce. Les modèles de document réutilisables garantissent la rapidité et la cohérence de vos transactions Sign, et vous permettent de gérer les révisions et les modifications de documents.
 
->[!VIDEO](https://video.tv.adobe.com/v/17349?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409414?hidetitle=true)
