@@ -1,5 +1,5 @@
 ---
-title: Gestion des modèles de document
+title: Gérer les modèles de document
 description: Modification ou suppression d’un modèle de votre bibliothèque
 role: User, Admin
 product: adobe sign
@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17346.jpg
 exl-id: 2489676e-5dd4-458e-99b6-14c671ed336d
-source-git-commit: 37020a1eccf194e65d45eec50376a29095b6fcdf
+source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
 workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 0%
