@@ -6,9 +6,9 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
+source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ Découvrez comment suivre, gérer et exporter des données depuis un [formulaire
 
 >[!NOTE]
 >
->Votre administrateur Acrobat Sign doit activer **Autoriser d’autres participants** dans le **Formulaires web** de la boîte de dialogue **Paramètres généraux** pour utiliser le workflow de participant supplémentaire.
+>Seules les formules professionnelles et d’entreprise peuvent configurer les options des signataires et d’accès aux formulaires web. Les options des signataires et d’accès aux formulaires web sont activées ou désactivées au niveau du compte ou du groupe sous Compte > Paramètres de compte > Paramètres généraux > Formulaires web.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
