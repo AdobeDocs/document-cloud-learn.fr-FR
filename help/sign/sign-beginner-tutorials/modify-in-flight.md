@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-5316.jpg
 exl-id: a6d353a5-823a-4637-8462-f3b8536f078c
-source-git-commit: 600c63c455acf3f4d0884b62a883b7ed94670fe9
+source-git-commit: 8c18bb9a33550568de7e5eb6b7d3a13aa7336fa4
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Apprenez à modifier un document qui a déjà été envoyé pour signature, par 
 
 >[!NOTE]
 >
->La modification d’un document après l’envoi est uniquement disponible pour les formules d’entreprise. Votre administrateur Acrobat Sign doit peut-être activer l’option **Modifier les accords** dans le panneau **Paramètres d’envoi** de la boîte de dialogue **Paramètres du compte** pour utiliser cette fonctionnalité.
+>La modification d’un document après l’envoi est uniquement disponible pour les formules d’entreprise. Votre administrateur Acrobat Sign doit activer **Modifier les accords** dans le **Paramètres d’envoi** de la boîte de dialogue **Paramètres du compte** pour utiliser cette fonctionnalité.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342299?hidetitle=true)
 
