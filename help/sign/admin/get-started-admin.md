@@ -5,9 +5,9 @@ role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 0e2bde4dcecc7315fd233c7a5056c1e14456fd98
+source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -20,43 +20,139 @@ Ce guide vidéo complet a été spécialement conçu pour les nouveaux administr
 <tr>
   <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60">
-      <img alt="Accès au Admin Console" src="../assets/Stepforward_18.png" />
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=60"><strong>Accès au Admin Console</strong></a>
          <br>
-        <em>01:00</em>
+        <em>À partir de 13 h</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105">
-      <img alt="Autorisation d’Acrobat Sign à un utilisateur" src="../assets/Stepforward_18.png" />
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=105"><strong>Autorisation d’Acrobat Sign à un utilisateur</strong></a>
         <br>
-        <em>01:45</em>
+        <em>À partir de 13 h 45</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191">
-      <img alt="Présentation du portail web Acrobat Sign" src="../assets/Stepforward_18.png" />
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=191"><strong>Présentation du portail web Acrobat Sign</strong></a>
         <br>
-        <em>03:11</em>
+        <em>À partir de 15 h 11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358">
-      <img alt="Paramètres et configurations globaux" src="../assets/Stepforward_18.png" />
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
      <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=358"><strong>Paramètres et configurations globaux</strong></a>
         <br>
-        <em>05:58</em>
+        <em>À partir de 17 h 58</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=460"><strong>Identité visuelle et configuration du compte</strong></a>
+         <br>
+        <em>Début à 7h40</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=502"><strong>Préférences de signature</strong></a>
+        <br>
+        <em>Début à 8h22</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=543"><strong>Paramètres de sécurité</strong></a>
+        <br>
+        <em>À partir de 9 h 03</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=595"><strong>Paramètres d’envoi</strong></a>
+        <br>
+        <em>À partir de 9 h 55</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=720"><strong>Modèles de message</strong></a>
+         <br>
+        <em>Début à 12h00</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=755"><strong>Paramètres de messagerie</strong></a>
+        <br>
+        <em>Début à 12h35</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=783"><strong>Gestion des utilisateurs et des groupes</strong></a>
+        <br>
+        <em>Début à 13h03</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=917"><strong>Création et activation de workflows</strong></a>
+        <br>
+        <em>Début à 15:17</em>
+  </td>
+</tr>
+<tr>
+  <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+    </td>
+    <td>
+     <a href="https://video.tv.adobe.com/v/343565/?autoplay=true&t=1145"><strong>Accès au support et ressources supplémentaires</strong></a>
+        <br>
+        <em>Début à 19:05</em>
     </td>
   </tr>
   </table>
