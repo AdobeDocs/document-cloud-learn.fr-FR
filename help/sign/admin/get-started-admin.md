@@ -1,20 +1,20 @@
 ---
 title: Prise en main pour les nouveaux administrateurs
-description: Dans ce guide vidéo complet, découvrez tous les outils dont vous avez besoin pour aider votre entreprise à démarrer avec Acrobat Sign
+description: Dans ce guide vidéo complet, découvrez tous les outils nécessaires pour que votre entreprise soit opérationnelle avec Acrobat Sign
 role: Admin
 product: adobe sign
 level: Beginner
 thumbnail: KT-11289.jpg
-source-git-commit: 51c192a8c8cbadb87b9c5ef24a415abc7f6cb574
+source-git-commit: 89a9053921912a0b904aed172c5527a846a300f7
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 # Prise en main pour les nouveaux administrateurs
 
-Ce guide vidéo complet a été spécialement conçu pour les nouveaux administrateurs Acrobat Sign. Découvrez tous les outils dont vous avez besoin pour que votre entreprise soit opérationnelle avec Acrobat Sign. Ce guide détaillé traite des sujets suivants :
+Ce guide vidéo complet a été spécialement conçu pour les nouveaux administrateurs Acrobat Sign. Découvrez tous les outils nécessaires pour que votre entreprise soit opérationnelle avec Acrobat Sign. Ce guide détaillé traite des sujets suivants :
 
 <table style="table-layout:auto">
 <tr>
