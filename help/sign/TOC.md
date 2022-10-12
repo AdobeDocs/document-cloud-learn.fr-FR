@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: b552039d79b6c7835e8139da891fd5b1397aff84
+source-git-commit: a956bf6a54d392be58e609d872584906febaf0a7
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '475'
 ht-degree: 8%
 
 ---
@@ -59,6 +59,7 @@ ht-degree: 8%
 + Administrer {#admin-set-up}
    + [Présentation](admin/intro-admin-overview.md)
    + Prise en main {#getting-started-admin}
+      + [Prise en main pour les nouveaux administrateurs](admin/get-started-admin.md)
       + [Prise en main pour les administrateurs](admin/up-and-running-admin.md)
       + [Configuration des notifications pour les événements et les alertes](admin/set-up-shared-events-and-alert.md)
       + [Ajout d’utilisateurs](admin/add-users-to-your-account.md)
