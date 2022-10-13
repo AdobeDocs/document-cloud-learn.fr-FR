@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 5a3fb2653be5123db740962ffce0d45f6ab71538
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ![Image d’identification numérique Sign](../assets/Hero-DigitalID.png)
 
-Semblable à un passeport sous forme électronique, une identité numérique (ID numérique) vous permet de prouver en toute sécurité que vous êtes celui que vous prétendez être. De plus, lorsque vous utilisez un identifiant numérique dans Acrobat Sign, vous avez l’assurance que vous avez bien autorisé l’apposition de votre signature électronique sur ce document spécifique. Les tutoriels suivants vous montrent comment utiliser des identifications numériques du monde entier avec Acrobat Sign.
+Semblable à un passeport sous forme électronique, une identité numérique (ID numérique) vous permet de prouver en toute sécurité que vous êtes celui que vous prétendez être. De plus, en cas de signature électronique dans Acrobat Sign, l’utilisation d’une identification numérique offre une meilleure garantie que vous avez autorisé l’apposition de votre signature électronique sur ce document spécifique. Les tutoriels suivants vous montrent comment utiliser des identifications numériques du monde entier avec Acrobat Sign.
 
 >[!NOTE]
 >
@@ -82,6 +82,23 @@ Semblable à un passeport sous forme électronique, une identité numérique (ID
   </td>
 </tr>
 </table>
+
+## [!DNL D-Trust]
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="d-trust.md">
+      <img alt="Enregistrement et signature avec D-Trust" src="assets/Dtrust.png" />
+    </a>
+    <div>
+    <a href="d-trust.md"><strong>Enregistrement et signature avec D-Trust</strong></a>
+    </div>
+    <em>Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utilisez la commande [!DNL D-Trust] signature numérique sur un document dans Acrobat Sign</em>
+    <br>
+  </td>
+  </tr>
+  </table>
 
 ## [!DNL Intesi Group]
 
