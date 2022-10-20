@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 2a81d3fe9dcdbe239d6f7957b2641473137a585e
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '440'
 ht-degree: 1%
 
 ---
@@ -18,6 +18,13 @@ ht-degree: 1%
 ![Image de prise en main Sign](../assets/Hero-GettingStarted.png)
 
 Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivre des documents en un clin d’oeil. Suivez la visite guidée d&#39;Acrobat Sign, puis lancez-vous dans l&#39;envoi d&#39;un document à une ou plusieurs personnes. Ce contenu est conçu pour faciliter les workflows de signature électronique.
+
+## Nouveautés
+
+* [Signature avec un tampon](sign-with-a-stamp.md)
+Apprenez à utiliser des tampons pour marquer un document approuvé ou complété
+* [Remplacement d’un signataire](replace-signer.md)
+Découvrez comment modifier le signataire d’un document déjà en cours.
 
 ## Envoi
 

@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: a58a3fd44e87b1e07aca9471fe713b51c1e05365
+source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 0%
+source-wordcount: '490'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,13 @@ ht-degree: 0%
 ![Image des administrateurs Sign](../assets/Hero-Admin.png)
 
 Découvrez comment ajouter des utilisateurs à votre compte, configurer des groupes, partager l’accès et configurer un workflow, une archive externe et partager des événements et des alertes. Ces tutoriels s’adressent aux administrateurs qui ont dépassé la phase d’installation et sont prêts à commencer à administrer Acrobat Sign. Les tâches avancées couvrent des rubriques qui s’étendent au-delà de la configuration de l’administrateur et se déplacent vers la définition des paramètres globaux, l’accès et le partage de compte, et le balisage de texte.
+
+## Nouveautés
+
+* [Prise en main pour les nouveaux administrateurs](get-started-admin.md)
+Dans ce guide vidéo complet, découvrez tous les outils nécessaires pour que votre entreprise soit opérationnelle avec Acrobat Sign
+* [Configuration d’un workflow](building-a-custom-workflow.md)
+Automatisez les workflows documentaires pour récupérer rapidement les signatures et données électroniques
 
 ## Prise en main
 
