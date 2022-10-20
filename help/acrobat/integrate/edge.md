@@ -1,6 +1,6 @@
 ---
-title: Création de contenu PDF lors de la navigation avec [!DNL Microsoft Edge]
-description: Apprenez à archiver des pages web vers un PDF à la volée avec l’extension Adobe Acrobat pour [!DNL Microsoft Edge]
+title: Créer du contenu de PDF pendant la navigation avec [!DNL Microsoft Edge]
+description: Découvrez comment archiver des pages web dans un PDF à la volée avec l’extension Adobe Acrobat pour [!DNL Microsoft Edge]
 role: User
 product: adobe acrobat
 level: Beginner
@@ -8,19 +8,23 @@ topic-revisit: Integrations
 thumbnail: KT-8495.jpg
 kt: 8495
 exl-id: 636a11a3-612a-4066-ad91-133259fbf0c3
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
 
 # Création de contenu PDF lors de la navigation avec [!DNL Microsoft Edge]
 
-Apprenez à archiver des pages web vers un PDF à la volée avec l’extension Adobe Acrobat pour [!DNL Microsoft Edge]. Cet outil Windows est inestimable pour les projets de recherche et l’affichage hors ligne d’informations basées sur le Web.
+Découvrez comment archiver des pages web dans un PDF à la volée avec l’extension Adobe Acrobat pour [!DNL Microsoft Edge]. Cet outil spécifique à Windows est très utile pour les projets de recherche et l’affichage hors ligne d’informations Web.
+
+>[!TIP]
+>
+>Découvrez ces autres applications Microsoft [intégrations](../integrate/integrate-overview.md#microsoft).
 
 >[!VIDEO](https://video.tv.adobe.com/v/337248?hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Travaillez plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Gagnez en efficacité avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !
