@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331855.jpg
 exl-id: 7962fbef-335c-4e34-8dc7-62d55f12338e
-source-git-commit: 8028012db95639613dd71dcf5b99f697d962ffb9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%
@@ -21,6 +21,8 @@ Simplifiez les workflows documentaires avec [!DNL SharePoint] et Acrobat à l’
 >[!NOTE]
 >
 >Adobe Acrobat pour [!DNL SharePoint], [!DNL OneDrive], et [!DNL Office 365] inclut des fonctionnalités gratuites (telles que l’affichage et la recherche dans les PDF) disponibles pour tous les utilisateurs. Certaines fonctionnalités (telles que la création et la combinaison de PDF) nécessitent un Acrobat abonnement Équipe ou Acrobat abonnement Entreprise payant.
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331855?hidetitle=true)
 

@@ -7,7 +7,7 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: 331736.jpg
 exl-id: 95540954-d0c7-4cae-a919-00e3927d2f83
-source-git-commit: 04073918c285df9c95ebfd17e727dca6b87846a9
+source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -21,6 +21,8 @@ Apprenez à générer des fichiers de PDF complets et fiables à l’aide de la 
 >[!TIP]
 >
 >Utilisez-vous le fichier [!DNL Microsoft Office] des applications web ? Découvrez comment [création de PDF dans [!DNL Office] pour le web](../integrate/createofficeweb.md).
+
+<br> 
 
 >[!VIDEO](https://video.tv.adobe.com/v/331736?hidetitle=true)
 
