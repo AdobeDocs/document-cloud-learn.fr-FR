@@ -7,9 +7,9 @@ solution: Acrobat
 level: Intermediate
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 4ecbad448752f43a2deab48bf87de8076b0df9c2
+source-git-commit: ed2ef0baf3039d023ae4272bee955fa864cdc8f5
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 10%
 
 ---
@@ -50,6 +50,11 @@ Articles sur les bonnes pratiques contenant des informations utiles sur le dépl
     <a href="assets/SignStudyGuide.pdf"><strong>Guide d’étude Acrobat Sign Essentials</strong></a>
     </div>
     <em>Guide d’étude Acrobat Sign pour l’évaluation des fondamentaux d’Acrobat Sign (AD3-D104)</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

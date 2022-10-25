@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-9910.jpg
 kt: 9910
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -51,9 +51,7 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations et
     </div>
     <em>Créez des workflows simples et faciles pour collaborer sur des documents</em>
     <br>
-  </td>  
-</tr>
-<tr>
+  </td>
   <td>
     <a href="protect-digital-documents.md">
       <img alt="Conseil : Documents numériques 3Protect" src="../../assets/Tip3.png" />
@@ -64,6 +62,7 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations et
     <em>Ajoutez un mot de PDF pour empêcher toute copie, modification ou impression</em>
     <br>
   </td>
+</tr>
   <td>
     <a href="work-with-forms-and-signatures.md">
       <img alt="Conseil 4 : Utilisation de formulaires et de signatures" src="../../assets/Tip4.png" />
@@ -82,6 +81,16 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations et
     <a href="scan-and-edit-on-mobile.md"><strong>Conseil 5 : Numérisez et montez du contenu sur mobile</strong></a>
     </div>
     <em>Découvrez comment travailler avec Adobe Scan et les applications mobiles Acrobat Reader, où que vous soyez</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -120,10 +129,8 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations et
     </div>
     <em>Découvrez les bonnes pratiques de création de fichiers de PDF créés dans [!DNL Microsoft Word]</em>
     <br>
-  </td>  
-</tr>
-<tr>
-  <td>
+  </td>
+   <td>
     <a href="finishing-in-acrobat.md">
       <img alt="Accessibilité des PDF : Finition dans Acrobat" src="../../assets/Accessibilityacrobat.png" />
     </a>
@@ -133,6 +140,8 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations et
     <em>Découvrez comment finaliser l’accessibilité de votre fichier de PDF à l’aide des outils d’Acrobat Pro</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="making-pdf-ballots-accessible.md">
       <img alt="Rendre les bulletins de vote PDF plus accessibles" src="../../assets/Accessibleballots.png" />
@@ -143,6 +152,16 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations et
     <em>Ce webinaire couvre les principaux aspects de l'accessibilité des PDF nécessaires pour permettre aux utilisateurs de technologies d'assistance, telles que les lecteurs d'écran, de lire et de compléter leurs bulletins de vote</em>
     <br>
   </td>  
+  <td>
+   <img alt="Espaceur" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
   <td>
    <img alt="Espaceur" src="../../assets/Grayspacer.png" />
     <div>

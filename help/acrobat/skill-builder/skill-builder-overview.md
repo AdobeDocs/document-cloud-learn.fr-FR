@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner, Intermediate
 thumbnail: KT-6858.jpg
 exl-id: 59269c6c-f471-4bc5-9ad4-ad7b7fdcdb76
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Soyez rapidement opérationnel sur Acrobat grâce à ces outils de développemen
     <a href="https://doccloud.adobeconnect.com/skillbuilder-sigforms/" target="_blank"><strong>Préparation pour signature</strong></a>
     </div>
     <em>Créer des PDF avec des champs de signature électronique</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,8 +90,6 @@ Soyez rapidement opérationnel sur Acrobat grâce à ces outils de développemen
     <em>Ajouter du texte, des images, des liens et des filigranes dans votre PDF</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/sign/" target="_blank">
       <img alt="Signature De Votre Travail" src="../assets/sb_signed.png" />
@@ -97,6 +100,8 @@ Soyez rapidement opérationnel sur Acrobat grâce à ces outils de développemen
     <em>Signature directe de documents dans Microsoft Outlook</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="https://doccloud.adobeconnect.com/convertpdfs/" target="_blank">
       <img alt="Convertissez vos PDF" src="../assets/sb_convert.png" />
@@ -117,9 +122,7 @@ Soyez rapidement opérationnel sur Acrobat grâce à ces outils de développemen
     <em>Remplir, signer et envoyer des formulaires par voie électronique sur n'importe quel appareil</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank">
       <img alt="Optimisation De Vos PDF" src="../assets/sb_optimize.png" />
     </a>
@@ -127,16 +130,6 @@ Soyez rapidement opérationnel sur Acrobat grâce à ces outils de développemen
     <a href="https://doccloud.adobeconnect.com/optimizepdfs/" target="_blank"><strong>Optimisation De Vos PDF</strong></a>
     </div>
     <em>Préparation des PDF pour la distribution</em>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -164,6 +157,16 @@ Soyez rapidement opérationnel sur Acrobat grâce à ces outils de développemen
     <a href="https://doccloud.adobeconnect.com/securepdfs/" target="_blank"><strong>Sécurisez vos PDF</strong></a>
     </div>
     <em>Biffure et protection des informations confidentielles dans vos PDF</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

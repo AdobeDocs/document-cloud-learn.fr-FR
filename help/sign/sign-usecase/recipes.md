@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 kt: 8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: dd27b6a410af8397fe0d7315fd284bae8a586ab9
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '249'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,6 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
     <em>Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d'audit</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovreemployment.md">
       <img alt="Assistance au réemploi" src="../assets/UC_WebformsR.png" />
@@ -68,6 +66,8 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
     <em>Aidez les administrés à obtenir l'aide dont ils ont besoin, sans être au point avec des formulaires d'inscription 100 % digitaux, qui peuvent être mis à disposition en quelques jours</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Protection Paycheck" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,6 +86,16 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
     <a href="usecasegovremote.md"><strong>Demande de mandat à distance</strong></a>
     </div>
     <em>Collectez les signatures électroniques et les conférences web pour écourter les délais de traitement des demandes et sécuriser les mandats des juges</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
@@ -123,6 +133,11 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
     <a href="usecasecomtelework.md"><strong>Accord de télétravail</strong></a>
     </div>
     <em>Collectez efficacement les signatures de tous vos employés sur les contrats de télétravail</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

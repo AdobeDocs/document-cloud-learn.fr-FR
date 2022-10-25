@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '170'
-ht-degree: 12%
+source-wordcount: '168'
+ht-degree: 13%
 
 ---
 
@@ -52,9 +52,7 @@ ht-degree: 12%
     <em>Envoyer, collecter et suivre des documents pour signature à des milliers de personnes simultanément</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="embeddedesignature.md">
       <img alt="Créer des expériences documentaires et de signature électronique intégrées" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
@@ -62,16 +60,6 @@ ht-degree: 12%
     <a href="embeddedesignature.md"><strong>Créer des expériences documentaires et de signature électronique intégrées</strong></a>
     </div>
     <em>Découvrez comment utiliser les API Acrobat Sign pour incorporer la signature électronique et les expériences documentaires dans vos plateformes web et systèmes de gestion de contenu et de documents</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>

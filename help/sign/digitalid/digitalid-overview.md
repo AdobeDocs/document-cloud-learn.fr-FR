@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,11 @@ Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utilise
     <a href="aadhaar-sign.md"><strong>Signature avec [!DNL Aadhaar]</strong></a>
     </div>
     <em>Apprenez à utiliser votre [!DNL Aadhaar] identification numérique avec Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -85,6 +90,11 @@ Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utilise
     <div>
     <br>
   </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -100,6 +110,11 @@ Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utilise
     <a href="d-trust.md"><strong>Enregistrement et signature avec D-Trust</strong></a>
     </div>
     <em>Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utilisez la commande [!DNL D-Trust] signature numérique sur un document dans Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -147,6 +162,11 @@ Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utilise
     <a href="intesi-sign.md"><strong>Signature avec [!DNL Intesi Group]</strong></a>
     </div>
     <em>Apprenez à utiliser votre [!DNL Intesi Group] identification numérique avec Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>

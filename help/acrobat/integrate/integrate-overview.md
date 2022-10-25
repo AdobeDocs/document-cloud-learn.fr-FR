@@ -7,9 +7,9 @@ level: Beginner
 topic-revisit: Integrations
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 34c3e250fa72561722faec2d3abca312f32e7538
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: '302'
 ht-degree: 1%
 
 ---
@@ -45,7 +45,7 @@ Découvrez comment tous les membres de votre équipe peuvent manipuler sans prob
     </div>
     <em>Apprenez à créer des fichiers PDF sans jamais quitter votre [!DNL Microsoft Office] pour les applications web</em>
     <br>
-  </td>  
+  </td> 
   <td>
     <a href="acrobatandsp.md">
       <img alt="Travaillez avec votre [!DNL SharePoint] fichiers" src="../assets/SharePoint.png" />
@@ -55,7 +55,7 @@ Découvrez comment tous les membres de votre équipe peuvent manipuler sans prob
     </div>
     <em>Simplifiez les workflows documentaires avec [!DNL SharePoint] et Acrobat</em>
     <br>
-  </td>  
+  </td>
 </tr>
 <tr>
   <td>
@@ -88,6 +88,11 @@ Découvrez comment tous les membres de votre équipe peuvent manipuler sans prob
     <em>Découvrez comment archiver des pages web dans un PDF à la volée avec l’extension Adobe Acrobat pour [!DNL Microsoft Edge]</em>
     <br>
   </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -117,6 +122,11 @@ Gagnez en efficacité en un temps record en intégrant les principaux outils de 
     <div>
     <br>
   </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
@@ -134,6 +144,11 @@ Découvrez à quel point il est facile d’accéder aux fichiers stockés dans [
     <a href="acrobat-dropbox.md"><strong>Utilisation de fichiers provenant de [!DNL Dropbox]</strong></a>
     </div>
     <em>Découvrez comment ouvrir, créer, modifier, signer et enregistrer les modifications apportées à votre [!DNL Dropbox] fichiers depuis Acrobat</em>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
 workflow-type: tm+mt
-source-wordcount: '588'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -64,9 +64,7 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <em>Envoyer un document pour signature directement dans SharePoint Online</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="track-an-agreement-with-sharepoint-online.md">
       <img alt="Suivi dans SharePoint Online" src="../assets/MS-TrackSP.png" />
     </a>
@@ -76,6 +74,8 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <em>Suivez la progression d’un accord directement dans Microsoft SharePoint</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="adobe-sign-teams-mortgage.md">
       <img alt="Envoi de documents pour signature dans [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
@@ -96,8 +96,6 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <em>Découvrez comment archiver automatiquement des documents signés dans un [!DNL SharePoint] bibliothèque utilisation [!DNL Power Automate]</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="documentautomation.md">
       <img alt="Automatisation des documents avec [!DNL Acrobat Sign for Microsoft Power Platform]" src="../assets/SF-Button.png" />
@@ -106,16 +104,6 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <a href="documentautomation.md"><strong>Automatisation des documents avec [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
     <em>Découvrez comment activer et utiliser le [!DNL Acrobat Sign] et [!DNL Adobe PDF Tools] connecteurs pour [!DNL Microsoft Power] applications</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -155,8 +143,6 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <em>Découvrez comment fusionner des données de Salesforce directement dans un document Acrobat Sign</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-a-custom-button.md">
       <img alt="Création d’un bouton personnalisé" src="../assets/SF-Button.png" />
@@ -165,16 +151,6 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <a href="create-a-custom-button.md"><strong>Création d’un bouton personnalisé</strong></a>
     </div>
     <em>Créer un bouton personnalisé qui lance le processus d’envoi et renseigne automatiquement un accord dans Salesforce</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
 </tr>
@@ -192,6 +168,11 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <a href="workday.md"><strong>Configuration d’Acrobat Sign avec Workday</strong></a>
     </div>
     <em>Découvrez comment configurer Acrobat Sign pour qu’il fonctionne directement dans Workday afin de gérer facilement toutes vos tâches administratives liées aux RH</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>
@@ -241,9 +222,7 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <em>Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps</em>
     <br>
   </td>
-</tr>
-<tr>
-  <td>
+   <td>
     <a href="marketo-dynamics-reminder.md">
       <img alt="Envoi de rappels avec Acrobat Sign pour Microsoft Dynamics et Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
@@ -253,6 +232,8 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <em>Découvrez comment envoyer un rappel par e-mail lorsqu’un accord n’est pas signé après un certain temps</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="marketo-dynamics-sms.md">
       <img alt="Envoi de notifications à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
@@ -261,6 +242,16 @@ Découvrez comment créer un modèle de document réutilisable à l’aide de Do
     <a href="marketo-dynamics-sms.md"><strong>Envoi de notifications à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo</strong></a>
     </div>
     <em>Découvrez comment envoyer un SMS, un e-mail ou une notification Push pour informer le signataire qu’un accord est en cours d’envoi</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
   <td>
