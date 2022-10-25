@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '182'
-ht-degree: 1%
+source-wordcount: '179'
+ht-degree: 3%
 
 ---
 
 # Numérisation et OCR
 
-Convertissez des numérisations ou des images de documents en fichiers de PDF indexables et modifiables, et ajustez la qualité du fichier obtenu.
+Poursuivez votre activité en convertissant des numérisations ou des images de documents en fichiers de PDF indexables et modifiables.
 
 >[!TIP]
 >

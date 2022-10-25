@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 38a5b00897fc76f08dfa470e4d39012d7ff88c4e
+source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 6%
+source-wordcount: '80'
+ht-degree: 5%
 
 ---
 
-# Organisation des pages
+# Organiser des pages
 
-Apprenez à réagencer les pages à votre guise, le tout en quelques secondes. Insérez, remplacez, fractionnez, réagencez, faites pivoter et extrayez même des pages discontinues pour obtenir un PDF de qualité professionnelle. Ce tutoriel vidéo utilise le [nouvel espace de travail](new-workspace.md).
+La diffusion d’expériences client optimales exige une création de contenu plus rapide que jamais. Apprenez à réagencer les pages à votre guise, le tout en quelques secondes. Insérez, remplacez, fractionnez, réagencez, faites pivoter et extrayez même des pages discontinues pour obtenir un PDF de qualité professionnelle. Ce tutoriel vidéo utilise le [nouvel espace de travail](new-workspace.md).
 
 >[!TIP]
 >
