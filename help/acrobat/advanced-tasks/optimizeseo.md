@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 8ae1adb0e860bb57a5f029369ce68024ca92d958
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '756'
-ht-degree: 0%
+source-wordcount: '771'
+ht-degree: 1%
 
 ---
 
@@ -49,7 +49,7 @@ Ajouter une clé **[!UICONTROL Propriétés du document]** comme suit :
 
 1. Sélectionner **[!UICONTROL Fichier > Propriétés]** ou utilisez le raccourci clavier *Ctrl + D* sous Windows ou *Cmd + D* dans Mac et sélectionnez l’option **[!UICONTROL Description]** .
 1. Saisissez un titre optimisé pour les mots-clés dans le champ **[!UICONTROL Titre :]** .
-1. Assurez-vous que la **[!UICONTROL Auteur :]** n’identifie pas de personne spécifique au sein de votre entreprise.
+1. Assurez-vous que la **[!UICONTROL Auteur :]** n’identifie pas de personne spécifique au sein de votre organisation.
 1. Entrez un résumé optimisé par mot-clé de votre document dans le champ **[!UICONTROL Objet :]** .
 Essayez de commencer le résumé à l’aide d’un verbe d’action comme Apprendre, Découvrir, Explorer, etc.
 1. Sélectionner **[!UICONTROL Métadonnées supplémentaires]** pour ajouter des informations de copyright ou du domaine public, le cas échéant.
@@ -86,7 +86,7 @@ Balisez un PDF comme suit :
 
 ## 4. Préparation pour le web
 
-Optimisez l’expérience d’interaction avec votre PDF en le préparant pour une consultation web et en réduisant la taille du fichier.
+Optimisez l’expérience d’interaction avec votre PDF en le préparant pour l’affichage et le [réduction de la taille du fichier du PDF](https://www.adobe.com/fr/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
 
 +++Découvrez comment préparer votre PDF pour le web en détail
 
@@ -122,7 +122,7 @@ Le nom de fichier devient partie intégrante de l’URL lorsqu’un PDF est publ
 
 ## 6. Sécurisez votre PDF
 
-La dernière étape consiste à protéger votre PDF pour empêcher toute modification non autorisée.
+La dernière étape consiste à [protection de votre PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} pour empêcher toute modification non autorisée.
 
 +++Consultez les détails sur la sécurisation de votre PDF
 

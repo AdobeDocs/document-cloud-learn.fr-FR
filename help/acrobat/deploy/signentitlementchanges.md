@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Intermediate
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 018cbcfd1d1605a8ff175a0cda98f0bfb4d528a8
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '740'
-ht-degree: 4%
+source-wordcount: '747'
+ht-degree: 5%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 4%
 
 [!DNL Adobe Sign Individual] (également appelé Adobe Sign Pro) ne sera plus provisionné de tous les droits Acrobat DC inclus dans les offres ETLA (contrat de licence d’entreprise) qu’à compter du mois d’août 2020 et continuera jusqu’au 20 novembre 2020. [!DNL Adobe Sign Individual] ne fournit pas de fonctionnalités adaptées aux exigences de l’entreprise et doit être remplacé par Adobe Sign Enterprise pour les clients Entreprise. Cela inclut Acrobat DC sous licence en tant qu’application autonome et Acrobat DC sous licence dans le cadre de Creative Cloud abonnement Entreprise - Toutes les applications.
 
-Accès à [!DNL Adobe Sign Individual] est disponible dans Acrobat via le **Adobe Sign** ou le bouton **Fill &amp; Sign** (Demander des signatures).
+Accès à [!DNL Adobe Sign Individual] est disponible dans Acrobat via le **Adobe Sign** ou le bouton **Fill &amp; Sign** outil ([Demander des signatures](https://www.adobe.com/fr/acrobat/online/request-signature.html){target=&quot;_blank&quot;}).
 
 ![[!DNL Adobe Sign Individual] accès dans Acrobat DC](../assets/Deploy_SignEntitle1.png)
 

@@ -1,20 +1,21 @@
 ---
-title: Organisation des pages dans un instantané
-description: Découvrez comment utiliser l’outil Organiser les pages pour obtenir une vue d’ensemble de votre PDF
+title: Organiser les pages en un clin d’oeil
+description: Apprenez à utiliser l'outil Organiser les pages pour obtenir une vue d'ensemble de votre PDF
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-9278.jpg
 KT: 9278
-source-git-commit: 2d471a54113c79a14b4415b28cc10ee567965db8
+exl-id: b7f08003-1bbd-4d90-9ff7-6033da20a705
+source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 7%
 
 ---
 
-# Organisation instantanée des pages
+# Agencement des pages en un clin d’oeil
 
-Dans ce tutoriel vidéo de 60 secondes, apprenez à utiliser l&#39;outil Organiser les pages pour obtenir une vue d&#39;ensemble de votre PDF. Apportez des modifications à l’ordre et à la mise en page, et fractionnez même le PDF en fichiers plus petits.
+Dans ce tutoriel vidéo de 60 secondes, apprenez à utiliser l&#39;outil Organiser les pages pour obtenir une vue d&#39;ensemble de votre PDF. Modifiez l&#39;ordre et la mise en page, [fractionnement du PDF](https://www.adobe.com/fr/acrobat/online/split-pdf.html){target=&quot;_blank&quot;} en fichiers plus petits.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338278?hidetitle=true)

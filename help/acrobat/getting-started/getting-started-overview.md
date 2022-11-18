@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 546be0ae0539aa774e51bd7251b46e3f864401c3
+source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
 workflow-type: tm+mt
-source-wordcount: '484'
-ht-degree: 7%
+source-wordcount: '493'
+ht-degree: 8%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 7%
 
 ![Image de prise en main d&#39;Acrobat](../assets/Hero-GettingStarted.png)
 
-Découvrez comment commencer à utiliser Adobe Acrobat grâce à ces brefs tutoriels détaillés. De la création d’un document à la protection des fichiers de votre PDF, ce contenu est conçu pour vous simplifier la tâche dans les workflows de votre PDF.
+Découvrez comment commencer à utiliser Adobe Acrobat grâce à ces brefs tutoriels détaillés. De la création d&#39;un document à la protection ou [modification des fichiers de votre PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target=&quot;_blank&quot;}, ce contenu est conçu pour vous simplifier la tâche dans les workflows PDF.
 
 ## Tutoriels de prise en main
 
@@ -124,10 +124,10 @@ Découvrez comment commencer à utiliser Adobe Acrobat grâce à ces brefs tutor
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organisation des pages" src="../assets/Organize.png" />
+        <img alt="Organiser des pages" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Organisation des pages</strong></a>
+      <a href="organize.md"><strong>Organiser des pages</strong></a>
       </div>
       <em>Ajout, remplacement, extraction, rotation, suppression et réorganisation de pages dans votre PDF</em>
       <br>
@@ -151,10 +151,10 @@ Découvrez comment commencer à utiliser Adobe Acrobat grâce à ces brefs tutor
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Modifier un fichier PDF" src="../assets/Edit.jpg" />
+        <img alt="Modifier un PDF" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Modifier un fichier PDF</strong></a>
+      <a href="edit-pdf.md"><strong>Modifier un PDF</strong></a>
       </div>
       <em>Modification de texte et d’images dans des fichiers PDF</em>
       <br>
