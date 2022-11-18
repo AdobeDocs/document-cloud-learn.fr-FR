@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 0abb333c037b676ad063a1a36b5a0784058a6a38
+source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 5%
+source-wordcount: '115'
+ht-degree: 25%
 
 ---
 
 # Organiser des pages
 
-La diffusion d’expériences client optimales exige une création de contenu plus rapide que jamais. Apprenez à réagencer les pages à votre guise, le tout en quelques secondes. Insérez, remplacez, fractionnez, réagencez, faites pivoter et extrayez même des pages discontinues pour obtenir un PDF de qualité professionnelle. Ce tutoriel vidéo utilise le [nouvel espace de travail](new-workspace.md).
+La diffusion d’expériences client optimales exige une création de contenu plus rapide que jamais. Apprenez à réagencer les pages à votre guise, le tout en quelques secondes. [Insérer](https://www.adobe.com/fr/acrobat/online/add-pages-to-pdf.html){target=&quot;_blank&quot;}, remplacer, [fractionner](https://www.adobe.com/fr/acrobat/online/split-pdf.html){target=&quot;_blank&quot;}, [réorganiser](https://www.adobe.com/fr/acrobat/online/rearrange-pdf.html){target=&quot;_blank&quot;}, [rotation](https://www.adobe.com/fr/acrobat/online/rotate-pdf.html){target=&quot;_blank&quot;}, et même [extraction de pages discontinues](https://www.adobe.com/fr/acrobat/online/extract-pdf-pages.html){target=&quot;_blank&quot;} pour créer un PDF de qualité professionnelle. Ce tutoriel vidéo utilise le [nouvel espace de travail](new-workspace.md).
 
 >[!TIP]
 >

@@ -5,10 +5,10 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 647c1030b36c0126979396fe87cb0e6c4b76490b
+source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
 workflow-type: tm+mt
-source-wordcount: '819'
-ht-degree: 0%
+source-wordcount: '833'
+ht-degree: 1%
 
 ---
 
@@ -30,10 +30,10 @@ Date : 17 novembre 2022 Ce webinaire Skill Builder est consacré à la collabora
 Date : 27 octobre 2022 Découvrez comment modifier vos PDF existants : Modifiez le texte et les images, ajoutez des hyperliens et des signets, convertissez-les en fichiers Microsoft Word, PowerPoint et Excel, etc.
 
 * **[Prise en main d’Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/360c9159-3f6f-47ae-8320-d0ad391883e1/e54db15b-af50-40ff-a274-6e927a22c6e7){target=&quot;_blank&quot;}**
-Date : 22 septembre 2022 Prise en main d’Adobe Acrobat et de PDF. Nous allons vous présenter l’interface d’Acrobat et vous montrer comment : * Créez des PDF à partir de fichiers image et de documents (Word, Excel et PowerPoint notamment). * Regroupez plusieurs fichiers (PDF, Word, images, etc.) dans un seul PDF modifiable. * Travaillez où que vous soyez et à tout moment avec Acrobat pour le web et les appareils mobiles.
+Date : 22 septembre 2022 Prise en main d’Adobe Acrobat et de PDF. Nous allons vous présenter l’interface d’Acrobat et vous montrer comment : * [Création de PDF à partir de fichiers image](https://www.adobe.com/fr/acrobat/online/convert-pdf.html){target=&quot;_blank&quot;} et les documents, notamment Word, Excel et PowerPoint. * Regroupez plusieurs fichiers (PDF, Word, images, etc.) dans un seul PDF modifiable. * Travaillez où que vous soyez et à tout moment avec Acrobat pour le web et les appareils mobiles.
 
 * **[Sécurité du PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/ad3778d2-f2c3-4966-98ed-8b1bb90e4b2b/180ad785-1b5b-4c80-80ab-1df345f082ff){target=&quot;_blank&quot;}**
-Date : 25 août 2022 Obtenez toutes les informations dont vous avez besoin sur la protection du contenu de votre PDF. Dans cette session, vous apprendrez à ajouter des mots de passe pour empêcher l’affichage, la modification ou l’impression d’un PDF, et à supprimer définitivement les informations sensibles, même des métadonnées non visibles.
+Date : 25 août 2022 Obtenez toutes les informations dont vous avez besoin sur [protection de votre PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html)Contenu de {target=&quot;_blank&quot;}. Dans cette session, vous apprendrez à ajouter des mots de passe pour empêcher l’affichage, la modification ou l’impression d’un PDF, et à supprimer définitivement les informations sensibles, même des métadonnées non visibles.
 
 * **[Automatisation simple avec Action Wizard](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/45ef14f7-e5e4-4fe0-ba26-905adac092a2/24bf421e-f489-47dc-a5a4-d8d70858348c){target=&quot;_blank&quot;}**
 Date : 28 juillet 2022 Arrêtez de répéter des tâches manuelles simples ! Cet atelier vous apprendra à utiliser l’Action Wizard dans Acrobat pour traiter vos fichiers de PDF par lots et effectuer automatiquement des tâches répétitives en série.
