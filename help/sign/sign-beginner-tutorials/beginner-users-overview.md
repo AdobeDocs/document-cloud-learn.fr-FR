@@ -6,10 +6,10 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: ffdc34a1f9e2f0ceef795b6af7072b36a583a80d
 workflow-type: tm+mt
-source-wordcount: '440'
-ht-degree: 1%
+source-wordcount: '471'
+ht-degree: 5%
 
 ---
 
@@ -21,10 +21,10 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
 
 ## Nouveautés
 
+* [Définition des échéances et rappels](set-deadlines-reminders.md)
+Découvrez comment envoyer régulièrement des rappels par e-mail et fixer des échéances pour faire signer rapidement vos documents
 * [Signature avec un tampon](sign-with-a-stamp.md)
 Apprenez à utiliser des tampons pour marquer un document approuvé ou complété
-* [Remplacement d’un signataire](replace-signer.md)
-Découvrez comment modifier le signataire d’un document déjà en cours.
 
 ## Envoi
 
@@ -112,6 +112,33 @@ Découvrez comment modifier le signataire d’un document déjà en cours.
     <em>Découvrez comment modifier le signataire d’un document déjà en cours.</em>
      <br>
   </td>
+</tr>
+<tr>
+  <td>
+      <a href="set-deadlines-reminders.md">
+        <img alt="Définition d’échéances et de rappels" src="../assets/Reminders.png" />
+      </a>
+      <div>
+      <a href="set-deadlines-reminders.md"><strong>Définition d’échéances et de rappels</strong></a>
+      </div>
+      <em>Découvrez comment envoyer régulièrement des rappels par e-mail et fixer des échéances pour faire signer rapidement vos documents</em>
+      <br>
+    </td> 
+  <td>
+      <img alt="Espaceur" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Espaceur" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
+    <td>
+      <img alt="Espaceur" src="../assets/Whitespacer.png" />
+      <div>
+      <br>
+    </td>
 </tr>
 </table>
 
