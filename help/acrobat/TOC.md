@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: c8d43af1f50591c26325fa4e1fd50115eae6e3be
+source-git-commit: 8319477c0daffdd28fd6a6607b22b028b6b95cd7
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '413'
 ht-degree: 9%
 
 ---
@@ -25,7 +25,7 @@ ht-degree: 9%
    + [Combine Files vers PDF](getting-started/combine-to-pdf.md)
    + [Organiser les pages](getting-started/organize.md)
    + [Ajouter une page personnalisée](getting-started/add-custom-page.md)
-   + [Modifier un fichier PDF](getting-started/edit-pdf.md)
+   + [Modifier un PDF](getting-started/edit-pdf.md)
    + [Réglage automatique de la disposition](getting-started/auto-adjust-layout.md)
    + [Exportation d’un PDF vers des formats modifiables](getting-started/export-pdf.md)
    + [Collaboration en temps réel](getting-started/collaborate.md)
@@ -88,6 +88,7 @@ ht-degree: 9%
    + [Travaillez avec votre [!DNL SharePoint] fichiers](integrate/acrobatandsp.md)
    + [Convertir les e-mails et les pièces jointes en PDF dans [!DNL Outlook]](integrate/outlook.md)
    + [Création de contenu PDF lors de la navigation avec [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Protect PDF utilisation [!DNL Microsoft Purview Information] étiquettes de sensibilité](integrate/microsoftsensitivitylabels.md)
    + [Adobe Acrobat pour [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Utilisation de fichiers provenant de [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Industries et services {#by-industry}
