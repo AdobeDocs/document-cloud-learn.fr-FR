@@ -1,25 +1,25 @@
 ---
-title: Exportation d’un PDF vers des formats Microsoft Office
-description: Découvrez comment exporter vos fichiers PDF vers des formats modifiables tels que Microsoft Word, Excel ou PowerPoint.
+title: Exportation d’un PDF aux formats Microsoft Office
+description: Découvrez comment exporter vos fichiers de PDF vers des formats modifiables tels que Microsoft Word, Excel ou PowerPoint
 role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 886d374b81979e8927bc823cbcb4d312222797c5
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 0%
+source-wordcount: '126'
+ht-degree: 11%
 
 ---
 
-# Exportation d’un PDF vers des formats Microsoft Office
+# Exportation d’un PDF aux formats Microsoft Office
 
-Découvrez comment exporter vos fichiers PDF vers des formats modifiables, tels que Microsoft Word, PowerPoint et Excel. L’exportation vers un autre format de fichier vous permet d’apporter des modifications et des mises à jour significatives à vos documents.
+Découvrez comment exporter vos fichiers de PDF vers des formats modifiables, tels que [Microsoft Word](https://www.adobe.com/fr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/fr/acrobat/online/pdf-to-ppt.html), et [Excel](https://www.adobe.com/fr/acrobat/online/pdf-to-excel.html). L’exportation vers un autre format de fichier vous permet d’apporter des révisions et des mises à jour importantes à vos documents.
 
 >[!TIP]
 >
->Pour exporter plusieurs fichiers de PDF vers un autre format, essayez d’utiliser l’option [Action Wizard](../advanced-tasks/action.md).
+>Pour exporter plusieurs fichiers de PDF dans un autre format, essayez d’utiliser le [Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -27,8 +27,8 @@ Découvrez comment exporter vos fichiers PDF vers des formats modifiables, tels 
 
 >[!TIP]
 >
->Tout savoir sur l&#39;utilisation [Acrobat et Microsoft 365](../integrate/integrate-overview.md).
+>Découvrez tout ce qu’il faut savoir sur [Acrobat et Microsoft 365](../integrate/integrate-overview.md).
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Travaillez plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Gagnez en efficacité avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !

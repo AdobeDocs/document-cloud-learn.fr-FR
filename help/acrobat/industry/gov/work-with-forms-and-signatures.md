@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: 5f505e95db7bd069f81e810978c8de67ebad0549
+source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '75'
+ht-degree: 6%
 
 ---
 
 # Cinq conseils pour travailler n’importe où avec Acrobat : utilisez des formulaires et des signatures
 
-À un moment donné, tout le monde doit remplir des formulaires. Comme vous n’avez pas toujours accès à une imprimante, découvrez comment rester digital lorsque vous remplissez des formulaires.
+Tout le monde doit le faire [remplir des formulaires](https://www.adobe.com/fr/acrobat/online/sign-pdf.html). Comme vous n’avez pas toujours accès à une imprimante, découvrez comment rester digital lorsque vous remplissez des formulaires.
 
 ## Conseil #4 - Utilisation de formulaires et de signatures (7:03)
 
