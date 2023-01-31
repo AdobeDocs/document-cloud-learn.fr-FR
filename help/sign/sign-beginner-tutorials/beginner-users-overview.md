@@ -6,9 +6,9 @@ product: adobe sign
 level: Beginner
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: a044ba6053cc1b7966381b051b40641b23931fc0
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '469'
 ht-degree: 5%
 
 ---
@@ -21,10 +21,10 @@ Ces brefs tutoriels détaillés vous expliquent comment envoyer, signer et suivr
 
 ## Nouveautés
 
+* [Prise en main d’Acrobat Sign](new-sender.md)
+Vous débutez dans l’utilisation d’Acrobat Sign ? Ce tutoriel est un excellent point de départ.
 * [Définition des échéances et rappels](set-deadlines-reminders.md)
 Découvrez comment envoyer régulièrement des rappels par e-mail et fixer des échéances pour faire signer rapidement vos documents
-* [Signature avec un tampon](sign-with-a-stamp.md)
-Apprenez à utiliser des tampons pour marquer un document approuvé ou complété
 
 ## Envoi
 
