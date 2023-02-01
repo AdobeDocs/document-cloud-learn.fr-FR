@@ -7,7 +7,7 @@ level: Intermediate
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 0%
@@ -31,9 +31,9 @@ Date : 18 mai 2023 Rejoignez-nous pour découvrir les principes de base des sign
 **[Formation avancée sur l’environnement de création](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/30c06b3c-60f7-4293-9cd2-2544104d9140/85ffced9-7613-4382-b3a3-43ba227af5ba){target="_blank"}**
 Date : 20 avril 2023 Découvrez plus en détail les options disponibles dans l’environnement de création Acrobat Sign. Les sujets abordés sont les suivants :
 
-    * Présentation de la préparation des modèles de document Acrobat Sign à l’aide d’Acrobat, du balisage de texte et de l’environnement de création Acrobat Sign.
-    * Explorez en détail l’environnement de création : clonage et copie de champs, ajout de champs spécialisés, affectation de champs et configuration de champs conditionnels et de calcul.
-    * Comment envoyer vos modèles pour signature, en comparant le modèle de document au modèle de champ de formulaire.
+* Présentation de la préparation de vos modèles de document Acrobat Sign à l’aide d’Acrobat, du balisage de texte et de l’environnement de création Acrobat Sign.
+* Explorez en détail l’environnement de création : clonage et copie de champs, ajout de champs spécialisés, affectation de champs et configuration de champs conditionnels et de calcul.
+* Comment envoyer vos modèles pour signature, en comparant le modèle de document au modèle de champs de formulaire.
 
 **[Publier un formulaire web à remplir et à signer](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/265580bf-245a-4751-9b51-c6877192d13a/9ae41cae-a53e-4b71-a748-2df0ee2e14c8){target="_blank"}**
 Date : 16 mars 2023 Apprenez à créer un formulaire web permettant à quiconque de le remplir et de le signer, sans avoir à initier la transaction ni même à connaître l’adresse e-mail du signataire. Vous verrez également comment préparer un modèle de document pouvant être utilisé pour des transactions de signature individuelles, ainsi que pour la publication sur une URL unique en vue d’un partage étendu.
@@ -44,9 +44,9 @@ Date : 16 février 2023 Découvrez comment la fonction Envoyer en masse d’Acro
 **[Préparer vos contrats pour signature électronique](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/c08f6e7e-2ced-48b8-8245-548302fe2df3/15f504a9-3420-4372-83c8-168115f15cbb){target="_blank"}**
 Date : 19 janvier 2023 Découvrez trois méthodes simples pour configurer des documents pour signature électronique. Qu’il s’agisse de PDF, de fichiers Microsoft 365 ou même d’un simple fichier image, cet atelier vous fournira les outils dont vous avez besoin pour faire signer ce document. Nous aborderons trois méthodes :
 
-    * Environnement de création par glisser-déposer simple de Adobe Acrobat Sign
-    * Configurer un formulaire PDF dans Adobe Acrobat
-    * Utiliser des balises de texte pour une création de document rapide
+* Environnement de création par glisser-déposer simple de Adobe Acrobat Sign
+* Configuration d’un formulaire PDF dans Adobe Acrobat
+* Utilisation de balises de texte pour une création rapide de documents
 
 **[Utiliser des signatures électroniques dans vos applications Microsoft](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/efedc73e-796d-4caf-a35b-110cb0d2f415/0ede0086-d92f-4163-94a2-125abeae2c9b){target="_blank"}**
 Date : 8 décembre 2022 Étoffez la façon dont vous utilisez vos applications Microsoft, telles que Word, Outlook et SharePoint, en ajoutant Adobe Acrobat Sign à vos workflows existants. Dans cet atelier, vous apprendrez à rationaliser les processus documentaires dans les applications Microsoft courantes, sans avoir à basculer entre les contextes pour obtenir une signature ou vérifier un état.

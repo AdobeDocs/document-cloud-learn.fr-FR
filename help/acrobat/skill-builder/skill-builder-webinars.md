@@ -5,7 +5,7 @@ product: adobe acrobat
 level: Intermediate
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 0741b4ca7e98b1f2205e94f6511607f13471eede
+source-git-commit: fe8ce2c16d06f13d07bff5e625ac773447793536
 workflow-type: tm+mt
 source-wordcount: '1107'
 ht-degree: 1%
@@ -23,38 +23,38 @@ Les créateurs de compétences Adobe Acrobat sont des sessions de 30 minutes con
 **[PDF forms 101 : Création de Forms modifiables](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/795f4bc7-db42-4022-a624-8a53c51174c6/9d685d0f-4a5b-4236-a1ef-081d1403fb41){target="_blank"}**
 Date : 29 juin 2023 Convertissez facilement vos anciens formulaires et documents papier en PDF numériques à compléter. Acrobat offre une grande variété de méthodes et d’outils qui vous aideront à vous lancer dans la transformation documentaire digitale. Au cours de cet atelier, nous aborderons les sujets suivants :
 
-    * Création d’un modèle de formulaire à partir de différents fichiers (PDF, image numérisée, Word)
-    * Présentation des types de champs disponibles (texte, cases à cocher, boutons radio, listes déroulantes, calendrier)
-    * Utilisation des propriétés de champ et des outils de productivité (apparence, formatage, calculs, validations)
+* Création d’un modèle de formulaire à partir de différents fichiers (PDF, image numérisée, Word)
+* Présentation des types de champs disponibles (texte, cases à cocher, boutons radio, listes déroulantes, calendrier)
+* Utilisation des propriétés de champ et des outils de productivité (apparence, mise en forme, calculs, validations)
 
 **[Ajout d’interactivité à vos PDF](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/4ff4d607-8c9f-47dd-ac4f-3b351a0a0fe3/2eb92255-d963-4ff7-b278-2a95a11db755){target="_blank"}**
 Date : 25 mai 2023 Simplifiez et renforcez les interactions avec vos PDF pour que votre audience interagisse. Dans cet atelier, découvrez à quel point il est simple d’ajouter de l’interactivité à vos PDF :
 
-    * Ajouter des hyperliens et des signets pour faciliter la navigation dans les documents
-    * Y compris la vidéo, le son, la 3D et plus dans vos PDF
-    * Organisation de différents types de contenu dans un seul document
+* Ajout d’hyperliens et de signets pour faciliter la navigation dans les documents
+* Y compris la vidéo, le son, la 3D et bien plus encore dans vos PDF
+* Organisation de différents types de contenu dans un seul document
 
 **[Réutilisation du contenu du PDF : Modifier et exporter](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/aac3b9af-7d54-4ea5-a6fa-61bc7acea87f/8d7341ee-ff0f-492a-b3fd-935bd11d4ed0){target="_blank"}**
 Date : 27 avril 2023 Pourquoi recréer la roue alors qu’il suffit de modifier et d’exporter des PDF ? Dans cet atelier, nous vous apprendrons à modifier vos PDF avec les outils de montage et d’exportation d’Acrobat. Vous apprendrez à :
 
-    * Modifier le texte et les images
-    * Ajouter des hyperliens et des signets pour faciliter la navigation dans les documents
-    * Exporter vers des formats familiers comme Microsoft Word, PowerPoint et Excel
-    * Exporter un document entier ou choisir un texte, des images ou des tableaux spécifiques
+* Modification de texte et d’images
+* Ajouter des hyperliens et des signets pour faciliter la navigation dans les documents
+* Exportation dans des formats familiers tels que Microsoft Word, PowerPoint et Excel
+* Exportez un document entier ou choisissez du texte, des images ou des tableaux spécifiques
 
 **[Collaboration PDF : Partage, révision et collaboration](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/0ef4709b-0a04-418e-a185-7efdd676c2dd/6a95bece-6f24-46f5-a17f-b408464281be){target="_blank"}**
 Date : 23 mars 2023 Prise en main d&#39;Adobe Acrobat et de PDF. Rejoignez-nous pour découvrir les principes de base de l&#39;interface d&#39;Acrobat et découvrir les principales fonctionnalités qui vous aideront à être plus productif. Nous vous montrerons comment :
 
-    * Création de PDF à partir de fichiers image et de documents (Word, Excel et PowerPoint notamment)
-    * Regroupez plusieurs fichiers (PDF, Word, images, etc.) dans un seul PDF modifiable
-    * Travaillez où que vous soyez et à tout moment avec Acrobat sur le web et Acrobat Mobile
+* Création de PDF à partir de fichiers image et de documents (Word, Excel, PowerPoint, etc.)
+* Regroupez plusieurs fichiers (PDF, Word, images, etc.) dans un seul PDF modifiable
+* Travaillez où que vous soyez et à tout moment avec Acrobat sur le web et Acrobat Mobile
 
 **[Prise en main d’Acrobat](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/5d8acc24-47a1-4db8-b419-8587bfb12708/fe8ec392-f29a-4e25-b7a3-61f48eea45ab){target="_blank"}**
 Date : 23 février 2023 Prise en main d’Adobe Acrobat et de PDF. Rejoignez-nous pour découvrir les principes de base de l&#39;interface d&#39;Acrobat et découvrir les principales fonctionnalités qui vous aideront à être plus productif. Nous vous montrerons comment :
 
-    * Création de PDF à partir de fichiers image et de documents (Word, Excel et PowerPoint notamment)
-    * Regroupez plusieurs fichiers (PDF, Word, images, etc.) dans un seul PDF modifiable
-    * Travaillez où que vous soyez et à tout moment avec Acrobat sur le web et Acrobat Mobile
+* Création de PDF à partir de fichiers image et de documents (Word, Excel, PowerPoint, etc.)
+* Regroupez plusieurs fichiers (PDF, Word, images, etc.) dans un seul PDF modifiable
+* Travaillez où que vous soyez et à tout moment avec Acrobat sur le web et Acrobat Mobile
 
 **[La productivité, où que vous soyez](https://adobe-acrobat-skill-builder.joinus.adobeevents.com/attendease/networking/experience/9ab6c7a2-5ca2-4670-9a33-2ac11a1cb542/0b591876-aeae-45af-b41a-07a8326043f2){target="_blank"}**
 Date : 26 janvier 2023 Cet atelier vous apprendra à accéder à vos outils Acrobat préférés depuis n’importe quel navigateur web ou depuis votre appareil mobile. Acrobat sur le web vous permet de travailler où que vous soyez, et l’application mobile Acrobat étend votre productivité à des environnements mobiles.
