@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
+source-git-commit: efc55a167156f713d5ef6d23a45cb74f7567f223
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,14 +38,14 @@ Ce tutoriel détaillé aborde les sujets suivants :
         <em>Début à 0:00</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56">
       <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>Page Accueil</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=56"><strong>Page Accueil</strong></a>
          <br>
-        <em>Début à 0:55</em>
+        <em>Début à 0:56</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
@@ -77,7 +77,7 @@ Ce tutoriel détaillé aborde les sujets suivants :
   <td>
      <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>Ajout de champs à remplir</strong></a>
          <br>
-        <em>Début à 8h22</em>
+        <em>Début à 9 h 11</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
