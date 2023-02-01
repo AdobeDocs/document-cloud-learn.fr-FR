@@ -8,7 +8,7 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: e9bb38448e07d1db43fe02a344fabe7a3abe3c64
+source-git-commit: f44c72201a0baf86f74e66e28f313bda38fc5a0a
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -38,34 +38,34 @@ Ce tutoriel détaillé aborde les sujets suivants :
         <em>Début à 0:00</em>
     </td>
      <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55">
       <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54"><strong>Page Accueil</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=55"><strong>Page Accueil</strong></a>
          <br>
-        <em>Début à 0:54</em>
+        <em>Début à 0:55</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153">
       <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152"><strong>Configuration de votre profil</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=153"><strong>Configuration de votre profil</strong></a>
         <br>
-        <em>À partir de 14 h 32</em>
+        <em>À partir de 14 h 33</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272">
       <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271"><strong>Paramètres d’envoi</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=272"><strong>Paramètres d’envoi</strong></a>
         <br>
-        <em>À partir de 16 h 31</em>
+        <em>Début à 16 h 32</em>
     </td>
   </tr>
   <tr>
@@ -80,24 +80,24 @@ Ce tutoriel détaillé aborde les sujets suivants :
         <em>Début à 8h22</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719">
       <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718"><strong>Expérience de signature</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=719"><strong>Expérience de signature</strong></a>
         <br>
-        <em>Début à 11h58</em>
+        <em>Début à 11h59</em>
     </td>
     <td>
-    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773">
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774">
       <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
     </a>
   </td>
   <td>
-     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773"><strong>Gestion et suivi des documents</strong></a>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=774"><strong>Gestion et suivi des documents</strong></a>
         <br>
-        <em>Début à 12h53</em>
+        <em>Début à 12h54</em>
     </td>
     <td>
     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
