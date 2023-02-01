@@ -8,19 +8,108 @@ level: Beginner
 thumbnail: KT-8989.jpg
 kt: 8989
 exl-id: d4309ad3-003a-4415-9845-8919006c7567
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: e9bb38448e07d1db43fe02a344fabe7a3abe3c64
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # Prise en main d’Acrobat Sign
 
-Vous débutez dans l’utilisation d’Acrobat Sign ? Ce tutoriel est un excellent point de départ, car il met l’accent sur tous les principes de base pour vous permettre de démarrer rapidement avec Acrobat Sign.
+Vous débutez dans l’utilisation d’Acrobat Sign ? Ce tutoriel complet est un excellent point de départ, car il met l’accent sur tous les principes de base pour vous aider à démarrer rapidement avec Acrobat Sign.
 
 >[!NOTE]
 >
 >Ce tutoriel s’adresse tout particulièrement aux formules Business et Enterprise.
+
+Ce tutoriel détaillé aborde les sujets suivants :
+
+<table style="table-layout:auto">
+<tr>
+  <td>
+    <a href="https://video.tv.adobe.com/v/337151?hidetitle=true">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151?hidetitle=true"><strong>Se connecter</strong></a>
+         <br>
+        <em>Début à 0:00</em>
+    </td>
+     <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=54"><strong>Page Accueil</strong></a>
+         <br>
+        <em>Début à 0:54</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=152"><strong>Configuration de votre profil</strong></a>
+        <br>
+        <em>À partir de 14 h 32</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=271"><strong>Paramètres d’envoi</strong></a>
+        <br>
+        <em>À partir de 16 h 31</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=551"><strong>Ajout de champs à remplir</strong></a>
+         <br>
+        <em>Début à 8h22</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=718"><strong>Expérience de signature</strong></a>
+        <br>
+        <em>Début à 11h58</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=773"><strong>Gestion et suivi des documents</strong></a>
+        <br>
+        <em>Début à 12h53</em>
+    </td>
+    <td>
+    <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898">
+      <img alt="Image avancée rapide" src="../assets/Stepforward_18.png" />
+    </a>
+  </td>
+  <td>
+     <a href="https://video.tv.adobe.com/v/337151/?autoplay=true&t=898"><strong>Assistance et ressources</strong></a>
+        <br>
+        <em>Début à 14:58</em>
+    </td>
+  </tr>
+  </table>
 
 >[!VIDEO](https://video.tv.adobe.com/v/337151?hidetitle=true)
