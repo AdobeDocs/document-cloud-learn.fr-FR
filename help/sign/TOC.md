@@ -8,10 +8,10 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: fce850ea8ef83e3f384c3b8a8629d9e5b96a7dcb
+source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
-source-wordcount: '483'
-ht-degree: 9%
+source-wordcount: '488'
+ht-degree: 0%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 9%
 + [Présentation](overview.md)
 + Prise en main {#getting-started}
    + [Présentation](sign-beginner-tutorials/beginner-users-overview.md)
-   + Envoi en cours {#getting-started-sending}
+   + Envoi {#getting-started-sending}
       + [Espace de travail – Principes de base](sign-beginner-tutorials/quick-tour.md)
       + [Prise en main d’Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Envoi à un destinataire unique](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -31,7 +31,7 @@ ht-degree: 9%
       + [Modification d’un document après envoi](sign-beginner-tutorials/modify-in-flight.md)
       + [Remplacement d’un signataire](sign-beginner-tutorials/replace-signer.md)
       + [Définition d’échéances et de rappels](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Signing {#getting-started-signing}
+   + Signature {#getting-started-signing}
       + [Signature électronique d’un document](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Remplissage et signature d’un document](sign-beginner-tutorials/fill-and-sign.md)
       + [Obtention d’une signature en personne](sign-beginner-tutorials/sign-in-person.md)
@@ -43,7 +43,7 @@ ht-degree: 9%
       + [Création d’un modèle de document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Tâches avancées {#advanced-tasks}
    + [Présentation](sign-advanced-users/advanced-users-overview.md)
-   + Envoi en cours {#advanced-tasks-sending}
+   + Envoi {#advanced-tasks-sending}
       + [Configuration de l’ordre de signature](sign-advanced-users/setting-up-routing.md)
       + [Utilisation du rôle de délégant](sign-advanced-users/delegate-signature.md)
       + [Utilisation du rôle d&#39;approbateur](sign-advanced-users/add-an-approver.md)
@@ -87,13 +87,13 @@ ht-degree: 9%
       + [Signature avec Digidentity](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Inscrivez-vous et signez avec [ ! DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi Group {#intesi}
+   + Intesi Group {#intesi}
       + [Obtenir un ID numérique de l’Intesi Group (avancé)](digitalid/intesi-advanced.md)
       + [Obtenir un ID numérique de l’Intesi Group (qualifié)](digitalid/intesi-qualified.md)
       + [Signature avec l’Intesi Group](digitalid/intesi-sign.md)
 + Intégrations {#integrations}
    + [Présentation](integrations/integrations-overview.md)
-   + Microsoft {#microsoft}
+   + Microsoft {#microsoft}
       + [Remplissage et signature dans Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Envoyer pour signature dans Outlook](integrations/send-for-signature-with-outlook.md)
       + [Envoyer pour signature dans SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
@@ -101,6 +101,8 @@ ht-degree: 9%
       + [Envoyer pour signature dans [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
       + [Archivage automatique des fichiers dans [!DNL SharePoint] avec [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Automatisation des documents avec Acrobat Sign pour Microsoft Power Platform](integrations/documentautomation.md)
+   + Notarize {#notarize}
+      + [Envoi de documents pour autorisation](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
       + [Document Builder pour Salesforce](integrations/create-an-agreement-template.md)
       + [Configuration du mappage de données](integrations/set-up-data-mapping.md)
