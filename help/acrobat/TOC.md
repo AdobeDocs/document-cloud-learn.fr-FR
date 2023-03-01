@@ -5,7 +5,7 @@ breadcrumb-title: Acrobat Tutorials
 source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 8%
+ht-degree: 0%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 8%
    + [Productivité en déplacement](getting-started/productivity.md)
    + [Utilisation de [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
-   + [Création d’un fichier PDF ](getting-started/create-pdf.md)
+   + [Création d’un PDF](getting-started/create-pdf.md)
    + [Combine Files vers PDF](getting-started/combine-to-pdf.md)
    + [Organiser les pages](getting-started/organize.md)
    + [Ajouter une page personnalisée](getting-started/add-custom-page.md)
-   + [Modifier un PDF](getting-started/edit-pdf.md)
+   + [Modifier un fichier PDF](getting-started/edit-pdf.md)
    + [Réglage automatique de la disposition](getting-started/auto-adjust-layout.md)
    + [Exportation d’un PDF vers des formats modifiables](getting-started/export-pdf.md)
-   + [Collaboration en temps réel](getting-started/collaborate.md)
+   + [Collaborez en temps réel](getting-started/collaborate.md)
    + [Commenter sur un PDF](getting-started/comment-on-pdf-files.md)
    + [Création de formulaires à compléter](getting-started/create-fillable-forms.md)
    + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
@@ -46,7 +46,7 @@ ht-degree: 8%
    + [Utilisation des champs de formulaire](advanced-tasks/workforms.md)
    + [Amélioration de votre PDF](advanced-tasks/enhance.md)
    + [Détecter les différences entre deux PDF](advanced-tasks/compare.md)
-   + [Assistant d’action](advanced-tasks/action.md)
+   + [Action Wizard](advanced-tasks/action.md)
    + [Biffer et assainir](advanced-tasks/redact.md)
    + [Réduire la taille des fichiers et optimiser](advanced-tasks/reduce.md)
    + [Utilisation des données de formulaire](advanced-tasks/formdata.md)
