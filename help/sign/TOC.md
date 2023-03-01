@@ -11,7 +11,7 @@ breadcrumb-title: Acrobat Sign Tutorials
 source-git-commit: 32a3410b392e0bbe792fdf2c43752e3970b20c46
 workflow-type: tm+mt
 source-wordcount: '488'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
@@ -87,13 +87,13 @@ ht-degree: 0%
       + [Signature avec Digidentity](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [Inscrivez-vous et signez avec [ ! DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi Group {#intesi}
+   + Groupe Intesi {#intesi}
       + [Obtenir un ID numérique de l’Intesi Group (avancé)](digitalid/intesi-advanced.md)
       + [Obtenir un ID numérique de l’Intesi Group (qualifié)](digitalid/intesi-qualified.md)
       + [Signature avec l’Intesi Group](digitalid/intesi-sign.md)
 + Intégrations {#integrations}
    + [Présentation](integrations/integrations-overview.md)
-   + Microsoft {#microsoft}
+   + Microsoft {#microsoft}
       + [Remplissage et signature dans Outlook](integrations/fill-and-sign-doc-microsoft-outlook.md)
       + [Envoyer pour signature dans Outlook](integrations/send-for-signature-with-outlook.md)
       + [Envoyer pour signature dans SharePoint Online](integrations/send-for-signature-with-sharepoint-online.md)
