@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: ed9ff5078db36fd41021b656f58356edeefa5cea
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: '285'
 ht-degree: 0%
 
 ---
@@ -65,24 +65,19 @@ Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utilise
 
 <table style="table-layout:fixed">
 <tr>
- <td>
-    <a href="digidentity-reg.md">
-      <img alt="Obtenir un ID numérique à partir de [!DNL Digidentity]" src="assets/Digidentityreg_1280.png" />
+  <td>
+    <a href="digidentity-sign.md">
+      <img alt="Inscrivez-vous et signez avec un [!DNL Digidentity] identification numérique" src="assets/Digidentitysign_1280.png" />
     </a>
     <div>
-    <a href="digidentity-reg.md"><strong>Obtenir un ID numérique à partir de [!DNL Digidentity]</strong></a>
+    <a href="digidentity-sign.md"><strong>Inscrivez-vous et signez avec un [!DNL Digidentity] identification numérique</strong></a>
     </div>
-    <em>Découvrez comment obtenir un certificat de signature numérique auprès de [!DNL Digidentity]</em>
+    <em>Découvrez comment vous inscrire et utiliser votre [!DNL Digidentity] identification numérique avec Acrobat Sign</em>
     <br>
   </td>
   <td>
-    <a href="digidentity-sign.md">
-      <img alt="Signature avec [!DNL Digidentity]" src="assets/Digidentitysign_1280.png" />
-    </a>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
-    <a href="digidentity-sign.md"><strong>Signature avec [!DNL Digidentity]</strong></a>
-    </div>
-    <em>Apprenez à utiliser votre [!DNL Digidentity] identification numérique avec Acrobat Sign</em>
     <br>
   </td>
   <td>
