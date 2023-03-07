@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8990.jpg
 kt: 8990
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '299'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Semblable à un passeport sous forme électronique, une identité numérique (ID
 
 ## Nouveautés
 
+* [Enregistrement et signature avec Digidentity](digidentity-sign.md)
+Découvrez comment vous inscrire et utiliser votre [!DNL Digidentity] identification numérique avec Acrobat Sign
 * [Enregistrement et signature avec D-Trust](d-trust.md)
 Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utilisez la commande [!DNL D-Trust] signature numérique sur un document dans Acrobat Sign
 

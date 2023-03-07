@@ -8,17 +8,17 @@ level: Beginner
 thumbnail: KT-8670.jpg
 kt: 8670
 exl-id: 4c1641bc-3298-45f0-95ed-7071e6158e5e
-source-git-commit: 9ff23e33bed24593b2675e6aba177ebe41f39b1b
+source-git-commit: 50527e5500d940494bc0792eac8eba87e1082982
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
 # S’inscrire et signer avec [!DNL Digidentity]
 
-Digidentity est un prestataire de services de confiance qualifié (QTSP) de l’UE. Le processus d&#39;identification et d&#39;intégration de la Digidentity repose sur l&#39;application mobile Digidentity et nécessite l&#39;utilisation d&#39;une pièce d&#39;identité avec une puce NFC intégrée ainsi qu&#39;un appareil mobile compatible NFC. Le processus Digidentity est entièrement libre-service et est disponible 24/7/365, sans &quot;humain dans la boucle&quot;. Dans la plupart des cas, l&#39;inscription ne prend que 5 à 10 minutes.
+Digidentity est un prestataire de services de confiance qualifié (QTSP) de l’UE. Le processus d&#39;identification et d&#39;intégration de Digidentity repose sur l&#39;application mobile Digidentity et nécessite l&#39;utilisation d&#39;une pièce d&#39;identité avec une puce NFC intégrée ainsi qu&#39;un appareil mobile compatible NFC. Le processus Digidentity est entièrement libre-service et est disponible 24/7/365, sans &quot;humain dans la boucle&quot;. Dans la plupart des cas, l&#39;inscription ne prend que 5 à 10 minutes.
 
-Ce didacticiel vidéo détaille le parcours de l’utilisateur, de la réception de l’invitation à s’inscrire par e-mail à l’utilisation d’une identification numérique pour authentifier et apposer une signature Cloud dans Adobe Acrobat Sign.
+Ce didacticiel vidéo détaille le parcours de l’utilisateur, de la réception de l’invitation à s’inscrire par e-mail à l’utilisation d’une identification numérique pour authentifier et appliquer une signature Cloud dans Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336991?hidetitle=true)
