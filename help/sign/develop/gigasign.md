@@ -7,10 +7,10 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 1%
+source-wordcount: '264'
+ht-degree: 2%
 
 ---
 
@@ -18,15 +18,15 @@ ht-degree: 1%
 
 Gigasign permet d&#39;envoyer, de collecter et de suivre des documents pour signature à des milliers de personnes simultanément. Conçu pour les communications en grand volume avec vos employés et clients, il prend en charge jusqu’à 2 500 destinataires par envoi en masse. GigaSign utilise l’API Acrobat Sign pour fournir les mêmes fonctionnalités que MegaSign. Elle prend en charge plusieurs signataires, groupes de destinataires, rôles des destinataires, noms des accords, copie carbone, etc.
 
->[!VIDEO](https://video.tv.adobe.com/v/328113?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
 ## Téléchargement et installation de l’application GigaSign
 
 [Télécharger le fichier zip GigaSign](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:8975dbca-98d5-4e66-9164-d21163c91c7f)
 
-[Lien de téléchargement de Java 1.8 (uniquement si nécessaire)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target=&quot;_blank&quot;}
+[Lien de téléchargement de Java 1.8 (uniquement si nécessaire)](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) {target="_blank"}
 
-[Adresses IP dans la liste blanche (uniquement si nécessaire)](https://helpx.adobe.com/fr/sign/system-requirements.html#IPs){target=&quot;_blank&quot;}
+[Adresses IP dans la liste blanche (uniquement si nécessaire)](https://helpx.adobe.com/fr/sign/system-requirements.html#IPs){target="_blank"}
 
 ## Instructions de configuration de base
 
@@ -50,4 +50,4 @@ Gigasign permet d&#39;envoyer, de collecter et de suivre des documents pour sign
 
 1. Saisissez l’adresse e-mail du compte utilisé pour créer cette clé sur la deuxième ligne.
 
-1. Cliquez **[!UICONTROL Envoyer]**.
+1. Cliquez sur **[!UICONTROL Envoyer]**.

@@ -7,7 +7,7 @@ level: Experienced
 topic-revisit: Accessibility
 thumbnail: 34513.jpg
 exl-id: 6e1f2471-085f-4510-8f59-0f635367aa98
-source-git-commit: bf9e6f65d32d95fd3a2e3690e25f33b3ca6ad5dd
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
@@ -20,6 +20,6 @@ Dans le deuxième tutoriel vidéo de la série Accessibilité des PDF , découvr
 
 ## Partie 2 - Création dans [!DNL Microsoft Word] (2:51)
 
->[!VIDEO](https://video.tv.adobe.com/v/34513?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/34513?quality=12&learn=on&hidetitle=true)
 
 [Passez à la partie 3 - Finition dans Acrobat](finishing-in-acrobat.md)

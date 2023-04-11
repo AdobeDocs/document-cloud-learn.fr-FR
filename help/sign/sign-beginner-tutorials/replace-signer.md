@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Beginner
 thumbnail: KT-10264.jpg
-source-git-commit: 7dd142efea19e63d306d603171929283485a8e69
+exl-id: bc9d645b-b99a-4928-b539-3d28b83fc56d
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Apprenez à remplacer un signataire, par exemple, lorsqu’un mauvais e-mail a �
 >
 >Le paramètre par défaut de l’option Remplacer le destinataire est le remplacement complet du destinataire actuel par un nouveau. Des options supplémentaires sont disponibles pour les formules Business et Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)

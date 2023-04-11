@@ -8,10 +8,10 @@ level: Beginner
 thumbnail: KT-8702.jpg
 kt: 8702
 exl-id: d16736cf-2cd5-4ea9-b961-34ee95faaf82
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 1%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 Découvrez comment obtenir un certificat de signature numérique avancé de [!DNL Intesi Group]. Une fois enregistré et votre identité vérifiée, [!DNL Intesi Group] vous renvoit avec un ID numérique utilisé pour appliquer une signature Cloud Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
 
 <br> 
 

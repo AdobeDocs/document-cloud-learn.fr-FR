@@ -6,7 +6,8 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 thumbnail: KT-10981.jpg
-source-git-commit: 23ca497130a78091219ba3a611a37658f10ea629
+exl-id: e0e09718-1e4f-45d2-a0a4-43468ea4ed29
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
@@ -21,4 +22,4 @@ Découvrez comment suivre, gérer et exporter des données depuis un [formulaire
 >
 >Seules les formules professionnelles et d’entreprise peuvent configurer les options des signataires et d’accès aux formulaires web. Les options des signataires et d’accès aux formulaires web sont activées ou désactivées au niveau du compte ou du groupe sous Compte > Paramètres de compte > Paramètres généraux > Formulaires web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)

@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 38037.jpg
 exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4,1930bc23-bfba-4113-b19a-76634667bda3
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Découvrez comment créer un modèle de document réutilisable et l’ajouter à votre bibliothèque Acrobat Sign pour une utilisation ultérieure. Les modèles de document garantissent la rapidité et l’homogénéité de vos transactions Sign, tout en offrant la possibilité de gérer les révisions et les modifications de documents.
 
->[!VIDEO](https://video.tv.adobe.com/v/38037?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33978.jpg
 exl-id: 502f65db-8dd4-4f21-a7da-8aaf237ac224
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '79'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Apprenez à recueillir efficacement les signatures de tous vos employés sur des contrats de télétravail, des mises à jour de règles, etc. Vous devez d’abord créer un modèle de document réutilisable, rapidement accessible depuis votre bibliothèque de documents. Deuxièmement, vous pouvez envoyer le nouveau modèle de document pour signature à des centaines d’employés à l’aide de Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
 
 Cliquez ici pour télécharger la recette du PDF étape par étape pour les accords de télétravail.
 

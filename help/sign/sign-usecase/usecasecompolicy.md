@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Collectez efficacement les signatures de tous vos employés sur des accords de stratégie, des mises à jour de stratégie, etc. Découvrez comment créer un formulaire web en ligne à compléter **et** signé sans impression ni envoi de courrier.
 
->[!VIDEO](https://video.tv.adobe.com/v/33979?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 
 Cliquez pour télécharger la recette du PDF étape par étape pour les accords de stratégie.
 

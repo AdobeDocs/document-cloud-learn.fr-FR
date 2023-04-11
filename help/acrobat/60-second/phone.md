@@ -7,18 +7,18 @@ level: Beginner
 thumbnail: KT-8576.jpg
 KT: 8576
 exl-id: 8d927cd6-f944-45b7-81c9-4f70e1ed5276
-source-git-commit: 35827630dec298fa09e43159efa2abb9362f59c2
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 4%
 
 ---
 
 # Convertir un fichier PPT en PDF sur votre téléphone
 
-Dans ce tutoriel vidéo de 60 secondes, apprenez à convertir un e-mail [Pièce jointe PowerPoint au PDF](https://www.adobe.com/fr/acrobat/online/ppt-to-pdf.html){target=&quot;_blank&quot;} sur votre téléphone. Une fois le fichier renvoyé, affichez-le et appuyez sur Partager pour l&#39;envoyer à votre équipe, sans avoir PowerPoint sur votre téléphone.
+Dans ce tutoriel vidéo de 60 secondes, apprenez à convertir un e-mail [Pièce jointe PowerPoint au PDF](https://www.adobe.com/fr/acrobat/online/ppt-to-pdf.html){target="_blank"} sur votre téléphone. Une fois le fichier renvoyé, affichez-le et appuyez sur Partager pour l&#39;envoyer à votre équipe, sans avoir PowerPoint sur votre téléphone.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

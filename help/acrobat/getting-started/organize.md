@@ -6,16 +6,16 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 1d91abad827e53136ffd6f7bb7df07566d061a19
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '115'
-ht-degree: 25%
+source-wordcount: '96'
+ht-degree: 30%
 
 ---
 
-# Organiser des pages
+# Organisation des pages
 
-La diffusion d’expériences client optimales exige une création de contenu plus rapide que jamais. Apprenez à réagencer les pages à votre guise, le tout en quelques secondes. [Insérer](https://www.adobe.com/fr/acrobat/online/add-pages-to-pdf.html){target=&quot;_blank&quot;}, remplacer, [fractionner](https://www.adobe.com/fr/acrobat/online/split-pdf.html){target=&quot;_blank&quot;}, [réorganiser](https://www.adobe.com/fr/acrobat/online/rearrange-pdf.html){target=&quot;_blank&quot;}, [rotation](https://www.adobe.com/fr/acrobat/online/rotate-pdf.html){target=&quot;_blank&quot;}, et même [extraction de pages discontinues](https://www.adobe.com/fr/acrobat/online/extract-pdf-pages.html){target=&quot;_blank&quot;} pour créer un PDF de qualité professionnelle. Ce tutoriel vidéo utilise le [nouvel espace de travail](new-workspace.md).
+La diffusion d’expériences client optimales exige une création de contenu plus rapide que jamais. Apprenez à réagencer les pages à votre guise, le tout en quelques secondes. [Insérer](https://www.adobe.com/fr/acrobat/online/add-pages-to-pdf.html){target="_blank"}, replace, [split](https://www.adobe.com/fr/acrobat/online/split-pdf.html){target="_blank"}, [reorder](https://www.adobe.com/fr/acrobat/online/rearrange-pdf.html){target="_blank"}, [rotate](https://www.adobe.com/fr/acrobat/online/rotate-pdf.html){target="_blank"}, and even [extract discontinuous pages](https://www.adobe.com/fr/acrobat/online/extract-pdf-pages.html){target="_blank"} pour obtenir un résultat de qualité professionnelle. Ce tutoriel vidéo utilise le [nouvel espace de travail](new-workspace.md).
 
 >[!TIP]
 >
@@ -23,4 +23,4 @@ La diffusion d’expériences client optimales exige une création de contenu pl
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409022?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409022?quality=12&learn=on&hidetitle=true)

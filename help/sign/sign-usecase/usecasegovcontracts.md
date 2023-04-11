@@ -7,18 +7,18 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33811.jpg
 exl-id: 8d882a5d-01b8-4cd4-b55f-2ef1e537dec5
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
 # Marchés publics et formulaires de demande
 
-Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d&#39;audit. Découvrez comment utiliser l’outil Concepteur de workflows d’Acrobat Sign pour simplifier l’ensemble du processus.
+Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d&#39;audit. Découvrez comment utiliser l’outil Acrobat Sign Workflow Designer pour simplifier l’ensemble du processus.
 
->[!VIDEO](https://video.tv.adobe.com/v/33811?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 
 Cliquez ici pour télécharger la recette du PDF étape par étape pour les contrats et les demandes d&#39;approvisionnement.
 

@@ -7,7 +7,7 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: 66aef67afbc92be3f2faa3d36a28e6f15431c4ce
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 3%
@@ -22,7 +22,7 @@ Apprenez à utiliser le rôle de délégant pour envoyer un document à un inter
 >
 >Le rôle de délégant est uniquement disponible pour les formules d’entreprise. Il se peut que votre administrateur Acrobat Sign doive activer **Autoriser les expéditeurs à marquer certains destinataires en tant que délégants** dans le panneau **Paramètres d’envoi** de la boîte de dialogue **Paramètres du compte** pour utiliser cette fonctionnalité.
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

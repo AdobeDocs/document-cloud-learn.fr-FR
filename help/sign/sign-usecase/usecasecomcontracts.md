@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '62'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d&#39;audit. Découvrez l’outil Acrobat Sign Workflow Designer pour simplifier l’ensemble du processus.
 
->[!VIDEO](https://video.tv.adobe.com/v/33980?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
 Cliquez ici pour télécharger la recette du PDF étape par étape pour les contrats et les demandes d&#39;approvisionnement.
 

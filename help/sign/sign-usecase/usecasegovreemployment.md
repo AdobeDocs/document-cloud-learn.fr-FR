@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Intermediate
 thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Aidez les administrés à obtenir l&#39;aide dont ils ont besoin, sans être au point avec des formulaires d&#39;inscription 100 % digitaux, qui peuvent être mis à disposition en quelques jours. Découvrez comment créer un formulaire web en ligne à compléter **et** signé sans impression ni envoi de courrier.
 
->[!VIDEO](https://video.tv.adobe.com/v/33809?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 
 Cliquez ici pour télécharger la recette du PDF étape par étape pour obtenir de l&#39;aide pour le réemploi.
 
