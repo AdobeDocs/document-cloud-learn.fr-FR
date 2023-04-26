@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: c3c425ff21cbe50d63521d980b8f37b4c7eadf2e
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '630'
 ht-degree: 0%
 
 ---
@@ -25,10 +25,10 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications que votre entrepr
 
 ## Nouveautés
 
+* [Accueil des nouvelles recrues Acrobat Sign + Workday](acrobat-sign-workday-onboarding.md)
+Découvrez comment simplifier les workflows d’intégration avec Acrobat Sign + Workday
 * [Envoi de documents pour autorisation](send-document-notarize.md)
 Dans ce tutoriel en trois parties, découvrez comment envoyer un document pour autorisation, afficher l’expérience du signataire et recevoir les résultats
-* [Archivage automatique des fichiers dans SharePoint avec Power Automate](auto-archive-sharepoint-power-automate.md)
-Découvrez comment archiver automatiquement des documents signés dans une bibliothèque SharePoint à l’aide de Power Automate
 
 ## Tutoriels sur les intégrations Microsoft
 
