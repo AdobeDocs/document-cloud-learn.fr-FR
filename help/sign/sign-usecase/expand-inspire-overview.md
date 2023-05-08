@@ -7,9 +7,9 @@ level: Intermediate
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
@@ -50,6 +50,11 @@ Découvrez comment transformer les expériences de signature électronique de vo
     <a href="use-case-showcase.md"><strong>Vitrine de cas</strong></a>
     </div>
     <em>Regardez des sessions en direct ou enregistrées pour découvrir les nouveaux cas d’usage et les nouvelles tendances concernant Acrobat Sign</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
