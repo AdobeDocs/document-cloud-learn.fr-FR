@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: b608a19a870f20b352f8eab3d4f5c17e13f09320
+source-git-commit: 0e5c6ead1bcc3697b224937414b7f417ede0b5b3
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '494'
 ht-degree: 10%
 
 ---
@@ -47,9 +47,10 @@ ht-degree: 10%
       + [Configuration de l’ordre de signature](sign-advanced-users/setting-up-routing.md)
       + [Utilisation du rôle de délégant](sign-advanced-users/delegate-signature.md)
       + [Utilisation du rôle d&#39;approbateur](sign-advanced-users/add-an-approver.md)
+      + [Méthodes d’authentification dans Acrobat Sign](sign-advanced-users/authentication-methods.md)
+      + [Configuration des paiements en ligne](sign-advanced-users/set-up-online-payments.md)
       + [Envoi et collecte simultanée de signatures](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Création d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Configuration des paiements en ligne](sign-advanced-users/set-up-online-payments.md)
       + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Utilisation du balisage de texte dans [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gestion {#advanced-tasks-managing}

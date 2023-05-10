@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 854e70d1dd1d6535e1f8a8b53cfc6907862f5569
+source-git-commit: b1254c2dbb82932319d62c78e683b8a395e7eece
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '413'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
 
 ## Nouveautés
 
+* [Méthodes d’authentification dans Acrobat Sign](authentication-methods.md)
+Découvrez la gamme de méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’une personne signant un document
 * [Configuration des paiements en ligne](set-up-online-payments.md)
 Découvrez comment configurer et accepter les paiements en ligne dans vos documents
-* [Création d&#39;un rapport](creating-a-report.md)
-Découvrez comment créer vos propres rapports pour obtenir une visibilité sur le processus de signature des documents
 
 ## Envoi
 
@@ -62,6 +62,18 @@ Découvrez comment créer vos propres rapports pour obtenir une visibilité sur 
     <br>
   </td>
   <td>
+    <a href="authentication-methods.md">
+      <img alt="Méthodes d’authentification dans Acrobat Sign" src="../assets/authentication.png" />
+    </a>
+    <div>
+    <a href="authentication-methods.md"><strong>Méthodes d’authentification dans Acrobat Sign</strong></a>
+    </div>
+    <em>Découvrez la gamme de méthodes d’authentification d’identité disponibles dans Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="set-up-online-payments.md">
       <img alt="Configuration des paiements en ligne" src="../assets/Payments.png" />
     </a>
@@ -71,38 +83,38 @@ Découvrez comment créer vos propres rapports pour obtenir une visibilité sur 
     <em>Découvrez comment configurer et accepter les paiements en ligne dans vos documents</em>
     <br>
   </td>
+  <td>
+      <a href="megasign.md">
+        <img alt="Envoi et collecte simultanée de signatures" src="../assets/Megasign.png" />
+      </a>
+      <div>
+      <a href="megasign.md"><strong>Envoi et collecte simultanée de signatures</strong></a>
+      </div>
+      <em>Collectez des centaines de signatures à la fois pour n’importe quel document en quelques étapes</em>
+      <br>
+    </td>
+    <td>
+      <a href="webform.md">
+        <img alt="Création d’un formulaire web" src="../assets/Webform.png" />
+      </a>
+      <div>
+      <a href="webform.md"><strong>Création d’un formulaire web</strong></a>
+      </div>
+      <em>Créez un document pouvant être signé électroniquement directement sur votre site web</em>
+      <br>
+    </td>
+    <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Acrobat Sign</strong></a>
+      </div>
+      <em>Création de champs de formulaire Acrobat Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
+      <br>
+    </td>
 </tr>
 <tr>
- <td>
-    <a href="megasign.md">
-      <img alt="Envoi et collecte simultanée de signatures" src="../assets/Megasign.png" />
-    </a>
-    <div>
-    <a href="megasign.md"><strong>Envoi et collecte simultanée de signatures</strong></a>
-    </div>
-    <em>Collectez des centaines de signatures à la fois pour n’importe quel document en quelques étapes</em>
-    <br>
-  </td>
-  <td>
-    <a href="webform.md">
-      <img alt="Création d’un formulaire web" src="../assets/Webform.png" />
-    </a>
-    <div>
-    <a href="webform.md"><strong>Création d’un formulaire web</strong></a>
-    </div>
-    <em>Créez un document pouvant être signé électroniquement directement sur votre site web</em>
-    <br>
-  </td>
-  <td>
-    <a href="adobe-sign-text-tagging.md">
-      <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
-  </a>
-    <div>
-    <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Acrobat Sign</strong></a>
-    </div>
-    <em>Création de champs de formulaire Acrobat Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
-    <br>
-  </td>
   <td>
     <a href="text-tagging-word.md">
       <img alt="Utilisation du balisage de texte dans [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
@@ -111,6 +123,21 @@ Découvrez comment créer vos propres rapports pour obtenir une visibilité sur 
     <a href="text-tagging-word.md"><strong>Utilisation du balisage de texte dans [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Découvrez comment créer un modèle de document réutilisable en ajoutant des balises de texte Acrobat Sign dans [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
