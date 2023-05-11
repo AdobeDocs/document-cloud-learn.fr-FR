@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: b53d445b32bf4b46c2af2aa65a10441d93bccda6
+source-git-commit: e7b475f9d0abce1c88dbb3377f783f53bf794b52
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '510'
 ht-degree: 1%
 
 ---
@@ -116,6 +116,16 @@ Automatisez les workflows documentaires pour récupérer rapidement les signatur
 </tr>
 <tr>
   <td>
+    <a href="report-options.md">
+      <img alt="Options de rapport pour les utilisateurs" src="../assets/report-options.png" />
+    </a>
+    <div>
+    <a href="report-options.md"><strong>Options de rapport pour les utilisateurs</strong></a>
+    </div>
+    <em>Découvrez comment configurer des options de rapport pour les utilisateurs</em>
+    <br>
+  </td>
+  <td>
     <a href="../sign-advanced-users/webform.md">
       <img alt="Création d’un formulaire web" src="../assets/Webform.png" />
     </a>
@@ -145,7 +155,9 @@ Automatisez les workflows documentaires pour récupérer rapidement les signatur
     <em>Collectez des centaines de signatures à la fois pour tous les documents</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="building-a-custom-workflow.md">
       <img alt="Configuration d’un workflow" src="../assets/BuildingWorkflow.png" />
     </a>
@@ -155,7 +167,21 @@ Automatisez les workflows documentaires pour récupérer rapidement les signatur
     <em>Automatisez les workflows documentaires pour récupérer rapidement les signatures et données électroniques</em>
     <br>
   </td>
-</tr>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </table>
 
 ## Tâches avancées
