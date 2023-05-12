@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: f09913b9f9dd134a8e2ad723dcc11e070e332ea6
+source-git-commit: 9d4c634f9f0b136cbd184051f51f128856a96615
 workflow-type: tm+mt
-source-wordcount: '498'
+source-wordcount: '501'
 ht-degree: 10%
 
 ---
@@ -48,6 +48,7 @@ ht-degree: 10%
       + [Utilisation du rôle de délégant](sign-advanced-users/delegate-signature.md)
       + [Utilisation du rôle d&#39;approbateur](sign-advanced-users/add-an-approver.md)
       + [Méthodes d’authentification dans Acrobat Sign](sign-advanced-users/authentication-methods.md)
+      + [Gestion des données de formulaire](sign-advanced-users/manage-form-data.md)
       + [Configuration des paiements en ligne](sign-advanced-users/set-up-online-payments.md)
       + [Envoi et collecte simultanée de signatures](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Création d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
