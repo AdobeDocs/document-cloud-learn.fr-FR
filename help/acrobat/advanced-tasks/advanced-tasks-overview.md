@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: d69bc986a03d218b61b92b3a8129d8e21116e2bf
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '368'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
 
 ## Nouveautés
 
-* [Utilisation d’Acrobat sur le web](optimizeseo.md)
+* [Optimize PDF pour SEO (Search Engine Optimization)](optimizeseo.md)
 Découvrez comment optimiser un PDF pour améliorer sa visibilité et améliorer le classement des moteurs de recherche sur le web
 
 ## Tutoriels sur les tâches avancées
