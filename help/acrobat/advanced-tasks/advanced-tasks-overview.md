@@ -6,10 +6,10 @@ product: adobe acrobat
 level: Experienced
 thumbnail: KT-6857.jpg
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4dfd14c89c11c07b9a2fc0c62e869b11a1ac00bc
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 3%
+source-wordcount: '366'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,11 @@ ht-degree: 3%
 ![Image de prise en main d&#39;Acrobat](../assets/Hero-AdvancedTasks.png)
 
 Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvrez comment créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser des fichiers volumineux, recueillir rapidement des données de formulaire et créer des fichiers de PDF accessibles à tous.
+
+## Nouveautés
+
+* [Utilisation d’Acrobat sur le web](optimizeseo.md)
+Découvrez comment optimiser un PDF pour améliorer sa visibilité et améliorer le classement des moteurs de recherche sur le web
 
 ## Tutoriels sur les tâches avancées
 
@@ -109,10 +114,10 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Assistant d’action" src="../assets/Action.jpg" />
+      <img alt="Action Wizard" src="../assets/Action.jpg" />
     </a>
     <div>
-    <a href="action.md"><strong>Assistant d’action</strong></a>
+    <a href="action.md"><strong>Action Wizard</strong></a>
     </div>
     <em>Gagnez du temps et économisez des frappes de touches en utilisant une action pour appliquer automatiquement un ensemble de commandes à un ou plusieurs fichiers</em>
     <br>
@@ -139,7 +144,7 @@ Allez au-delà des fondamentaux avec ces outils avancés dans Acrobat. Découvre
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Assistant d’action" src="../assets/FormData.jpg" />
+      <img alt="Action Wizard" src="../assets/FormData.jpg" />
     </a>
     <div>
     <a href="formdata.md"><strong>Utilisation des données de formulaire</strong></a>

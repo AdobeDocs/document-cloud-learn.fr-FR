@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8498.jpg
 kt: 8498
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 0%
+source-wordcount: '103'
+ht-degree: 1%
 
 ---
 
 # Utilisation d’Acrobat sur le web
 
-Le télétravail étant omniprésent, il est impératif de diffuser du contenu rapidement et à grande échelle. Apprenez à traiter les demandes de documents professionnels, où que vous soyez, à l&#39;aide des outils web Acrobat de votre navigateur.
+Le télétravail étant omniprésent, il est impératif de diffuser du contenu rapidement et à grande échelle. Apprenez à traiter les demandes de documents professionnels, où que vous soyez, à l&#39;aide des outils web Acrobat de votre navigateur. À tester sur [acrobat.adobe.com](https://acrobat.adobe.com/fr/fr/).
 
 >[!TIP]
 >
