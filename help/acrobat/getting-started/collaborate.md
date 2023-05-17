@@ -7,16 +7,16 @@ level: Beginner
 thumbnail: KT-8255.jpg
 kt: 8255
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 6b91460e712f3c2cf78e52bf6dda79793fdc30cb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
 
 # Collaborez en temps réel
 
-Le télétravail étant omniprésent, une collaboration fluide est essentielle pour diffuser du contenu rapidement et à grande échelle. Menez vos projets à bien en recueillant des commentaires, en collaborant sur les réponses et en suivant l’état d’avancement de vos documents, le tout en temps réel et en tout lieu.
+Le télétravail étant omniprésent, une collaboration fluide est essentielle pour diffuser du contenu rapidement et à grande échelle. Menez vos projets à bien en recueillant des commentaires, en collaborant sur les réponses et en suivant l’état d’avancement de vos documents, le tout en temps réel et en tout lieu. Ce tutoriel vidéo utilise le [nouvel espace de travail](new-workspace.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
 
