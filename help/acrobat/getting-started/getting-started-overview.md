@@ -6,9 +6,9 @@ product: adobe acrobat
 level: Beginner
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: ad985fe7818817726fa79870ab05005cda07e884
+source-git-commit: 797c9bdce5bae874875b4ff319977c5dc753b7c2
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '540'
 ht-degree: 5%
 
 ---
@@ -23,6 +23,8 @@ Découvrez comment commencer à utiliser Adobe Acrobat grâce à ces brefs tutor
 
 * [Utilisation d’Acrobat sur le web](acrobatweb.md)
 Apprenez à traiter les demandes de documents professionnels, où que vous soyez, à l&#39;aide des outils web Acrobat de votre navigateur
+* [Collaborez en temps réel](collaborate.md)
+Faites avancer vos projets en recueillant des commentaires, en collaborant sur les réponses et en suivant l’état d’avancement de vos documents, le tout en temps réel et en tout lieu
 
 ## Tutoriels de prise en main
 
@@ -129,10 +131,10 @@ Apprenez à traiter les demandes de documents professionnels, où que vous soyez
     </td>
     <td>
       <a href="organize.md">
-        <img alt="Organisation des pages" src="../assets/Organize.png" />
+        <img alt="Organiser des pages" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Organisation des pages</strong></a>
+      <a href="organize.md"><strong>Organiser des pages</strong></a>
       </div>
       <em>Ajout, remplacement, extraction, rotation, suppression et réorganisation de pages dans votre PDF</em>
       <br>
