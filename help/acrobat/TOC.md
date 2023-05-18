@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 solution: Acrobat
 breadcrumb-title: Acrobat Tutorials
-source-git-commit: 9d40cb78ea7dae3eb372d704737815082fdcc32f
+source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
 workflow-type: tm+mt
 source-wordcount: '412'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
@@ -61,22 +61,22 @@ ht-degree: 0%
       + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
 + Acrobat de 60 secondes {#60-second}
    + [Présentation](60-second/60-second-overview.md)
-   + [Création rapide de fichiers de PDF plus efficaces](60-second/optimize.md)
-   + [Protect de vos fichiers de mot de PDF avec un mot de passe](60-second/protect.md)
-   + [Conversion de Word en PDF, y compris les champs de formulaire](60-second/wordform.md)
-   + [Laissez Acrobat vous aider à créer des PDF accessibles](60-second/accessible.md)
-   + [Export PDF à Word depuis votre téléphone](60-second/exportwordphone.md)
+   + [Modification d’un PDF avec Acrobat web](60-second/edit.md)
    + [Reconnaissance du texte d’un fichier de PDF numérisé](60-second/textrecognition.md)
    + [Regroupement de fichiers dans un PDF](60-second/combine-to-one-pdf.md)
-   + [Modification d’un PDF avec Acrobat web](60-second/edit.md)
-   + [Rechercher plusieurs fichiers de PDF en même temps](60-second/search.md)
-   + [Création instantanée d&#39;un PDF de photos](60-second/photo.md)
-   + [Convertir un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
-   + [Signer électroniquement un document papier](60-second/sign.md)
-   + [Charger les commentaires PDF dans l’InDesign](60-second/indesign.md)
+   + [Agencement des pages en un clin d’oeil](60-second/organize.md)
    + [Retouche d&#39;une photo dans votre PDF](60-second/editphoto.md)
    + [Modification d’une image dans votre PDF](60-second/editgraphic.md)
-   + [Agencement des pages en un clin d’oeil](60-second/organize.md)
+   + [Export PDF à Word depuis votre téléphone](60-second/exportwordphone.md)
+   + [Conversion de Word en PDF, y compris les champs de formulaire](60-second/wordform.md)
+   + [Création instantanée d&#39;un PDF de photos](60-second/photo.md)
+   + [Convertir un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
+   + [Création rapide de fichiers de PDF plus efficaces](60-second/optimize.md)
+   + [Signer électroniquement un document papier](60-second/sign.md)
+   + [Protect de vos fichiers de mot de PDF avec un mot de passe](60-second/protect.md)
+   + [Laissez Acrobat vous aider à créer des PDF accessibles](60-second/accessible.md)
+   + [Rechercher plusieurs fichiers de PDF en même temps](60-second/search.md)
+   + [Charger les commentaires PDF dans l’InDesign](60-second/indesign.md)
 + Skill Builders {#skill-builders}
    + [Webinaires](skill-builder/skill-builder-webinars.md)
 + Intégrations {#integrations}
