@@ -7,10 +7,10 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: f98800a7b2ec14fb76faa5f2a809be6c782d89aa
+source-git-commit: 8d96841361809a5b4e6fd894a3d9cb3fef27ce2c
 workflow-type: tm+mt
-source-wordcount: '551'
-ht-degree: 0%
+source-wordcount: '643'
+ht-degree: 2%
 
 ---
 
@@ -106,6 +106,35 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="convert-pdf-word.md">
+      <img alt="Conversion d’un PDF au format Word" src="../assets/60sec_convertword.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-word.md"><strong>Conversion d’un PDF au format Word</strong></a>
+    </div>
+    <em>Conversion d’un fichier de PDF en document Microsoft Word entièrement modifiable</em>
+    <br>
+  </td>
+ <td>
+    <a href="convert-pdf-excel.md">
+      <img alt="Convertir un PDF au format Excel" src="../assets/60sec_convertexcel.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Convertir un PDF au format Excel</strong></a>
+    </div>
+    <em>Conversion d’un fichier de PDF en document Microsoft Excel entièrement modifiable</em>
+    <br>
+  </td>
+  <td>
+    <a href="convert-pdf-powerpoint.md">
+      <img alt="Conversion d’un PDF au format PowerPoint" src="../assets/60sec_convertppt.png" />
+    </a>
+    <div>
+    <a href="convert-pdf-excel.md"><strong>Conversion d’un PDF au format PowerPoint</strong></a>
+    </div>
+    <em>Conversion d’un fichier de PDF en document Microsoft PowerPoint entièrement modifiable</em>
+    <br>
+  </td>
     <a href="exportwordphone.md">
       <img alt="Export PDF à Word depuis votre téléphone" src="../assets/60sec_Exportphone_1280.jpg" />
     </a>
@@ -114,21 +143,6 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     </div>
     <em>Convertissez un fichier de PDF en document Microsoft Word entièrement modifiable avec l’application mobile Acrobat</em>
     <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
 </tr>
 </table>
@@ -258,10 +272,15 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     <em>Vérifiez si un PDF est accessible</em>
     <br>
   </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+ <td>
+    <a href="conform.md">
+      <img alt="Conformer un PDF à un format standard" src="../assets/60sec_standard.png" />
+    </a>
+    <div>
+    <a href="conform.md"><strong>Conformer un PDF à un format standard</strong></a>
+    </div>
+    <em>Apprenez à valider du contenu PDF en fonction de critères PDF standard tels que PDF/X, PDF/A ou PDF/E</em>
+    <br>
   </td>
   <td>
       <img alt="Espaceur" src="../assets/Whitespacer.png" />
