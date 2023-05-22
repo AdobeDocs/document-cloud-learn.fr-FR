@@ -7,9 +7,9 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: d1416b3c1137a44897a5a6e4b74ba9b4e6ee63b4
+source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '747'
 ht-degree: 2%
 
 ---
@@ -242,9 +242,14 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     <br>
   </td>
   <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
+    <a href="redaction.md">
+      <img alt="Biffure : La bonne voie" src="../assets/60sec_redaction.png" />
+    </a>
+    <div>
+    <a href="redaction.md"><strong>Biffure : La bonne voie</strong></a>
+    </div>
+    <em>Découvrez comment supprimer les informations confidentielles d’un PDF</em>
+    <br>
   </td>
   <td>
       <img alt="Espaceur" src="../assets/Whitespacer.png" />
@@ -255,6 +260,53 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
       <img alt="Espaceur" src="../assets/Whitespacer.png" />
         <div>
         <br>
+  </td>
+</tr>
+</table>
+
+## Partage et révision
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="share-comment.md">
+      <img alt="Partager un PDF pour commentaires" src="../assets/60sec_sharecomment.png" />
+    </a>
+    <div>
+    <a href="share-comment.md"><strong>Partager un PDF pour commentaires</strong></a>
+    </div>
+    <em>Apprenez à partager un PDF et à recueillir rapidement les commentaires de plusieurs personnes dans un même fichier</em>
+    <br>
+  </td>
+  <td>
+    <a href="share-comment-teams.md">
+      <img alt="Partage et commentaires sur des fichiers de PDF dans Teams" src="../assets/60sec_shareteams.png" />
+    </a>
+    <div>
+    <a href="share-comment-teams.md"><strong>Partage et commentaires sur des fichiers de PDF dans Teams</strong></a>
+    </div>
+    <em>Découvrez comment collaborer en temps réel sur un fichier de PDF dans Microsoft Teams</em>
+    <br>
+  </td>
+  <td>
+    <a href="summarize-comments.md">
+      <img alt="Disputation des commentaires des PDF avec le résumé" src="../assets/60sec_summarize.png" />
+    </a>
+    <div>
+    <a href="summarize-comments.md"><strong>Disputation des commentaires des PDF avec le résumé</strong></a>
+    </div>
+    <em>Découvrez comment créer un résumé de tous les commentaires et annotations dans votre fichier de PDF</em>
+    <br>
+  </td>
+   <td>
+    <a href="indesign.md">
+      <img alt="Charger les commentaires PDF dans l’InDesign" src="../assets/60sec_InDesign_1280.jpg" />
+    </a>
+    <div>
+    <a href="indesign.md"><strong>Charger les commentaires PDF dans l’InDesign</strong></a>
+    </div>
+    <em>Découvrez comment recharger les commentaires de PDF dans InDesign après une révision partagée d’Acrobat</em>
+    <br>
   </td>
 </tr>
 </table>
@@ -310,15 +362,10 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     <em>Lancez une recherche dans un fichier de PDF, puis lancez la recherche avancée et recherchez un dossier complet de fichiers de PDF</em>
     <br>
   </td>
-  <td>
-    <a href="indesign.md">
-      <img alt="Charger les commentaires PDF dans l’InDesign" src="../assets/60sec_InDesign_1280.jpg" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>Charger les commentaires PDF dans l’InDesign</strong></a>
-    </div>
-    <em>Découvrez comment recharger les commentaires de PDF dans InDesign après une révision partagée d’Acrobat</em>
-    <br>
+ <td>
+      <img alt="Espaceur" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
   </td>
   <td>
       <img alt="Espaceur" src="../assets/Whitespacer.png" />
