@@ -7,10 +7,10 @@ level: Beginner
 thumbnail: KT-8493.jpg
 KT: 8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: aa2bb2bf7a50fd23d1b71194ffb614c8e8d4e271
+source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
 workflow-type: tm+mt
-source-wordcount: '747'
-ht-degree: 2%
+source-wordcount: '815'
+ht-degree: 1%
 
 ---
 
@@ -153,6 +153,26 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="word-to-pdf.md">
+      <img alt="Création d’un PDF depuis Microsoft Word" src="../assets/60sec_createfromword.png" />
+    </a>
+    <div>
+     <a href="word-to-pdf.md"><strong>Création d’un PDF depuis Microsoft Word</strong></a>
+    </div>
+    <em>Création d’un PDF depuis Microsoft Word</em>
+    <br>
+  </td>
+  <td>
+    <a href="create-from-acrobat.md">
+      <img alt="Création de PDF depuis Acrobat" src="../assets/60sec_createfromacrobat.png" />
+    </a>
+    <div>
+     <a href="create-from-acrobat.md"><strong>Création de PDF depuis Acrobat</strong></a>
+    </div>
+    <em>Création de PDF à partir de fichiers Microsoft 365 directement dans l’application de bureau Acrobat</em>
+    <br>
+  </td>
+  <td>
     <a href="wordform.md">
       <img alt="Conversion de Word en PDF, y compris les champs de formulaire" src="../assets/60sec_Wordform_1280.jpg" />
     </a>
@@ -172,6 +192,8 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
       <em>Découvrez comment créer un PDF en faisant glisser un groupe de JPG sur l’icône Acrobat</em>
       <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="phone.md">
       <img alt="Convertir un fichier PPT en PDF sur votre téléphone" src="../assets/60sec_Phone_1280.jpg" />
@@ -191,6 +213,16 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
       </div>
       <em>Utilisez l’outil de Optimize PDF pour réduire considérablement la taille de vos fichiers de PDF</em>
       <br>
+  </td>
+  <td>
+      <img alt="Espaceur" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+      <img alt="Espaceur" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
@@ -353,6 +385,16 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
 <table style="table-layout:fixed">
 <tr>
   <td>
+    <a href="compare.md">
+      <img alt="Repérez les différences avec Comparaison dans un PDF" src="../assets/60sec_compare.png" />
+    </a>
+    <div>
+     <a href="compare.md"><strong>Repérez les différences avec Comparaison dans un PDF</strong></a>
+    </div>
+    <em>Découvrez comment repérer les différences entre deux fichiers de PDF à l’aide de l’outil Comparer les fichiers dans Acrobat</em>
+    <br>
+  </td>
+ <td>
     <a href="search.md">
       <img alt="Rechercher plusieurs fichiers de PDF en même temps" src="../assets/60sec_Search_1280.jpg" />
     </a>
@@ -361,11 +403,6 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
     </div>
     <em>Lancez une recherche dans un fichier de PDF, puis lancez la recherche avancée et recherchez un dossier complet de fichiers de PDF</em>
     <br>
-  </td>
- <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
   </td>
   <td>
       <img alt="Espaceur" src="../assets/Whitespacer.png" />
