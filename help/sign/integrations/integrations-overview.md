@@ -7,9 +7,9 @@ level: Intermediate
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 4037b6308778dffdfc27b6d22f6d53adedd75cf2
+source-git-commit: 8f2feaee22d7264abe6085695a2df5d3632ad76d
 workflow-type: tm+mt
-source-wordcount: '631'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
@@ -77,13 +77,13 @@ Dans ce tutoriel en trois parties, découvrez comment envoyer un document pour a
 </tr>
 <tr>
   <td>
-    <a href="adobe-sign-teams-mortgage.md">
-      <img alt="Envoi de documents pour signature dans [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    <a href="integrate-web-form-sharepoint-online.md">
+      <img alt="Intégrer un formulaire web à [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="adobe-sign-teams-mortgage.md"><strong>Envoyer pour signature dans [!DNL Microsoft Teams]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Intégrer un formulaire web à [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Envoyez des documents pour signature directement depuis [!DNL Microsoft Teams]</em>
+    <em>Découvrez comment mapper les données collectées à partir d’un formulaire web dans un fichier [!DNL SharePoint] liste</em>
     <br>
   </td>
   <td>
@@ -106,9 +106,14 @@ Dans ce tutoriel en trois parties, découvrez comment envoyer un document pour a
     <em>Découvrez comment activer et utiliser le [!DNL Acrobat Sign] et [!DNL Adobe PDF Tools] connecteurs pour [!DNL Microsoft Power] applications</em>
     <br>
   </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+   <td>
+    <a href="adobe-sign-teams-mortgage.md">
+      <img alt="Envoi de documents pour signature dans [!DNL Microsoft Teams]" src="../assets/teamsmortgage.png" />
+    </a>
     <div>
+    <a href="adobe-sign-teams-mortgage.md"><strong>Envoyer pour signature dans [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Envoyez des documents pour signature directement depuis [!DNL Microsoft Teams]</em>
     <br>
   </td>
 </tr>
