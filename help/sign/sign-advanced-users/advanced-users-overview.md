@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: d842a83819a9e8fcec3fd91b7cd6ef4f77dd4774
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '457'
 ht-degree: 3%
 
 ---
@@ -22,10 +22,10 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
 
 ## Nouveautés
 
+* [Création d’un formulaire web avec plusieurs signataires inconnus](webform-multiple-signers.md)
+Découvrez comment créer un formulaire web complexe avec plusieurs participants inconnus
 * [Méthodes d’authentification dans Acrobat Sign](authentication-methods.md)
 Découvrez la gamme de méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’une personne signant un document
-* [Gestion des données de formulaire](manage-form-data.md)
-Découvrez comment consolider les données de formulaire de vos documents
 
 ## Envoi
 
