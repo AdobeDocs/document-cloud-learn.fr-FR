@@ -7,9 +7,9 @@ solution: Acrobat Sign
 level: Experienced
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: acadf9bd9613c361934ba82481271c9572d6dff9
+source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '449'
 ht-degree: 3%
 
 ---
@@ -53,7 +53,7 @@ Découvrez comment consolider les données de formulaire de vos documents
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Utilisation du rôle d'approbateur" src="../assets/Approver.png" />
+      <img alt="Utilisation du rôle d&apos;approbateur" src="../assets/Approver.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>Utilisation du rôle d'approbateur</strong></a>
@@ -104,17 +104,27 @@ Découvrez comment consolider les données de formulaire de vos documents
       <br>
   </td>
   <td>
-    <a href="webform.md">
-        <img alt="Création d’un formulaire web" src="../assets/Webform.png" />
+    <a href="webform-multiple-signers.md">
+        <img alt="Création d’un formulaire web avec plusieurs signataires inconnus" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform.md"><strong>Création d’un formulaire web</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Création d’un formulaire web avec plusieurs signataires inconnus</strong></a>
     </div>
-    <em>Créez un document pouvant être signé électroniquement directement sur votre site web</em>
+    <em>Découvrez comment créer un formulaire web complexe avec plusieurs participants inconnus</em>
     <br>
   </td>
 </tr>
 <tr>
+  <td>
+      <a href="adobe-sign-text-tagging.md">
+        <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
+    </a>
+      <div>
+      <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Acrobat Sign</strong></a>
+      </div>
+      <em>Création de champs de formulaire Acrobat Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
+      <br>
+    </td>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
@@ -140,11 +150,6 @@ Découvrez comment consolider les données de formulaire de vos documents
     <div>
     <br>
   </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
-    <br>
-  </td>
 </tr>
 </table>
 
@@ -154,7 +159,7 @@ Découvrez comment consolider les données de formulaire de vos documents
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="Création d'un rapport" src="../assets/Report.png" />
+      <img alt="Création d&apos;un rapport" src="../assets/Report.png" />
     </a>
     <div>
     <a href="creating-a-report.md"><strong>Création d'un rapport</strong></a>
