@@ -4,13 +4,14 @@ description: Envoyez des documents pour signature, suivez l'état d'avancement d
 role: User
 product: adobe sign
 level: Intermediate
+jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: c000c6cb0651f2ab73876a19047e6a9d2c6fb04c
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 28%
+ht-degree: 34%
 
 ---
 
@@ -37,7 +38,7 @@ Envoyez des documents pour signature, suivez l&#39;état d&#39;avancement du pro
       <img alt="Télécharger pour iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://itunes.apple.com/us/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Télécharger l’application mobile Acrobat Sign pour iOS</strong></a>
+    <a href="https://itunes.apple.com/fr/app/adobe-sign/id481082197?mt=8" target="_blank"><strong>Télécharger l’application mobile Acrobat Sign pour iOS</strong></a>
     <br>
   </td>
   <td>
@@ -45,7 +46,7 @@ Envoyez des documents pour signature, suivez l&#39;état d&#39;avancement du pro
       <img alt="Télécharger pour Android" src="assets/Mobile_Android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en" target="_blank"><strong>Télécharger l’application mobile Acrobat Sign pour Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=fr" target="_blank"><strong>Télécharger l’application mobile Acrobat Sign pour Android</strong></a>
     <br>
   </td>
   <td>

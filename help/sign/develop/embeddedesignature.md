@@ -4,13 +4,14 @@ description: Découvrez comment utiliser les API Acrobat Sign pour incorporer la
 role: User, Developer
 level: Intermediate
 topic: Integrations
+jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: 7a27c3ebe52bdb13f99a38abdd6a4881f7fb09c1
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '876'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
@@ -37,7 +38,7 @@ Dans la première partie, découvrez comment commencer à utiliser tout ce dont 
 
 ## Partie 2 : Code faible/sans — la puissance des formulaires web
 
-Dans la partie 2, explorez l’option low/no-code de l’utilisation de formulaires web. Il est toujours judicieux d’éviter d’écrire du code au début.
+Dans la partie 2, explorez l’option low/no-code de l’utilisation de formulaires web. C&#39;est toujours une bonne idée de voir si vous pouvez éviter d&#39;écrire du code au début.
 
 +++Affichage des détails sur la création d’un formulaire web
 
@@ -91,7 +92,7 @@ Pour envoyer votre premier accord, il est préférable de comprendre comment uti
 
 ![Capture d&#39;écran de la création d&#39;un document temporaire](assets/embeddedesignature/embed_7.png)
 
-Après avoir envoyé un accord pour la première fois, vous êtes prêt à ajouter la logique. Il est toujours judicieux de créer des assistants pour limiter les répétitions. Voici quelques exemples :
+Après avoir envoyé un accord pour la première fois, vous êtes prêt à ajouter la logique. C&#39;est toujours une bonne idée d&#39;établir des aides pour minimiser la répétition. En voici quelques exemples :
 
 **Validation**
 
@@ -155,6 +156,6 @@ Quand tout est mis en place, la solution est assez simple. Vous créez un accord
 * Rappels personnalisés
    * Avec la création initiale
 
-      ![Capture d’écran de la navigation vers Power Automate](assets/embeddedesignature/embed_16.png)
+     ![Capture d’écran de la navigation vers Power Automate](assets/embeddedesignature/embed_16.png)
 
    * Ou ajoutez-en un [en vol](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

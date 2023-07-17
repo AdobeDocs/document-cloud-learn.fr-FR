@@ -1,21 +1,22 @@
 ---
-title: Envoyer des rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo
+title: Envoi de rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo
 description: Découvrez comment envoyer un rappel par e-mail lorsqu’un accord n’est pas signé après un certain temps
 role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
 topic-revisit: Integrations
+jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '911'
-ht-degree: 3%
+ht-degree: 2%
 
 ---
 
-# Envoyer des rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo
+# Envoi de rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo
 
 Découvrez comment envoyer un rappel par e-mail lorsqu’un accord n’est pas signé après un certain temps. Cette intégration utilise Acrobat Sign, Acrobat Sign pour Microsoft Dynamics, Marketo et Marketo Microsoft Dynamics Sync.
 
@@ -153,7 +154,7 @@ Voici quelques exemples de personnalisation : le nom du signataire, le nom de l�
 
    Vous devriez voir un lien vers l’URL avec le nom de l’accord comme libellé.
 
-   ![Envoi d’un lien par courrier électronique](assets/emailLink.png)
+   ![Lien de messagerie](assets/emailLink.png)
 
 ## Configuration du filtre de campagne dynamique
 

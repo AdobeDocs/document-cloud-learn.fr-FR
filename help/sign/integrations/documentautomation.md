@@ -5,12 +5,12 @@ role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
-kt: 7488
+jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: e02b1250de94ec781e7984c6c146dbae993f5d31
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '2436'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -30,7 +30,7 @@ Découvrez comment activer et utiliser les connecteurs Acrobat Sign et Adobe PDF
   </td>
   <td>
     <a href="documentautomation.md#part2">
-        <img alt="Partie 2 : Processus de validation automatisé pour l'obtention de signatures électroniques avec Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
+        <img alt="Partie 2 : Processus de validation automatisé pour l&apos;obtention de signatures électroniques avec Acrobat Sign" src="assets/documentautomation/AutomationPart2_thumb.jpg" />
     </a>
     <div>
     <a href="documentautomation.md#part2"><strong>Partie 2 : Processus de validation automatisé pour l'obtention de signatures électroniques avec Acrobat Sign</strong></a>
@@ -266,7 +266,7 @@ Ces dossiers sont désormais référencés dans le cadre de votre flux Power Aut
 
    ![Capture d&#39;écran du bouton Commencer](assets/documentautomation/automation_28.png)
 
-1. Connectez-vous au moyen de votre Adobe ID.
+1. Connectez-vous au moyen de votre ID Adobe.
 
    ![Capture d’écran de connexion](assets/documentautomation/automation_29.png)
 
@@ -345,7 +345,7 @@ Le dossier Templates contient un dossier Couvertures qui inclut des designs de p
 
    ![Capture d’écran indiquant où sélectionner Mes flux](assets/documentautomation/automation_39.png)
 
-1. Cliquez **Importer**.
+1. Cliquez sur **Importer**.
 
    ![Capture d&#39;écran de l&#39;importation](assets/documentautomation/automation_40.png)
 
@@ -353,7 +353,7 @@ Le dossier Templates contient un dossier Couvertures qui inclut des designs de p
 
    ![Capture d’écran de sélection du dossier](assets/documentautomation/automation_41.png)
 
-1. Cliquez **Importer**.
+1. Cliquez sur **Importer**.
 
 1. Cliquez sur l’icône Clé à molette sous Action en regard de **Envoyer la proposition au client**.
 
@@ -373,7 +373,7 @@ Le dossier Templates contient un dossier Couvertures qui inclut des designs de p
 
 Maintenant que l’enchaînement est créé, procédez comme suit :
 
-1. Cliquez **Modifier**.
+1. Cliquez sur **Modifier**.
 
    ![Capture d’écran de l’emplacement sélectionné](assets/documentautomation/automation_44.png)
 

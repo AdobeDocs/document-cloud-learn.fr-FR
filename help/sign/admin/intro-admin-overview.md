@@ -4,10 +4,11 @@ description: Découvrez les principes de base de l’ajout d’utilisateurs à v
 role: Admin
 product: adobe sign
 level: Intermediate
+jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2c3dafbd034627ab25186b56c9fd2a276ab3daa5
+source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 1%
@@ -85,7 +86,7 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Configuration d'une archive externe" src="../assets/ExternalArchive.png" />
+      <img alt="Configuration d&apos;une archive externe" src="../assets/ExternalArchive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>Configuration d'une archive externe</strong></a>
@@ -105,7 +106,7 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
   </td>
   <td>
     <a href="create-a-report.md">
-      <img alt="Création d'un graphique de rapport" src="../assets/Reportchart.png" />
+      <img alt="Création d&apos;un graphique de rapport" src="../assets/Reportchart.png" />
     </a>
     <div>
     <a href="create-a-report.md"><strong>Création d'un graphique de rapport</strong></a>
