@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: d52fb4316df05e45f472f43066a84f760cbf7b05
+source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,8 @@ ht-degree: 0%
 ![Utiliser la bannière de cas](../assets/Hero-Recipe.png)
 
 Accélérez les workflows digitaux de votre entreprise avec ces exemples de signature électronique à usage gouvernemental et commercial. Cliquez ici pour afficher un PDF avec des ressources et des détails sur la configuration de ces cas d’utilisation de signature électronique spécifiques.
+
+## Nouveautés
 
 * [Demande de prêt gouvernemental avec plusieurs signataires inconnus](webform-multiple-signers.md)
 Découvrez comment utiliser un formulaire web pour un workflow complexe de demande de prêt gouvernemental impliquant plusieurs participants inconnus
