@@ -5,14 +5,14 @@ product: adobe sign
 solution: Acrobat Sign
 level: Intermediate
 jira: KT-13596
-source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
+source-git-commit: 428983c7cc727096261d3c92897c25c255078261
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
 
-# Création d’un formulaire web avec plusieurs signataires inconnus
+# Demande de prêt gouvernemental avec plusieurs signataires inconnus
 
 En savoir plus [formulaire web](../sign-advanced-users/webform.md) est utilisé pour un workflow de demande de prêt gouvernemental complexe impliquant plusieurs participants inconnus. Ces formulaires peuvent être incorporés dans un site Web ou envoyés sous forme de lien dans un courrier électronique. Ils peuvent également être remplis sur n&#39;importe quel appareil, n&#39;importe où, accélérant les processus et la prestation de services.
 
