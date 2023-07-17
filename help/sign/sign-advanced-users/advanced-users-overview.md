@@ -8,9 +8,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '426'
 ht-degree: 3%
 
 ---
@@ -23,10 +23,10 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
 
 ## Nouveautés
 
-* [Création d’un formulaire web avec plusieurs signataires inconnus](webform-multiple-signers.md)
-Découvrez comment créer un formulaire web complexe avec plusieurs participants inconnus
 * [Méthodes d’authentification dans Acrobat Sign](authentication-methods.md)
 Découvrez la gamme de méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’une personne signant un document
+* [Configuration des paiements en ligne](set-up-online-payments.md)
+Découvrez comment configurer et accepter les paiements en ligne dans vos documents
 
 ## Envoi
 
@@ -104,19 +104,7 @@ Découvrez la gamme de méthodes disponibles dans Acrobat Sign pour authentifier
       <em>Collectez des centaines de signatures à la fois pour n’importe quel document en quelques étapes</em>
       <br>
   </td>
-  <td>
-    <a href="webform-multiple-signers.md">
-        <img alt="Création d’un formulaire web avec plusieurs signataires inconnus" src="../assets/Web-form-unknown.png" />
-    </a>
-    <div>
-    <a href="webform-multiple-signers.md"><strong>Création d’un formulaire web avec plusieurs signataires inconnus</strong></a>
-    </div>
-    <em>Découvrez comment créer un formulaire web complexe avec plusieurs participants inconnus</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
+ <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
     </a>
@@ -125,7 +113,9 @@ Découvrez la gamme de méthodes disponibles dans Acrobat Sign pour authentifier
       </div>
       <em>Création de champs de formulaire Acrobat Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
       <br>
-    </td>
+  </td>
+</tr>
+<tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
         <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
@@ -144,6 +134,11 @@ Découvrez la gamme de méthodes disponibles dans Acrobat Sign pour authentifier
     <a href="text-tagging-word.md"><strong>Utilisation du balisage de texte dans [!DNL Microsoft Word]</strong></a>
     </div>
     <em>Découvrez comment créer un modèle de document réutilisable en ajoutant des balises de texte Acrobat Sign dans [!DNL Microsoft Word]</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
   <td>

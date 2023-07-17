@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: d2920dd03f17df7f502f3892838a0006feb8c7d0
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '496'
+source-wordcount: '495'
 ht-degree: 10%
 
 ---
@@ -52,7 +52,6 @@ ht-degree: 10%
       + [Configuration des paiements en ligne](sign-advanced-users/set-up-online-payments.md)
       + [Envoi et collecte simultanée de signatures](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Création d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
-      + [Création d’un formulaire web avec plusieurs signataires inconnus](sign-advanced-users/webform-multiple-signers.md)
       + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Utilisation du balisage de texte dans [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gestion {#advanced-tasks-managing}
@@ -128,6 +127,7 @@ ht-degree: 10%
    + Recettes Cas d’usage {#recipes}
       + [Présentation](sign-usecase/recipes.md)
       + Administration {#gov}
+         + [Demande de prêt gouvernemental avec plusieurs signataires inconnus](sign-usecase/webform-multiple-signers.md)
          + [Subventions et prêts aux entreprises](sign-usecase/usecasegovgrants.md)
          + [Accord de télétravail](sign-usecase/usecasegovtelework.md)
          + [Contrats et formulaires de demande](sign-usecase/usecasegovcontracts.md)

@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 06160e33b532852be969b5c6c20d5591dd21fd38
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -22,10 +22,23 @@ ht-degree: 0%
 
 Accélérez les workflows digitaux de votre entreprise avec ces exemples de signature électronique à usage gouvernemental et commercial. Cliquez ici pour afficher un PDF avec des ressources et des détails sur la configuration de ces cas d’utilisation de signature électronique spécifiques.
 
+* [Demande de prêt gouvernemental avec plusieurs signataires inconnus](webform-multiple-signers.md)
+Découvrez comment utiliser un formulaire web pour un workflow complexe de demande de prêt gouvernemental impliquant plusieurs participants inconnus
+
 ## Cas d’usage gouvernemental
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="webform-multiple-signers.md">
+      <img alt="Demande de prêt gouvernemental avec plusieurs signataires inconnus" src="../assets/UC_Business.png" />
+    </a>
+    <div>
+    <a href="webform-multiple-signers.md"><strong>Demande de prêt gouvernemental avec plusieurs signataires inconnus</strong></a>
+    </div>
+    <em>Découvrez comment utiliser un formulaire web pour un workflow complexe de demande de prêt gouvernemental impliquant plusieurs participants inconnus</em>
+    <br>
+  </td> 
   <td>
     <a href="usecasegovgrants.md">
       <img alt="Subventions et prêts aux entreprises" src="../assets/UC_Business.png" />
@@ -56,7 +69,9 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
     <em>Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d'audit</em>
     <br>
   </td>
-  <td>
+</tr>
+<tr>
+ <td>
     <a href="usecasegovreemployment.md">
       <img alt="Assistance au réemploi" src="../assets/UC_WebformsR.png" />
     </a>
@@ -66,8 +81,6 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
     <em>Aidez les administrés à obtenir l'aide dont ils ont besoin, sans être au point avec des formulaires d'inscription 100 % digitaux, qui peuvent être mis à disposition en quelques jours</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="usecasegovpaycheck.md">
       <img alt="Protection Paycheck" src="../assets/UC_PaycheckProtectionR.png" />
@@ -86,11 +99,6 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
     <a href="usecasegovremote.md"><strong>Demande de mandat à distance</strong></a>
     </div>
     <em>Collectez les signatures électroniques et les conférences web pour écourter les délais de traitement des demandes et sécuriser les mandats des juges</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
