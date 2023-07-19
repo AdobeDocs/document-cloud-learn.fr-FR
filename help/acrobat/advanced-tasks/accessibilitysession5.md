@@ -1,25 +1,25 @@
 ---
-title: Ajout de champs de formulaire à un fichier PDF balisé
-description: Cette session à la demande se concentre sur l’ajout de champs de formulaire à un fichier PDF balisé précédemment.
+title: Ajout de champs de formulaire à un PDF balisé
+description: Cette session à la demande se concentre sur l’ajout de champs de formulaire à un PDF précédemment balisé
 role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-8612.jpg
-kt: 8612
+jira: KT-8612
 exl-id: 71bf49f5-3de1-4cc6-9ada-61147d4d1ee3
-source-git-commit: 2de5b609b3f23bb5796786b6bc413a831c2b78c3
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 6%
 
 ---
 
-# Ajout de champs de formulaire à un fichier PDF balisé
+# Ajout de champs de formulaire à un PDF balisé
 
-Cette session à la demande se concentre sur l’ajout de champs de formulaire à un fichier PDF balisé précédemment.
+Cette session à la demande se concentre sur l’ajout de champs de formulaire à un PDF précédemment balisé.
 
-Cliquez [ici](../assets/accessibilitysession5.zip) pour télécharger un fichier zip des fichiers pratiques pour cette session.
+Cliquez [ici](../assets/accessibilitysession5.zip) pour télécharger un fichier zip des fichiers pratiques de cette session.
 
 Sélectionnez l’image pour afficher la vidéo dans un onglet de navigateur distinct.
 
-[![Session 5 Vidéo](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target=&quot;_blank&quot;}
+[![Vidéo Session 5](../assets/Accessibilitysession5_YT.png)](https://youtu.be/vaM9R-mt5Jo){target="_blank"}

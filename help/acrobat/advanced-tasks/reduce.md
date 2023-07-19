@@ -5,11 +5,12 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-6827.jpg
+jira: KT-6827
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 40be81a04921205a63ecb99e723d4b62b7b6ba3f
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '230'
-ht-degree: 7%
+ht-degree: 0%
 
 ---
 
@@ -37,7 +38,7 @@ Réduisez les fichiers volumineux et optimisez vos PDF sans compromettre la qual
 
 1. Sélectionner **[!UICONTROL Standard]** dans le **[!UICONTROL Paramètres]** pour utiliser les paramètres par défaut.
 
-   Si vous modifiez des paramètres dans la boîte de dialogue **[!UICONTROL Optimisation PDF]**, l’option **Personnalisés** est automatiquement sélectionnée dans le menu **Paramètres**.
+   Si vous modifiez des paramètres dans la boîte de dialogue **[!UICONTROL PDF Optimizer]** , la boîte de dialogue **Paramètres** passe automatiquement à **Personnalisé**.
 
 1. Sélectionner **[!UICONTROL Conserver les éléments existants]** dans le **[!UICONTROL Rendre compatible avec]** pour conserver la version actuelle du PDF ou choisir une version spécifique d’Acrobat.
 

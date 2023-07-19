@@ -5,15 +5,16 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-6832.jpg
+jira: KT-6832
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 4ebf9594025f98f0505c58f1ab43fb864ed51206
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 30%
 
 ---
 
-# Organisation des pages
+# Organiser des pages
 
 La diffusion d’expériences client optimales exige une création de contenu plus rapide que jamais. Apprenez à réagencer les pages à votre guise, le tout en quelques secondes. [Insérer](https://www.adobe.com/fr/acrobat/online/add-pages-to-pdf.html){target="_blank"}, replace, [split](https://www.adobe.com/fr/acrobat/online/split-pdf.html){target="_blank"}, [reorder](https://www.adobe.com/fr/acrobat/online/rearrange-pdf.html){target="_blank"}, [rotate](https://www.adobe.com/fr/acrobat/online/rotate-pdf.html){target="_blank"}, and even [extract discontinuous pages](https://www.adobe.com/fr/acrobat/online/extract-pdf-pages.html){target="_blank"} pour obtenir un résultat de qualité professionnelle. Ce tutoriel vidéo utilise le [nouvel espace de travail](new-workspace.md).
 

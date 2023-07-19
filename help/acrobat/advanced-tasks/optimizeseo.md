@@ -5,10 +5,11 @@ role: User
 product: adobe acrobat
 level: Experienced
 thumbnail: KT-9347.jpg
+jira: KT-9347
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: ff700ec6a3bf71642cc27540064ba1f48874e279
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
-source-wordcount: '771'
+source-wordcount: '767'
 ht-degree: 1%
 
 ---
@@ -33,7 +34,7 @@ Le contenu du PDF doit être unique et structuré comme suit :
 * Exécuter [reconnaissance de texte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) sur tous les documents numérisés
 * Pour vérifier l’expérience de visualisation mobile de votre PDF, ouvrez le fichier dans le dossier [Application mobile Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) et activez Liquid Mode. Ajoutez des sous-titres supplémentaires si nécessaire pour améliorer la navigation.
 
-   ![Capture d&#39;écran de Liquid Mode dans l&#39;application mobile Acrobat Reader](../assets/optimizeseo1.png)
+  ![Capture d&#39;écran de Liquid Mode dans l&#39;application mobile Acrobat Reader](../assets/optimizeseo1.png)
 
 +++
 
@@ -86,7 +87,7 @@ Balisez un PDF comme suit :
 
 ## 4. Préparation pour le web
 
-Optimisez l’expérience d’interaction avec votre PDF en le préparant pour l’affichage et le [réduction de la taille du fichier du PDF](https://www.adobe.com/fr/acrobat/online/compress-pdf.html){target=&quot;_blank&quot;}.
+Optimisez l’expérience d’interaction avec votre PDF en le préparant pour l’affichage et le [réduction de la taille du fichier du PDF](https://www.adobe.com/fr/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Découvrez comment préparer votre PDF pour le web en détail
 
@@ -122,7 +123,7 @@ Le nom de fichier devient partie intégrante de l’URL lorsqu’un PDF est publ
 
 ## 6. Sécurisez votre PDF
 
-La dernière étape consiste à [protection de votre PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target=&quot;_blank&quot;} pour empêcher toute modification non autorisée.
+La dernière étape consiste à [protection de votre PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target="_blank"} pour empêcher toute modification non autorisée.
 
 +++Consultez les détails sur la sécurisation de votre PDF
 

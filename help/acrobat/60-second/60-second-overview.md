@@ -5,9 +5,9 @@ role: User
 product: adobe acrobat
 level: Beginner
 thumbnail: KT-8493.jpg
-KT: 8493
+jira: KT-8493
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: fae1f29817ef677d3473f31d09278e10283f8b16
+source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 1%
@@ -70,7 +70,7 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
 <tr>
   <td>
     <a href="editphoto.md">
-      <img alt="Retouche d'une photo dans votre PDF" src="../assets/60sec_Editphoto_1280.jpg" />
+      <img alt="Retouche d&apos;une photo dans votre PDF" src="../assets/60sec_Editphoto_1280.jpg" />
     </a>
     <div>
     <a href="editphoto.md"><strong>Retouche d'une photo dans votre PDF</strong></a>
@@ -184,7 +184,7 @@ Avec Acrobat, vous avez accès à des tutoriels de 60 secondes qui vous aideront
   </td>
   <td>
       <a href="photo.md">
-        <img alt="Création instantanée d'un PDF de photos" src="../assets/60sec_Photo_1280.jpg" />
+        <img alt="Création instantanée d&apos;un PDF de photos" src="../assets/60sec_Photo_1280.jpg" />
       </a>
       <div>
       <a href="photo.md"><strong>Création instantanée d'un PDF de photos</strong></a>
