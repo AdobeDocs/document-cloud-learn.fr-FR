@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 1e5b8a8f33abd0f90ff6831288eb2648a27ec615
+source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,8 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
 
 ## Nouveautés
 
+* [Formulaire web pour l’éducation](usecase-edu-intern.md)
+Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires obligatoires
 * [Demande de prêt gouvernemental avec plusieurs signataires inconnus](webform-multiple-signers.md)
 Découvrez comment utiliser un formulaire web pour un workflow complexe de demande de prêt gouvernemental impliquant plusieurs participants inconnus
 
@@ -152,3 +154,36 @@ Découvrez comment utiliser un formulaire web pour un workflow complexe de deman
   </td>
 </tr>
 </table>
+
+## Cas d’usage éducatif
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="usecase-edu-intern.md">
+      <img alt="Formulaire web pour l’éducation" src="../assets/Webform-internship.png" />
+    </a>
+    <div>
+    <a href="usecase-edu-intern.md"><strong>Formulaire web pour l’éducation</strong></a>
+    </div>
+    <em>Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires obligatoires</em>
+    <br>
+  </td> 
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
+
