@@ -9,9 +9,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 3c5ae4ba8e264cf68fc696bd6ad3b1c066ec5a1f
+source-git-commit: ed04a9ec6562c0104e77cedbec2f28bf610a673e
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,8 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
 
 * [Formulaire web pour l’éducation](usecase-edu-intern.md)
 Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires obligatoires
+* [Création d’un formulaire web pour l’éducation](usecase-edu-intern-create.md)
+Apprenez à créer un formulaire web de stage
 * [Demande de prêt gouvernemental avec plusieurs signataires inconnus](webform-multiple-signers.md)
 Découvrez comment utiliser un formulaire web pour un workflow complexe de demande de prêt gouvernemental impliquant plusieurs participants inconnus
 
@@ -170,10 +172,15 @@ Découvrez comment utiliser un formulaire web pour un workflow complexe de deman
     <br>
   </td> 
   <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-intern-create.md">
+      <img alt="Création d’un formulaire web pour l’éducation" src="../assets/Webform-internship-create.png" />
+    </a>
     <div>
+    <a href="usecase-edu-intern-create.md"><strong>Création d’un formulaire web pour l’éducation</strong></a>
+    </div>
+    <em>Apprenez à créer un formulaire web de stage</em>
     <br>
-  </td>
+  </td> 
   <td>
     <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
