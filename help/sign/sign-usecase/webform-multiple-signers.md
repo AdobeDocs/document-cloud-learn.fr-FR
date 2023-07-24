@@ -1,11 +1,10 @@
 ---
 title: Demande de prêt gouvernemental avec plusieurs signataires inconnus
 description: Découvrez comment utiliser un formulaire web pour un workflow complexe de demande de prêt gouvernemental impliquant plusieurs participants inconnus
-product: adobe sign
-solution: Acrobat Sign
+role: User
 level: Intermediate
 jira: KT-13596
-source-git-commit: 428983c7cc727096261d3c92897c25c255078261
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%

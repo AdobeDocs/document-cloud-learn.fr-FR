@@ -1,9 +1,11 @@
 ---
 title: Misez sur le digital avec Adobe Scan
 description: Découvrez quelques astuces et conseils pour utiliser Adobe Document Cloud
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: cc76a7ed-07d2-4c7a-bebb-ed193e69eaa1
-source-git-commit: 47575efa552da55b3ebde308c182432ab29392db
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 # Misez sur le digital avec Adobe Scan
 
-Désencombrez, organisez ou partagez vos photos ! Inutile de mettre des piles de papier sur votre bureau ou de ranger des reçus dans votre portefeuille. L’application mobile Adobe Scan numérise des documents papier directement dans des PDF et reconnaît automatiquement le texte.
+Désencombrez, organisez ou partagez vos photos ! Il n&#39;est pas nécessaire de garder des piles de papier sur votre bureau ou des reçus dans votre portefeuille. L’application mobile Adobe Scan numérise des documents papier directement dans des PDF et reconnaît automatiquement le texte.
 
 Dans cet exercice, vous chargez le contenu d’une carte de visite directement dans vos contacts. Numérisez et enregistrez un reçu.
 

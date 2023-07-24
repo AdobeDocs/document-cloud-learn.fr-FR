@@ -1,12 +1,11 @@
 ---
 title: Webinaires Adobe Acrobat Skill Builder
 description: Les créateurs de compétences Adobe Acrobat sont des sessions de 30 minutes conçues pour donner une nouvelle dimension à vos workflows PDF
-product: adobe acrobat
-level: Intermediate
+level: Beginner, Intermediate
 thumb: KT-8199.jpg
 jira: KT-8199
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '1111'
 ht-degree: 0%

@@ -1,12 +1,14 @@
 ---
 title: Remplissage et signature de formulaires sur ordinateur et appareils mobiles
 description: Remplissez, signez et envoyez rapidement des formulaires depuis votre ordinateur, votre navigateur ou votre application mobile
-solution: Acrobat Sign
+solution: Acrobat
+role: User
+level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 1a2c91b1379fbaa1f8efa5e159bc64a13be29f96
+source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
 workflow-type: tm+mt
 source-wordcount: '397'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -30,7 +32,7 @@ Voici le fichier [fichiers de démonstration](assets/03_FillSignScan.zip) pour c
 
 **Étape 4 :** Utilisez le bouton blanc pour prendre une photo, puis appuyez sur **[!UICONTROL Utiliser la photo]**. Appuyez sur **[!UICONTROL Terminé]** dans le coin supérieur droit.
 
-**Étape 5 :** Au bas de l’application, appuyez sur l’icône **[!UICONTROL Recadrer]** et utilisez les repères pour [recadrage de l’image](https://www.adobe.com/fr/acrobat/online/crop-pdf.html). Appuyez sur **[!UICONTROL Terminé]** lorsque vous avez terminé.
+**Étape 5 :** Au bas de l’application, appuyez sur l’icône **[!UICONTROL Recadrer]** et utilisez les repères pour [recadrage de l’image](https://www.adobe.com/acrobat/online/crop-pdf.html). Appuyez sur **[!UICONTROL Terminé]** lorsque vous avez terminé.
 
 ![image doc locale](assets/localdoc.jpg)
 

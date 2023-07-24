@@ -2,11 +2,10 @@
 title: Combattre les commentaires des PDF avec le résumé
 description: Découvrez comment créer un résumé de tous les commentaires et annotations dans votre fichier de PDF
 role: User
-product: adobe acrobat
 level: Intermediate
 jira: KT-13298
 exl-id: ae50f2c7-3636-4095-8a63-025382ebbe07
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%

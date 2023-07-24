@@ -2,12 +2,11 @@
 title: Réglage automatique de la mise en page
 description: Découvrez le nouveau mode de modification qui ajuste automatiquement le contenu
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-10835.jpg
 jira: KT-10835
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%

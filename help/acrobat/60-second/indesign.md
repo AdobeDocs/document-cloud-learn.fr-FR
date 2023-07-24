@@ -2,12 +2,11 @@
 title: Charger les commentaires PDF dans l’InDesign
 description: Découvrez comment recharger les commentaires de PDF dans InDesign après une révision partagée d’Acrobat
 role: User
-product: adobe acrobat
-level: Beginner
+level: Intermediate
 thumbnail: KT-8816.jpg
 jira: KT-8816
 exl-id: 8d9d0fa8-db0f-48be-b19e-b2b758648d3b
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 0%

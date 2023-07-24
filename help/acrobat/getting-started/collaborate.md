@@ -2,12 +2,11 @@
 title: Collaboration en temps réel
 description: Faites avancer vos projets en recueillant des commentaires, en collaborant sur les réponses et en suivant l’état d’avancement de vos documents, le tout en temps réel et en tout lieu
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: KT-8255.jpg
 jira: KT-8255
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

@@ -2,12 +2,11 @@
 title: Protect d’un fichier de mot de PDF avec un mot de passe
 description: Découvrez comment ajouter un mot de PDF pour empêcher d’autres personnes d’ouvrir ou de modifier le fichier
 role: User
-product: adobe acrobat
 level: Beginner
 thumbnail: 35497.jpg
 jira: KT-5532
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 11%

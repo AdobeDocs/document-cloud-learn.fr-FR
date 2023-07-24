@@ -2,12 +2,11 @@
 title: Introduction à l’accessibilité des PDF
 description: Dans cet atelier, découvrez ce que signifie rendre un PDF accessible, comment configurer Acrobat Pro pour travailler sur des PDF en matière d’accessibilité et le processus de conversion d’un document source en PDF
 role: User
-product: adobe acrobat
 level: Experienced
 thumbnail: KT-8606.jpg
 jira: KT-8606
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

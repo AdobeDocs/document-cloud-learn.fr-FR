@@ -2,13 +2,12 @@
 title: Rendre les bulletins de vote PDF plus accessibles
 description: Découvrez les principaux aspects de l'accessibilité des PDF nécessaires pour permettre aux utilisateurs de dispositifs d'assistance, tels que les lecteurs d'écran, de lire et de compléter leur bulletin de vote
 role: User
-product: adobe acrobat
 level: Experienced
 topic-revisit: Accessibility
 thumbnail: KT-6817.jpg
 jira: KT-6817
 exl-id: 3a8eff2f-1b39-4073-828e-18bfc5d89dd3
-source-git-commit: 2b47655370d52405e5773f0358c71aa65fdecdef
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%

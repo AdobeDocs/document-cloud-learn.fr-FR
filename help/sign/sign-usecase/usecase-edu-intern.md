@@ -1,11 +1,10 @@
 ---
 title: Demande de stage de formulaire web Éducation
 description: Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires obligatoires
-product: adobe sign
-solution: Acrobat Sign
+role: User
 level: Intermediate
 jira: KT-13607
-source-git-commit: b96e1ca9da48756dc9b77abcfec3f390a8347fb5
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

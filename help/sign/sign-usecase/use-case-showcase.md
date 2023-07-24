@@ -2,14 +2,12 @@
 title: Vitrine de cas
 description: La présentation des cas d’usage est une session en direct qui vous présente les nouveaux cas d’usage et les nouvelles tendances concernant Acrobat Sign, et vous montre comment votre entreprise peut les mettre en oeuvre et en tirer parti
 role: User
-product: adobe sign
-solution: Acrobat Sign
 level: Intermediate
 jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%

@@ -2,12 +2,11 @@
 title: Utilisation des paramètres Bio-Pharma
 description: Découvrez les paramètres Bio-Pharma qui vous permettent de configurer Acrobat Sign pour répondre aux exigences de la règlementation 21 CFR Part 11 de la FDA
 role: Admin
-product: adobe sign
 level: Experienced
 jira: KT-5509
 thumbnail: 21748.jpg
 exl-id: 1253f81a-6132-4733-a113-1bbce86b4549
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
