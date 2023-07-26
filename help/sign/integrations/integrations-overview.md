@@ -9,9 +9,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
 workflow-type: tm+mt
-source-wordcount: '621'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,10 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications que votre entrepr
 
 ## Nouveautés
 
+* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
+Découvrez comment Acrobat Sign et [!DNL Microsoft Dynamics 365] pour le service à la clientèle sont utilisés pour améliorer la satisfaction des clients sur un portail Web client en libre-service
 * [Intégrer un formulaire web à [!DNL SharePoint] En ligne](integrate-web-form-sharepoint-online.md)
 Découvrez comment mapper les données collectées à partir d’un formulaire web dans un fichier [!DNL SharePoint] liste
-* [Accueil des nouvelles recrues Acrobat Sign + Workday](acrobat-sign-workday-onboarding.md)
-Découvrez comment simplifier les workflows d’intégration avec Acrobat Sign + Workday
 
 ## Tutoriels sur les intégrations Microsoft
 
@@ -116,6 +116,33 @@ Découvrez comment simplifier les workflows d’intégration avec Acrobat Sign +
     <a href="adobe-sign-teams-mortgage.md"><strong>Envoyer pour signature dans [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Envoyez des documents pour signature directement depuis [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="dynamics-customer-service.md">
+      <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
+    </a>
+    <div>
+    <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
+    </div>
+    <em>Découvrez comment Acrobat Sign et [!DNL Microsoft Dynamics 365] pour le service à la clientèle sont utilisés pour améliorer la satisfaction des clients sur un portail Web client en libre-service</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <div>
     <br>
   </td>
 </tr>
