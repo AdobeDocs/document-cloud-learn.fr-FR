@@ -7,9 +7,9 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '441'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,8 @@ Accélérez les workflows digitaux de votre entreprise avec ces exemples de sign
 
 ## Nouveautés
 
+* [Workflow personnalisé pour le processus IEP Éducation](usecase-edu-iep.md)
+Découvrez comment le concepteur de workflows personnalisés est utilisé pour numériser un processus de programme d’éducation individualisé (PEI)
 * [Formulaire web pour l’éducation](usecase-edu-intern.md)
 Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires obligatoires
 * [Création d’un formulaire web pour l’éducation](usecase-edu-intern-create.md)
@@ -180,8 +182,13 @@ Découvrez comment utiliser un formulaire web pour un workflow complexe de deman
     <br>
   </td> 
   <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <a href="usecase-edu-iep.md">
+      <img alt="Workflow personnalisé pour le processus IEP Éducation" src="../assets/Workflow-iep.png" />
+    </a>
     <div>
+    <a href="usecase-edu-iep.md"><strong>Workflow personnalisé pour le processus IEP Éducation</strong></a>
+    </div>
+    <em>Découvrez comment le concepteur de workflows personnalisés est utilisé pour numériser un processus de programme d’éducation individualisé (PEI)</em>
     <br>
   </td>
   <td>

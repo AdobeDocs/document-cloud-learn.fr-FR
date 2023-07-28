@@ -8,9 +8,9 @@ getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
-source-git-commit: 2577034fea81ceaaafd620a983e4b40ae6251d83
+source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '519'
 ht-degree: 10%
 
 ---
@@ -142,6 +142,7 @@ ht-degree: 10%
       + Éducation {#edu}
          + [Formulaire web pour l’éducation](sign-usecase/usecase-edu-intern.md)
          + [Création d’un formulaire web pour l’éducation](sign-usecase/usecase-edu-intern-create.md)
+         + [Workflow personnalisé pour le processus IEP Éducation](sign-usecase/usecase-edu-iep.md)
    + Vitrine de cas {#use-case}
       + [Vitrine](sign-usecase/use-case-showcase.md)
 + Développement {#develop}
