@@ -1,13 +1,14 @@
 ---
 title: Aperçu des industries et des services
 description: Découvrez comment transformer les expériences de signature électronique des clients et des collaborateurs à l'aide de cas d'usage, de recettes et de webinaires concrets
+feature: Use Cases, Skill Builder
 role: User, Admin
 level: Intermediate
 jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

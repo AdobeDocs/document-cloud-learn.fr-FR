@@ -1,12 +1,13 @@
 ---
 title: Modification d’une image dans votre PDF
 description: Apprenez à apporter des modifications avancées à une image dans votre PDF à l’aide d’Illustrator
+feature: Edit PDF
 role: User
 level: Intermediate
-thumbnail: KT-9277.jpg
 jira: KT-9277
+thumbnail: KT-9277.jpg
 exl-id: 655019ce-9cb4-486e-820e-61abdde6b789
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%

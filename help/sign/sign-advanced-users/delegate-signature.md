@@ -1,12 +1,13 @@
 ---
 title: Utilisation du rôle Délégant
 description: Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite router le document pour signature
+feature: Workflow, Sign
 role: User
 level: Intermediate
 jira: KT-5322
 thumbnail: 17366.jpg
 exl-id: b9d7c6f4-a7fc-4cb8-a80d-91cc4c5b5298
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 3%

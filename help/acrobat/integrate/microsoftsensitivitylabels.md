@@ -1,12 +1,13 @@
 ---
 title: Protect PDF utilisation [!DNL Microsoft Purview] Étiquettes de sensibilité
 description: Apprenez à protéger les PDF en ajoutant, en modifiant, en personnalisant et en supprimant des mots de passe [!DNL Microsoft Purview] Étiquettes de sensibilité directement dans Acrobat
+feature: Integrations, Security
 role: User
 topic: Integrations
 level: Intermediate
 jira: KT-10482
 exl-id: 46569727-7d59-43a4-ae4b-bf9b51ec0e9c
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%

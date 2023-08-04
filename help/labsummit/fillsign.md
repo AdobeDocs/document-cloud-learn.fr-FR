@@ -1,11 +1,12 @@
 ---
 title: Remplissage et signature de formulaires sur ordinateur et appareils mobiles
 description: Remplissez, signez et envoyez rapidement des formulaires depuis votre ordinateur, votre navigateur ou votre application mobile
+feature: Form, Sign, Mobile
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 754e96676e48cd08a0cd4585bde7c388e6701f0a
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '397'
 ht-degree: 0%

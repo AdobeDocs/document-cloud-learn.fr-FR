@@ -1,12 +1,13 @@
 ---
 title: Présentation du déploiement d’Acrobat
 description: Articles sur le déploiement et les meilleures pratiques, avec des informations et des connaissances précieuses acquises en travaillant avec nos clients
+feature: Deploy
 role: Admin
 level: Intermediate
-thumbnail: KT-6862.jpg
 jira: KT-6862
+thumbnail: KT-6862.jpg
 exl-id: 571db5c8-bac5-4066-af0f-f7e2d3a9105b
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 4%

@@ -1,10 +1,11 @@
 ---
 title: Processus IEP personnalisé pour l'éducation
 description: Découvrez comment le concepteur de workflow personnalisé est utilisé pour numériser un processus de programme d’enseignement individualisé (PEI) pour une école du primaire et du secondaire
+feature: Use Cases, Workflow
 role: User, Admin
 level: Intermediate
 jira: KT-13736
-source-git-commit: 4632f7ca6a015e33166ba9ae26560fd532865f36
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 0%

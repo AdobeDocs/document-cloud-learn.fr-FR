@@ -1,12 +1,13 @@
 ---
 title: Collaboration en temps réel
 description: Faites avancer vos projets en recueillant des commentaires, en collaborant sur les réponses et en suivant l’état d’avancement de vos documents, le tout en temps réel et en tout lieu
+feature: Collaboration
 role: User
 level: Beginner
-thumbnail: KT-8255.jpg
 jira: KT-8255
+thumbnail: KT-8255.jpg
 exl-id: d52ca81e-6a8e-47ad-a815-87ea8fc9f5c2
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%

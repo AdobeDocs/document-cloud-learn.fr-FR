@@ -1,12 +1,13 @@
 ---
 title: Partage d’accès
 description: Découvrez comment configurer un accès en lecture seule aux transactions dans le compte d’un autre utilisateur
+feature: Administration
 role: User, Admin
 level: Intermediate
 jira: KT-5494
 thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%

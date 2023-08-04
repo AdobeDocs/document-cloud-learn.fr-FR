@@ -1,12 +1,13 @@
 ---
 title: Espace de travail – Principes de base
 description: Découvrez comment Acrobat facilite l'accès aux fichiers et outils sur les ordinateurs, le web et les appareils mobiles
+feature: Workspace
 role: User
 level: Beginner
-thumbnail: KT-5531.jpg
 jira: KT-5531
+thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 6%

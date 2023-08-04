@@ -1,12 +1,13 @@
 ---
 title: Organiser les pages en un clin d’oeil
 description: Apprenez à utiliser l'outil Organiser les pages pour obtenir une vue d'ensemble de votre PDF
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-9278.jpg
 jira: KT-9278
+thumbnail: KT-9278.jpg
 exl-id: b7f08003-1bbd-4d90-9ff7-6033da20a705
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 13%

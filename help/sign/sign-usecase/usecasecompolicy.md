@@ -1,12 +1,13 @@
 ---
 title: Accords de politique commerciale
 description: Collectez efficacement les signatures de tous vos employés sur les contrats, les mises à jour, etc
+feature: Use Cases, Form
 role: User
 level: Intermediate
 jira: KT-5296
 thumbnail: 33979.jpg
 exl-id: caba5740-6111-4cc4-a63f-5eec2d742578
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%

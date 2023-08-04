@@ -1,12 +1,13 @@
 ---
 title: Création de Forms à compléter
 description: Conversion d’un document créé dans InDesign, Microsoft Word ou Excel en formulaire PDF à compléter
+feature: Edit PDF
 role: User
 level: Beginner
-thumbnail: KT-6831.jpg
 jira: KT-6831
+thumbnail: KT-6831.jpg
 exl-id: 4a1671c5-427b-4ddb-b66a-ecde6a1a4943
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 3%
@@ -27,7 +28,7 @@ Convertir un formulaire papier numérisé ou un document créé dans InDesign, M
 
    Si [!UICONTROL Détection automatique des champs de formulaire] est **ON**, les champs de formulaire sont automatiquement détectés dans le fichier du PDF. Vérifiez l’emplacement des champs de formulaire.
 
-   Faites glisser et déposez des champs depuis le menu supérieur et modifiez les détails des champs de formulaire dans le volet de droite.
+   Faites glisser et déposez des champs à partir du menu supérieur et modifiez les détails des champs de formulaire dans le panneau de droite.
 
 1. Sélectionner **[!UICONTROL Aperçu]** pour afficher votre formulaire.
 

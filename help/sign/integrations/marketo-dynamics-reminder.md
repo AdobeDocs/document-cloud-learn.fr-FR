@@ -1,6 +1,7 @@
 ---
 title: Envoi de rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics 365 et Marketo
 description: Découvrez comment envoyer un rappel par e-mail lorsqu’un accord n’est pas signé après un certain temps
+feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
 level: Intermediate
@@ -9,7 +10,7 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '911'
 ht-degree: 2%

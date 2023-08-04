@@ -1,13 +1,14 @@
 ---
 title: Présentation d’Acrobat Mobile
 description: Création, remplissage et signature de mots de PDF sur votre appareil mobile
+feature: Mobile, Sign, Create PDF
 role: User
 level: Beginner, Intermediate
 topic-revisit: mobile
-thumbnail: KT-6863.jpg
 jira: KT-6863
+thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 2%

@@ -1,6 +1,7 @@
 ---
 title: Création de signatures électroniques et d’expériences documentaires incorporées
 description: Découvrez comment utiliser les API Acrobat Sign pour incorporer la signature électronique et les expériences documentaires dans vos plateformes web et systèmes de gestion de contenu et de documents
+feature: Integrations, Workflow
 role: Developer
 level: Intermediate
 topic: Integrations
@@ -8,7 +9,7 @@ jira: KT-7489
 thumbnail: KT-7489.jpg
 kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '876'
 ht-degree: 2%

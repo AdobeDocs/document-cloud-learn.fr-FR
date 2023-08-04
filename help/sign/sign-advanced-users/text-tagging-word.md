@@ -1,12 +1,13 @@
 ---
 title: Utilisation du balisage de texte dans [!DNL Microsoft Word]
 description: Découvrez comment créer un modèle de document réutilisable en ajoutant des balises de texte Acrobat Sign dans [!DNL Microsoft Word]
+feature: Workflow, Sign
 role: User, Admin
 level: Intermediate
 jira: KT-11163
 thumbnail: KT-11163.jpg
 exl-id: 48bc9cd0-019f-479b-9904-19e64354e2e7
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 0%

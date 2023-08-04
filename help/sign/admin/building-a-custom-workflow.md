@@ -1,12 +1,13 @@
 ---
 title: Création d’un workflow personnalisé
 description: Découvrez comment personnaliser et automatiser les workflows documentaires pour recueillir rapidement des signatures électroniques et des données de formulaire
+feature: Administration, Workflow
 role: User, Admin
 level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

@@ -1,13 +1,14 @@
 ---
 title: Vitrine de cas
 description: La présentation des cas d’usage est une session en direct qui vous présente les nouveaux cas d’usage et les nouvelles tendances concernant Acrobat Sign, et vous montre comment votre entreprise peut les mettre en oeuvre et en tirer parti
+feature: Use Cases
 role: User
 level: Intermediate
 jira: KT-8198
 thumbnail: KT-8198.jpg
 kt: 8198
 exl-id: 5cae2037-02f2-46f0-8d7f-bc5ed4a8c8b1
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '744'
 ht-degree: 0%
@@ -67,7 +68,7 @@ Focus : Comment Acrobat Sign fonctionne avec les sciences de la vie.
 Focus : Acrobat Sign au service de la santé. Les sujets incluent : utilisation croissante de la télésanté et de la transformation numérique - infrastructure et mise à l&#39;échelle.
 
 * **[Services financiers](https://event.on24.com/wcc/r/2177152/40A4315A5D32F21AFB5EB03E25C15992){target="_blank"}**
-Focus : Comment Acrobat Sign fonctionne pour le secteur bancaire. Les sujets incluent : tendances sectorielles en 2020 et au-delà, documents et processus digitaux dans le cadre plus large d’une transformation digitale, bonnes pratiques, cas d’usage et avantages d’Acrobat Sign.
+Focus : Comment Acrobat Sign fonctionne pour le secteur bancaire. Les sujets incluent : tendances sectorielles en 2020 et au-delà, documents et processus digitaux dans le cadre d’une transformation digitale plus large, bonnes pratiques, cas d’usage et avantages d’Acrobat Sign.
 
 * **[Assurances](https://event.on24.com/wcc/r/2162717/1449ED610AD3B545004079728D9AE0F6){target="_blank"}**
 Focus : Comment Acrobat Sign fonctionne avec les services financiers et l’assurance ? Les sujets incluent : tendances du secteur, obligations règlementaires et de conformité dans le secteur financier, et fournir une excellente expérience client.

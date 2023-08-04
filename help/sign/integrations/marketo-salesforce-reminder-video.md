@@ -1,6 +1,7 @@
 ---
 title: Tutoriel vidéo sur l’envoi de rappels avec Acrobat Sign pour Salesforce et Marketo
-description: Dans ce tutoriel vidéo, vous apprendrez à envoyer un rappel par e-mail à partir de Marketo lorsqu’un accord n’est pas signé après un certain temps
+description: Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps
+feature: Integrations
 role: Admin
 product: adobe sign
 solution: Acrobat Sign, Marketo, Document Cloud
@@ -10,9 +11,9 @@ jira: KT-7306
 topic-revisit: Integrations
 thumbnail: 332506.jpg
 exl-id: f2505944-82eb-4e41-929a-a9a0acc81194
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---

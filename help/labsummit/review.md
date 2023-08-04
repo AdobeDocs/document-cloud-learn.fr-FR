@@ -1,11 +1,12 @@
 ---
 title: Partage de fichiers de PDF et révision en ligne
 description: Découvrez quelques astuces et conseils pour utiliser Adobe Document Cloud
+feature: Share, Collaboration
 solution: Acrobat
 role: User
 level: Beginner
 exl-id: 541f7a4d-d893-4768-9c91-638548845378
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 10%

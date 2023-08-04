@@ -1,11 +1,12 @@
 ---
 title: 'Cinq conseils pour travailler en tout lieu avec Acrobat : utilisation de Forms et signatures'
 description: Comment rester digital lors du remplissage de formulaires
+feature: Sign, Form
 role: User
 level: Beginner
 thumbnail: 34512.jpg
 exl-id: e1dd4546-10ad-438b-9dae-31c4393353d8
-source-git-commit: ad54f7afa78b0fbb31eccf455723a8890cb92355
+source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 6%

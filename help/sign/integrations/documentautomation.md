@@ -1,13 +1,14 @@
 ---
 title: Automatisation des documents avec Acrobat Sign pour Microsoft Power Platform
 description: Découvrez comment activer et utiliser les connecteurs Acrobat Sign et Adobe PDF Tools pour Microsoft Power Apps. Créez des workflows qui automatisent rapidement et en toute sécurité les processus de validation et de signature, sans la moindre programmation
+feature: Integrations, Workflow
 role: User, Developer
 level: Intermediate
 topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-source-git-commit: aa8fd589d214879f2bfcb6bc54576c707532fd6f
+source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
 source-wordcount: '2436'
 ht-degree: 1%
