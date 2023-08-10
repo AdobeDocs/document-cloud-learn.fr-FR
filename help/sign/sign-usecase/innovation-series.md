@@ -8,9 +8,9 @@ jira: KT-8197
 thumbnail: KT-8197.jpg
 kt: 8197
 exl-id: 8b7f85b8-f499-4402-8c0b-8170e7159ba0
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 9941cafa708906325fc7458aa29c63191f5a2a19
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '1049'
 ht-degree: 0%
 
 ---
@@ -23,26 +23,34 @@ Les créateurs de compétences Acrobat Sign sont des sessions de 30 minutes con�
 
 ## Sessions mensuelles
 
-**[Utiliser des signatures électroniques dans vos applications Microsoft](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
-Date : 19 octobre 2023 Étoffez la façon dont vous utilisez vos applications Microsoft, telles que Word, Outlook et SharePoint, en ajoutant Adobe Acrobat Sign à vos workflows existants. Dans cet atelier, vous apprendrez à rationaliser les processus documentaires dans les applications Microsoft courantes, sans avoir à basculer entre les contextes pour obtenir une signature ou vérifier un état.
-
-**[Gérer les accords : Obtenir une visibilité en temps réel du statut des accords](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
-Date : 21 septembre 2023 Découvrez les tenants et les aboutissants des outils de gestion des accords et des bonnes pratiques afin de connaître le statut de vos accords à tout moment. Cette session abordera les sujets suivants :
+**[Gérer les accords : Obtenir une visibilité en temps réel du statut des accords](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/aad26d3c-699b-4d99-a272-30bcbfbc1bf2/e1b6dd21-c94a-4c1b-9eeb-abec464e3cbd){target="_blank"}**
+Date : 9 novembre 2023 Découvrez les tenants et les aboutissants des outils de gestion des accords et des bonnes pratiques pour connaître le statut de vos accords à tout moment. Cette session abordera les sujets suivants :
 
 * Quelles actions pouvez-vous effectuer sur les documents à partir de l’onglet Gérer ?
 * Comment traiter et utiliser des données issues de formulaires web et d’envois en nombre
 * Comment rechercher et filtrer les documents dont vous avez besoin
 
-**[Conseils avancés pour envoyer des documents pour signature](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
-Date : 17 août 2023 Rejoignez-nous pour explorer en détail toutes les options disponibles lors de l’envoi d’accords pour signature. Dans cet atelier, vous découvrirez :
+**[Utiliser des signatures électroniques dans vos applications Microsoft](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/7c88319e-04b7-4560-aad3-ba288d5cfc76/3bd16192-c4c9-4d66-9b1c-575ddcc3c6bb){target="_blank"}**
+Date : 19 octobre 2023 Étoffez la façon dont vous utilisez vos applications Microsoft, telles que Word, Outlook et SharePoint, en ajoutant Adobe Acrobat Sign à vos workflows existants. Dans cet atelier, vous apprendrez à rationaliser les processus documentaires dans les applications Microsoft courantes, sans avoir à basculer entre les contextes pour obtenir une signature ou vérifier un état.
+
+**[Conseils avancés pour envoyer des documents pour signature](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/d326c8ab-3173-4c95-9e5a-0afeff4ce006/4bae4b11-516b-4e50-8f10-d116538fd710){target="_blank"}**
+Date : 21 septembre 2023 Rejoignez-nous pour découvrir en détail toutes les options disponibles pour envoyer des contrats pour signature. Dans cet atelier, vous découvrirez :
 
 * Envoi à plusieurs destinataires
 * Rôles de destinataire disponibles (signataire, chargé de remplissage, délégant, etc.)
 * Ajout d’un champ CC
 * Protection par mot de passe, etc.
 
-**[Intégrations Acrobat Sign : Salesforce et Workday](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
-Date : 20 juillet 2023 Rejoignez-nous pour découvrir quelques-unes des intégrations Acrobat Sign les plus courantes et les plus puissantes de Salesforce et Workday. Dans cet atelier, vous découvrirez comment accélérer les transactions commerciales en éliminant les tâches manuelles et inefficaces, et en créant des workflows 100 % digitaux et des processus de signature électronique directement depuis les outils que vous utilisez déjà.
+**[Document Builder pour Acrobat Sign dans Salesforce](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/4c4e8632-ba24-445f-a567-a9e76429bdf5/0a2f68ed-9a21-4911-9e38-15943c0e3f9a){target="_blank"}**
+Date : 17 août 2023 Donnez un coup d&#39;accélérateur à votre équipe commerciale grâce à des devis, contrats et factures pré-remplis, en quelques secondes, en automatisant les tâches quotidiennes, comme la préparation de documents orientés données, directement dans Salesforce. Document Builder vous permet de générer dynamiquement un document à l’aide de données Salesforce avant de l’envoyer pour signature, ce qui rend un processus autrefois fastidieux plus simple et rationalisé. Nous vous expliquerons le processus étape par étape, qui vous aidera à économiser du temps et des efforts.
+
+**[Automatisation des workflows optimisée par Microsoft Power Automate](https://teamwork.adobe.com/adobe-sign-skill-builder/attendease/networking/experience/8409ba8b-e4ee-4e99-80cc-33902027b80e/307d147e-4b85-4330-81af-5929f0dc5ae4){target="_blank"}**
+Date : 20 juillet 2023 Exploitez toutes les fonctionnalités d’automatisation avec la solution Power Automate de Microsoft (faible codage/sans codage), directement dans Adobe Acrobat Sign. Découvrez comment les utilisateurs sans développeurs ont la puissance et la flexibilité nécessaires pour créer des workflows de nouvelle génération. Dans cet atelier, vous apprendrez à :
+
+* Configuration de l’intégration de flux de travail pour commencer
+* Démarrez rapidement la création de votre workflow avec des modèles prédéfinis
+* Tirez parti d’un vaste écosystème de connecteurs pour intégrer Acrobat Sign dans vos applications packagées et personnalisées
+* Augmentez la productivité et étoffez les fonctionnalités d’Acrobat Sign
 
 **[Rapports avancés pour Adobe Acrobat Sign](https://adobe-sign-skill-builder.joinus.adobeevents.com/attendease/networking/experience/fa28b18d-ab38-47d4-8ae8-3e0161550bd3/60081eb2-f8a3-45b6-9d75-4f3a53b4c53a){target="_blank"}**
 Date : 22 juin 2023 Découvrez les analyses et les rapports disponibles dans Acrobat Sign, et comment visualiser des données pour obtenir les insights dont vous avez besoin pour dynamiser votre activité.
