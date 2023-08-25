@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1da6eaba52a01164c487f93a0b729cb2f8fc56bf
+source-git-commit: 0838027300c9d15a20af03b7d49f190acb6256ec
 workflow-type: tm+mt
-source-wordcount: '707'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -28,6 +28,8 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications déjà utilisées
 
 ## Nouveautés
 
+* [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
+Découvrez Acrobat Sign et [!DNL Microsoft Dynamics 365] pour les ventes sont utilisées pour automatiser le processus de signature des devis
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
 Découvrez Acrobat Sign, [!DNL Power Automate], et [!DNL Microsoft Dynamics 365] pour le Service sur site sont utilisés pour rationaliser les engagements sur site des clients
 * [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
@@ -144,8 +146,13 @@ Découvrez comment mapper les données collectées à partir d’un formulaire w
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
+    <a href="dynamics-sales.md">
+      <img alt="Microsoft Dynamics 365 for Sales" src="../assets/Dynamics-sales.png" />
+    </a>
     <div>
+    <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
+    </div>
+    <em>Découvrez Acrobat Sign et [!DNL Microsoft Dynamics 365] pour les ventes sont utilisées pour automatiser le processus de signature des devis</em>
     <br>
   </td>
   <td>
