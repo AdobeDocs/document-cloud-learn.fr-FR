@@ -1,22 +1,22 @@
 ---
 title: Obtention d’une signature en personne
 description: Découvrez comment obtenir la signature d’une autre personne en personne à l’aide de l’application mobile Acrobat Sign
-features: Mobile, Sign
+feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-5317
 topic-revisit: Mobile
 thumbnail: 17362.jpg
 exl-id: 0b45fb6b-170e-4842-8627-dd9f0bc7b25d
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# Obtention d’une signature en personne
+# Obtenir une signature en personne
 
-Découvrez comment obtenir la signature d’une autre personne en personne à l’aide de la boîte de dialogue [Application mobile Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
+Découvrez comment obtenir la signature d’une autre personne en personne à l’aide de la fonctionnalité [application mobile Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)
