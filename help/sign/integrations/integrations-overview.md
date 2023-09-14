@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
+source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '742'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,13 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications déjà utilisées
 
 ## Nouveautés
 
+* [Créez un workflow simple avec [!DNL Power Automate]](simple-workflow-power-automate.md)
+Découvrez comment créer un workflow simple à l’aide de [!DNL Power Automate] connecteurs
 * [Microsoft Dynamics 365 for Sales](dynamics-sales.md)
 Découvrez Acrobat Sign et [!DNL Microsoft Dynamics 365] pour les ventes sont utilisées pour automatiser le processus de signature des devis
 * [Microsoft Dynamics 365 for Field Service](dynamics-field-service.md)
 Découvrez Acrobat Sign, [!DNL Power Automate], et [!DNL Microsoft Dynamics 365] pour le Service sur site sont utilisés pour rationaliser les engagements sur site des clients
-* [Microsoft Dynamics 365 for Customer Service](dynamics-customer-service.md)
-Découvrez Acrobat Sign et [!DNL Microsoft Dynamics 365] pour le service client sont utilisés pour améliorer la satisfaction des clients sur un portail Web client en libre-service
-* [Intégration d’un formulaire web à [!DNL SharePoint] En ligne](integrate-web-form-sharepoint-online.md)
-Découvrez comment mapper les données collectées à partir d’un formulaire web dans un [!DNL SharePoint] liste
+
 
 ## Tutoriels sur les intégrations Microsoft
 
@@ -126,6 +125,16 @@ Découvrez comment mapper les données collectées à partir d’un formulaire w
 </tr>
 <tr>
   <td>
+    <a href="simple-workflow-power-automate.md">
+      <img alt="Créer un workflow simple avec Power Automate" src="../assets/simple-workflow.png" />
+    </a>
+    <div>
+    <a href="simple-workflow-power-automate.md"><strong>Créer un workflow simple avec Power Automate</strong></a>
+    </div>
+    <em>Découvrez comment créer un workflow simple à l’aide de [!DNL Power Automate] connecteurs</em>
+    <br>
+  </td>
+  <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
     </a>
@@ -153,11 +162,6 @@ Découvrez comment mapper les données collectées à partir d’un formulaire w
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Découvrez Acrobat Sign et [!DNL Microsoft Dynamics 365] pour les ventes sont utilisées pour automatiser le processus de signature des devis</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
-    <div>
     <br>
   </td>
 </tr>
