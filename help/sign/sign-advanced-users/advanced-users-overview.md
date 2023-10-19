@@ -1,29 +1,27 @@
 ---
 title: Présentation des tâches avancées
-description: Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer des transactions de signature et créer et gérer des modèles de document
+description: Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt pour la signature pour votre site web, gérer les transactions de signature, et créer et gérer des modèles de document
 feature: Web Forms, Workflow, Sign, Payments, Form, Report
 role: User
 level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '427'
 ht-degree: 3%
 
 ---
 
 # Présentation des tâches avancées
 
-![Signer une image avancée](../assets/Hero-Advanced.png)
-
-Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer des transactions de signature et créer et gérer des modèles de document. Ces tutoriels s’adressent à tous ceux qui connaissent déjà les principes de base de l’envoi et de la demande de signatures et qui souhaitent découvrir d’autres méthodes de travail pour Acrobat Sign.
+Découvrez comment envoyer un document pour signature à des centaines de destinataires à la fois, configurer un document prêt à signer pour votre site web, gérer les transactions de signature, et créer et gérer des modèles de document. Ces tutoriels sont destinés à toute personne qui connaît déjà les bases de l’envoi et de la demande de signatures et souhaite en savoir plus sur la façon dont Acrobat Sign peut les utiliser.
 
 ## Nouveautés
 
 * [Méthodes d’authentification dans Acrobat Sign](authentication-methods.md)
-Découvrez la gamme de méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’une personne signant un document
+Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’une personne qui signe un document
 * [Configuration des paiements en ligne](set-up-online-payments.md)
 Découvrez comment configurer et accepter les paiements en ligne dans vos documents
 
@@ -43,22 +41,22 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Délégation à une autre personne" src="../assets/Delegating.png" />
+      <img alt="Délégation à quelqu&apos;un d&apos;autre" src="../assets/Delegating.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>Utilisation du rôle de délégant</strong></a>
     </div>
-    <em>Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite router le document pour signature</em>
+    <em>Utilisez le rôle de délégant pour envoyer un document à un intermédiaire qui peut ensuite acheminer le document pour signature</em>
     <br>
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Utilisation du rôle d&apos;approbateur" src="../assets/Approver.png" />
+      <img alt="Utilisation du rôle d’approbateur" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Utilisation du rôle d'approbateur</strong></a>
+    <a href="add-an-approver.md"><strong>Utilisation du rôle d’approbateur</strong></a>
     </div>
-    <em>Ajouter un rôle d'approbateur à votre processus d'approbation de contrat</em>
+    <em>Ajouter un rôle d’approbateur à votre processus d’approbation de contrat</em>
     <br>
   </td>
   <td>
@@ -80,7 +78,7 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
       <div>
       <a href="manage-form-data.md"><strong>Gestion des données de formulaire</strong></a>
       </div>
-      <em>Découvrez comment consolider les données de formulaire de vos documents</em>
+      <em>Découvrez comment consolider les données de formulaire à partir de vos documents</em>
       <br>
     </td>
   <td>
@@ -95,12 +93,12 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Envoi et collecte simultanée de signatures" src="../assets/Megasign.png" />
+        <img alt="Envoyer et recueillir des signatures en masse" src="../assets/Megasign.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Envoi et collecte simultanée de signatures</strong></a>
+      <a href="megasign.md"><strong>Envoyer et recueillir des signatures en masse</strong></a>
       </div>
-      <em>Collectez des centaines de signatures à la fois pour n’importe quel document en quelques étapes</em>
+      <em>Recueillez des centaines de signatures à la fois pour n’importe quel document en quelques étapes simples</em>
       <br>
   </td>
  <td>
@@ -110,7 +108,7 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
       <div>
       <a href="webform.md"><strong>Création d’un formulaire web</strong></a>
       </div>
-      <em>Apprenez à créer un document pouvant être signé électroniquement directement sur votre site web</em>
+      <em>Découvrez comment créer un document pouvant être signé électroniquement directement sur votre site web</em>
       <br>
   </td>
 </tr>
@@ -122,7 +120,7 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Acrobat Sign</strong></a>
       </div>
-      <em>Création de champs de formulaire Acrobat Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
+      <em>Création de champs de formulaire Acrobat Sign à l’aide de balises de texte dans Adobe Acrobat</em>
       <br>
     </td>
   <td>
@@ -154,12 +152,12 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="Création d&apos;un rapport" src="../assets/Report.png" />
+      <img alt="Création d’un rapport" src="../assets/Report.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Création d'un rapport</strong></a>
+    <a href="creating-a-report.md"><strong>Création d’un rapport</strong></a>
     </div>
-    <em>Découvrez comment créer vos propres rapports pour obtenir une visibilité sur le processus de signature des documents</em>
+    <em>Découvrez comment créer vos propres rapports pour bénéficier d’une visibilité sur le processus de signature de documents</em>
     <br>
   </td>
   <td>
@@ -179,7 +177,7 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
     <div>
     <a href="modify-webform.md"><strong>Modification d’un formulaire web existant</strong></a>
     </div>
-    <em>Découvrez comment désactiver, modifier et réactiver un formulaire web existant.</em>
+    <em>Découvrez comment désactiver, modifier et réactiver un formulaire web existant</em>
     <br>
   </td>  
   <td>
@@ -189,7 +187,7 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
     <div>
     <a href="manage-webform-data.md"><strong>Gestion des données de formulaire web</strong></a>
     </div>
-    <em>Découvrez comment suivre, gérer et exporter des données à partir d’un formulaire web</em>
+    <em>Découvrez comment suivre, gérer et exporter des données à partir d’un formulaire web.</em>
     <br>
   </td>  
 </tr>

@@ -1,37 +1,35 @@
 ---
-title: Aperçu du secteur et du service
-description: Découvrez comment transformer l’expérience des clients et des collaborateurs en explorant des cas d’usage et des idées inspirantes
+title: Aperçu du secteur et du département
+description: Découvrez comment transformer les expériences des clients et des employés en explorant des cas d’utilisation du secteur et des idées inspirantes
 feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '67'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# Présentation des secteurs et services
+# Présentation des secteurs d’activité et des départements
 
-![Image du secteur Acrobat](../assets/Hero-Industry.png)
+Découvrez comment transformer les expériences des clients et des employés en explorant des cas d’utilisation du secteur et des idées inspirantes.
 
-Découvrez comment transformer l’expérience des clients et des collaborateurs en explorant des cas d’usage et des idées inspirantes.
-
-## Industries et services
+## Industries et départements
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="gov/gov-overview.md">
-      <img alt="Tutoriels pour administrations" src="../assets/Government.png" />
+      <img alt="Tutoriels destinés aux organismes publics" src="../assets/Government.png" />
     </a>
     <div>
-    <a href="gov/gov-overview.md"><strong>Tutoriels pour administrations</strong></a>
+    <a href="gov/gov-overview.md"><strong>Tutoriels destinés aux organismes publics</strong></a>
     </div>
-    <em>Explorez nos tutoriels Acrobat spécialement conçus pour les administrations et les collectivités locales</em>
+    <em>Explorez nos tutoriels Acrobat spécialement conçus pour les administrations fédérales, régionales et locales</em>
     <br>
   </td>
   <td>

@@ -8,16 +8,14 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '165'
 ht-degree: 13%
 
 ---
 
 # Présentation du développement
-
-![Image de développement Sign](../assets/Hero-Develop.png)
 
 40 % des accords dans Acrobat Sign sont créés à l’aide d’API. Utilisez les API pour créer des applications personnalisées pour vos équipes, partenaires et clients.
 
@@ -35,32 +33,32 @@ ht-degree: 13%
   </td>
   <td>
     <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank">
-      <img alt="Découvrez toutes les possibilités." src="../assets/Develop_Learn.png" />
+      <img alt="Découvrir ce que vous pouvez faire" src="../assets/Develop_Learn.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Découvrez toutes les possibilités.</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Découvrir ce que vous pouvez faire</strong></a>
     </div>
-    <em>Découvrez comment incorporer les fonctionnalités d’Acrobat Sign dans une application externe</em>
+    <em>Découvrez comment intégrer les fonctionnalités d’Acrobat Sign dans n’importe quelle application externe</em>
     <br>
   </td>  
   <td>
     <a href="gigasign.md">
-      <img alt="Rassemblez des documents volumineux à l’aide de GigaSign" src="../assets/gigasign.jpg" />
+      <img alt="Collecte de documents volumineux à l’aide de GigaSign" src="../assets/gigasign.jpg" />
     </a>
     <div>
-    <a href="gigasign.md"><strong>Rassemblez des documents volumineux à l’aide de GigaSign</strong></a>
+    <a href="gigasign.md"><strong>Collecte de documents volumineux à l’aide de GigaSign</strong></a>
     </div>
-    <em>Envoyer, collecter et suivre des documents pour signature à des milliers de personnes simultanément</em>
+    <em>Envoyer, collecter et suivre des documents pour signature à des milliers de personnes en même temps</em>
     <br>
   </td>
    <td>
     <a href="embeddedesignature.md">
-      <img alt="Créer des expériences documentaires et de signature électronique intégrées" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
+      <img alt="Création d’expériences de signature électronique et de document intégrées" src="assets/embeddedesignature/EmbedPart1_thumb.png" />
     </a>
     <div>
-    <a href="embeddedesignature.md"><strong>Créer des expériences documentaires et de signature électronique intégrées</strong></a>
+    <a href="embeddedesignature.md"><strong>Création d’expériences de signature électronique et de document intégrées</strong></a>
     </div>
-    <em>Découvrez comment utiliser les API Acrobat Sign pour incorporer la signature électronique et les expériences documentaires dans vos plateformes web et systèmes de gestion de contenu et de documents</em>
+    <em>Découvrez comment utiliser les API Acrobat Sign pour intégrer des expériences de signature électronique et de document dans vos plateformes web et systèmes de gestion de contenu et de document</em>
     <br>
   </td>
 </tr>

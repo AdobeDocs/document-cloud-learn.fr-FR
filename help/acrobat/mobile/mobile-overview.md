@@ -8,29 +8,27 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '221'
 ht-degree: 2%
 
 ---
 
-# Présentation du mobile
+# Présentation mobile
 
-![Image mobile Acrobat](../assets/Hero-Mobile.png)
+Créer, remplir et [signer les mots de PDF](https://www.adobe.com/fr/acrobat/online/sign-pdf.html){target="_blank"}  sur votre appareil mobile.
 
-Création, remplissage et [signature de PDF](https://www.adobe.com/fr/acrobat/online/sign-pdf.html){target="_blank"}  sur votre appareil mobile.
-
-## Tutoriels sur les applications mobiles Acrobat Reader
+## Tutoriels Acrobat Reader pour applications mobiles
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="../getting-started/productivity.md">
-      <img alt="Productivité en déplacement" src="../assets/Productivity_1280.png" />
+      <img alt="Productivité mobile" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="../getting-started/productivity.md"><strong>Productivité en déplacement</strong></a>
+     <a href="../getting-started/productivity.md"><strong>Productivité mobile</strong></a>
     </div>
     <em>Allez plus loin directement depuis votre tablette ou votre téléphone mobile avec l’application mobile Acrobat Reader</em>
     <br>
@@ -53,18 +51,18 @@ Création, remplissage et [signature de PDF](https://www.adobe.com/fr/acrobat/on
 </tr>
 </table>
 
-## Tutoriels sur les applications mobiles Adobe Scan
+## Tutoriels Adobe Scan pour applications mobiles
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="scan-mobile-app.md">
-      <img alt="Numérisez tout document dans le PDF" src="../assets/Scanmobile.png" />
+      <img alt="Numériser n’importe quel document dans le PDF" src="../assets/Scanmobile.png" />
     </a>
     <div>
-     <a href="scan-mobile-app.md"><strong>Numérisez tout document dans le PDF</strong></a>
+     <a href="scan-mobile-app.md"><strong>Numériser n’importe quel document dans le PDF</strong></a>
     </div>
-    <em>Découvrez comment convertir n’importe quel document papier en PDF avec l’application mobile gratuite Adobe Scan</em>
+    <em>Apprenez à convertir un document papier en PDF à l’aide de l’application mobile Adobe Scan</em>
     <br>
   </td>
   <td>
@@ -85,14 +83,14 @@ Création, remplissage et [signature de PDF](https://www.adobe.com/fr/acrobat/on
 </tr>
 </table>
 
-Télécharger [Application mobile Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} la référence mondiale et gratuite pour consulter, annoter et signer des PDF de manière fiable.
+Télécharger [application mobile Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"} norme mondiale gratuite pour l’affichage, l’annotation et la signature fiables des mots de PDF.
 
-[Guide d’Acrobat Reader pour iOS sur mobile](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
-[Guide d’Acrobat Reader pour Android sur mobile](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
+[Guide de l’application mobile Acrobat Reader pour iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
+[Guide de l’application mobile Acrobat Reader pour Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
-Télécharger [Application mobile Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} vous pouvez capturer n&#39;importe quel document papier et le transformer en PDF de qualité avec du texte indexable.
+Télécharger [application mobile Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} pour capturer n’importe quel document papier et le transformer en un PDF de haute qualité avec du texte que vous pouvez rechercher.
 
-[Guide d’Adobe Scan pour iOS sur mobile](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
-[Guide d’Adobe Scan pour Android sur mobile](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
+[Guide de l’application mobile Adobe Scan pour iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Guide de l’application mobile Adobe Scan pour Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
-Télécharger [Application mobile Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} pour remplir, signer et envoyer des formulaires où que vous soyez, sur n&#39;importe quel appareil, avec le doigt ou un stylet.
+Télécharger [application mobile Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} pour remplir, signer et envoyer n’importe quel formulaire, n’importe où, sur n’importe quel appareil, en utilisant rien de plus que votre doigt ou un stylet.

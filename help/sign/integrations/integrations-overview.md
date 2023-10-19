@@ -10,16 +10,14 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: b9eff7f50025d984a829eb7999bb1cd229822dbc
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '742'
+source-wordcount: '739'
 ht-degree: 0%
 
 ---
 
 # Présentation des intégrations
-
-![Image d’intégration de Sign](../assets/Hero-Integrate.png)
 
 Vous pouvez utiliser Acrobat Sign dans d’autres applications déjà utilisées par votre entreprise, telles que Microsoft, Salesforce, Workday et Marketo, pour n’en citer que quelques-unes. Découvrez comment simplifier vos workflows de signature électronique dans ces guides et tutoriels d’intégration.
 

@@ -1,24 +1,22 @@
 ---
 title: Acrobat Sign Tutorials
-description: Un ensemble de tutoriels, webinaires et cas d’usage conçus pour donner rapidement accès à Acrobat Sign aux débutants comme aux administrateurs
+description: Une collection de tutoriels, de webinaires et de cas d’utilisation conçus pour familiariser rapidement les débutants et les administrateurs avec Acrobat Sign
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 role: User, Admin
 level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '87'
 ht-degree: 5%
 
 ---
 
 # Tutoriels Acrobat Sign
 
-![Acrobat Sign Hero Image](assets/Hero_Sign.jpg)
-
-Acrobat Sign, solution Adobe Document Cloud, s’adapte aux besoins de votre entreprise par le biais d’intégrations, d’API, d’une authentification avancée, de fonctionnalités d’administration supplémentaires, etc. Vous trouverez ici un large éventail d’expériences d’apprentissage conçues pour offrir rapidement aux débutants et aux administrateurs des informations actualisées sur Acrobat Sign.
+Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux besoins de votre organisation avec des intégrations, des API, une authentification avancée, des fonctionnalités d’administration supplémentaires, etc. Vous trouverez ici un large éventail d’expériences d’apprentissage conçues pour rapidement mettre à jour les connaissances des débutants et des administrateurs sur Acrobat Sign.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -27,7 +25,7 @@ Acrobat Sign, solution Adobe Document Cloud, s’adapte aux besoins de votre ent
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
 
-## Pistes de formation
+## Parcours d’apprentissage
 
 <table style="table-layout:fixed">
 <tr>
@@ -60,7 +58,7 @@ Acrobat Sign, solution Adobe Document Cloud, s’adapte aux besoins de votre ent
   </td>
   <td>
     <a href="sign-usecase/expand-inspire-overview.md">
-      <img alt="Industries et services" src="assets/AS_Title_Industry.png" />
+      <img alt="Industries et départements" src="assets/AS_Title_Industry.png" />
     </a>
   </td>
   <td>

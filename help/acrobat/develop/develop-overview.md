@@ -1,33 +1,31 @@
 ---
 title: Présentation du développement Acrobat
-description: Développez des logiciels qui s’intègrent à Acrobat et Adobe Reader à l’aide de JavaScript, de modules externes ou d’IAC
+description: Développez un logiciel qui s’intègre à Acrobat et Adobe Reader à l’aide de JavaScript, de plug-ins ou d’IAC
 feature: Integrations
 role: Developer
 level: Intermediate
 jira: KT-6861
 thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 # Présentation du développement
 
-![Image de développement Acrobat](../assets/Hero-Develop.png)
+Développez un logiciel qui s’intègre à Acrobat et Adobe Reader à l’aide de JavaScript, de plug-ins ou d’IAC.
 
-Développez des logiciels qui s’intègrent à Acrobat et Adobe Reader à l’aide de JavaScript, de modules externes ou d’IAC.
+## SDK ACROBAT
 
-## SDK Acrobat
-
-La [SDK Acrobat](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} est un ensemble d’outils qui vous aident à développer des logiciels qui interagissent avec la technologie Acrobat.
+Le [SDK ACROBAT](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} est un ensemble d’outils qui vous aide à développer un logiciel qui interagit avec la technologie Acrobat.
 
 ## API Adobe Acrobat Services
 
 [API Adobe PDF Services](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}
 [API Adobe PDF Extract](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
-[API de génération de documents Adobe](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
+[API Adobe Document Generation](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [API Adobe PDF Embed](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
-[Tutoriels des services Adobe Acrobat](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}
+[Tutoriels Adobe Acrobat Services](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}

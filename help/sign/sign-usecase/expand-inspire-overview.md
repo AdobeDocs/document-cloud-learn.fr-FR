@@ -1,6 +1,6 @@
 ---
-title: Aperçu des industries et des services
-description: Découvrez comment transformer les expériences de signature électronique des clients et des collaborateurs à l'aide de cas d'usage, de recettes et de webinaires concrets
+title: Aperçu des industries et des ministères
+description: Découvrez comment transformer les expériences de signature électronique des clients et des employés grâce à ces cas d’utilisation, recettes et webinaires réels du secteur et du service
 feature: Use Cases, Skill Builder
 role: User, Admin
 level: Intermediate
@@ -8,49 +8,47 @@ jira: KT-6851
 thumbnail: KT-6851.jpg
 kt: 6851
 exl-id: 5207d19f-08c3-4fac-97a3-61467839748a
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# Présentation des secteurs et services
+# Présentation des secteurs d’activité et des départements
 
-![Image du secteur Acrobat Sign](../assets/Hero-Industry.png)
-
-Découvrez comment transformer les expériences de signature électronique de votre entreprise en étudiant ces cas d&#39;usage, recettes et webinaires concrets, tous présentés par des professionnels ou des services.
+Découvrez comment transformer l’expérience de signature électronique de votre entreprise en parcourant des cas d’utilisation, recettes et webinaires réels du secteur et des services.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="innovation-series.md">
-      <img alt="Skill Builder" src="../assets/SB_1280.jpg" />
+      <img alt="Générateur de compétences" src="../assets/SB_1280.jpg" />
     </a>
     <div>
-    <a href="innovation-series.md"><strong>Skill Builder</strong></a>
+    <a href="innovation-series.md"><strong>Générateur de compétences</strong></a>
     </div>
-    <em>Rejoignez-nous pour un webinaire Skill Builder de 30 minutes afin d’apprendre à mettre en oeuvre vos signatures électroniques, sans ajouter de travail supplémentaire à votre journée</em>
+    <em>Rejoignez-nous pour une session Skill Builder de 30 minutes afin d’apprendre à utiliser vos signatures électroniques sans ajouter de travail supplémentaire à votre journée</em>
     <br>
   </td>
   <td>
     <a href="recipes.md">
-      <img alt="Recettes de cas" src="../assets/Expand_RecipeR.png" />
+      <img alt="Recettes de cas d’utilisation" src="../assets/Expand_RecipeR.png" />
     </a>
     <div>
-    <a href="recipes.md"><strong>Recettes de cas</strong></a>
+    <a href="recipes.md"><strong>Recettes de cas d’utilisation</strong></a>
     </div>
-    <em>Téléchargez les ressources dont vous avez besoin pour déployer rapidement et par vous-même les différents workflows du service de signature électronique</em>
+    <em>Téléchargez les ressources dont vous avez besoin pour déployer rapidement divers workflows du service de signature électronique par vous-même</em>
     <br>
   </td>
   <td>
     <a href="use-case-showcase.md">
-      <img alt="Vitrine de cas" src="../assets/UseCaseShowcaseR.png" />
+      <img alt="Présentation du cas d’utilisation" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Vitrine de cas</strong></a>
+    <a href="use-case-showcase.md"><strong>Présentation du cas d’utilisation</strong></a>
     </div>
-    <em>Regardez des sessions en direct ou enregistrées pour découvrir les nouveaux cas d’usage et les nouvelles tendances concernant Acrobat Sign</em>
+    <em>Regardez des sessions en direct ou enregistrées qui vous présentent les nouveaux cas d’utilisation et les nouvelles tendances d’Acrobat Sign</em>
     <br>
   </td>
   <td>

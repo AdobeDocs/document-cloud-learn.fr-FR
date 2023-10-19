@@ -8,18 +8,16 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '489'
-ht-degree: 1%
+source-wordcount: '486'
+ht-degree: 2%
 
 ---
 
 # Présentation des administrateurs
 
-![Image des administrateurs Sign](../assets/Hero-Admin.png)
-
-Découvrez comment ajouter des utilisateurs à votre compte, configurer des groupes, partager l’accès et configurer un workflow, une archive externe et partager des événements et des alertes. Ces tutoriels s’adressent aux administrateurs qui ont dépassé la phase d’installation et sont prêts à commencer à administrer Acrobat Sign. Les tâches avancées couvrent des rubriques qui s’étendent au-delà de la configuration de l’administrateur et se déplacent vers la définition des paramètres globaux, l’accès et le partage de compte, et le balisage de texte.
+Découvrez comment ajouter des utilisateurs à votre compte, configurer des groupes, partager l’accès et configurer un workflow, une archive externe, ainsi que des événements et alertes partagés. Ces tutoriels sont conçus pour les administrateurs qui ont dépassé la phase d’installation et sont prêts à commencer à administrer Acrobat Sign. Les tâches avancées couvrent des rubriques qui s’étendent au-delà de la configuration de l’administrateur et abordent la définition des paramètres généraux, le partage et l’accès au compte, ainsi que le balisage de texte.
 
 ## Nouveautés
 
@@ -39,27 +37,27 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
     <div>
     <a href="get-started-admin.md"><strong>Prise en main pour les nouveaux administrateurs</strong></a>
     </div>
-    <em>Dans ce guide vidéo complet, découvrez tous les outils nécessaires pour que votre entreprise soit opérationnelle avec Acrobat Sign</em>
+    <em>Dans ce guide vidéo complet, découvrez tous les outils nécessaires pour que votre organisation soit opérationnelle avec Acrobat Sign</em>
     <br>
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Prise en main pour les administrateurs" src="../assets/Up-Running.png" />
+      <img alt="Prêt à l’emploi pour les administrateurs" src="../assets/Up-Running.png" />
     </a>
     <div>
-    <a href="up-and-running-admin.md"><strong>Prise en main pour les administrateurs</strong></a>
+    <a href="up-and-running-admin.md"><strong>Prêt pour les administrateurs</strong></a>
     </div>
-    <em>Présentation de 7 domaines clés permettant aux administrateurs de se familiariser rapidement avec Acrobat Sign</em>
+    <em>Présentation de 7 domaines clés permettant aux administrateurs d’être rapidement opérationnels dans Acrobat Sign</em>
     <br>
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Configuration d’événements et d’alertes partagés" src="../assets/Notifications_1280.png" />
+      <img alt="Configuration d’événements partagés et d’alertes" src="../assets/Notifications_1280.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configuration des notifications pour les événements et les alertes</strong></a>
     </div>
-    <em>Configurer des notifications pour les événements et les alertes de votre compte</em>
+    <em>Configuration des notifications d’événements et d’alertes pour votre compte</em>
     <br>
   </td>
   <td>
@@ -86,12 +84,12 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Configuration d&apos;une archive externe" src="../assets/ExternalArchive.png" />
+      <img alt="Configuration d’une archive externe" src="../assets/ExternalArchive.png" />
     </a>
     <div>
-    <a href="set-up-your-external-archive.md"><strong>Configuration d'une archive externe</strong></a>
+    <a href="set-up-your-external-archive.md"><strong>Configuration d’une archive externe</strong></a>
     </div>
-    <em>Créer une archive externe pour sauvegarder les copies des accords qui ont été signés</em>
+    <em>Création d’une archive externe pour les copies de sauvegarde des accords signés</em>
     <br>
   </td>
   <td>
@@ -101,7 +99,7 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Création d’un modèle de document</strong></a>
     </div>
-    <em>Création d'un modèle de document réutilisable pour plus de rapidité et de cohérence</em>
+    <em>Création d’un modèle de document réutilisable pour plus de rapidité et de cohérence</em>
     <br>
   </td>
   <td>
@@ -143,17 +141,17 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
     <div>
     <a href="../sign-advanced-users/modify-webform.md"><strong>Modification d’un formulaire web existant</strong></a>
     </div>
-    <em>Découvrez comment désactiver, modifier et réactiver un formulaire web existant.</em>
+    <em>Découvrez comment désactiver, modifier et réactiver un formulaire web existant</em>
     <br>
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Envoi et collecte simultanée de signatures" src="../assets/Megasign.png" />
+      <img alt="Envoyer et recueillir des signatures en masse" src="../assets/Megasign.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Envoi et collecte simultanée de signatures</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Envoyer et recueillir des signatures en masse</strong></a>
     </div>
-    <em>Collectez des centaines de signatures à la fois pour tous les documents</em>
+    <em>Recueillez des centaines de signatures à la fois pour tout document</em>
     <br>
   </td>
 </tr>
@@ -165,7 +163,7 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
     <div>
     <a href="building-a-custom-workflow.md"><strong>Configuration d’un workflow</strong></a>
     </div>
-    <em>Automatisez les workflows documentaires pour récupérer rapidement les signatures et données électroniques</em>
+    <em>Automatisation des workflows de documents pour obtenir rapidement des signatures électroniques et des données</em>
     <br>
   </td>
   <td>
@@ -201,12 +199,12 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Accès au compte de partage" src="../assets/SharingAccess.png" />
+      <img alt="Partage de l’accès au compte" src="../assets/SharingAccess.png" />
     </a>  
     <div>
-    <a href="share-account-access.md"><strong>Accès au compte de partage</strong></a>
+    <a href="share-account-access.md"><strong>Partage de l’accès au compte</strong></a>
     </div>
-    <em>Configuration d’un accès en lecture seule aux transactions dans le compte d’un autre utilisateur</em>
+    <em>Configurer l’accès en lecture seule aux transactions du compte d’un autre utilisateur</em>
     <br>
   </td>
   <td>
@@ -226,7 +224,7 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Utilisation des paramètres Bio-Pharma</strong></a>
     </div>
-    <em>Configurez les paramètres Bio-Pharma qui vous permettent de respecter les exigences de la règlementation 21 CFR Part 11 de la FDA</em>
+    <em>Configurez les paramètres Bio-Pharma qui vous permettent de répondre aux exigences de la FDA 21 CFR Part 11</em>
     <br>
   </td> 
 </tr>
@@ -238,7 +236,7 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
     <div>
     <a href="../sign-advanced-users/adobe-sign-text-tagging.md"><strong>Balisage de texte Acrobat Sign</strong></a>
     <div>
-    <em>Création de champs de formulaire Acrobat Sign par balisage de texte à l’aide d’Adobe Acrobat</em>
+    <em>Création de champs de formulaire Acrobat Sign à l’aide de balises de texte dans Adobe Acrobat</em>
     <br>
   </td>
   <td>

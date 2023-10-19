@@ -1,6 +1,6 @@
 ---
-title: Recettes de cas d’usage
-description: Accélérez les workflows digitaux de votre entreprise avec ces exemples de signature électronique à usage gouvernemental et commercial
+title: Recettes de cas d’utilisation
+description: Accélérez les workflows numériques de votre entreprise grâce à ces exemples de signature électronique commerciale et pour les administrations
 feature: Use Cases
 role: User
 level: Beginner, Intermediate
@@ -8,42 +8,40 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '438'
 ht-degree: 0%
 
 ---
 
-# Recettes de cas
+# Recettes de cas d’utilisation
 
-![Utiliser la bannière de cas](../assets/Hero-Recipe.png)
-
-Accélérez les workflows digitaux de votre entreprise avec ces exemples de signature électronique à usage gouvernemental et commercial. Cliquez ici pour afficher un PDF avec des ressources et des détails sur la configuration de ces cas d’utilisation de signature électronique spécifiques.
+Accélérez les workflows numériques de votre entreprise grâce à ces exemples de signature électronique commerciale et pour les administrations. Cliquez pour afficher un PDF contenant des ressources et des détails sur la configuration de ces cas d’utilisation de signature électronique spécifiques.
 
 ## Nouveautés
 
 * [Workflow personnalisé pour le processus IEP Éducation](usecase-edu-iep.md)
-Découvrez comment le concepteur de workflows personnalisés est utilisé pour numériser un processus de programme d’éducation individualisé (PEI)
-* [Formulaire web pour l’éducation](usecase-edu-intern.md)
-Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires obligatoires
-* [Création d’un formulaire web pour l’éducation](usecase-edu-intern-create.md)
+Découvrez comment le concepteur de workflow personnalisé est utilisé pour numériser un processus de programme d’éducation individualisé (IEP)
+* [Candidature de stage pour le formulaire web Éducation](usecase-edu-intern.md)
+Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires requis.
+* [Création d’une demande de stage pour un formulaire web consacré à l’éducation](usecase-edu-intern-create.md)
 Apprenez à créer un formulaire web de stage
-* [Demande de prêt gouvernemental avec plusieurs signataires inconnus](webform-multiple-signers.md)
-Découvrez comment utiliser un formulaire web pour un workflow complexe de demande de prêt gouvernemental impliquant plusieurs participants inconnus
+* [Demande de prêt public avec plusieurs signataires inconnus](webform-multiple-signers.md)
+Découvrez comment un formulaire web est utilisé pour un workflow complexe de demande de prêt public impliquant plusieurs participants inconnus.
 
-## Cas d’usage gouvernemental
+## Cas d’utilisation par les administrations
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="webform-multiple-signers.md">
-      <img alt="Demande de prêt gouvernemental avec plusieurs signataires inconnus" src="../assets/Web-form-unknown.png" />
+      <img alt="Demande de prêt public avec plusieurs signataires inconnus" src="../assets/Web-form-unknown.png" />
     </a>
     <div>
-    <a href="webform-multiple-signers.md"><strong>Demande de prêt gouvernemental avec plusieurs signataires inconnus</strong></a>
+    <a href="webform-multiple-signers.md"><strong>Demande de prêt public avec plusieurs signataires inconnus</strong></a>
     </div>
-    <em>Découvrez comment utiliser un formulaire web pour un workflow complexe de demande de prêt gouvernemental impliquant plusieurs participants inconnus</em>
+    <em>Découvrez comment un formulaire web est utilisé pour un workflow complexe de demande de prêt public impliquant plusieurs participants inconnus.</em>
     <br>
   </td> 
   <td>
@@ -53,49 +51,49 @@ Découvrez comment utiliser un formulaire web pour un workflow complexe de deman
     <div>
     <a href="usecasegovgrants.md"><strong>Subventions et prêts aux entreprises</strong></a>
     </div>
-    <em>Aider rapidement les entreprises en leur offrant un accès libre-service aux formulaires de demande de subvention, de prêt et de report d'impôt</em>
+    <em>Fournir une aide rapide aux entreprises en leur fournissant un accès libre-service aux formulaires de demande de subvention, de prêt et de report d'impôt</em>
     <br>
   </td> 
   <td>
     <a href="usecasegovtelework.md">
-      <img alt="Accord de télétravail" src="../assets/UC_MegasignR.png" />
+      <img alt="Contrat de télétravail" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasegovtelework.md"><strong>Accord de télétravail</strong></a>
+    <a href="usecasegovtelework.md"><strong>Contrat de télétravail</strong></a>
     </div>
-    <em>Collectez efficacement les signatures de tous vos employés sur les contrats de télétravail, les mises à jour des stratégies, etc</em>
+    <em>Collectez efficacement les signatures de tous vos employés sur les accords de télétravail, les mises à jour de politiques, etc.</em>
     <br>
   </td>
   <td>
     <a href="usecasegovcontracts.md">
-      <img alt="Contrats et formulaires de demande" src="../assets/UC_WorkflowR.png" />
+      <img alt="Contrats et formulaires de demande d&apos;approvisionnement" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasegovcontracts.md"><strong>Contrats et formulaires de demande</strong></a>
+    <a href="usecasegovcontracts.md"><strong>Contrats et formulaires de demande d'approvisionnement</strong></a>
     </div>
-    <em>Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d'audit</em>
+    <em>Remplacez rapidement le traitement papier par des workflows numériques conformes, complétés par des rapports d’audit</em>
     <br>
   </td>
 </tr>
 <tr>
  <td>
     <a href="usecasegovreemployment.md">
-      <img alt="Assistance au réemploi" src="../assets/UC_WebformsR.png" />
+      <img alt="Aide Au Réemploi" src="../assets/UC_WebformsR.png" />
     </a>
     <div>
-    <a href="usecasegovreemployment.md"><strong>Assistance au réemploi</strong></a>
+    <a href="usecasegovreemployment.md"><strong>Aide Au Réemploi</strong></a>
     </div>
-    <em>Aidez les administrés à obtenir l'aide dont ils ont besoin, sans être au point avec des formulaires d'inscription 100 % digitaux, qui peuvent être mis à disposition en quelques jours</em>
+    <em>Aidez les citoyens à obtenir l'aide dont ils ont besoin sans avoir à remplir des formulaires de demande entièrement numériques qui peuvent être mis en ligne en quelques jours</em>
     <br>
   </td>
   <td>
     <a href="usecasegovpaycheck.md">
-      <img alt="Protection Paycheck" src="../assets/UC_PaycheckProtectionR.png" />
+      <img alt="Protection de la paie" src="../assets/UC_PaycheckProtectionR.png" />
     </a>
     <div>
-    <a href="usecasegovpaycheck.md"><strong>Protection Paycheck</strong></a>
+    <a href="usecasegovpaycheck.md"><strong>Protection de la paie</strong></a>
     </div>
-    <em>Découvrez comment utiliser Acrobat Sign pour convertir le formulaire Payment Protection Program en formulaire interactif en ligne</em>
+    <em>Découvrez comment utiliser Acrobat Sign pour convertir le formulaire du Programme de protection des paiements en formulaire interactif en ligne</em>
     <br>
   </td>
   <td>
@@ -105,7 +103,7 @@ Découvrez comment utiliser un formulaire web pour un workflow complexe de deman
     <div>
     <a href="usecasegovremote.md"><strong>Demande de mandat à distance</strong></a>
     </div>
-    <em>Collectez les signatures électroniques et les conférences web pour écourter les délais de traitement des demandes et sécuriser les mandats des juges</em>
+    <em>Utilisez les signatures électroniques et les conférences Web ensemble pour réduire le temps nécessaire pour demander et obtenir des mandats des juges</em>
     <br>
   </td>
   <td>
@@ -116,18 +114,18 @@ Découvrez comment utiliser un formulaire web pour un workflow complexe de deman
 </tr>
 </table>
 
-## Cas d’usage commercial
+## Cas d’utilisation commerciaux
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecasecomcontracts.md">
-      <img alt="Contrats et formulaires de demande" src="../assets/UC_WorkflowR.png" />
+      <img alt="Contrats et formulaires de demande d&apos;approvisionnement" src="../assets/UC_WorkflowR.png" />
     </a>
     <div>
-    <a href="usecasecomcontracts.md"><strong>Contrats et formulaires de demande</strong></a>
+    <a href="usecasecomcontracts.md"><strong>Contrats et formulaires de demande d'approvisionnement</strong></a>
     </div>
-    <em>Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d'audit</em>
+    <em>Remplacez rapidement le traitement papier par des workflows numériques conformes, complétés par des rapports d’audit</em>
     <br>
   </td> 
   <td>
@@ -137,17 +135,17 @@ Découvrez comment utiliser un formulaire web pour un workflow complexe de deman
     <div>
     <a href="usecasecompolicy.md"><strong>Accords de stratégie</strong></a>
     </div>
-    <em>Collectez efficacement les signatures de tous vos employés sur les contrats et les mises à jour</em>
+    <em>Collectez efficacement les signatures de tous vos employés sur les accords de stratégie et les mises à jour</em>
     <br>
   </td>
   <td>
     <a href="usecasecomtelework.md">
-      <img alt="Accord de télétravail" src="../assets/UC_MegasignR.png" />
+      <img alt="Contrat de télétravail" src="../assets/UC_MegasignR.png" />
     </a>
     <div>
-    <a href="usecasecomtelework.md"><strong>Accord de télétravail</strong></a>
+    <a href="usecasecomtelework.md"><strong>Contrat de télétravail</strong></a>
     </div>
-    <em>Collectez efficacement les signatures de tous vos employés sur les contrats de télétravail</em>
+    <em>Collectez efficacement les signatures de tous vos employés sur les accords de télétravail</em>
     <br>
   </td>
   <td>
@@ -158,26 +156,26 @@ Découvrez comment utiliser un formulaire web pour un workflow complexe de deman
 </tr>
 </table>
 
-## Cas d’usage éducatif
+## Cas d’utilisation Éducation
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="usecase-edu-intern.md">
-      <img alt="Formulaire web pour l’éducation" src="../assets/Webform-internship.png" />
+      <img alt="Candidature de stage pour le formulaire web Éducation" src="../assets/Webform-internship.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern.md"><strong>Formulaire web pour l’éducation</strong></a>
+    <a href="usecase-edu-intern.md"><strong>Candidature de stage pour le formulaire web Éducation</strong></a>
     </div>
-    <em>Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires obligatoires</em>
+    <em>Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires requis.</em>
     <br>
   </td> 
   <td>
     <a href="usecase-edu-intern-create.md">
-      <img alt="Création d’un formulaire web pour l’éducation" src="../assets/Webform-internship-create.png" />
+      <img alt="Création d’une demande de stage pour un formulaire web consacré à l’éducation" src="../assets/Webform-internship-create.png" />
     </a>
     <div>
-    <a href="usecase-edu-intern-create.md"><strong>Création d’un formulaire web pour l’éducation</strong></a>
+    <a href="usecase-edu-intern-create.md"><strong>Création d’une demande de stage pour un formulaire web consacré à l’éducation</strong></a>
     </div>
     <em>Apprenez à créer un formulaire web de stage</em>
     <br>
@@ -189,7 +187,7 @@ Découvrez comment utiliser un formulaire web pour un workflow complexe de deman
     <div>
     <a href="usecase-edu-iep.md"><strong>Workflow personnalisé pour le processus IEP Éducation</strong></a>
     </div>
-    <em>Découvrez comment le concepteur de workflows personnalisés est utilisé pour numériser un processus de programme d’éducation individualisé (PEI)</em>
+    <em>Découvrez comment le concepteur de workflow personnalisé est utilisé pour numériser un processus de programme d’éducation individualisé (IEP)</em>
     <br>
   </td>
   <td>

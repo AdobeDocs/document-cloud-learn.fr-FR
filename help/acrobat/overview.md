@@ -1,24 +1,22 @@
 ---
 title: Acrobat Tutorials
-description: Collection de tutoriels, webinaires et cas d’usage concernant Adobe Acrobat
+description: Une collection de tutoriels, de webinaires et de cas d’utilisation pour Adobe Acrobat
 feature: Accessibility, Action, Collaboration, Create PDF, Edit PDF, Convert PDF, Deploy, Mobile, Optimize PDF, Security, Workflow, Workspace, Skill Builder, Sign, Form
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 6%
+source-wordcount: '70'
+ht-degree: 7%
 
 ---
 
 # Tutoriels Acrobat
 
-![Acrobat Hero Image](assets/Hero_Acrobat.jpg)
-
-Adobe Acrobat, solution Adobe Document Cloud, contribue à la continuité de l’activité en convertissant, modifiant, partageant et signant des mots de PDF. Vous y trouverez un large éventail d’expériences d’apprentissage conçues pour permettre aux utilisateurs débutants et chevronnés de se familiariser rapidement avec Adobe Acrobat.
+Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activité en convertissant, modifiant, partageant et signant des mots de PDF. Vous trouverez ici un large éventail d’expériences d’apprentissage conçues pour mettre rapidement à jour les connaissances des utilisateurs débutants et expérimentés sur Adobe Acrobat.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -27,7 +25,7 @@ Adobe Acrobat, solution Adobe Document Cloud, contribue à la continuité de l�
 <div id="recs-overview-body-5"></div>
 <div id="recs-overview-body-6"></div>
 
-## Pistes de formation
+## Parcours d’apprentissage
 
 <table style="table-layout:fixed">
 <tr>
@@ -43,7 +41,7 @@ Adobe Acrobat, solution Adobe Document Cloud, contribue à la continuité de l�
   </td>
   <td>
     <a href="skill-builder/skill-builder-webinars.md">
-      <img alt="Skill Builder" src="assets/acrobat_title_skill_builder.png" />
+      <img alt="Générateur de compétences" src="assets/acrobat_title_skill_builder.png" />
     </a>
   </td>
   <td>
@@ -55,7 +53,7 @@ Adobe Acrobat, solution Adobe Document Cloud, contribue à la continuité de l�
 <tr>
   <td>
     <a href="industry/industry-overview.md">
-      <img alt="Industries et services" src="assets/acrobat_title_industry.png" />
+      <img alt="Industries et départements" src="assets/acrobat_title_industry.png" />
     </a>
   </td>  
   <td>

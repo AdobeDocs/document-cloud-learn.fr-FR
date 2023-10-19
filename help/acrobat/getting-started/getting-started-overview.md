@@ -1,31 +1,29 @@
 ---
-title: Présentation de la prise en main Acrobat
-description: Découvrez comment commencer à utiliser Adobe Acrobat grâce à ces brefs tutoriels détaillés (1-2 min)
+title: Présentation de la prise en main d’Acrobat
+description: Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés de 1 à 2 minutes
 feature: Edit PDF, Create PDF, Convert PDF, Sign, Security, Share, Collaboration, Workspace
 role: User
 level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '536'
 ht-degree: 5%
 
 ---
 
 # Présentation de la prise en main
 
-![Image de prise en main d&#39;Acrobat](../assets/Hero-GettingStarted.png)
-
-Découvrez comment commencer à utiliser Adobe Acrobat grâce à ces brefs tutoriels détaillés. De la création d&#39;un document à la protection ou [modification des fichiers de votre PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}, ce contenu est conçu pour vous simplifier les workflows PDF.
+Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De la création d’un document à la protection ou [modification des fichiers de votre PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}, ce contenu est conçu pour vous faciliter l’accès aux workflows PDF.
 
 ## Nouveautés
 
-* [Utilisation d’Acrobat sur le web](acrobatweb.md)
-Apprenez à traiter les demandes de documents professionnels, où que vous soyez, à l&#39;aide des outils web Acrobat de votre navigateur
+* [Travaillez n’importe où avec Acrobat Web](acrobatweb.md)
+Découvrez comment gérer les demandes de documents professionnels où que vous soyez à l’aide des outils web Acrobat de votre navigateur
 * [Collaborez en temps réel](collaborate.md)
-Faites avancer vos projets en recueillant des commentaires, en collaborant sur les réponses et en suivant l’état d’avancement de vos documents, le tout en temps réel et en tout lieu
+Faites avancer vos projets en collectant des commentaires, en collaborant sur les réponses et en suivant l’avancement de vos documents, le tout en temps réel, où que vous soyez
 
 ## Tutoriels de prise en main
 
@@ -38,35 +36,35 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
     <div>
     <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Espace de travail – Principes de base</strong></a>
     </div>
-    <em>Découvrez comment l’espace de travail d’Acrobat facilite l’accès aux fichiers et outils sur les ordinateurs, le web et les appareils mobiles</em>
+    <em>Découvrez comment l’espace de travail d’Acrobat facilite l’accès aux fichiers et aux outils sur ordinateur, web et mobile</em>
     <br>
   </td>
   <td>
     <a href="new-workspace.md">
-      <img alt="Nouvel espace de travail" src="../assets/NewWorkspace.png" />
+      <img alt="Nouvelle expérience de l’espace de travail" src="../assets/NewWorkspace.png" />
     </a>
     <div>
-    <a href="new-workspace.md"><strong>Nouvel espace de travail</strong></a>
+    <a href="new-workspace.md"><strong>Nouvelle expérience de l’espace de travail</strong></a>
     </div>
-    <em>Découvrez la nouvelle expérience d’espace de travail que vous pouvez activer dans Acrobat</em>
+    <em>Découvrez le nouvel espace de travail que vous pouvez activer dans Acrobat</em>
     <br>
   </td>
   <td>
     <a href="acrobatweb.md">
-      <img alt="Utilisation d’Acrobat sur le web" src="../assets/Acrobatweb_1280.png" />
+      <img alt="Travaillez n’importe où avec Acrobat Web" src="../assets/Acrobatweb_1280.png" />
     </a>
     <div>
-    <a href="acrobatweb.md"><strong>Utilisation d’Acrobat sur le web</strong></a>
+    <a href="acrobatweb.md"><strong>Travaillez n’importe où avec Acrobat Web</strong></a>
     </div>
-    <em>Apprenez à traiter les demandes de documents professionnels, où que vous soyez, à l'aide des outils web Acrobat de votre navigateur</em>
+    <em>Découvrez comment gérer les demandes de documents professionnels où que vous soyez à l’aide des outils web Acrobat de votre navigateur</em>
     <br>
   </td>
   <td>
     <a href="productivity.md">
-      <img alt="Productivité en déplacement" src="../assets/Productivity_1280.png" />
+      <img alt="Productivité mobile" src="../assets/Productivity_1280.png" />
     </a>
     <div>
-     <a href="productivity.md"><strong>Productivité en déplacement</strong></a>
+     <a href="productivity.md"><strong>Productivité mobile</strong></a>
     </div>
     <em>Allez plus loin directement depuis votre tablette ou votre téléphone mobile avec l’application mobile Acrobat Reader</em>
     <br>
@@ -80,7 +78,7 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
       <div>
       <a href="../integrate/integrate-overview.md#microsoft"><strong>Utilisation de Microsoft 365</strong></a>
       </div>
-      <em>Augmentez la productivité et améliorez les workflows documentaires avec Acrobat et [!DNL Microsoft 365]</em>
+      <em>Augmentez la productivité et les workflows de documents professionnels avec Acrobat et [!DNL Microsoft 365]</em>
       <br>
     </td>
     <td>
@@ -90,7 +88,7 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
       <div>
       <a href="where-do-pdfs-come-from.md"><strong>D'où viennent les PDF ?</strong></a>
       </div>
-      <em>Comprendre d'où viennent les PDF et leurs utilisations</em>
+      <em>Comprendre d’où viennent les PDF et leurs utilisations</em>
       <br>
     </td>
     <td>
@@ -117,7 +115,7 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
       <div>
       <a href="create-pdf.md"><strong>Création d’un PDF</strong></a>
       </div>
-      <em>Création de PDF à partir de différents types de documents</em>
+      <em>Création de mots de PDF à partir de différents types de documents</em>
       <br>
     </td>
     <td>
@@ -125,9 +123,9 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
         <img alt="Combine Files vers PDF" src="../assets/Combine.jpg" />
       </a>
       <div>
-      <a href="combine-to-pdf.md"><strong>Combinaison de fichiers dans des PDF</strong></a>
+      <a href="combine-to-pdf.md"><strong>Combiner des fichiers dans des PDF</strong></a>
       </div>
-      <em>Regroupez plusieurs types de fichiers dans un même PDF</em>
+      <em>Combiner de nombreux types de fichiers dans un seul PDF</em>
       <br>
     </td>
     <td>
@@ -137,7 +135,7 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
       <div>
       <a href="organize.md"><strong>Organiser des pages</strong></a>
       </div>
-      <em>Ajout, remplacement, extraction, rotation, suppression et réorganisation de pages dans votre PDF</em>
+      <em>Ajouter, remplacer, extraire, faire pivoter, supprimer et réorganiser des pages dans votre PDF</em>
       <br>
     </td>
     <td>
@@ -164,15 +162,15 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
       <div>
       <a href="edit-pdf.md"><strong>Modifier un fichier PDF</strong></a>
       </div>
-      <em>Modification de texte et d’images dans des fichiers PDF</em>
+      <em>Modification du texte et des images dans les fichiers du PDF</em>
       <br>
     </td>
     <td>
       <a href="auto-adjust-layout.md">
-        <img alt="Réglage automatique de la disposition" src="../assets/Autoadjust.png" />
+        <img alt="Ajustement automatique de la mise en page" src="../assets/Autoadjust.png" />
       </a>
       <div>
-      <a href="auto-adjust-layout.md"><strong>Réglage automatique de la disposition</strong></a>
+      <a href="auto-adjust-layout.md"><strong>Ajustement automatique de la mise en page</strong></a>
       </div>
       <em>Découvrez le nouveau mode de modification qui ajuste automatiquement le contenu</em>
       <br>
@@ -206,17 +204,17 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
       <div>
       <a href="collaborate.md"><strong>Collaborez en temps réel</strong></a>
       </div>
-      <em>Faites avancer vos projets en recueillant des commentaires, en collaborant sur les réponses et en suivant l’état d’avancement de vos documents, le tout en temps réel et en tout lieu</em>
+      <em>Faites avancer vos projets en collectant des commentaires, en collaborant sur les réponses et en suivant l’avancement de vos documents, le tout en temps réel, où que vous soyez</em>
       <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="Commenter sur un PDF" src="../assets/Comment.jpg" />
+        <img alt="Commenter un PDF" src="../assets/Comment.jpg" />
       </a>
       <div>
-      <a href="comment-on-pdf-files.md"><strong>Commenter sur un PDF</strong></a>
+      <a href="comment-on-pdf-files.md"><strong>Commenter un PDF</strong></a>
       </div>
-      <em>Ajout de commentaires à un fichier de PDF, puis partage avec d’autres personnes</em>
+      <em>Ajouter des commentaires à un fichier de PDF, puis le partager avec d’autres personnes</em>
       <br>
     </td>
     <td>
@@ -238,12 +236,12 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Création de formulaires à compléter" src="../assets/Form_1280.png" />
+      <img alt="Création de formulaires à remplir" src="../assets/Form_1280.png" />
     </a>
     <div>
-    <a href="create-fillable-forms.md"><strong>Création de formulaires à compléter</strong></a>
+    <a href="create-fillable-forms.md"><strong>Création de formulaires à remplir</strong></a>
     </div>
-    <em>Conversion d’un document créé dans une autre application en formulaire de PDF à compléter</em>
+    <em>Transformer un document créé dans une autre application en formulaire de PDF à remplir</em>
     <br>
   </td>
   <td>
@@ -253,17 +251,17 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
     <div>
     <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
     </div>
-    <em>Remplissez et signez rapidement un PDF</em>
+    <em>Remplir et signer rapidement un formulaire de PDF</em>
     <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Numérisation et OCR" src="../assets/Scan.jpg" />
+      <img alt="Numérisation et ROC" src="../assets/Scan.jpg" />
     </a>
     <div>
-    <a href="scan-and-ocr.md"><strong>Numérisation et OCR</strong></a>
+    <a href="scan-and-ocr.md"><strong>Numérisation et ROC</strong></a>
     </div>
-    <em>Réduisez les fichiers volumineux et optimisez vos PDF sans compromettre la qualité du partage, de la publication ou de l’archivage</em>
+    <em>Réduisez la taille des fichiers et optimisez vos PDF sans compromettre la qualité du partage, de la publication ou de l’archivage</em>
     <br>
   </td>
   <td>
@@ -273,7 +271,7 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
     <div>
     <a href="password-protect.md"><strong>Protect d’un fichier de mot de PDF avec un mot de passe</strong></a>
     </div>
-    <em>Ajoutez un mot de PDF pour empêcher d’autres personnes d’ouvrir ou de modifier le fichier</em>
+    <em>Ajoutez un mot de PDF pour empêcher les autres utilisateurs d’ouvrir ou de modifier le fichier</em>
     <br>
   </td>
 </tr>
@@ -285,7 +283,7 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
     <div>
     <a href="signatures.md"><strong>Obtenir des signatures</strong></a>
     </div>
-    <em>Continuez à travailler efficacement en collectant des signatures électroniques juridiquement recevables, où que vous soyez</em>
+    <em>Faites bouger votre entreprise en collectant des signatures électroniques juridiquement contraignantes auprès de tiers, où que vous soyez</em>
     <br>
   </td>
   <td>
@@ -295,7 +293,7 @@ Faites avancer vos projets en recueillant des commentaires, en collaborant sur l
     <div>
     <a href="track.md"><strong>Suivi de vos documents</strong></a>
     </div>
-    <em>Sachez toujours quels fichiers sont en attente de signature et lesquels ont été signés.</em>
+    <em>Toujours savoir quels fichiers sont en attente de signature et lesquels ont été signés</em>
     <br>
   </td>
   <td>

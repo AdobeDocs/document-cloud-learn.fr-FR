@@ -1,24 +1,22 @@
 ---
 title: Présentation du déploiement
-description: Articles sur les bonnes pratiques et informations utiles sur le déploiement d’Acrobat Sign
+description: Articles de bonnes pratiques et informations précieuses sur le déploiement d’Acrobat Sign
 feature: Deploy, Administration
 role: Admin
 level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '113'
 ht-degree: 10%
 
 ---
 
 # Présentation du déploiement
 
-![Image de déploiement Sign](assets/Hero-Deploy.png)
-
-Articles sur les bonnes pratiques contenant des informations utiles sur le déploiement d’Acrobat Sign au sein de votre entreprise.
+Articles de bonnes pratiques offrant des informations précieuses sur le déploiement d’Acrobat Sign au sein de votre entreprise.
 
 <table style="table-layout:fixed">
 <tr>
@@ -29,27 +27,27 @@ Articles sur les bonnes pratiques contenant des informations utiles sur le dépl
     <div>
     <a href="https://helpx.adobe.com/fr/enterprise/using/adobe-sign-for-enterprise.html" target="_blank"><strong>Gestion d’Acrobat Sign dans le Admin Console</strong></a>
     </div>
-    <em>Découvrez comment gérer les utilisateurs et licences Acrobat Sign sur la plateforme d’entreprise d’Adobe via Adobe Admin Console</em>
+    <em>Découvrez comment gérer les utilisateurs et les licences Acrobat Sign sur la plateforme d’entreprise d’Adobe Adobe Admin Console</em>
     <br>
   </td>
   <td>
     <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
-      <img alt="Centre de données Adobe" src="assets/Deploy_Trust.png" />
+      <img alt="Centre de gestion de la confidentialité de l’Adobe" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Centre de données Adobe</strong></a>
+    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Centre de gestion de la confidentialité de l’Adobe</strong></a>
     </div>
-    <em>Découvrez les initiatives que nous déployons en permanence en matière de sécurité, de valeur juridique et de normes pour Acrobat Sign</em>
+    <em>Découvrez nos efforts continus en matière de sécurité, de légalité et de normes pour Acrobat Sign</em>
     <br>
   </td>
   <td>
     <a href="assets/SignStudyGuide.pdf">
-      <img alt="Guide d’étude Acrobat Sign Essentials" src="assets/SignStudyGuide.png" />
+      <img alt="Guide d’étude d’Acrobat Sign Essentials" src="assets/SignStudyGuide.png" />
     </a>
     <div>
-    <a href="assets/SignStudyGuide.pdf"><strong>Guide d’étude Acrobat Sign Essentials</strong></a>
+    <a href="assets/SignStudyGuide.pdf"><strong>Guide d’étude d’Acrobat Sign Essentials</strong></a>
     </div>
-    <em>Guide d’étude Acrobat Sign pour l’évaluation des fondamentaux d’Acrobat Sign (AD3-D104)</em>
+    <em>Guide d’étude d’Acrobat Sign pour l’évaluation d’Acrobat Sign Essentials (AD3-D104)</em>
     <br>
   </td>
   <td>
