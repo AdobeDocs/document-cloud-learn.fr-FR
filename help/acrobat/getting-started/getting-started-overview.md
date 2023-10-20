@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '543'
 ht-degree: 5%
 
 ---
@@ -20,10 +20,10 @@ Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De 
 
 ## Nouveautés
 
+* [Styliser ce PDF](stylize-this-PDF.md)
+Apprenez à créer des PDF de qualité professionnelle grâce aux outils de conception simples d’emploi intégrés à Adobe Express
 * [Travaillez n’importe où avec Acrobat Web](acrobatweb.md)
 Découvrez comment gérer les demandes de documents professionnels où que vous soyez à l’aide des outils web Acrobat de votre navigateur
-* [Collaborez en temps réel](collaborate.md)
-Faites avancer vos projets en collectant des commentaires, en collaborant sur les réponses et en suivant l’avancement de vos documents, le tout en temps réel, où que vous soyez
 
 ## Tutoriels de prise en main
 
@@ -166,6 +166,16 @@ Faites avancer vos projets en collectant des commentaires, en collaborant sur le
       <br>
     </td>
     <td>
+      <a href="stylize-this-PDF.md">
+        <img alt="Styliser ce PDF" src="../assets/Stylize.png" />
+      </a>
+      <div>
+      <a href="stylize-this-PDF.md"><strong>Styliser ce PDF</strong></a>
+      </div>
+      <em>Découvrez le nouveau mode de modification qui ajuste automatiquement le contenu</em>
+      <br>
+    </td>
+   <td>
       <a href="auto-adjust-layout.md">
         <img alt="Ajustement automatique de la mise en page" src="../assets/Autoadjust.png" />
       </a>
@@ -183,11 +193,6 @@ Faites avancer vos projets en collectant des commentaires, en collaborant sur le
       <a href="export-pdf.md"><strong>Exportation d’un PDF vers des formats modifiables</strong></a>
       </div>
       <em>Découvrez comment exporter vos fichiers de PDF dans des formats modifiables</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Espaceur" src="../assets/Whitespacer.png" />
-      <div>
       <br>
     </td>
   </tr>
