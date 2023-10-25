@@ -1,25 +1,25 @@
 ---
-title: Forms des contrats commerciaux et des demandes
-description: Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d'audit
+title: Forms des contrats commerciaux et des demandes d'approvisionnement
+description: Remplacez rapidement le traitement papier par des workflows numériques conformes, complétés par des rapports d’audit
 feature: Use Cases, Workflow, Form
 role: User
 level: Intermediate
 jira: KT-5297
 thumbnail: 33980.jpg
 exl-id: 44e3cf09-891c-4bdc-be58-3265adc53f10
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
 
-# Contrats commerciaux et formulaires de demande
+# Contrats commerciaux et formulaires de demande d&#39;approvisionnement
 
-Remplacez rapidement le traitement papier par des workflows digitaux conformes, assortis de rapports d&#39;audit. En savoir plus sur [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) pour vous aider à rationaliser l’ensemble du processus.
+Remplacez rapidement le traitement papier par des workflows numériques conformes, complétés par des rapports d’audit. Découvrez les [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) outil permettant de rationaliser l’ensemble du processus.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 
-Cliquez ici pour télécharger la recette du PDF étape par étape pour les contrats et les demandes d&#39;approvisionnement.
+Sélectionnez cette option pour télécharger ou ouvrir une recette de PDF étape par étape pour les contrats et les formulaires de demande d&#39;approvisionnement.
 
 [![Télécharger la recette du PDF](../assets/acrobat_PDF_96.png)](../assets/adobe-sign_set_up_a_workflow_use_case.pdf)

@@ -1,25 +1,25 @@
 ---
-title: Assistance au réemploi
-description: Aidez les administrés à obtenir l'aide dont ils ont besoin, sans être au point avec des formulaires d'inscription 100 % digitaux, qui peuvent être mis à disposition en quelques jours
+title: Aide Au Réemploi
+description: Aidez les citoyens à obtenir l'aide dont ils ont besoin sans avoir à remplir des formulaires de demande entièrement numériques qui peuvent être mis en ligne en quelques jours
 feature: Use Cases, Web Forms
 role: User
 level: Intermediate
 jira: KT-5300
 thumbnail: 33809.jpg
 exl-id: 02a9b62f-fbcd-43d1-8372-c2d7dc8e2eff
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Assistance au réemploi
+# Aide au réemploi
 
-Aidez les administrés à obtenir l&#39;aide dont ils ont besoin, sans être au point avec des formulaires d&#39;inscription 100 % digitaux, qui peuvent être mis à disposition en quelques jours. Découvrez comment créer un formulaire web en ligne à compléter **et** signé sans impression ni envoi de courrier.
+Aidez les citoyens à obtenir l&#39;aide dont ils ont besoin sans avoir à remplir des formulaires de demande entièrement numériques qui peuvent être mis en ligne en quelques jours. Découvrez comment créer un formulaire web en ligne pouvant être rempli **et** signé sans imprimer ni poster quoi que ce soit.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 
-Cliquez ici pour télécharger la recette du PDF étape par étape pour obtenir de l&#39;aide pour le réemploi.
+Sélectionnez pour télécharger ou ouvrir une recette de PDF étape par étape pour l&#39;aide à la réembauche.
 
 [![Télécharger la recette du PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-CreatingWebForms-Reemployment.pdf)

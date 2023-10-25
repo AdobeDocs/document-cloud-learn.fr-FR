@@ -1,25 +1,25 @@
 ---
-title: Demande de garantie à distance
-description: Collectez les signatures électroniques et les conférences web pour écourter les délais de traitement des demandes et sécuriser les mandats des juges
+title: Demande de mandat à distance
+description: Utilisez les signatures électroniques et les conférences Web ensemble pour réduire le temps nécessaire pour demander et obtenir des mandats des juges
 feature: Use Cases, Sign
 role: User
 level: Intermediate
 jira: KT-5334
 thumbnail: 33813.jpg
 exl-id: d7a8322b-f7fd-454d-a74b-c5ff1c9839a8
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
 # Demande de mandat à distance
 
-Collectez les signatures électroniques et les conférences web pour écourter les délais de traitement des demandes et sécuriser les mandats des juges.
+Utilisez les signatures électroniques et les conférences Web ensemble pour réduire le temps nécessaire pour demander et obtenir des mandats de la part des juges.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33813?quality=12&learn=on&hidetitle=true)
 
-Cliquez ici pour télécharger la recette du PDF étape par étape pour la demande de mandat à distance.
+Sélectionnez pour télécharger ou ouvrir une recette de PDF étape par étape pour la demande de mandat à distance.
 
 [![Télécharger la recette du PDF](../assets/acrobat_PDF_96.png)](../assets/UseCaseRecipe-EN-Remote-Warrant-Request.pdf)
