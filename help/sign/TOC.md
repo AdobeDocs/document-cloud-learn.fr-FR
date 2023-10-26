@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 8c7e4c3c0d8f1a7dd90da7f32c9766220d0b9235
+source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '544'
 ht-degree: 10%
 
 ---
@@ -108,7 +108,7 @@ ht-degree: 10%
       + [Archiver automatiquement les fichiers dans [!DNL SharePoint] avec [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
       + [Automatisation des documents avec Acrobat Sign pour [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
       + [Envoyer pour signature dans [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Live Sign pour [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
+      + [Live Sign dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
       + [Création d’un workflow simple dans [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
       + [Création d’un workflow avancé dans [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] pour le service client](integrations/dynamics-customer-service.md)

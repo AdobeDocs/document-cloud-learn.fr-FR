@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 08ecfae16049ddc497beaea06c6213f5e6dd8a6d
+source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications déjà utilisées
 
 ## Nouveautés
 
-* [Live Sign pour [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+* [Live Sign dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 Découvrez comment créer une expérience de signature en ligne qui ressemble à la signature en personne lors d’un [!DNL Microsoft Teams] réunion
 * [Créez un workflow avancé avec [!DNL Power Automate]](advanced-workflow-power-automate.md)
 Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automate] connecteurs
@@ -123,10 +123,10 @@ Découvrez comment créer un workflow simple à l’aide de [!DNL Power Automate
 <tr>
   <td>
     <a href="live-sign-microsoft-teams.md">
-      <img alt="Connexion en direct [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
+      <img alt="Live Sign dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>Connexion en direct [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong>Live Sign dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Découvrez comment créer une expérience de signature en ligne qui ressemble à la signature en personne lors d’un [!DNL Microsoft Teams] réunion</em>
     <br>
