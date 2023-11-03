@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: fa90a5ba08f7147e264bb7da0571b7838dcadf6d
+source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications déjà utilisées
 
 ## Nouveautés
 
-* [Intégration de l’onglet Documents dans [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+* [Intégration de l’onglet Documents pour [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Découvrez comment envoyer des documents pour signature directement à partir de l’onglet Documents dans [!DNL Microsoft Teams]
 * [Live Sign dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
 Découvrez comment créer une expérience de signature en ligne qui ressemble à la signature en personne lors d’un [!DNL Microsoft Teams] réunion
@@ -133,10 +133,10 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
   </td>
    <td>
     <a href="acrobat-sign-teams-documents-tab.md">
-      <img alt="Créer un workflow simple avec Power Automate" src="../assets/Documents-tab.png" />
+      <img alt="Intégration de l’onglet Documents pour [!DNL Microsoft Teams]" src="../assets/Documents-tab.png" />
     </a>
     <div>
-    <a href="acrobat-sign-teams-documents-tab.md"><strong>Intégration de l’onglet Documents dans [!DNL Microsoft Teams]</strong></a>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>Intégration de l’onglet Documents pour [!DNL Microsoft Teams]</strong></a>
     </div>
     <em>Découvrez comment envoyer des documents pour signature directement à partir de l’onglet Documents dans [!DNL Microsoft Teams]</em>
     <br>
