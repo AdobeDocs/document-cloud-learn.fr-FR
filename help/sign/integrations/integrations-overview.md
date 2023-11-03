@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
-source-git-commit: 1af2db7abc73f889d71806a66d2debc2f6fbb334
+source-git-commit: afca817b03c2d3748c21c4c110eebe44b0251c46
 workflow-type: tm+mt
-source-wordcount: '789'
+source-wordcount: '811'
 ht-degree: 0%
 
 ---
@@ -132,11 +132,21 @@ Découvrez comment créer un workflow simple à l’aide de [!DNL Power Automate
     <br>
   </td>
    <td>
+    <a href="acrobat-sign-teams-documents-tab.md">
+      <img alt="Créer un workflow simple avec Power Automate" src="../assets/Documents-tab.png" />
+    </a>
+    <div>
+    <a href="acrobat-sign-teams-documents-tab.md"><strong>Intégration de l’onglet Documents dans [!DNL Microsoft Teams]</strong></a>
+    </div>
+    <em>Découvrez comment envoyer des documents pour signature directement à partir de l’onglet Documents dans [!DNL Microsoft Teams]</em>
+    <br>
+  </td>
+ <td>
     <a href="simple-workflow-power-automate.md">
       <img alt="Créer un workflow simple avec Power Automate" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>Créer un workflow simple avec Power Automate</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong>Créez un workflow simple avec [!DNL Power Automate]</strong></a>
     </div>
     <em>Découvrez comment créer un workflow simple à l’aide de [!DNL Power Automate] connecteurs</em>
     <br>
@@ -151,6 +161,7 @@ Découvrez comment créer un workflow simple à l’aide de [!DNL Power Automate
     <em>Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automate] connecteurs</em>
     <br>
   </td>
+<tr>
   <td>
     <a href="dynamics-customer-service.md">
       <img alt="Microsoft Dynamics 365 for Customer Service" src="../assets/Dynamics-customer-service.png" />
@@ -161,7 +172,6 @@ Découvrez comment créer un workflow simple à l’aide de [!DNL Power Automate
     <em>Découvrez Acrobat Sign et [!DNL Microsoft Dynamics 365] pour le service client sont utilisés pour améliorer la satisfaction des clients sur un portail Web client en libre-service</em>
     <br>
   </td>
-<tr>
   <td>
     <a href="dynamics-field-service.md">
       <img alt="Microsoft Dynamics 365 for Field Service" src="../assets/Dynamics-field-service.png" />
@@ -180,11 +190,6 @@ Découvrez comment créer un workflow simple à l’aide de [!DNL Power Automate
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
     <em>Découvrez Acrobat Sign et [!DNL Microsoft Dynamics 365] pour les ventes sont utilisées pour automatiser le processus de signature des devis</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
