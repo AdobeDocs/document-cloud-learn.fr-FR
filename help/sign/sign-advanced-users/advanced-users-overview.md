@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
-source-wordcount: '427'
-ht-degree: 3%
+source-wordcount: '428'
+ht-degree: 5%
 
 ---
 
@@ -20,12 +20,12 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
 
 ## Nouveautés
 
+* [Envoyer en masse](megasign.md)
+Apprenez à recueillir des milliers de signatures à la fois pour n’importe quel document en quelques étapes simples
 * [Méthodes d’authentification dans Acrobat Sign](authentication-methods.md)
 Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’une personne qui signe un document
-* [Configuration des paiements en ligne](set-up-online-payments.md)
-Découvrez comment configurer et accepter les paiements en ligne dans vos documents
 
-## Envoi
+## Send
 
 <table style="table-layout:fixed">
 <tr>
@@ -93,12 +93,12 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
   </td>
   <td>
       <a href="megasign.md">
-        <img alt="Envoyer et recueillir des signatures en masse" src="../assets/Megasign.png" />
+        <img alt="Envoi en masse" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Envoyer et recueillir des signatures en masse</strong></a>
+      <a href="megasign.md"><strong>Envoi en masse</strong></a>
       </div>
-      <em>Recueillez des centaines de signatures à la fois pour n’importe quel document en quelques étapes simples</em>
+      <em>Recueillez des milliers de signatures à la fois pour n’importe quel document en quelques étapes</em>
       <br>
   </td>
  <td>
@@ -146,7 +146,7 @@ Découvrez comment configurer et accepter les paiements en ligne dans vos docume
 </tr>
 </table>
 
-## Gestion
+## Gérer
 
 <table style="table-layout:fixed">
 <tr>

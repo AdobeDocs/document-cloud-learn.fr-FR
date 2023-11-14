@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 5%
@@ -25,7 +25,7 @@ Vous débutez avec Acrobat Sign ? Ce tutoriel est un excellent point de départ.
 * [Définition d’échéances et de rappels](set-deadlines-reminders.md)
 Découvrez comment envoyer régulièrement des rappels par e-mail et connaître les dates limites pour que vos documents soient signés rapidement
 
-## Envoi
+## Send
 
 <table style="table-layout:fixed">
 <tr>
@@ -141,7 +141,7 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
 </tr>
 </table>
 
-## Signature
+## Signer
 
 <table style="table-layout:fixed">
 <tr>
@@ -220,7 +220,7 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
 </tr>  
 </table>
 
-## Gestion
+## Gérer
 
 <table style="table-layout:fixed">
 <tr>

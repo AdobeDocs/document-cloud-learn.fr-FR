@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
 workflow-type: tm+mt
-source-wordcount: '486'
-ht-degree: 2%
+source-wordcount: '503'
+ht-degree: 3%
 
 ---
 
@@ -21,6 +21,8 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
 
 ## Nouveautés
 
+* [Envoyer en masse](../sign-advanced-users/megasign.md)
+Apprenez à recueillir des milliers de signatures à la fois pour n’importe quel document en quelques étapes simples
 * [Options de rapport](report-options.md)
 Découvrez comment configurer des options de rapport pour les utilisateurs
 * [Ajout d’utilisateurs](add-users-to-your-account.md)
@@ -146,12 +148,12 @@ Découvrez comment ajouter et gérer des utilisateurs pour Acrobat Sign
   </td>
   <td>
     <a href="../sign-advanced-users/megasign.md">
-      <img alt="Envoyer et recueillir des signatures en masse" src="../assets/Megasign.png" />
+      <img alt="Envoi en masse" src="../assets/send-in-bulk.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/megasign.md"><strong>Envoyer et recueillir des signatures en masse</strong></a>
+    <a href="../sign-advanced-users/megasign.md"><strong>Envoi en masse</strong></a>
     </div>
-    <em>Recueillez des centaines de signatures à la fois pour tout document</em>
+    <em>Recueillez des milliers de signatures à la fois pour tout document</em>
     <br>
   </td>
 </tr>
