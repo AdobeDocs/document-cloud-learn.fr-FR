@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-4963
 thumbnail: 37839.jpg
 exl-id: f81f5ce8-26ad-4c73-934c-da580782bf84,71a748b0-48c9-4a1e-befe-d5f311d6c05e
-source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
+source-git-commit: 580ab332226b408d735639342bd3f6b96323a9b3
 workflow-type: tm+mt
-source-wordcount: '175'
+source-wordcount: '182'
 ht-degree: 3%
 
 ---
 
 # Envoi en masse
 
-Apprenez à envoyer et à recueillir des centaines de signatures en quelques étapes simples, ce qui fait gagner du temps à votre organisation. Chacun reçoit son propre document à signer, et vous pouvez suivre la progression de chaque personne à qui vous avez envoyé le document, afin de savoir exactement qui ou qui n’a pas signé. Chaque signature en ligne que vous capturez est sécurisée et juridiquement valide.
+Apprenez à envoyer et à recueillir des centaines de signatures (jusqu’à 1 000 destinataires par envoi en masse) en quelques étapes simples, ce qui fait gagner du temps à votre organisation. Chacun reçoit son propre document à signer, et vous pouvez suivre la progression de chaque personne à qui vous avez envoyé le document, afin de savoir exactement qui ou qui n’a pas signé. Chaque signature en ligne que vous capturez est sécurisée et juridiquement valide.
 
 [!BADGE Cas d’utilisation]
 
