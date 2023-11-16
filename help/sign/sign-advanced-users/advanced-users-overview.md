@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 5%
@@ -98,7 +98,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
       <div>
       <a href="megasign.md"><strong>Envoi en masse</strong></a>
       </div>
-      <em>Recueillez des milliers de signatures à la fois pour n’importe quel document en quelques étapes</em>
+      <em>Recueillez des centaines de signatures à la fois pour n’importe quel document en quelques étapes simples</em>
       <br>
   </td>
  <td>
