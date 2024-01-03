@@ -1,5 +1,5 @@
 ---
-title: Recettes de cas d’utilisation
+title: Cas d’utilisation
 description: Accélérez les workflows numériques de votre entreprise grâce à ces exemples de signature électronique commerciale et pour les administrations
 feature: Use Cases
 role: User
@@ -8,16 +8,16 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
 workflow-type: tm+mt
-source-wordcount: '438'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
 
-# Recettes de cas d’utilisation
+# Cas d’utilisation
 
-Accélérez les workflows numériques de votre entreprise grâce à ces exemples de signature électronique commerciale et pour les administrations. Cliquez pour afficher un PDF contenant des ressources et des détails sur la configuration de ces cas d’utilisation de signature électronique spécifiques.
+Découvrez comment différentes organisations utilisent Acrobat Sign pour transformer leurs workflows numériques avec ces cas d’utilisation réels.
 
 ## Nouveautés
 
