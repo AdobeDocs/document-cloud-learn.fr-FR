@@ -12,10 +12,10 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: d27cd14d332812292e2ed3414cd9bb3937141930
+source-git-commit: cee496745a920f2ce06e02829aa9ecfec72f32c1
 workflow-type: tm+mt
-source-wordcount: '544'
-ht-degree: 11%
+source-wordcount: '508'
+ht-degree: 7%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 11%
 + [Présentation](overview.md)
 + Prise en main {#getting-started}
    + [Présentation](sign-beginner-tutorials/beginner-users-overview.md)
-   + Send {#getting-started-sending}
+   + Envoyer {#getting-started-sending}
       + [Espace de travail – Principes de base](sign-beginner-tutorials/quick-tour.md)
       + [Prise en main d’Acrobat Sign](sign-beginner-tutorials/new-sender.md)
       + [Envoi à un seul destinataire](sign-beginner-tutorials/send-to-single-recipient.md)
@@ -35,7 +35,7 @@ ht-degree: 11%
       + [Modification d’un document après l’envoi](sign-beginner-tutorials/modify-in-flight.md)
       + [Remplacer un signataire](sign-beginner-tutorials/replace-signer.md)
       + [Définition d’échéances et de rappels](sign-beginner-tutorials/set-deadlines-reminders.md)
-   + Sign {#getting-started-signing}
+   + Signer {#getting-started-signing}
       + [Signature électronique d’un document](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Remplissage et signature d’un document](sign-beginner-tutorials/fill-and-sign.md)
       + [Obtenir une signature en personne](sign-beginner-tutorials/sign-in-person.md)
@@ -47,14 +47,14 @@ ht-degree: 11%
       + [Création d’un modèle de document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Tâches avancées {#advanced-tasks}
    + [Présentation](sign-advanced-users/advanced-users-overview.md)
-   + Send {#advanced-tasks-sending}
+   + Envoyer {#advanced-tasks-sending}
       + [Configuration de l’ordre de signature](sign-advanced-users/setting-up-routing.md)
       + [Utilisation du rôle de délégant](sign-advanced-users/delegate-signature.md)
       + [Utilisation du rôle d’approbateur](sign-advanced-users/add-an-approver.md)
       + [Méthodes d’authentification dans Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Gestion des données de formulaire](sign-advanced-users/manage-form-data.md)
       + [Configuration des paiements en ligne](sign-advanced-users/set-up-online-payments.md)
-      + [Envoi en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Création d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Utilisation du balisage de texte dans [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
@@ -63,7 +63,7 @@ ht-degree: 11%
       + [Gestion des modèles de document](sign-advanced-users/edit-a-template.md)
       + [Modification d’un formulaire web existant](sign-advanced-users/modify-webform.md)
       + [Gestion des données de formulaire web](sign-advanced-users/manage-webform-data.md)
-+ Administration {#admin-set-up}
++ Administrer {#admin-set-up}
    + [Présentation](admin/intro-admin-overview.md)
    + Prise en main {#getting-started-admin}
       + [Prise en main pour les nouveaux administrateurs](admin/get-started-admin.md)
@@ -93,7 +93,7 @@ ht-degree: 11%
       + [S’inscrire et signer avec [!DNL Digidentity]](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [S&#39;inscrire et signer à l&#39;aide de [!DNL D-Trust]](digitalid/d-trust.md)
-   + Groupe Intesi {#intesi}
+   + Intesi Group {#intesi}
       + [Obtention d’un ID numérique auprès de l’Intesi Group (avancé)](digitalid/intesi-advanced.md)
       + [Obtenir un ID numérique de l’Intesi Group (qualifié)](digitalid/intesi-qualified.md)
       + [Signature avec Intesi Group](digitalid/intesi-sign.md)
@@ -135,9 +135,9 @@ ht-degree: 11%
    + [Présentation](sign-usecase/expand-inspire-overview.md)
    + Générateur de compétences {#innovation}
       + [Webinaires](sign-usecase/innovation-series.md)
-   + Recettes de cas d’utilisation {#recipes}
+   + Cas d’utilisation {#recipes}
       + [Présentation](sign-usecase/recipes.md)
-      + Administration {#gov}
+      + Gouvernement {#gov}
          + [Demande de prêt public avec plusieurs signataires inconnus](sign-usecase/webform-multiple-signers.md)
          + [Subventions et prêts aux entreprises](sign-usecase/usecasegovgrants.md)
          + [Contrat de télétravail](sign-usecase/usecasegovtelework.md)
@@ -160,9 +160,9 @@ ht-degree: 11%
    + API personnalisées {#custom}
       + [Collecte de documents volumineux à l’aide de GigaSign](develop/gigasign.md)
       + [Création d’expériences de signature électronique et de document intégrées](develop/embeddedesignature.md)
-+ Déploiement {#deploy}
++ Déployer {#deploy}
    + [Présentation](deploy-overview.md)
-+ Application mobile {#mobile}
++ Mobile {#mobile}
    + [Présentation](mobile/mobile-overview.md)
    + Tutoriels mobiles {#mobile-tutorials}
       + [Signer des documents où que vous soyez](mobile/sign-mobile.md)
