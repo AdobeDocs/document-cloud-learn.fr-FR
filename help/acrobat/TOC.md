@@ -5,10 +5,11 @@ breadcrumb-title: Acrobat Tutorials
 feature-set: Document Cloud
 role: User
 type: Tutorial
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+auto-video-transcripts: true
+source-git-commit: 2cf300b9b6b73dcf76be74279cdee05afb4d52e3
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 7%
+source-wordcount: '471'
+ht-degree: 4%
 
 ---
 
@@ -107,7 +108,7 @@ ht-degree: 7%
    + [Travailler avec des fichiers de [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Industries et départements {#by-industry}
    + [Présentation](industry/industry-overview.md)
-   + Administration {#gov}
+   + Gouvernement {#gov}
       + [Présentation](industry/gov/gov-overview.md)
       + 5 conseils pour travailler n’importe où avec Acrobat {#tips}
          + [5 conseils pour travailler n’importe où avec Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
@@ -124,10 +125,10 @@ ht-degree: 7%
          + [Rendre les bulletins de vote des PDF plus accessibles](industry/gov/making-pdf-ballots-accessible.md)
 + Développement {#develop}
    + [Présentation](develop/develop-overview.md)
-+ Déploiement {#deploy}
++ Déployer {#deploy}
    + [Présentation](deploy/deploy-overview.md)
    + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
-+ Application mobile {#mobile}
++ Mobile {#mobile}
    + [Présentation](mobile/mobile-overview.md)
    + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
