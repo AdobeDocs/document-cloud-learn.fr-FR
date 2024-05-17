@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
+source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '534'
 ht-degree: 2%
 
 ---
@@ -20,10 +20,11 @@ Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De 
 
 ## Nouveautés
 
+* [Création d’un PDF](create-pdf.md)
+Apprenez à créer des mots de PDF à partir de tous les types de documents
+
 * [Styliser ce PDF](stylize-this-PDF.md)
 Apprenez à créer des PDF de qualité professionnelle grâce aux outils de conception simples d’emploi intégrés à Adobe Express
-* [Travaillez n’importe où avec Acrobat Web](acrobatweb.md)
-Découvrez comment gérer les demandes de documents professionnels où que vous soyez à l’aide des outils web Acrobat de votre navigateur
 
 ## Tutoriels de prise en main
 
