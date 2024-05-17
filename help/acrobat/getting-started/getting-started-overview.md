@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 3a755dc6c989e6f8890f626e9eaa824e059c2a9f
+source-git-commit: 38f311470c6b30dc7c731a37025381fba3651001
 workflow-type: tm+mt
-source-wordcount: '543'
-ht-degree: 5%
+source-wordcount: '542'
+ht-degree: 2%
 
 ---
 
@@ -34,7 +34,7 @@ Découvrez comment gérer les demandes de documents professionnels où que vous 
       <img alt="Espace de travail – Principes de base" src="../assets/Workspace_1280.png" />
     </a>
     <div>
-    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Espace de travail – Principes de base</strong></a>
+    <a href="get-to-know-the-acrobat-dc-interface.md"><strong>Principes de base de l’espace de travail</strong></a>
     </div>
     <em>Découvrez comment l’espace de travail d’Acrobat facilite l’accès aux fichiers et aux outils sur ordinateur, web et mobile</em>
     <br>
@@ -110,7 +110,7 @@ Découvrez comment gérer les demandes de documents professionnels où que vous 
   <tr>
     <td>
       <a href="create-pdf.md">
-        <img alt="Création de fichiers PDF" src="../assets/Create.jpg" />
+        <img alt="Création de fichiers de PDF" src="../assets/create.png" />
       </a>
       <div>
       <a href="create-pdf.md"><strong>Création d’un PDF</strong></a>
@@ -133,7 +133,7 @@ Découvrez comment gérer les demandes de documents professionnels où que vous 
         <img alt="Organiser des pages" src="../assets/Organize.png" />
       </a>
       <div>
-      <a href="organize.md"><strong>Organiser des pages</strong></a>
+      <a href="organize.md"><strong>Organiser les pages</strong></a>
       </div>
       <em>Ajouter, remplacer, extraire, faire pivoter, supprimer et réorganiser des pages dans votre PDF</em>
       <br>
@@ -143,7 +143,7 @@ Découvrez comment gérer les demandes de documents professionnels où que vous 
         <img alt="Ajout d’une page personnalisée" src="../assets/Custompage.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong>Ajout d’une page personnalisée</strong></a>
+      <a href="add-custom-page.md"><strong>Ajouter une page personnalisée</strong></a>
       </div>
       <em>Découvrez comment ajouter des pages personnalisées à votre PDF à l’aide de l’application Adobe Express intégrée</em>
       <br>
@@ -160,7 +160,7 @@ Découvrez comment gérer les demandes de documents professionnels où que vous 
         <img alt="Modifier un fichier PDF" src="../assets/Edit.jpg" />
       </a>
       <div>
-      <a href="edit-pdf.md"><strong>Modifier un fichier PDF</strong></a>
+      <a href="edit-pdf.md"><strong>Modification d’un PDF</strong></a>
       </div>
       <em>Modification du texte et des images dans les fichiers du PDF</em>
       <br>
