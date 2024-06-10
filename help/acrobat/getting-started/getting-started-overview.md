@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 39294d60838d7e4b67485a80538f6ff1c523369f
+source-git-commit: f188fb6e66899bf73422364a295b4a04c3d72f2a
 workflow-type: tm+mt
-source-wordcount: '534'
-ht-degree: 2%
+source-wordcount: '536'
+ht-degree: 1%
 
 ---
 
@@ -20,11 +20,11 @@ Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De 
 
 ## Nouveautés
 
+* [Modification de texte dans un PDF](edit-pdf.md)
+Découvrez comment modifier des mots, des expressions ou même des pages entières dans votre PDF
+
 * [Création d’un PDF](create-pdf.md)
 Apprenez à créer des mots de PDF à partir de tous les types de documents
-
-* [Styliser ce PDF](stylize-this-PDF.md)
-Apprenez à créer des PDF de qualité professionnelle grâce aux outils de conception simples d’emploi intégrés à Adobe Express
 
 ## Tutoriels de prise en main
 
@@ -158,7 +158,7 @@ Apprenez à créer des PDF de qualité professionnelle grâce aux outils de conc
   <tr>
     <td>
       <a href="edit-pdf.md">
-        <img alt="Modifier un fichier PDF" src="../assets/Edit.jpg" />
+        <img alt="Modification de texte dans un PDF" src="../assets/edit-text.png" />
       </a>
       <div>
       <a href="edit-pdf.md"><strong>Modification d’un PDF</strong></a>
