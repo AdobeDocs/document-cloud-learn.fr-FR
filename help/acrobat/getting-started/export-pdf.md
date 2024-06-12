@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5529
 thumbnail: 35494.jpg
 exl-id: 83896285-7339-4d95-8a51-b91de4d4731a
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: 0597b1dd1c99ed2b37cb084d192174a497ba307a
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '147'
 ht-degree: 2%
 
 ---
 
 # Conversion du PDF en différents formats de fichier
 
-Découvrez comment convertir vos fichiers de PDF dans différents formats de fichiers, tels que [Microsoft Word](https://www.adobe.com/fr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/fr/acrobat/online/pdf-to-ppt.html), et [Excel](https://www.adobe.com/fr/acrobat/online/pdf-to-excel.html). Conversion de votre PDF en [Adobe Express](https://express.adobe.com) pour ajouter des éléments de conception de marque, cette option est également couverte. Lorsque vous convertissez votre PDF dans un autre format de fichier comme Microsoft Word, cela améliore l’efficacité du workflow documentaire et permet de gagner un temps considérable lorsque vous apportez des modifications importantes à vos documents volumineux.
+Découvrez comment convertir vos fichiers de PDF dans différents formats de fichiers, tels que [Microsoft Word](https://www.adobe.com/fr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/fr/acrobat/online/pdf-to-ppt.html), et [Excel](https://www.adobe.com/fr/acrobat/online/pdf-to-excel.html). Conversion de votre PDF en [Adobe Express](https://express.adobe.com) pour ajouter des éléments de conception de marque, cette option est également couverte. Lorsque vous convertissez votre PDF dans un autre format de fichier comme Microsoft Word, cela améliore l’efficacité du workflow documentaire et permet de gagner un temps considérable lorsque vous apportez des modifications importantes à vos documents volumineux. Ce tutoriel vidéo utilise la nouvelle expérience de l’espace de travail.
 
 >[!TIP]
 >
