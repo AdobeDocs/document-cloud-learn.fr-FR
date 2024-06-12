@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: e84363fee3a210b055396e9c524ee7080e1ef30f
+source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '567'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De la création d’un document à la protection ou [modification des fichiers de votre PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}, ce contenu est conçu pour vous faciliter l’accès aux workflows PDF.
 
 ## Nouveautés
+
+* [Conversion du PDF en différents formats de fichier](export-pdf.md)
+Découvrez comment convertir vos fichiers PDF dans différents formats de fichiers, tels que Microsoft Word, Excel ou PowerPoint
 
 * [Modification de texte dans un PDF](edit-pdf.md)
 Découvrez comment modifier des mots, des expressions ou même des pages entières dans votre PDF
@@ -188,12 +191,12 @@ Apprenez à créer des mots de PDF à partir de tous les types de documents
     </td>
     <td>
       <a href="export-pdf.md">
-        <img alt="Exportation d’un PDF vers des formats modifiables" src="../assets/Export.jpg" />
+        <img alt="Conversion du PDF en différents formats de fichier" src="../assets/convert.png" />
       </a>
       <div>
-      <a href="export-pdf.md"><strong>Exportation d’un PDF vers des formats modifiables</strong></a>
+      <a href="export-pdf.md"><strong>Conversion du PDF en différents formats de fichier</strong></a>
       </div>
-      <em>Découvrez comment exporter vos fichiers de PDF dans des formats modifiables</em>
+      <em>Découvrez comment convertir vos fichiers PDF dans différents formats de fichiers, tels que Microsoft Word, Excel ou PowerPoint</em>
       <br>
     </td>
   </tr>
