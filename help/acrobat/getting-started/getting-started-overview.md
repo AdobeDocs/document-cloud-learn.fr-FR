@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 242b6bb8a1a24c6d7c42d8ad44cb43f0ab2f2497
+source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '613'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De la création d’un document à la protection ou [modification des fichiers de votre PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}, ce contenu est conçu pour vous faciliter l’accès aux workflows PDF.
 
 ## Nouveautés
+
+* [Découvrir les informations d’un PDF avec l’assistant AI](ai-assistant.md)
+Découvrez comment obtenir des informations à partir de vos fichiers de PDF à l’aide de l’assistant AI
 
 * [Conversion du PDF en différents formats de fichier](export-pdf.md)
 Découvrez comment convertir vos fichiers PDF dans différents formats de fichiers, tels que Microsoft Word, Excel ou PowerPoint
@@ -54,6 +57,16 @@ Apprenez à créer des mots de PDF à partir de tous les types de documents
     <br>
   </td>
   <td>
+    <a href="ai-assistant.md">
+      <img alt="Découvrir les informations d’un PDF avec l’assistant AI" src="../assets/ai-assistant.png" />
+    </a>
+    <div>
+    <a href="ai-assistant.md"><strong>Découvrir les informations d’un PDF avec l’assistant AI</strong></a>
+    </div>
+    <em>Découvrez comment obtenir des informations à partir de vos fichiers de PDF à l’aide de l’assistant AI</em>
+    <br>
+  </td>
+  <td>
     <a href="acrobatweb.md">
       <img alt="Travaillez n’importe où avec Acrobat Web" src="../assets/Acrobatweb_1280.png" />
     </a>
@@ -63,6 +76,8 @@ Apprenez à créer des mots de PDF à partir de tous les types de documents
     <em>Découvrez comment gérer les demandes de documents professionnels où que vous soyez à l’aide des outils web Acrobat de votre navigateur</em>
     <br>
   </td>
+</tr>
+<tr>
   <td>
     <a href="productivity.md">
       <img alt="Productivité mobile" src="../assets/Productivity_1280.png" />
@@ -73,8 +88,6 @@ Apprenez à créer des mots de PDF à partir de tous les types de documents
     <em>Allez plus loin directement depuis votre tablette ou votre téléphone mobile avec l’application mobile Acrobat Reader</em>
     <br>
   </td>
-</tr>
-<tr>
     <td>
       <a href="../integrate/integrate-overview.md#microsoft">
         <img alt="Utilisation de Microsoft 365" src="../assets/WorkMicrosoft365_1280.png" />
@@ -93,11 +106,6 @@ Apprenez à créer des mots de PDF à partir de tous les types de documents
       <a href="where-do-pdfs-come-from.md"><strong>D'où viennent les PDF ?</strong></a>
       </div>
       <em>Comprendre d’où viennent les PDF et leurs utilisations</em>
-      <br>
-    </td>
-    <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-      <div>
       <br>
     </td>
     <td>
