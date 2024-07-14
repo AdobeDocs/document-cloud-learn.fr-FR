@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f6c34181b1e98e0da2929b7606c905b369f6f0e0
+source-git-commit: 1a1e0e01f7722d3cb685af25ab796fff97a49cdb
 workflow-type: tm+mt
-source-wordcount: '480'
+source-wordcount: '483'
 ht-degree: 3%
 
 ---
@@ -17,17 +17,17 @@ ht-degree: 3%
 # Acrobat Tutorials {#acrobat-learning}
 
 + [Présentation](overview.md)
-+ Prise en main {#getting-started}
++ Prise en main de {#getting-started}
    + [Présentation](getting-started/getting-started-overview.md)
-   + [Espace de travail – Principes de base](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Nouvelle expérience de l’espace de travail](getting-started/new-workspace.md)
+   + [Espace de travail – Principes de base](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Découvrir les informations d’un PDF avec l’assistant AI](getting-started/ai-assistant.md)
    + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
    + [Productivité mobile](getting-started/productivity.md)
-   + [Utilisation de [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
    + [Création d’un PDF](getting-started/create-pdf.md)
-   + [Combine Files vers PDF](getting-started/combine-to-pdf.md)
+   + [Combiner des fichiers dans un seul PDF](getting-started/combine-to-pdf.md)
    + [Organiser les pages](getting-started/organize.md)
    + [Ajouter une page personnalisée](getting-started/add-custom-page.md)
    + [Modification de texte dans un PDF](getting-started/edit-pdf.md)
@@ -65,7 +65,7 @@ ht-degree: 3%
       + [Documents numérisés et listes complexes](advanced-tasks/accessibilitysession4.md)
       + [Ajout de champs de formulaire à un PDF balisé](advanced-tasks/accessibilitysession5.md)
       + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
-+ Acrobat 60 secondes {#60-second}
++ Acrobat {#60-second} de 60 secondes
    + [Présentation](60-second/60-second-overview.md)
    + [Modifier le PDF avec Acrobat sur le web](60-second/edit.md)
    + [Reconnaissance du texte dans un fichier de PDF numérisé](60-second/textrecognition.md)
@@ -99,20 +99,20 @@ ht-degree: 3%
 + Intégrations {#integrations}
    + [Présentation](integrate/integrate-overview.md)
    + [Créer un PDF à partir de [!DNL Microsoft Word]](integrate/createfromword.md)
-   + [Création de PDF dans [!DNL Office] pour le web](integrate/createofficeweb.md)
-   + [collaboration PDF dans [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Travailler avec votre [!DNL SharePoint] fichiers](integrate/acrobatandsp.md)
-   + [Convertir les messages électroniques et les pièces jointes en PDF dans [!DNL Outlook]](integrate/outlook.md)
-   + [Création de contenu de PDF lors de la navigation avec [!DNL Microsoft Edge]](integrate/edge.md)
-   + [Protect PDF utilisation [!DNL Microsoft Purview Information] étiquettes de sensibilité](integrate/microsoftsensitivitylabels.md)
-   + [Adobe Acrobat pour [!DNL Google Drive]](integrate/acrobatandgoogle.md)
-   + [Travailler avec des fichiers de [!DNL Dropbox]](integrate/acrobat-dropbox.md)
+   + [Créer des mots de PDF dans [!DNL Office] pour le web](integrate/createofficeweb.md)
+   + [Collaboration PDF dans  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
+   + [Travailler avec vos  [!DNL SharePoint] fichiers](integrate/acrobatandsp.md)
+   + [Convertir les messages électroniques et les pièces jointes en PDF dans  [!DNL Outlook]](integrate/outlook.md)
+   + [Créer du contenu de PDF lors de la navigation avec  [!DNL Microsoft Edge]](integrate/edge.md)
+   + [Protect PDF utilisant des étiquettes de sensibilité [!DNL Microsoft Purview Information] x](integrate/microsoftsensitivitylabels.md)
+   + [Adobe Acrobat pour  [!DNL Google Drive]](integrate/acrobatandgoogle.md)
+   + [Utiliser des fichiers de  [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Industries et départements {#by-industry}
    + [Présentation](industry/industry-overview.md)
    + Gouvernement {#gov}
       + [Présentation](industry/gov/gov-overview.md)
-      + 5 conseils pour travailler n’importe où avec Acrobat {#tips}
-         + [5 conseils pour travailler n’importe où avec Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
+      + 5 conseils pour travailler n&#39;importe où avec Acrobat {#tips}
+         + [5 conseils pour travailler n&#39;importe où avec Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Conseil #1 - Obtenir vos outils](industry/gov/get-your-tools.md)
          + [Conseil #2 - Collaborer sur des documents](industry/gov/collaborate-on-documents.md)
          + [#3 Conseil : documents numériques Protect](industry/gov/protect-digital-documents.md)
@@ -124,7 +124,7 @@ ht-degree: 3%
          + [#2 - Création dans Word](industry/gov/authoring-in-word.md)
          + [#3 - Finition dans Acrobat](industry/gov/finishing-in-acrobat.md)
          + [Rendre les bulletins de vote des PDF plus accessibles](industry/gov/making-pdf-ballots-accessible.md)
-+ Développement {#develop}
++ Développer {#develop}
    + [Présentation](develop/develop-overview.md)
 + Déployer {#deploy}
    + [Présentation](deploy/deploy-overview.md)
