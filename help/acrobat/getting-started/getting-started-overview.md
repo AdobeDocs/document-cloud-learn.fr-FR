@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
+source-git-commit: 23ccd52c03d641ee945b7ba9a9356f5d4894a50b
 workflow-type: tm+mt
-source-wordcount: '248'
+source-wordcount: '232'
 ht-degree: 4%
 
 ---
@@ -20,14 +20,12 @@ Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De 
 
 ## Nouveautés
 
+* [Modifier des graphiques dans un PDF](edit-graphics.md)
+Apprenez à créer, modifier et améliorer des images dans votre PDF
 * [Nouvelle expérience de l&#39;espace de travail](new-workspace.md)
 Découvrez le nouvel espace de travail d’Acrobat qui vous permet de découvrir rapidement les outils et d’effectuer efficacement les tâches de votre PDF
 * [Découvrir les informations du PDF avec l’assistant AI](ai-assistant.md)
 Découvrez comment obtenir des informations à partir de vos fichiers de PDF à l’aide de l’assistant AI
-* [Convertir le PDF en différents formats de fichiers](export-pdf.md)
-Découvrez comment convertir vos fichiers PDF dans différents formats de fichiers, tels que Microsoft Word, Excel ou PowerPoint
-* [Modifier le texte dans un PDF](edit-pdf.md)
-Découvrez comment modifier des mots, des expressions ou même des pages entières dans votre PDF
 
 ## Tutoriels de prise en main
 
@@ -112,6 +110,11 @@ Découvrez comment modifier des mots, des expressions ou même des pages entièr
       </a>
     </td>
     <td>
+      <a href="edit-graphics.md">
+        <img alt="Modification de graphiques dans un PDF" src="../assets/edit-graphics.png" />
+      </a>
+    </td>
+    <td>
       <a href="stylize-this-PDF.md">
         <img alt="Styliser ce PDF" src="../assets/stylize-pdf.png" />
       </a>
@@ -121,13 +124,29 @@ Découvrez comment modifier des mots, des expressions ou même des pages entièr
         <img alt="Ajustement automatique de la mise en page" src="../assets/auto-adjust.png" />
       </a>
     </td>
+  </tr>
     <td>
       <a href="export-pdf.md">
         <img alt="Conversion du PDF en différents formats de fichier" src="../assets/convert.png" />
       </a>
     </td>
-  </tr>
-  </table>
+    <td>
+   <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+   <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+   <td>
+   <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+</tr>
+</table>
 
 ## Tutoriels de collaboration
 
