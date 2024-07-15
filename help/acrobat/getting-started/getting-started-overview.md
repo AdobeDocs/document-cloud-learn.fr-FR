@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 9db61d9c32ab7ac66f11835132e065bcafdf7964
+source-git-commit: 45f8a9e0886f0c7c4f0dfa1ef0a8b705d3674696
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 2%
+source-wordcount: '248'
+ht-degree: 4%
 
 ---
 
@@ -135,23 +135,13 @@ Découvrez comment modifier des mots, des expressions ou même des pages entièr
   <tr>
     <td>
       <a href="collaborate.md">
-        <img alt="Collaborez en temps réel" src="../assets/Collaborate_1280.png" />
+        <img alt="Collaborez en temps réel" src="../assets/collaborate.png" />
       </a>
-      <div>
-      <a href="collaborate.md"><strong>Collaborez en temps réel</strong></a>
-      </div>
-      <em>Faites avancer vos projets en collectant des commentaires, en collaborant sur les réponses et en suivant la progression de vos documents, le tout en temps réel, où que vous soyez</em>
-      <br>
     </td>
     <td>
       <a href="comment-on-pdf-files.md">
-        <img alt="Commenter un PDF" src="../assets/Comment.jpg" />
+        <img alt="Commenter un PDF" src="../assets/comment.png" />
       </a>
-      <div>
-      <a href="comment-on-pdf-files.md"><strong>Commenter un PDF</strong></a>
-      </div>
-      <em>Ajoutez des commentaires à un fichier de PDF, puis partagez-le avec d'autres</em>
-      <br>
     </td>
     <td>
     <img alt="Espaceur" src="../assets/Whitespacer.png" />
@@ -172,65 +162,35 @@ Découvrez comment modifier des mots, des expressions ou même des pages entièr
 <tr>
   <td>
     <a href="create-fillable-forms.md">
-      <img alt="Création de formulaires à remplir" src="../assets/Form_1280.png" />
+      <img alt="Création de formulaires à remplir" src="../assets/fillable-forms.png" />
     </a>
-    <div>
-    <a href="create-fillable-forms.md"><strong>Créer des formulaires à remplir</strong></a>
-    </div>
-    <em>Convertir un document créé dans une autre application en formulaire de PDF à remplir</em>
-    <br>
   </td>
   <td>
     <a href="fill-and-sign.md">
-      <img alt="Remplir et signer un formulaire de PDF" src="../assets/FillSign_1280.png" />
+      <img alt="Remplir et signer un formulaire de PDF" src="../assets/fill-sign.png" />
     </a>
-    <div>
-    <a href="fill-and-sign.md"><strong>Fill &amp; Sign PDF forms</strong></a>
-    </div>
-    <em>Remplissez et signez rapidement un PDF</em>
-    <br>
   </td>
   <td>
     <a href="scan-and-ocr.md">
-      <img alt="Numérisation et ROC" src="../assets/Scan.jpg" />
+      <img alt="Numérisation et ROC" src="../assets/scan.png" />
     </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Numérisation et ROC</strong></a>
-    </div>
-    <em>Réduisez les fichiers volumineux et optimisez vos PDF sans compromettre la qualité du partage, de la publication ou de l'archivage</em>
-    <br>
   </td>
   <td>
     <a href="password-protect.md">
-      <img alt="Protect d’un fichier de mot de PDF avec un mot de passe" src="../assets/Protect.jpg" />
+      <img alt="Protect d’un fichier de mot de PDF avec un mot de passe" src="../assets/protect.png" />
     </a>
-    <div>
-    <a href="password-protect.md"><strong>Protect d'un fichier de mot de PDF avec un mot de passe</strong></a>
-    </div>
-    <em>Ajoutez un mot de PDF à votre mot de passe pour empêcher l'ouverture ou la modification du fichier</em>
-    <br>
   </td>
 </tr>
 <tr>
   <td>
     <a href="signatures.md">
-      <img alt="Obtenir des signatures" src="../assets/Signatures_1280.png" />
+      <img alt="Obtenir des signatures" src="../assets/signnatures.png" />
     </a>
-    <div>
-    <a href="signatures.md"><strong>Obtenir des signatures</strong></a>
-    </div>
-    <em>Faites bouger les affaires en collectant des signatures électroniques juridiquement contraignantes auprès d’autres personnes, où qu’elles se trouvent</em>
-    <br>
   </td>
   <td>
     <a href="track.md">
-      <img alt="Suivi de vos documents" src="../assets/Track_1280.png" />
+      <img alt="Suivi de vos documents" src="../assets/track.png" />
     </a>
-    <div>
-    <a href="track.md"><strong>Suivi de vos documents</strong></a>
-    </div>
-    <em>Sachez toujours quels fichiers sont en attente de signature et lesquels ont été signés</em>
-    <br>
   </td>
   <td>
    <img alt="Espaceur" src="../assets/Grayspacer.png" />
