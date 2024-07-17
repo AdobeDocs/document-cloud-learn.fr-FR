@@ -7,9 +7,9 @@ role: User
 jira: KT-8199
 thumb: KT-8199.jpg
 exl-id: 56ef2120-1765-4ed4-bf80-b048cbabe805
-source-git-commit: 35e2a22fe3327838df0bf06ba251d6c078d3ded7
+source-git-commit: 68b95d15285b0b11688a7f99c74086c60c36466e
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Les créateurs de compétences Adobe Acrobat sont des sessions de 30 minutes conçues pour faire passer vos workflows de PDF au niveau supérieur. Chaque mois, un nouveau sujet est mis en évidence.
 
-Consultez tous les webinaires à la demande [ici](https://gateway.on24.com/wcc/eh/2172296/category/41718/acrobat).
+Consultez tous les webinaires [ici](https://teamwork.adobe.com/adobe-acrobat-skill-builder/).
