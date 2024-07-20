@@ -1,5 +1,5 @@
 ---
-title: Commenter sur un PDF
+title: Commenter un PDF
 description: Découvrez comment ajouter des commentaires, puis partager un PDF pour révision avec d’autres personnes
 feature: Collaboration
 role: User
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Commenter sur un PDF
+# Commenter un PDF
 
-Une collaboration fluide est essentielle pour diffuser du contenu rapidement et à grande échelle. Découvrez comment ajouter des commentaires à un fichier de PDF, puis comment le partager avec d’autres personnes pour collecter des commentaires supplémentaires en temps réel.
+Une collaboration transparente est essentielle pour fournir du contenu rapidement et à grande échelle. Découvrez comment ajouter des commentaires à un fichier de PDF, puis partager ce fichier avec d’autres personnes pour recueillir des commentaires supplémentaires en temps réel.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)

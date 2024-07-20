@@ -1,6 +1,6 @@
 ---
-title: Partage d’accès
-description: Découvrez comment configurer un accès en lecture seule aux transactions dans le compte d’un autre utilisateur
+title: Accès au compte de partage
+description: Découvrez comment configurer l’accès en lecture seule aux transactions du compte d’un autre utilisateur
 feature: Administration
 role: User, Admin
 level: Intermediate
@@ -9,14 +9,14 @@ thumbnail: 40187.jpg
 exl-id: 3154f0d0-3cc7-45ab-9515-bd69f5e46546
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
 
-# Accès au compte de partage
+# Partage de l’accès au compte
 
-Découvrez comment configurer un accès en lecture seule aux transactions dans le compte d’un autre utilisateur.
+Découvrez comment configurer l’accès en lecture seule aux transactions du compte d’un autre utilisateur.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
 

@@ -1,6 +1,6 @@
 ---
 title: Rechercher plusieurs fichiers de PDF à la fois
-description: Lancez une recherche dans un fichier de PDF, puis lancez la recherche avancée et recherchez un dossier complet de fichiers de PDF
+description: Lancez une recherche dans un fichier de PDF, puis lancez la recherche avancée et recherchez dans un dossier entier de fichiers de PDF
 feature: Workspace
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Rechercher plusieurs fichiers de PDF en même temps
+# Rechercher dans plusieurs fichiers de PDF à la fois
 
-Dans ce tutoriel vidéo de 60 secondes, apprenez à lancer une recherche dans un fichier de PDF, puis à lancer la recherche avancée et à parcourir tout un dossier de fichiers de PDF.
+Dans ce tutoriel vidéo de 60 secondes, découvrez comment lancer une recherche dans un fichier de PDF, puis lancer la recherche avancée et rechercher dans un dossier entier de fichiers de PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/336363?quality=12&learn=on&hidetitle=true)

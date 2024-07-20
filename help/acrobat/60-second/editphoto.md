@@ -1,6 +1,6 @@
 ---
-title: Retouche d'une photo dans votre PDF
-description: Apprenez à retoucher une photo de manière avancée dans votre PDF avec Photoshop
+title: Modifier une photo dans votre PDF
+description: Apprenez à apporter des modifications avancées à une photo dans votre PDF à l’aide de Photoshop
 feature: Edit PDF
 role: User
 level: Intermediate
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Retouche d&#39;une photo dans votre PDF
+# Modifier une photo dans votre PDF
 
-Dans ce tutoriel vidéo de 60 secondes, apprenez à retoucher une photo dans votre PDF à l&#39;aide de Photoshop. De l’outil Modifier le PDF à Photoshop, puis de nouveau, le processus est fluide et vous permet de travailler rapidement et facilement.
+Dans ce tutoriel vidéo de 60 secondes, apprenez à apporter des modifications avancées à une photo dans votre PDF à l’aide de Photoshop ! De l’outil Modifier le PDF à Photoshop, puis de nouveau, le processus est fluide et vous permet de travailler rapidement et facilement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338276?quality=12&learn=on&hidetitle=true)

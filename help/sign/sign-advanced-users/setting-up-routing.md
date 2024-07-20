@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Configuration de l’ordre de signature
 
-Découvrez comment configurer l’ordre de signature pour plusieurs signataires. Envoyez un document dans l’ordre et/ou en parallèle, ou à des groupes spécifiques de personnes.
+Découvrez comment configurer l’ordre de signature pour plusieurs signataires. Envoyez un document en séquence et/ou en parallèle, ou à des groupes spécifiques d’individus.
 
 >[!NOTE]
 >
->Le routage hybride est uniquement disponible pour les formules d’entreprise. Votre administrateur Acrobat Sign devra peut-être activer ces fonctionnalités dans la section Paramètres d’envoi des Paramètres de compte.
+>L’acheminement hybride est uniquement disponible pour les formules de niveau entreprise. Votre administrateur Acrobat Sign devra peut-être activer ces fonctionnalités dans la section Paramètres d’envoi des Paramètres de compte.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)

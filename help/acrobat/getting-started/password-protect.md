@@ -9,18 +9,18 @@ thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
 source-git-commit: 77d0c2fafe7da12c9b21764bab72aa9e5c3f41f8
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '94'
 ht-degree: 2%
 
 ---
 
 # Protect d’un fichier de mot de PDF avec un mot de passe
 
-En savoir plus [ajouter un mot de PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target="_blank"} to protect others from opening or [editing the PDF file](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}.
+Découvrez comment [ajouter un mot de PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target="_blank"} pour empêcher l&#39;ouverture ou la [modification du fichier de mot de PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}.
 
 >[!TIP]
 >
->Pour protéger plusieurs fichiers par mot de PDF, essayez d’utiliser la commande [Action Wizard](../advanced-tasks/action.md).
+>Pour protéger par mot de PDF plusieurs fichiers, essayez d&#39;utiliser l&#39;[Action Wizard](../advanced-tasks/action.md).
 
 [!BADGE Impact organisationnel]
 Protection des informations, gestion des risques
@@ -29,4 +29,4 @@ Protection des informations, gestion des risques
 
 >[!TIP]
 >
-Cette vidéo fait partie du cours [Gagnez en efficacité avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !
+Cette vidéo fait partie du cours [Travailler plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !

@@ -1,6 +1,6 @@
 ---
 title: Champs de formulaire avancés
-description: Apprenez à configurer des calculs, à créer un bouton d’envoi par e-mail et à mettre rapidement à jour les pages d’un formulaire sans devoir recréer tous les champs existants
+description: Découvrez comment configurer des calculs, créer un bouton d’envoi par e-mail et mettre à jour rapidement les pages de formulaire sans recréer tous vos champs de formulaire existants
 feature: Edit PDF, Form
 role: User
 level: Experienced
@@ -16,20 +16,20 @@ ht-degree: 7%
 
 # Champs de formulaire avancés
 
-Dans ce tutoriel pratique, apprenez à configurer des calculs, à créer un bouton d&#39;envoi par e-mail et à mettre rapidement à jour les pages d&#39;un formulaire sans avoir à recréer tous les champs existants.
+Dans ce tutoriel pratique, découvrez comment configurer des calculs, créer un bouton d’envoi par e-mail et mettre rapidement à jour les pages de formulaire sans reconstituer tous vos champs de formulaire existants.
 
 <br> 
 
 ## Ce dont vous avez besoin
 
-[![Téléch. fichiers](../assets/Getfiles.svg)](../assets/ProjectEstimate.zip)
-Fichiers d&#39;exemple pour s&#39;entraîner (ZIP, 1,7 Mo)
+[![Obtenir des fichiers](../assets/Getfiles.svg)](../assets/ProjectEstimate.zip)
+Fichiers d’exemple pour s’entraîner (ZIP, 1,7 Mo)
 
 <br> 
 
 >[!TIP]
 >
->Activez les touches d’accès rapide uniques dans vos préférences sous la catégorie Général .
+>Activez les touches d’accès rapide uniques dans vos Préférences sous la catégorie Général.
 
 <br> 
 

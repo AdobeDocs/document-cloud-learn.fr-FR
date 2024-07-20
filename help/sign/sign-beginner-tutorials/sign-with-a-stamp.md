@@ -1,6 +1,6 @@
 ---
-title: Signature avec un tampon
-description: Apprenez à utiliser des tampons pour marquer un document approuvé ou complété
+title: Signer avec un tampon
+description: Découvrez comment utiliser des tampons pour marquer un document comme approuvé ou terminé
 feature: Sign
 role: User
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Signature avec un tampon
+# Signer avec un tampon
 
-Découvrez comment utiliser des tampons pour marquer un document approuvé ou complété.
+Découvrez comment utiliser des tampons pour marquer un document comme approuvé ou terminé.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345170?quality=12&learn=on&hidetitle=true)

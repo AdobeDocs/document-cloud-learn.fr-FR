@@ -1,6 +1,6 @@
 ---
-title: Numérisez tout document dans le PDF
-description: Découvrez comment convertir n’importe quel document papier en PDF avec l’application mobile gratuite Adobe Scan
+title: Numériser n’importe quel document dans le PDF
+description: Apprenez à convertir un document papier en PDF à l’aide de l’application mobile Adobe Scan
 feature: Mobile, Create PDF
 role: User
 level: Beginner
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# Numérisez tout document dans le PDF
+# Numériser n’importe quel document dans le PDF
 
-Apprenez à convertir tout document papier en PDF via l&#39;application mobile gratuite Adobe Scan.
+Apprenez à convertir n’importe quel document papier en PDF à l’aide de l’application mobile Adobe Scan.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
 

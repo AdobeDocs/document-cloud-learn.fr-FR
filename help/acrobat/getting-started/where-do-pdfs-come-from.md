@@ -1,6 +1,6 @@
 ---
 title: D'où viennent les PDF ?
-description: Comprendre d'où viennent les PDF et leurs utilisations
+description: Comprendre d’où viennent les PDF et leurs utilisations
 feature: Workflow
 role: User
 level: Beginner
@@ -15,6 +15,6 @@ ht-degree: 0%
 
 # D&#39;où viennent les PDF ?
 
-Découvrez d’où viennent les PDF et comment les utiliser dans des workflows digitaux.
+Découvrez d’où viennent les PDF et comment les utiliser dans les workflows numériques.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17096?quality=12&learn=on&hidetitle=true)

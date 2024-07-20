@@ -21,7 +21,7 @@ Gigasign vous permet d’envoyer, de collecter et de suivre des documents pour s
 
 >[!IMPORTANT]
 >
->GigaSign n’est plus mis à jour vers la dernière version de Java ou d’Acrobat Sign et ne bénéficiera que d’une prise en charge limitée. Les fonctionnalités de GigaSign sont ajoutées au produit dans le cadre du [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?) fonctionnalité. Utilisez Envoyer en masse pour tous les cas d’utilisation qui ne nécessitent pas explicitement l’utilisation de GigaSign.
+>GigaSign n’est plus mis à jour vers la dernière version de Java ou d’Acrobat Sign et ne bénéficiera que d’une prise en charge limitée. Les fonctionnalités de GigaSign sont ajoutées au produit sous la fonctionnalité [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?). Utilisez Envoyer en masse pour tous les cas d’utilisation qui ne nécessitent pas explicitement l’utilisation de GigaSign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/328113?quality=12&learn=on&hidetitle=true)
 
@@ -49,7 +49,7 @@ Gigasign vous permet d’envoyer, de collecter et de suivre des documents pour s
 
 1. Ouvrez GigaSign.
 
-1. Cliquez sur le bouton **[!UICONTROL Paramètres]** en haut à droite.
+1. Cliquez sur l&#39;icône **[!UICONTROL Paramètres]** en haut à droite.
 
 1. Collez la clé d’intégration sur la première ligne.
 

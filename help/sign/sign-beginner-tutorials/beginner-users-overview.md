@@ -10,7 +10,7 @@ exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
 workflow-type: tm+mt
 source-wordcount: '465'
-ht-degree: 5%
+ht-degree: 3%
 
 ---
 
@@ -20,9 +20,9 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 
 ## Nouveautés
 
-* [Prise en main d’Acrobat Sign](new-sender.md)
+* [Prise en main d&#39;Acrobat Sign](new-sender.md)
 Vous débutez avec Acrobat Sign ? Ce tutoriel est un excellent point de départ.
-* [Définition d’échéances et de rappels](set-deadlines-reminders.md)
+* [Définir des échéances et des rappels](set-deadlines-reminders.md)
 Découvrez comment envoyer régulièrement des rappels par e-mail et connaître les dates limites pour que vos documents soient signés rapidement
 
 ## Send
@@ -34,9 +34,9 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Espace de travail – Principes de base" src="../assets/workspace_1280.png" />
     </a>
     <div>
-    <a href="quick-tour.md"><strong>Espace de travail – Principes de base</strong></a>
+    <a href="quick-tour.md"><strong>Concepts de base de l'espace de travail</strong></a>
     </div>
-    <em>Découvrir rapidement l’espace de travail d’Acrobat Sign pour prendre en main votre application</em>
+    <em>Découvrez rapidement l’espace de travail d’Acrobat Sign pour être opérationnel</em>
     <br>
   </td>
   <td>
@@ -44,7 +44,7 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Prise en main d’Acrobat Sign" src="../assets/gettingstartednew.png" />
     </a>
     <div>
-    <a href="new-sender.md"><strong>Prise en main d’Acrobat Sign</strong></a>
+    <a href="new-sender.md"><strong>Prise en main d'Acrobat Sign</strong></a>
     </div>
     <em>Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs dans Acrobat Sign</em>
     <br>
@@ -56,7 +56,7 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
     <div>
     <a href="send-to-single-recipient.md"><strong>Envoi à un seul destinataire</strong></a>
     </div>
-    <em>Intervenez et découvrez à quel point il est facile d’envoyer un document pour signature</em>
+    <em>Découvrez à quel point il est facile d'envoyer un document pour signature</em>
     <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Envoi à plusieurs destinataires</strong></a>
     </div>
-    <em>Envoyez un document pour signature électronique à plusieurs personnes dans l’ordre exact souhaité</em>
+    <em>Envoyez un document pour signature électronique à plusieurs personnes dans l'ordre exact souhaité</em>
     <br>
   </td>
 </tr>
@@ -76,7 +76,7 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Configuration des options d’envoi" src="../assets/Sendingoptions.png" />
     </a>
     <div>
-    <a href="sending-options.md"><strong>Configuration des options d’envoi</strong></a>
+    <a href="sending-options.md"><strong>Configurer les options d'envoi</strong></a>
     </div>
     <em>Découvrez comment configurer différentes options lors de l’envoi d’un document pour signature</em>
     <br>
@@ -96,9 +96,9 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Modification d’un document après l’envoi" src="../assets/Modifying-sending.png" />
     </a>
     <div>
-    <a href="modify-in-flight.md"><strong>Modification d’un document après l’envoi</strong></a>
+    <a href="modify-in-flight.md"><strong>Modification d'un document après l'envoi</strong></a>
     </div>
-    <em>Modification d’un document déjà en cours</em>
+    <em>Modifier un document déjà en cours</em>
     <br>
   </td>
   <td>
@@ -106,7 +106,7 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Remplacer un signataire" src="../assets/replace-signer.png" />
     </a>
     <div>
-    <a href="replace-signer.md"><strong>Remplacer un signataire</strong></a>
+    <a href="replace-signer.md"><strong>Remplacement d’un signataire</strong></a>
     </div>
     <em>Découvrez comment modifier le signataire d’un document déjà en cours</em>
      <br>
@@ -118,9 +118,9 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
         <img alt="Définition d’échéances et de rappels" src="../assets/Reminders.png" />
       </a>
       <div>
-      <a href="set-deadlines-reminders.md"><strong>Définition d’échéances et de rappels</strong></a>
+      <a href="set-deadlines-reminders.md"><strong>Définir des échéances et des rappels</strong></a>
       </div>
-      <em>Découvrez comment envoyer régulièrement des rappels par e-mail et connaître les dates limites pour que vos documents soient signés rapidement</em>
+      <em>Découvrez comment envoyer régulièrement des rappels par e-mail et des dates limites pour que vos documents soient signés rapidement</em>
       <br>
     </td> 
   <td>
@@ -150,9 +150,9 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Signature électronique d’un document" src="../assets/Electronically-sign.png" />
     </a>
     <div>
-    <a href="electronically-sign-a-document.md"><strong>Signature électronique d’un document</strong></a>
+    <a href="electronically-sign-a-document.md"><strong>Signature électronique d'un document</strong></a>
     </div>
-    <em>Découvrez combien il est facile de signer un document qui vous est envoyé avec Acrobat Sign</em>
+    <em>Découvrez avec quelle facilité signer un document qui vous est envoyé avec Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -160,9 +160,9 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Remplissage et signature d’un document" src="../assets/FillandSign.png" />
     </a>
     <div>
-    <a href="fill-and-sign.md"><strong>Remplissage et signature d’un document</strong></a>
+    <a href="fill-and-sign.md"><strong>Remplissage et signature d'un document</strong></a>
     </div>
-    <em>Remplir des formulaires et ajouter votre signature électronique aux documents</em>
+    <em>Remplissez des formulaires et ajoutez votre signature électronique aux documents</em>
     <br>
   </td>
   <td>
@@ -170,9 +170,9 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Obtenir une signature en personne" src="../assets/In-person.png" />
     </a>
     <div>
-    <a href="sign-in-person.md"><strong>Obtenir une signature en personne</strong></a>
+    <a href="sign-in-person.md"><strong>Obtention d’une signature en personne</strong></a>
     </div>
-    <em>Obtenir la signature de quelqu’un d’autre en personne à l’aide de l’application mobile Acrobat Sign</em>
+    <em>Obtenez la signature d'une autre personne en personne à l'aide de l'application mobile Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -182,7 +182,7 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
     <div>
     <a href="delegate-signing.md"><strong>Déléguer la signature à quelqu’un d’autre</strong></a>
     </div>
-    <em>Découvrez comment déléguer la signature d’un document à une autre personne</em>
+    <em>Découvrez comment déléguer la signature d’un document à quelqu’un d’autre</em>
     <br>
   </td>
 </tr>
@@ -229,7 +229,7 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Gestion et suivi de vos accords" src="../assets/Manage_1280.png" />
     </a>
     <div>
-    <a href="manage-and-track.md"><strong>Gestion et suivi de vos accords</strong></a>
+    <a href="manage-and-track.md"><strong>Gérer et suivre vos accords</strong></a>
     </div>
     <em>Découvrez comment gérer et suivre les accords envoyés pour signature</em>
     <br>
@@ -239,9 +239,9 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
       <img alt="Création d’un modèle de document" src="../assets/Template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Création d’un modèle de document</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Création d'un modèle de document</strong></a>
     </div>
-    <em>Créez un modèle de document réutilisable pour offrir rapidité et cohérence à votre entreprise</em>
+    <em>Créez un modèle de document réutilisable pour offrir rapidité et cohérence à votre organisation</em>
     <br>
   </td>
   <td>

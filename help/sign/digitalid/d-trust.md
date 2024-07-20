@@ -1,6 +1,6 @@
 ---
-title: Inscrivez-vous et signez avec [ ! DNL D-Trust]
-description: Découvrez comment enregistrer votre identité avec [ ! DNL D-Trust], puis utiliser la signature numérique de [ ! DNL D-Trust] sur un document dans Acrobat Sign
+title: S'inscrire et signer à l'aide de [!DNL D-Trust]
+description: Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utiliser la signature numérique [!DNL D-Trust] sur un document dans Acrobat Sign
 feature: Digital ID
 role: User
 solution: Acrobat Sign
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# S’inscrire et signer avec [!DNL D-Trust]
+# S&#39;inscrire et signer à l&#39;aide de [!DNL D-Trust]
 
-Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utilisez la commande [!DNL D-Trust] signature numérique sur un document dans Acrobat Sign.
+Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utiliser la signature numérique [!DNL D-Trust] sur un document dans Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)

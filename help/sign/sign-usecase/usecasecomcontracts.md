@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Contrats commerciaux et formulaires de demande d&#39;approvisionnement
 
-Remplacez rapidement le traitement papier par des workflows numériques conformes, complétés par des rapports d’audit. Découvrez les [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) outil permettant de rationaliser l’ensemble du processus.
+Remplacez rapidement le traitement papier par des workflows numériques conformes, complétés par des rapports d’audit. Découvrez l&#39;outil [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) pour simplifier l&#39;ensemble du processus.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
 

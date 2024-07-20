@@ -12,60 +12,60 @@ thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '953'
-ht-degree: 1%
+source-wordcount: '947'
+ht-degree: 0%
 
 ---
 
 # Envoyer des rappels à l’aide du Guide de configuration d’Acrobat Sign pour Salesforce et Marketo
 
-Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps. Cette intégration utilise Acrobat Sign, Acrobat Sign pour Salesforce, Marketo et Marketo et Salesforce Sync.
+Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps. Cette intégration utilise Acrobat Sign, Acrobat Sign pour Salesforce, Marketo, ainsi que Marketo et Salesforce Sync.
 
 ## Conditions préalables
 
-1. Installez la synchronisation Salesforce de Marketo.
+1. Installez Marketo Salesforce Sync.
 
-   Informations et le dernier plug-in pour Salesforce Sync est disponible [ici.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Des informations et le dernier plug-in pour Salesforce Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html).
 
 1. Installez Acrobat Sign pour Salesforce.
 
-   Des informations sur ce plugin sont disponibles [ici.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Des informations sur ce plug-in sont disponibles [ici](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html).
 
 ## Recherche de l’objet personnalisé
 
-Une fois les configurations Marketo Salesforce Sync et Acrobat Sign pour Salesforce terminées, plusieurs nouvelles options s’affichent dans le portail Marketo Admin Terminal.
+Lorsque les configurations Marketo Salesforce Sync et Acrobat Sign pour Salesforce sont terminées, plusieurs nouvelles options apparaissent dans le terminal d’administration Marketo.
 
 ![Administrateur](assets/adminTab.png)
 
 ![Synchronisation des objets](assets/salesforceAdmin.png)
 
-1. Cliquez **Synchroniser le schéma** si c&#39;est votre première fois. Sinon, cliquez sur **Actualiser le schéma**.
+1. Cliquez sur **Synchroniser le schéma** si c&#39;est votre première fois. Sinon, cliquez sur **Actualiser le schéma**.
 
    ![Actualiser](assets/refreshSchema1.png)
 
-1. Si la synchronisation globale est en cours d’exécution, désactivez-la en cliquant sur **Désactiver la synchronisation globale**.
+1. Si la synchronisation globale est en cours d&#39;exécution, désactivez-la en cliquant sur **Désactiver la synchronisation globale**.
 
    ![Désactiver](assets/disableGlobal.png)
 
-1. Cliquez **Actualiser le schéma**.
+1. Cliquez sur **Actualiser le schéma**.
 
    ![Actualiser 2](assets/refreshSchema2.png)
 
 ## Synchronisation de l’objet personnalisé
 
-Sur le côté droit, voir Objets personnalisés basés sur un prospect, un contact et un compte.
+Sur le côté droit, voir Objets personnalisés Prospect, Contact et Compte.
 
-**Activer la synchronisation** pour les objets sous Piste si vous souhaitez envoyer un rappel lorsqu’une piste n’a pas signé d’accord dans Salesforce.
+**Activez la synchronisation** pour les objets sous Prospect si vous souhaitez envoyer un rappel lorsqu’un prospect n’a pas signé d’accord dans Salesforce.
 
-**Activer la synchronisation** pour les objets sous Contact si vous souhaitez envoyer un rappel lorsqu’un contact n’a pas signé d’accord dans Salesforce.
+**Activez la synchronisation** pour les objets sous Contact si vous souhaitez envoyer un rappel lorsqu&#39;un contact n&#39;a pas signé d&#39;accord dans Salesforce.
 
-**Activer la synchronisation** pour les objets sous Compte si vous souhaitez envoyer un rappel lorsqu’un compte n’a pas signé d’accord dans Salesforce.
+**Activez la synchronisation** pour les objets sous Compte si vous souhaitez envoyer un rappel lorsqu’un compte n’a pas signé d’accord dans Salesforce.
 
-1. **Activer la synchronisation** pour le **Accord** affiché sous le parent souhaité (Prospect, Contact ou Compte). Effectuez cette opération pour tout autre objet personnalisé à synchroniser.
+1. **Activez la synchronisation** pour l’objet **Accord** affiché sous le parent souhaité (prospect, contact ou compte). Procédez de la même manière pour tous les autres objets personnalisés que vous souhaitez synchroniser.
 
    ![Objet Accord](assets/agreementObject.png)
 
-1. Les ressources suivantes expliquent comment procéder **Activer la synchronisation**.
+1. Les actifs suivants indiquent comment **activer la synchronisation**.
 
    ![Synchronisation personnalisée 1](assets/customObjectSync1.png)
 
@@ -75,39 +75,39 @@ Sur le côté droit, voir Objets personnalisés basés sur un prospect, un conta
 
 1. Lorsque la synchronisation globale est désactivée, sélectionnez l’objet personnalisé Accord pour lequel vous avez activé la synchronisation, puis **Modifier les champs visibles**.
 
-1. Cochez le champ &quot;Nom de l’accord&quot; dans la colonne Déclencheur pour l’exposer à vos déclencheurs d’action de campagne. Cochez les autres champs par lesquels vous souhaitez filtrer, puis **Enregistrer**.
+1. Cochez le champ Nom de l’accord dans la colonne de déclenchement pour l’exposer à vos déclencheurs d’action de campagne. Vérifiez tous les autres champs par lesquels vous souhaitez filtrer, puis **Enregistrer**.
 
    ![Modifier les champs visibles 1](assets/editVisible1.png)
 
    ![Modifier les champs visibles 2](assets/editVisible2.png)
 
-1. Lorsque vous avez terminé d’activer la synchronisation sur les objets personnalisés et d’exposer les valeurs de déclencheur, n’oubliez pas de réactiver la synchronisation :
+1. Lorsque vous avez terminé d’activer la synchronisation sur les objets personnalisés et d’afficher les valeurs de déclenchement, n’oubliez pas de réactiver la synchronisation :
 
    ![Activer Global](assets/enableGlobal.png)
 
-## Création du programme et du jeton
+## Créer le programme et le jeton
 
 1. Dans la section Activités marketing de Marketo, cliquez avec le bouton droit de la souris sur **Activités marketing** dans la barre de gauche, sélectionnez **Nouveau dossier de campagne** et donnez-lui un nom.
 
    ![Nouveau dossier](assets/newFolder.png)
 
-1. Cliquez avec le bouton droit de la souris sur le dossier créé, sélectionnez **Nouveau programme** et donnez-lui un nom. Laissez le reste par défaut, puis cliquez sur **Créer**.
+1. Cliquez avec le bouton droit de la souris sur le dossier créé, sélectionnez **Nouveau programme** et donnez-lui un nom. Laissez tout le reste comme défaut, puis cliquez sur **Créer**.
 
    ![Nouveau programme 1](assets/newProgram1.png)
 
    ![Nouveau programme 2](assets/newProgram2.png)
 
-1. Cliquez sur **Mes jetons**, puis faites glisser  **Email Script** sur la zone de travail.
+1. Cliquez sur **Mes jetons**, puis faites glisser **Script de messagerie** sur la zone de travail.
 
-   ![Email Script](assets/emailScript.png)
+   ![Script de messagerie](assets/emailScript.png)
 
 1. Donnez-lui un nom, puis cliquez sur **Cliquer pour modifier**.
 
    ![Nommer et modifier](assets/nameAndSave.png)
 
-1. Développer **Objets personnalisés** sur le côté droit, puis développez la **Accord** objet. Recherchez et faites glisser le nom de l’accord, le statut de l’accord, la date de signature et l’URL de signature sur le canevas.
+1. Développez **Objets personnalisés** sur le côté droit, puis développez l&#39;**objet Accord**. Recherchez et faites glisser le nom de l’accord, le statut de l’accord, la date de signature et l’URL de signature sur le canevas.
 
-1. Rédigez un script Velocity à l’aide de ces jetons pour afficher l’URL d’un accord non signé pendant une semaine. Voici un exemple qui compare la date du jour à la Date d’envoi :
+1. Rédigez un script Velocity à l’aide de ces jetons pour afficher l’URL d’un accord non signé pendant une semaine. Voici un exemple qui compare la date actuelle à la date d’envoi :
 
    ```
    #foreach($agreement in $echosign_dev1__SIGN_Agreement__cList)
@@ -135,72 +135,72 @@ Sur le côté droit, voir Objets personnalisés basés sur un prospect, un conta
 
 1. Cliquez sur **Enregistrer**.
 
-## Création du rappel et personnalisation
+## Créer le rappel et ajouter une personnalisation
 
-Voici quelques exemples de personnalisation : le nom du signataire, le nom de l’accord, un lien vers l’accord, etc.
+Exemples de personnalisation : nom du signataire, nom de l’accord, lien vers l’accord, etc.
 
-1. Cliquez avec le bouton droit de la souris sur le programme que vous avez créé, puis cliquez sur **Nouvelle ressource locale**, puis sélectionnez **Email**.
+1. Cliquez avec le bouton droit sur le programme que vous avez créé, cliquez sur **Nouvelle ressource locale**, puis sélectionnez **Courrier électronique**.
 
-   ![Nouvelle adresse électronique](assets/createNewEmail.png)
+   ![Nouvel e-mail](assets/createNewEmail.png)
 
-1. Dans le nouvel onglet, entrez un **Nom** et **Description** pour l’e-mail et sélectionnez un modèle dans le sélecteur de modèles. Cliquez sur **Créer**.
+1. Dans le nouvel onglet, saisissez un **nom** et une **description** pour l’e-mail, puis sélectionnez un modèle dans le sélecteur de modèles. Cliquez sur **Créer**.
 
    ![Sélecteur de modèles](assets/templatePicker.png)
 
-1. Définissez la **Nom de départ** et **Adresse source**.
+1. Définissez **Nom de l&#39;expéditeur** et **Adresse de l&#39;expéditeur**.
 
-   ![E-mail de rappel](assets/reminderEmail.png)
+   ![E-Mail De Rappel](assets/reminderEmail.png)
 
-1. Cliquez sur le corps du message pour activer l&#39;éditeur. Cliquez sur le bouton **Insérer un jeton** , recherchez le jeton d’URL d’accord personnalisé que vous avez créé, puis cliquez sur **Insérer**. Terminez la personnalisation de votre courrier électronique, puis cliquez sur **Enregistrer**.
+1. Cliquez sur le corps du message pour activer l’éditeur. Cliquez sur le bouton **Insérer un jeton**, recherchez le jeton d’URL d’accord personnalisé que vous avez créé, puis cliquez sur **Insérer**. Terminez la personnalisation de votre adresse e-mail, puis cliquez sur **Enregistrer**.
 
    ![Insérer un jeton](assets/insertToken.png)
 
-1. Prévisualisez à l’aide d’un profil auquel un accord est affecté. Vous devriez voir un lien vers l’URL avec le nom de l’accord comme libellé.
+1. Affichez un aperçu à l’aide d’un profil auquel un accord est affecté. Un lien vers l’URL doit s’afficher, avec le nom de l’accord comme libellé.
 
-   ![Lien de messagerie](assets/emailLink.png)
+   ![Envoyer le lien par e-mail](assets/emailLink.png)
 
-## Configuration du filtre de campagne dynamique
+## Configuration du filtre Campagne intelligente
 
 1. Cliquez avec le bouton droit sur le programme que vous avez créé, puis cliquez sur **Nouvelle campagne intelligente**.
 
-   ![Smart Campaign 1](assets/smartCampaign1.png)
+   ![Campagne intelligente 1](assets/smartCampaign1.png)
 
-1. Donnez-lui le nom de votre choix, puis cliquez sur **Créer**.
+1. Donnez-lui un nom de votre choix, puis cliquez sur **Créer**.
 
-   ![Smart Campaign 2](assets/smartCampaign2.png)
+   ![Campagne intelligente 2](assets/smartCampaign2.png)
 
-1. Rechercher, puis cliquer et faire glisser **A un accord** à la liste dynamique.
+1. Recherchez, puis cliquez sur **Contient un accord** et faites-le glisser vers la liste dynamique.
 
-   ![A un accord](assets/hasAgreement.png)
+   ![A Un Accord](assets/hasAgreement.png)
 
-1. Les champs que vous avez exposés au déclencheur doivent désormais être disponibles dans **Ajouter une contrainte**. Sélectionner **Statut des accords** et tout autre champ par lequel vous souhaitez filtrer. Pour chaque champ ajouté, définissez les valeurs de filtrage. Dans ce cas, il se déclenche uniquement lorsque l’attribut **Statut des accords** est Émis pour signature et **Date d&#39;envoi** est dans le passé avant 7 jours.
+1. Les champs que vous avez exposés au déclencheur doivent maintenant être disponibles dans **Ajouter une contrainte**. Sélectionnez **État de l’accord** et tout autre champ par lequel vous souhaitez filtrer. Pour chaque champ ajouté, définissez les valeurs par lesquelles filtrer. Dans ce cas, il se déclenchera uniquement lorsque l’**état de l’accord** est Émis pour signature et que la **date d’envoi** est passée avant 7 jours.
 
    ![État de l’accord](assets/agreementStatus.png)
 
    >[!NOTE]
    >
-   > d un identifiant unique pour les contraintes, comme **Nom de contrat**, si vous souhaitez que cette campagne s’exécute uniquement pour certains accords.
+   > d un identifiant unique pour les contraintes, comme **Nom de l’accord**, si vous souhaitez que cette campagne s’exécute uniquement pour certains accords.
 
-1. Confirmez le public de la campagne et voyez qui sera éligible dans l&#39;onglet Programme.
+1. Confirmez l&#39;audience de la campagne et voyez qui sera éligible dans l&#39;onglet Calendrier.
 
    ![Qualificateurs](assets/qualifiers.png)
 
-## Configuration du flux de campagnes intelligentes
+## Configuration du flux de campagne intelligent
 
-Parce que le filtre de campagne **Jours non signés** a été utilisé, vous pouvez utiliser une périodicité planifiée pour la campagne.
+Le filtre de campagne **Jours sans signature** ayant été utilisé, vous pouvez utiliser une périodicité planifiée pour la campagne.
 
-1. Cliquez sur le bouton **Flux** dans la fenêtre Smart Campaign. Recherchez et faites glisser le **Envoyer un courrier électronique** dans la zone de travail et sélectionnez l’e-mail de rappel que vous avez créé dans la section précédente.
+1. Cliquez sur l&#39;onglet **Flux** dans la campagne intelligente. Recherchez et faites glisser le flux **Envoyer un e-mail** sur la zone de travail et sélectionnez l&#39;e-mail de rappel que vous avez créé dans la section précédente.
 
-   ![Envoyer un courrier électronique](assets/sendEmail.png)
+   ![Envoyer un e-mail](assets/sendEmail.png)
 
-1. Cliquez sur le bouton **Planification** dans la fenêtre Smart Campaign. Assurez-vous que le flux de campagne est limité à une seule exécution par personne dans le **Paramètres Smart Campaign**. Cliquez ensuite sur l’icône **Planifier la périodicité** .
+1. Cliquez sur l&#39;onglet **Planification** dans la campagne intelligente. Assurez-vous que le flux de campagne est limité à une seule exécution par personne dans les **paramètres de campagne intelligents**. Cliquez ensuite sur l&#39;onglet **Planifier la périodicité**.
 
-   ![Onglet Programme](assets/scheduleTab.png)
+   ![Onglet Planification](assets/scheduleTab.png)
 
-1. Définissez la **Planification** sur Quotidien, choisissez un jour et une heure de début, ainsi qu&#39;une date de fin pour la campagne si nécessaire.
+1. Définissez la **Planification** sur Quotidienne, choisissez un jour et une heure de début, ainsi qu&#39;une date de fin pour la campagne si nécessaire.
 
    ![Paramètres de planification](assets/scheduleSettings.png)
 
 >[!TIP]
 >
->Ce tutoriel fait partie du cours [Accélérez les cycles de vente avec Acrobat Sign pour Salesforce et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) qui est disponible gratuitement sur Experience League !
+>Ce tutoriel fait partie du cours [Accélérer les cycles de vente avec Acrobat Sign pour Salesforce et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), disponible gratuitement sur Experience League !

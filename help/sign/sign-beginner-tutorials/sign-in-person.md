@@ -10,13 +10,13 @@ thumbnail: 17362.jpg
 exl-id: 0b45fb6b-170e-4842-8627-dd9f0bc7b25d
 source-git-commit: 5b02a6316890f5b322fba3f693ce1cbe322dc669
 workflow-type: tm+mt
-source-wordcount: '47'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
 # Obtenir une signature en personne
 
-Découvrez comment obtenir la signature d’une autre personne en personne à l’aide de la fonctionnalité [application mobile Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
+Découvrez comment obtenir la signature d&#39;une autre personne en personne à l&#39;aide de l&#39;[application mobile Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)

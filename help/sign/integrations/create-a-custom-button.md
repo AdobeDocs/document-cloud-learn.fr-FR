@@ -18,6 +18,6 @@ ht-degree: 16%
 
 # Créer un bouton personnalisé dans Acrobat Sign pour [!DNL Salesforce]
 
-Découvrez comment créer un bouton personnalisé dans un objet standard sur Salesforce.com. Dans cet exemple, un bouton personnalisé est ajouté à un **Contact** dans [!DNL Salesforce]. Lorsque l’utilisateur clique sur le bouton, il lance le processus d’envoi et renseigne les informations à partir du **Contact** directement dans l’accord.
+Découvrez comment créer un bouton personnalisé dans un objet standard sur Salesforce.com. Dans cet exemple, un bouton personnalisé est ajouté à un **contact** dans [!DNL Salesforce]. Lorsque l’utilisateur clique sur le bouton, il lance le processus d’envoi et renseigne les informations du **Contact** directement dans l’accord.
 
 >[!VIDEO](https://video.tv.adobe.com/v/17352?quality=12&learn=on&hidetitle=true)

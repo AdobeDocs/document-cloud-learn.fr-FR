@@ -1,6 +1,6 @@
 ---
-title: Modification d’un formulaire web existant
-description: Découvrez comment désactiver, modifier et réactiver un formulaire web existant.
+title: Modifier un formulaire web existant
+description: Découvrez comment désactiver, modifier et réactiver un formulaire web existant
 feature: Web Forms
 role: User, Admin
 level: Intermediate

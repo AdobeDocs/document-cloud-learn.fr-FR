@@ -27,7 +27,7 @@ Découvrez comment transformer les expériences des clients et des employés en 
       <img alt="Tutoriels destinés aux organismes publics" src="../assets/Government.png" />
     </a>
     <div>
-    <a href="gov/gov-overview.md"><strong>Tutoriels destinés aux organismes publics</strong></a>
+    <a href="gov/gov-overview.md"><strong>Tutoriels destinés aux organismes d’État</strong></a>
     </div>
     <em>Explorez nos tutoriels Acrobat spécialement conçus pour les administrations fédérales, régionales et locales</em>
     <br>

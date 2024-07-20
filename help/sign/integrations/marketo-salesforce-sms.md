@@ -1,6 +1,6 @@
 ---
 title: Envoi de notifications à l’aide d’Acrobat Sign pour Salesforce et Marketo
-description: Découvrez comment envoyer un SMS, un e-mail ou une notification Push pour informer le signataire qu’un accord est en cours d’envoi
+description: Découvrez comment envoyer un SMS, un e-mail ou une notification push pour informer le signataire qu’un accord est en cours d’envoi.
 feature: Integrations
 role: Admin
 solution: Acrobat Sign, Marketo, Document Cloud
@@ -12,66 +12,66 @@ thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '688'
-ht-degree: 1%
+source-wordcount: '672'
+ht-degree: 0%
 
 ---
 
 # Envoyer des notifications à l’aide d’Acrobat Sign pour [!DNL Salesforce] et [!DNL Marketo]
 
-Découvrez comment envoyer un SMS, un e-mail ou une notification Push pour informer le signataire qu’un accord est en cours d’envoi à l’aide d’Acrobat Sign, Acrobat Sign pour Salesforce, Marketo et Marketo Salesforce Sync. Pour envoyer des notifications à partir de Marketo, vous devez d’abord acheter ou configurer une fonction de gestion des SMS de Marketo. Cette procédure pas à pas utilise [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), mais d’autres solutions SMS de Marketo sont disponibles.
+Découvrez comment envoyer un SMS, un e-mail ou une notification push pour informer le signataire qu’un accord est en cours d’envoi à l’aide d’Acrobat Sign, Acrobat Sign pour Salesforce, Marketo et la synchronisation Marketo Salesforce. Pour envoyer des notifications à partir de Marketo, vous devez d’abord acheter ou configurer une fonction de gestion des SMS Marketo. Cette procédure pas à pas utilise [Twilio SMS](https://launchpoint.marketo.com/twilio/twilio-sms-for-marketo/), mais d&#39;autres solutions Marketo SMS sont disponibles.
 
 ## Conditions préalables
 
-1. Installez la synchronisation Salesforce de Marketo.
+1. Installez Marketo Salesforce Sync.
 
-   Informations et le dernier plug-in pour Salesforce Sync est disponible [ici.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html)
+   Des informations et le dernier plug-in pour Salesforce Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html).
 
 1. Installez Acrobat Sign pour Salesforce.
 
-   Des informations sur ce plugin sont disponibles [ici.](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html)
+   Des informations sur ce plug-in sont disponibles [ici](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html).
 
 ## Recherche de l’objet personnalisé
 
-Une fois les configurations Marketo Salesforce Sync et Acrobat Sign pour Salesforce terminées, plusieurs nouvelles options apparaissent dans le terminal d’administration de Marketo.
+Une fois les configurations Marketo Salesforce Sync et Acrobat Sign pour Salesforce terminées, plusieurs nouvelles options apparaissent dans le terminal d’administration Marketo.
 
 ![Administrateur](assets/adminTab.png)
 
 ![Synchronisation des objets](assets/salesforceAdmin.png)
 
-1. Cliquez **Synchroniser le schéma** si c&#39;est votre première fois. Sinon, cliquez sur **Actualiser le schéma**.
+1. Cliquez sur **Synchroniser le schéma** si c&#39;est votre première fois. Sinon, cliquez sur **Actualiser le schéma**.
 
    ![Actualiser](assets/refreshSchema1.png)
 
-1. Si la synchronisation globale est en cours d’exécution, désactivez-la en cliquant sur **Désactiver la synchronisation globale**.
+1. Si la synchronisation globale est en cours d&#39;exécution, désactivez-la en cliquant sur **Désactiver la synchronisation globale**.
 
    ![Désactiver](assets/disableGlobal.png)
 
-1. Cliquez **Actualiser le schéma**.
+1. Cliquez sur **Actualiser le schéma**.
 
    ![Actualiser 2](assets/refreshSchema2.png)
 
 ## Synchronisation des objets personnalisés
 
-Sur le côté droit, voir Objets personnalisés basés sur un prospect, un contact et un compte.
+Sur le côté droit, voir Objets personnalisés Prospect, Contact et Compte.
 
-**Activer la synchronisation** pour les objets sous Piste si vous souhaitez le déclencher lorsqu’une piste est ajoutée à un accord dans Salesforce.
+**Activez la synchronisation** pour les objets sous Prospect si vous souhaitez déclencher lorsqu’un prospect est ajouté à un accord dans Salesforce.
 
-**Activer la synchronisation** pour les objets sous Contact si vous souhaitez déclencher lorsqu’un contact est ajouté à un accord dans Salesforce.
+**Activez la synchronisation** pour les objets sous Contact si vous souhaitez déclencher lorsqu’un contact est ajouté à un accord dans Salesforce.
 
-**Activer la synchronisation** pour les objets sous Compte si vous souhaitez le déclencher lorsqu’un compte est ajouté à un accord dans Salesforce.
+**Activez la synchronisation** pour les objets sous Compte si vous souhaitez déclencher lorsqu’un compte est ajouté à un accord dans Salesforce.
 
-1. **Activer la synchronisation** pour les objets personnalisés affichés sous le parent souhaité (Prospect, Contact ou Compte).
+1. **Activez la synchronisation** pour les objets personnalisés affichés sous le parent souhaité (prospect, contact ou compte).
 
    ![Objets personnalisés](assets/customObjects.png)
 
-1. Les ressources suivantes expliquent comment procéder **Activer la synchronisation**.
+1. Les actifs suivants indiquent comment **activer la synchronisation**.
 
    ![Synchronisation personnalisée 1](assets/customObjectSync1.png)
 
    ![Synchronisation personnalisée 2](assets/customObjectSync2.png)
 
-1. Lorsque vous avez terminé d’activer la synchronisation sur les objets personnalisés, réactivez la synchronisation.
+1. Une fois la synchronisation activée sur les objets personnalisés, réactivez-la.
 
    ![Activer Global](assets/enableGlobal.png)
 
@@ -81,7 +81,7 @@ Sur le côté droit, voir Objets personnalisés basés sur un prospect, un conta
 
    ![Nouveau dossier](assets/newFolder.png)
 
-1. Cliquez avec le bouton droit de la souris sur le dossier créé, sélectionnez **Nouveau programme** et donnez-lui un nom. Laissez le reste par défaut, puis cliquez sur **Créer**.
+1. Cliquez avec le bouton droit de la souris sur le dossier créé, sélectionnez **Nouveau programme** et donnez-lui un nom. Laissez tout le reste comme défaut, puis cliquez sur **Créer**.
 
    ![Nouveau programme 1](assets/newProgram1.png)
 
@@ -89,11 +89,11 @@ Sur le côté droit, voir Objets personnalisés basés sur un prospect, un conta
 
 ## Configuration de Twilio SMS
 
-Assurez-vous d&#39;abord d&#39;avoir un compte Twilio actif et acheté les fonctionnalités SMS dont vous avez besoin.
+Assurez-vous d’abord d’avoir un compte Twilio actif et d’avoir acheté les fonctionnalités SMS dont vous avez besoin.
 
 La configuration du webhook Marketo - Twilio SMS nécessite trois paramètres Twilio de votre compte.
 
-- SID du compte
+- SID de compte
 - Jeton de compte
 - Numéro de téléphone Twilio
 
@@ -103,54 +103,54 @@ Récupérez ces paramètres de votre compte, puis ouvrez votre instance Marketo.
 
    ![Administrateur](assets/adminTab.png)
 
-1. Cliquez sur **Webhooks**, puis **Nouveau webhook**.
+1. Cliquez sur **Webhooks**, puis sur **Nouveau webhook**.
 
    ![Webhooks](assets/webhooks.png)
 
-1. Saisissez un **Nom du webhook** et **Description**.
+1. Saisissez un **nom de webhook** et une **description**.
 
-1. Entrez l’URL suivante et veillez à remplacer la **[ACCOUNT_SID]** et **[AUTH_TOKEN]** avec vos identifiants Twilio.
+1. Entrez l&#39;URL suivante et assurez-vous de remplacer **[ACCOUNT_SID]** et **[AUTH_TOKEN]** par vos informations d&#39;identification Twilio.
 
    ```
    https://[ACCOUNT_SID]:[AUTH_TOKEN]@API.TWILIO.COM/2010-04-01/ACCOUNTS/[ACCOUNT_SID]/Messages.json
    ```
 
-1. Sélectionner **POST** comme type de demande.
+1. Sélectionnez **POST** comme type de demande.
 
-1. Saisissez les informations suivantes : **Modèle** et assurez-vous de remplacer **[MY_TWILIO_NUMBER]** avec votre numéro de téléphone Twilio et **[YOUR_MESSAGE]** avec un message de votre choix.
+1. Entrez le **modèle** suivant et assurez-vous de remplacer **[MY_TWILIO_NUMBER]** par votre numéro de téléphone Twilio et **[YOUR_MESSAGE]** par un message de votre choix.
 
    ```
    From=%2B1[MY_TWILIO_NUMBER]&To=%2B1{{lead.Mobile Phone Number:default=edit me}}&Body=[YOUR_MESSAGE]
    ```
 
-1. Définissez le codage du jeton de demande sur Formulaire/URL.
+1. Définissez le codage de jeton de demande sur Formulaire/URL.
 
 1. Définissez le type de réponse sur JSON, puis cliquez sur **Enregistrer**.
 
-## Configuration du déclencheur Smart Campaign
+## Configuration du déclencheur de campagne intelligent
 
-1. Dans la section Activités marketing , cliquez avec le bouton droit sur le programme que vous avez créé, puis sélectionnez **Nouvelle campagne intelligente**.
+1. Dans la section Activités marketing, cliquez avec le bouton droit sur le programme que vous avez créé, puis sélectionnez **Nouvelle campagne intelligente**.
 
-   ![Smart Campaign 1](assets/smartCampaign1.png)
+   ![Campagne intelligente 1](assets/smartCampaign1.png)
 
 1. Nommez-le, puis cliquez sur **Créer**.
 
-   ![Smart Campaign 2](assets/smartCampaign3.png)
+   ![Campagne intelligente 2](assets/smartCampaign3.png)
 
-   Si la configuration de la synchronisation d’objets personnalisée a été effectuée correctement, les déclencheurs suivants doivent être disponibles sous le dossier Salesforce.
+   Si la configuration de la synchronisation d’objets personnalisés a été effectuée correctement, les déclencheurs suivants devraient être disponibles sous le dossier Salesforce.
 
-1. Cliquez sur Ajouter à l’accord et faites-le glisser vers la liste dynamique. Ajoutez toutes les contraintes que vous souhaitez avoir sur le déclencheur.
+1. Cliquez et faites glisser l’option Ajouté à l’accord dans la liste dynamique. Ajoutez les contraintes que vous souhaitez appliquer au déclencheur.
 
    ![Ajouté à l’accord 2](assets/addedToAgreement2.png)
 
-## Configuration du flux de campagnes intelligentes
+## Configuration du flux de campagne intelligent
 
-1. Cliquez sur le bouton **Flux** dans la fenêtre Smart Campaign. Recherchez et faites glisser le **Appeler Webhook** ouvrez la zone de travail et sélectionnez le webhook que vous avez créé dans la section précédente.
+1. Cliquez sur l&#39;onglet **Flux** dans la campagne intelligente. Recherchez et faites glisser le flux **Appeler le webhook** sur la zone de travail et sélectionnez le webhook que vous avez créé dans la section précédente.
 
    ![Appeler Webhook](assets/callWebhook.png)
 
-1. Votre campagne d’avis par SMS pour les prospects ajoutés à un accord est maintenant configurée.
+1. Votre campagne de notification par SMS pour les prospects ajoutés à un accord est maintenant configurée.
 
 >[!TIP]
 >
->Ce tutoriel fait partie du cours [Accélérez les cycles de vente avec Acrobat Sign pour Salesforce et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1) qui est disponible gratuitement sur Experience League !
+>Ce tutoriel fait partie du cours [Accélérer les cycles de vente avec Acrobat Sign pour Salesforce et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), disponible gratuitement sur Experience League !

@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Signer électroniquement un document papier
 
-Dans ce tutoriel vidéo de 60 secondes, apprenez à utiliser Adobe Scan pour signer un formulaire imprimé. Numérisez-le, signez-le et envoyez-le en tant que PDF.
+Dans ce tutoriel vidéo de 60 secondes, apprenez à utiliser Adobe Scan pour signer un formulaire imprimé. Scannez-le, signez-le et envoyez-le simplement en tant que PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)

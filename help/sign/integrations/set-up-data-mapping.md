@@ -1,6 +1,6 @@
 ---
 title: Configuration du mappage de données
-description: Découvrez comment configurer un mappage de données pour Acrobat Sign dans [!DNL Salesforce]
+description: Découvrez comment configurer un mappage de données pour Acrobat Sign dans  [!DNL Salesforce]
 feature: Integrations
 role: Admin
 topic: Integrations
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Configuration du mappage de données dans [!DNL Salesforce]
 
-Découvrez comment configurer le mappage de données pour Acrobat Sign dans [!DNL Salesforce]. Le mappage de données vous permet d&#39;extraire des données _retour_ dans [!DNL Salesforce] après la signature d’un accord.
+Découvrez comment configurer le mappage de données pour Acrobat Sign dans [!DNL Salesforce]. Le mappage de données vous permet de récupérer les données _dans [!DNL Salesforce] après la signature d&#39;un accord._
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)

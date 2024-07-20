@@ -1,6 +1,6 @@
 ---
 title: Création rapide de fichiers de PDF plus efficaces
-description: Utilisez l’outil de Optimize PDF pour réduire considérablement la taille de vos fichiers de PDF
+description: Utilisez l’outil Optimize PDF pour réduire considérablement la taille de vos fichiers de PDF
 feature: Optimize PDF
 role: User
 level: Intermediate
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Création rapide de fichiers de PDF plus efficaces
+# Créez des fichiers de PDF plus efficaces en un clin d’œil
 
 >[!NOTE]
 >
 >Disponible dans Acrobat Pro uniquement.
 
-Dans ce tutoriel vidéo de 60 secondes, apprenez à réduire considérablement la taille des fichiers de votre Optimize PDF à l’aide de l’outil PDF.
+Dans ce tutoriel vidéo de 60 secondes, découvrez comment utiliser l’outil Optimize PDF pour réduire considérablement la taille de vos fichiers PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340077?quality=12&learn=on&hidetitle=true)

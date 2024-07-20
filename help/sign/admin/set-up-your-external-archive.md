@@ -1,6 +1,6 @@
 ---
 title: Configuration d'une archive externe
-description: Découvrez comment créer une archive externe pour sauvegarder les copies des accords qui ont été signés
+description: Découvrez comment créer une archive externe pour les copies de sauvegarde des accords signés
 feature: Administration
 role: Admin
 level: Beginner
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# Configuration d&#39;une archive externe
+# Configuration d’une archive externe
 
-Découvrez comment créer une archive externe pour sauvegarder les copies des accords qui ont été signés. Vous pouvez archiver des copies à n&#39;importe quelle adresse e-mail ou à [!DNL Box] et Evernote. Une copie de l’e-mail signé et complété est envoyée à l’adresse e-mail ou au service cloud que vous désignez.
+Découvrez comment créer une archive externe pour les copies de sauvegarde des accords signés. Vous pouvez archiver des copies vers n’importe quelle adresse e-mail ou vers [!DNL Box] et Evernote. Une copie de l’e-mail signé et complété est envoyée à l’adresse e-mail ou au service cloud que vous désignez.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)

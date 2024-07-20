@@ -1,6 +1,6 @@
 ---
 title: Acrobat Accessibility Series
-description: Série Accessibilité à la demande sur six sessions
+description: Série de six sessions sur l’accessibilité à la demande
 feature: Accessibility
 role: User
 level: Experienced
@@ -14,22 +14,22 @@ ht-degree: 0%
 
 ---
 
-# Série Accessibilité d’Acrobat
+# Série sur l’accessibilité d’Acrobat
 
-![Série Accessibilité d’Acrobat - Image](../assets/Hero_Accessibility.png)
+![Image de la série Acrobat Accessibility](../assets/Hero_Accessibility.png)
 
-Dans cette série de webinaires à la demande en six parties, passez des principes de base de l’accessibilité au balisage des fichiers de votre PDF. Chaque session comprend des fichiers d&#39;exemple à suivre.
+Dans cette série de webinaires à la demande en six parties, passez des bases de l’accessibilité à un examen approfondi du balisage de vos fichiers de PDF. Chaque session comprend des fichiers d’exemple à suivre.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="accessibilitysession1.md">
-      <img alt="Introduction à l’accessibilité des PDF" src="../assets/Accessibilitysession1_1280.png" />
+      <img alt="Introduction à l’accessibilité des mots de PDF" src="../assets/Accessibilitysession1_1280.png" />
     </a>
     <div>
     <a href="accessibilitysession1.md"><strong>Introduction à l’accessibilité des PDF</strong></a>
     </div>
-    <em>Dans cette session à la demande, découvrez ce que signifie rendre un PDF accessible, comment configurer Acrobat Pro pour qu’il fonctionne sur les PDF en matière d’accessibilité et le processus de conversion d’un document source en PDF</em>
+    <em>Au cours de cette session à la demande, découvrez ce que signifie rendre un PDF accessible, comment configurer Acrobat Pro pour qu’il fonctionne sur les PDF pour l’accessibilité et le processus de conversion d’un document source en PDF</em>
     <br>
   </td>
   <td>
@@ -37,9 +37,9 @@ Dans cette série de webinaires à la demande en six parties, passez des princip
       <img alt="Correction d’un PDF inaccessible" src="../assets/Accessibilitysession2_1280.png" />
     </a>
     <div>
-    <a href="accessibilitysession2.md"><strong>Correction d’un PDF inaccessible</strong></a>
+    <a href="accessibilitysession2.md"><strong>Correction d'un PDF inaccessible</strong></a>
     </div>
-    <em>Dans cette session à la demande, découvrez le flux de travaux pour convertir un document Word et résoudre certains problèmes de balisage de base à l’aide des outils Acrobat Pro présentés dans le webinaire d’introduction</em>
+    <em>Au cours de cette session à la demande, découvrez le workflow permettant de convertir un document Word et de résoudre certains problèmes de balisage de base à l'aide des outils Acrobat Pro présentés dans le webinaire d'introduction</em>
     <br>
   </td>  
   <td>
@@ -49,7 +49,7 @@ Dans cette série de webinaires à la demande en six parties, passez des princip
     <div>
     <a href="accessibilitysession3.md"><strong>Tableaux complexes</strong></a>
     </div>
-    <em>Cette session à la demande aborde l’un des problèmes les plus courants et les plus difficiles dans la résolution d’un PDF pour l’accessibilité : les tableaux complexes</em>
+    <em>Cette session à la demande résout l’un des problèmes les plus courants et les plus difficiles de la résolution d’un PDF d’accessibilité : les tableaux complexes</em>
     <br>
   </td>
 </tr>
@@ -61,7 +61,7 @@ Dans cette série de webinaires à la demande en six parties, passez des princip
     <div>
     <a href="accessibilitysession4.md"><strong>Documents numérisés et listes complexes</strong></a>
     </div>
-    <em>Cette session à la demande aborde les problèmes plus complexes auxquels les utilisateurs sont souvent confrontés, tels que les documents numérisés et les listes complexes</em>
+    <em>Cette session à la demande aborde les problèmes les plus complexes que les utilisateurs rencontrent fréquemment, tels que les documents numérisés et les listes complexes</em>
     <br>
   </td>
   <td>
@@ -81,7 +81,7 @@ Dans cette série de webinaires à la demande en six parties, passez des princip
     <div>
     <a href="accessibilitysession6.md"><strong>Ajout de champs de formulaire à un PDF sans balise</strong></a>
     </div>
-    <em>Cet atelier à la demande approfondit la création de champs de formulaire manuels et de propriétés de champs de formulaire supplémentaires</em>
+    <em>Cette session à la demande approfondit la création de champs de formulaire manuels et de propriétés de champs de formulaire supplémentaires</em>
     <br>
   </td> 
 </tr>

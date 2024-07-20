@@ -1,6 +1,6 @@
 ---
 title: Espace de travail – Principes de base
-description: Découvrez comment Acrobat facilite l'accès aux fichiers et outils sur les ordinateurs, le web et les appareils mobiles
+description: Découvrez comment Acrobat facilite l’accès aux fichiers et aux outils sur ordinateur, web et mobile
 feature: Workspace
 role: User
 level: Beginner
@@ -16,11 +16,11 @@ ht-degree: 6%
 
 # Espace de travail – Principes de base
 
-Découvrez comment l’interface d’Acrobat facilite l’accès aux fichiers et outils sur les postes de travail, le web et les appareils mobiles, grâce à une expérience cohérente dans l’espace de travail.
+Découvrez comment l’interface d’Acrobat facilite l’accès aux fichiers et aux outils sur les postes de travail, le web et les appareils mobiles, grâce à un espace de travail cohérent.
 
 >[!TIP]
 >
->Vous souhaitez en savoir plus sur la nouvelle expérience d’espace de travail que vous pouvez activer dans Acrobat ? Extraire [Nouvel espace de travail](new-workspace.md).
+>Vous souhaitez en savoir plus sur la nouvelle expérience d’espace de travail que vous pouvez activer dans Acrobat ? Découvrez la [nouvelle expérience de l&#39;espace de travail](new-workspace.md).
 
 <br> 
 

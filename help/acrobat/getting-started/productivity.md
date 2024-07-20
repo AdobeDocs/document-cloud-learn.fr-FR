@@ -1,5 +1,5 @@
 ---
-title: Productivité en déplacement
+title: Productivité mobile
 description: Allez plus loin directement depuis votre tablette ou votre téléphone mobile avec l’application mobile Acrobat Reader
 feature: Mobile
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Productivité en déplacement
+# Productivité mobile
 
-Le télétravail étant omniprésent, il est impératif de diffuser du contenu rapidement et à grande échelle. Découvrez comment aller plus loin directement depuis votre tablette ou votre téléphone mobile avec l’application mobile Acrobat Reader.
+Avec le travail à distance partout, il est essentiel de fournir du contenu rapidement et à grande échelle. Apprenez à en faire plus directement depuis votre tablette ou votre téléphone mobile avec l’application mobile Acrobat Reader.
 
 >[!TIP]
 >
->Vous souhaitez en savoir plus sur les outils Acrobat accessibles depuis n’importe où ? Extraire [Utilisation d’Acrobat sur le web](acrobatweb.md).
+>Vous souhaitez en savoir plus sur les outils Acrobat auxquels vous pouvez accéder de n’importe où ? Consultez [Travailler n&#39;importe où avec Acrobat web](acrobatweb.md).
 
 <br> 
 

@@ -16,11 +16,11 @@ ht-degree: 0%
 
 # Modification de texte dans un PDF
 
-Découvrez comment modifier des mots, des expressions ou même des pages entières dans votre PDF. La modification de texte directement dans Acrobat vous permet de mettre à jour le contenu avec précision et de manière professionnelle, sans passer d’une application à l’autre. Ce tutoriel vidéo utilise la fonctionnalité [nouvelle expérience de l’espace de travail](new-workspace.md).
+Découvrez comment modifier des mots, des expressions ou même des pages entières dans votre PDF. La modification de texte directement dans Acrobat vous permet de mettre à jour le contenu avec précision et de manière professionnelle, sans passer d’une application à l’autre. Ce tutoriel vidéo utilise la [nouvelle expérience de l&#39;espace de travail](new-workspace.md).
 
 >[!TIP]
 >
->En savoir plus sur le nouveau mode de modification qui [ajuste automatiquement le contenu](auto-adjust-layout.md).
+>Découvrez le nouveau mode de modification qui [ajuste automatiquement le contenu](auto-adjust-layout.md).
 
 <br> 
 
@@ -28,4 +28,4 @@ Découvrez comment modifier des mots, des expressions ou même des pages entièr
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Gagnez en efficacité avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Travailler plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !

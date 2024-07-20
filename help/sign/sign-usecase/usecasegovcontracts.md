@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Marchés publics et formulaires de demande d&#39;approvisionnement
 
-Remplacez rapidement le traitement papier par des workflows numériques conformes, complétés par des rapports d’audit. Découvrez comment utiliser l’outil Acrobat Sign Workflow Designer pour simplifier l’ensemble du processus.
+Remplacez rapidement le traitement papier par des workflows numériques conformes, complétés par des rapports d’audit. Découvrez comment utiliser l’outil Designer de flux de travaux d’Acrobat Sign pour simplifier l’ensemble du processus.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33811?quality=12&learn=on&hidetitle=true)
 

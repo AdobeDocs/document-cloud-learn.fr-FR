@@ -27,17 +27,17 @@ Protection des données client, gestion des risques
 
 ## Biffer du texte et des images
 
-1. Sélectionner **[!UICONTROL Biffer]** à partir du [!UICONTROL Outils] volet central ou droit.
+1. Sélectionnez **[!UICONTROL Biffer]** dans le volet central ou droit des [!UICONTROL outils].
 
-   ![Biffer l’étape 1](../assets/Redact_1.png)
+   ![Biffer L’Étape 1](../assets/Redact_1.png)
 
-1. Sélectionner **[!UICONTROL Biffer du texte et des images]** **>** **[!UICONTROL Propriétés]** pour personnaliser l’apparence de vos biffures, y compris la couleur des zones de biffure ou de l’incrustation de texte.
+1. Sélectionnez **[!UICONTROL Biffer le texte et les images]** **>** **[!UICONTROL Propriétés]** pour personnaliser l’apparence de vos biffures, y compris la couleur des zones de biffure ou de l’incrustation de texte.
 
    ![Biffer l’étape 2](../assets/Redact_2.png)
 
 Pour biffer des informations, commencez par marquer les éléments à supprimer, puis appliquez les biffures. Vous pouvez biffer des pages entières ou du contenu sélectionné.
 
-1. Sélectionner **[!UICONTROL Biffer des pages]**, puis choisissez la page ou la plage de pages à biffer, puis sélectionnez **[!UICONTROL OK]**.
+1. Sélectionnez **[!UICONTROL Biffer des pages]**, puis choisissez la page ou la plage de pages à biffer, puis sélectionnez **[!UICONTROL OK]**.
 
    ![Biffer l’étape 4](../assets/Redact_3.png)
 
@@ -45,30 +45,30 @@ Vous pouvez également utiliser le curseur pour sélectionner le contenu à biff
 
    ![Biffer l’étape 5a](../assets/Redact_4.png)
 
-1. Sélectionner **[!UICONTROL Biffer du texte et des images]** **>** **[!UICONTROL Rechercher du texte et des biffures]** pour rechercher un contenu spécifique à biffer.
+1. Sélectionnez **[!UICONTROL Biffer du texte et des images]** **>** **[!UICONTROL Rechercher du texte et des biffures]** pour trouver du contenu spécifique à biffer.
 
 Utilisez la zone de recherche pour rechercher un mot ou une expression spécifique.
 
-1. Sélectionner **[!UICONTROL Motifs]** pour rechercher certains types of informations, puis cochez les cases et sélectionnez **[!UICONTROL Rechercher et supprimer du texte]**.
+1. Sélectionnez **[!UICONTROL Motifs]** pour trouver certains types of puis cochez les cases et sélectionnez **[!UICONTROL Rechercher et supprimer du texte]**.
 
    ![Biffer l’étape 5b](../assets/Redact_5.png)
 
-1. Sélectionner **[!UICONTROL Appliquer]** dans le [!UICONTROL Biffer] menu supérieur pour appliquer les biffures marquées et enregistrer le fichier biffé.
+1. Sélectionnez **[!UICONTROL Appliquer]** dans le menu supérieur [!UICONTROL Biffer] pour appliquer les biffures marquées et enregistrer le fichier biffé.
 
    ![Biffer l’étape 6](../assets/Redact_6.png)
 
 ## Assainir le document
 
-1. Sélectionner **[!UICONTROL Assainir le document]** dans le [!UICONTROL Biffer] menu supérieur.
+1. Sélectionnez **[!UICONTROL Assainir le document]** dans le menu supérieur [!UICONTROL Biffer].
 
-1. Sélectionner **[!UICONTROL OK]** pour confirmer la suppression des informations masquées. Ou choisissez **[!UICONTROL Cliquez ici]** pour supprimer de manière sélective les informations masquées.
+1. Sélectionnez **[!UICONTROL OK]** pour confirmer la suppression des informations masquées. Ou sélectionnez **[!UICONTROL Cliquer ici]** pour supprimer de manière sélective les informations masquées.
 
    ![Assainir l’étape 2](../assets/Redact_7.png)
 
 >[!TIP]
 >
-Pour accélérer le processus de biffure, consultez le [Action Wizard](../advanced-tasks/action.md).
+Pour accélérer le processus de biffure, consultez l&#39;[Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >
-Cette vidéo fait partie du cours [Gagnez en efficacité avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !
+Cette vidéo fait partie du cours [Travailler plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !

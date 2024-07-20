@@ -1,6 +1,6 @@
 ---
-title: Création d'un rapport
-description: Découvrez comment créer vos propres rapports pour obtenir une visibilité sur le processus de signature des documents
+title: Création d’un rapport
+description: Découvrez comment créer vos propres rapports pour bénéficier d’une visibilité sur le processus de signature de documents
 feature: Report
 role: User, Admin
 level: Intermediate
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Création d&#39;un rapport
+# Création d’un rapport
 
-Apprenez à créer vos propres rapports pour obtenir de la visibilité sur votre processus de signature de documents ou découvrez comment les groupes ou les utilisateurs s’en sortent.
+Apprenez à créer vos propres rapports pour bénéficier d’une meilleure visibilité sur le processus de signature de vos documents ou à observer les actions de groupes ou d’utilisateurs individuels.
 
 >[!NOTE]
 >
->Les rapports sont uniquement disponibles pour les formules professionnelles et d’entreprise.
+>La création de rapports est uniquement disponible pour les formules Entreprises et Grands comptes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)

@@ -1,6 +1,6 @@
 ---
 title: Ajout de signets et d’hyperliens
-description: Découvrez comment ajouter des signets et des hyperliens pour une meilleure navigation et une meilleure interaction avec vos fichiers de PDF
+description: Découvrez comment ajouter des signets et des hyperliens pour une meilleure navigation et interaction avec les fichiers de votre PDF
 feature: Edit PDF
 role: User
 level: Intermediate
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Ajout de signets et d’hyperliens
 
-Découvrez comment ajouter des signets et des hyperliens pour une meilleure navigation et une meilleure interaction avec vos fichiers de PDF.
+Découvrez comment ajouter des signets et des hyperliens pour une meilleure navigation et interaction avec les fichiers de votre PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)

@@ -9,21 +9,21 @@ thumbnail: 17357.jpg
 exl-id: 337320ae-6e0c-45f9-8e1f-751a293375ad
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '97'
-ht-degree: 17%
+source-wordcount: '94'
+ht-degree: 18%
 
 ---
 
 # Création d&#39;un graphique de rapport
 
-Découvrez comment créer, enregistrer et gérer vos propres rapports personnalisés et exportations de données dans une vue personnalisée grâce à la nouvelle expérience de création de rapports. La disponibilité des graphiques de rapports dépend du niveau d’autorité des utilisateurs dans le système Acrobat Sign.
+Apprenez à créer, enregistrer et gérer vos propres rapports personnalisés et exportations de données dans une vue personnalisée grâce à la nouvelle expérience de création de rapports. La disponibilité des graphiques de rapports dépend du niveau d’autorité des utilisateurs dans le système Acrobat Sign.
 
 >[!NOTE]
 >
->Les rapports sont uniquement disponibles pour les formules professionnelles et d’entreprise.
+>La création de rapports est uniquement disponible pour les formules Entreprises et Grands comptes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33812?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Prise en main d’Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) qui est disponible gratuitement sur Experience League !

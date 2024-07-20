@@ -1,6 +1,6 @@
 ---
 title: Remplacement d’un signataire
-description: Apprenez à remplacer un signataire, par exemple, lorsqu’un mauvais e-mail a été utilisé lors de l’envoi d’un document pour signature
+description: Découvrez comment remplacer un signataire, par exemple lorsqu’un e-mail incorrect a été utilisé lors de l’envoi d’un document pour signature
 feature: Sign, Workflow
 role: User
 level: Beginner
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# Remplacement d’un signataire
+# Remplacer un signataire
 
-Apprenez à remplacer un signataire, par exemple, lorsqu’un mauvais e-mail a été utilisé lors de l’envoi d’un document pour signature.
+Apprenez à remplacer un signataire (par exemple, si un e-mail incorrect a été utilisé lors de l’envoi d’un document pour signature).
 
 >[!NOTE]
 >
->Le paramètre par défaut de l’option Remplacer le destinataire est le remplacement complet du destinataire actuel par un nouveau. Des options supplémentaires sont disponibles pour les formules Business et Enterprise.
+>Le paramètre par défaut pour Remplacer le destinataire consiste à remplacer entièrement le destinataire actuel par un nouveau destinataire. Les formules Entreprises et Grands comptes offrent d’autres options.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)

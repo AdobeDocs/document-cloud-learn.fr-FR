@@ -16,11 +16,11 @@ ht-degree: 2%
 
 # Conversion du PDF en différents formats de fichier
 
-Découvrez comment convertir vos fichiers de PDF dans différents formats de fichiers, tels que [Microsoft Word](https://www.adobe.com/fr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/fr/acrobat/online/pdf-to-ppt.html), et [Excel](https://www.adobe.com/fr/acrobat/online/pdf-to-excel.html). Conversion de votre PDF en [Adobe Express](https://express.adobe.com) pour ajouter des éléments de conception de marque, cette option est également couverte. Lorsque vous convertissez votre PDF dans un autre format de fichier comme Microsoft Word, cela améliore l’efficacité du workflow documentaire et permet de gagner un temps considérable lorsque vous apportez des modifications importantes à vos documents volumineux. Ce tutoriel vidéo utilise la nouvelle expérience de l’espace de travail.
+Découvrez comment convertir vos fichiers PDF dans différents formats de fichiers, tels que [Microsoft Word](https://www.adobe.com/fr/acrobat/online/pdf-to-word.html), [PowerPoint](https://www.adobe.com/fr/acrobat/online/pdf-to-ppt.html) et [Excel](https://www.adobe.com/fr/acrobat/online/pdf-to-excel.html). La conversion de votre PDF en [Adobe Express](https://express.adobe.com) pour ajouter des éléments de conception de marque est également abordée. Lorsque vous convertissez votre PDF dans un autre format de fichier comme Microsoft Word, cela améliore l’efficacité du workflow documentaire et permet de gagner un temps considérable lorsque vous apportez des modifications importantes à vos documents volumineux. Ce tutoriel vidéo utilise la nouvelle expérience de l’espace de travail.
 
 >[!TIP]
 >
->Pour exporter plusieurs fichiers de PDF vers un autre format, essayez d’utiliser la commande [Action Wizard](../advanced-tasks/action.md).
+>Pour exporter plusieurs fichiers de PDF vers un autre format, utilisez l&#39;[Action Wizard](../advanced-tasks/action.md).
 
 <br> 
 
@@ -28,8 +28,8 @@ Découvrez comment convertir vos fichiers de PDF dans différents formats de fic
 
 >[!TIP]
 >
->En savoir plus sur l’utilisation de [Acrobat et Microsoft 365](../integrate/integrate-overview.md).
+>Découvrez comment utiliser [Acrobat et Microsoft 365](../integrate/integrate-overview.md).
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Gagnez en efficacité avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Travailler plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !

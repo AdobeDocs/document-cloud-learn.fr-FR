@@ -1,6 +1,6 @@
 ---
-title: Définir les échéances et les rappels
-description: Découvrez comment envoyer régulièrement des rappels par e-mail et fixer des échéances pour faire signer rapidement vos documents
+title: Définition d’échéances et de rappels
+description: Découvrez comment envoyer régulièrement des rappels par e-mail et connaître les dates limites pour que vos documents soient signés rapidement
 feature: Deadline, Sign
 role: User
 level: Beginner
@@ -16,11 +16,11 @@ ht-degree: 6%
 
 # Définition d’échéances et de rappels
 
-Découvrez comment envoyer régulièrement des rappels par e-mail et fixer des échéances pour faire signer rapidement vos documents.
+Découvrez comment envoyer régulièrement des rappels par e-mail et connaître les dates limites pour que vos documents soient signés rapidement.
 
 >[!NOTE]
 >
->Les formules Enterprise et Business peuvent afficher l’option Rappel de manière sélective lors du processus d’envoi ou activer l’automatisation à l’échelle du compte/groupe.
+>Les formules Grands comptes et Entreprises peuvent exposer de manière sélective l’option Rappel pendant le processus d’envoi ou activer l’automatisation à l’échelle du compte/groupe.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
 

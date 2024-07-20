@@ -1,6 +1,6 @@
 ---
 title: Commandes et outils personnalisés
-description: Découvrez comment améliorer la productivité des workflows documentaires à l’aide de commandes et d’outils personnalisés
+description: Apprenez à améliorer la productivité du flux de production de documents à l’aide d’outils et de commandes personnalisés
 feature: Workflow, Workspace
 role: User
 level: Intermediate
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Commandes et outils personnalisés
 
-Découvrez comment améliorer la productivité des workflows documentaires à l’aide de commandes et d’outils personnalisés. Ensuite, partagez vos nouvelles commandes et vos nouveaux outils avec vos collègues pour améliorer l’efficacité de votre organisation.
+Apprenez à améliorer la productivité d’un flux de production de documents à l’aide d’outils et de commandes personnalisés. Ensuite, partagez vos nouveaux outils et commandes avec vos collègues pour améliorer l&#39;efficacité de l&#39;organisation.
 
 >[!NOTE]
 >
->Les commandes personnalisées sont disponibles uniquement dans Acrobat Pro.
+>Les commandes personnalisées sont disponibles dans Acrobat Pro uniquement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)

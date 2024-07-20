@@ -1,5 +1,5 @@
 ---
-title: Reconnaissance du texte d’un fichier de PDF numérisé
+title: Reconnaître le texte dans un fichier de PDF numérisé
 description: Convertir un PDF numérisé afin de pouvoir rechercher du texte dans le PDF
 feature: Edit PDF
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Reconnaissance du texte d’un fichier de PDF numérisé
+# Reconnaissance du texte dans un fichier de PDF numérisé
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment convertir un PDF numérisé afin de pouvoir rechercher du texte dans le PDF.
 

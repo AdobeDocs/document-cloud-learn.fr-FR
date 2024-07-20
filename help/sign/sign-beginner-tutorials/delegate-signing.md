@@ -1,5 +1,5 @@
 ---
-title: Déléguer la signature à un autre utilisateur
+title: Déléguer la signature à quelqu’un d’autre
 description: Découvrez comment déléguer la signature d’un document à une autre personne
 feature: Sign, Workflow
 role: User
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Déléguer la signature à un autre utilisateur
+# Déléguer la signature à quelqu’un d’autre
 
 Découvrez comment déléguer la signature d’un document à une autre personne.
 

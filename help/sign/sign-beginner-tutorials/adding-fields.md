@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Ajout de champs à vos documents
 
-Découvrez comment placer automatiquement des champs sur votre document ou utiliser l’environnement de création glisser-déposer dans Acrobat Sign.
+Découvrez comment placer automatiquement des champs dans votre document ou utiliser l’environnement de création par glisser-déposer dans Acrobat Sign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/346620?quality=12&learn=on&hidetitle=true)

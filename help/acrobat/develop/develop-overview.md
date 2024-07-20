@@ -9,7 +9,7 @@ thumbnail: KT-6861.jpg
 exl-id: 6cb60610-ee77-4212-b9a4-8e078593be29
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '83'
 ht-degree: 0%
 
 ---
@@ -20,12 +20,12 @@ Développez un logiciel qui s’intègre à Acrobat et Adobe Reader à l’aide 
 
 ## SDK ACROBAT
 
-Le [SDK ACROBAT](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} est un ensemble d’outils qui vous aide à développer un logiciel qui interagit avec la technologie Acrobat.
+Le [SDK Acrobat](https://opensource.adobe.com/dc-acrobat-sdk-docs/acrobatsdk/){target="_blank"} est un ensemble d&#39;outils qui vous aident à développer un logiciel qui interagit avec la technologie Acrobat.
 
 ## API Adobe Acrobat Services
 
 [API Adobe PDF Services](https://developer.adobe.com/document-services/apis/pdf-services/){target="_blank"}
 [API Adobe PDF Extract](https://developer.adobe.com/document-services/apis/pdf-extract/){target="_blank"}
-[API Adobe Document Generation](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
+[API Document Generation Adobe](https://developer.adobe.com/document-services/apis/doc-generation/){target="_blank"}
 [API Adobe PDF Embed](https://developer.adobe.com/document-services/apis/pdf-embed/){target="_blank"}
 [Tutoriels Adobe Acrobat Services](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html){target="_blank"}

@@ -10,8 +10,8 @@ thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '126'
-ht-degree: 28%
+source-wordcount: '100'
+ht-degree: 10%
 
 ---
 
@@ -28,7 +28,7 @@ Envoyez des documents pour signature, suivez la progression de la signature éle
     <div>
     <a href="sign-mobile.md"><strong>Signer des documents où que vous soyez</strong></a>
     </div>
-    <em>Apprenez à signer des documents à l’aide de l’application mobile Acrobat Sign</em>
+    <em>Apprenez à signer des documents à l'aide de l'application mobile Acrobat Sign</em>
     <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Envoyez des documents pour signature, suivez la progression de la signature éle
       <img alt="Télécharger pour iOS" src="assets/Mobile_iOS.png" />
     </a>
     <div>
-    <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank"><strong>Téléchargement de l’application mobile Acrobat Sign pour iOS</strong></a>
+    <a href="https://apps.apple.com/us/app/adobe-sign/id481082197" target="_blank"><strong>Téléchargez l’application mobile Acrobat Sign pour iOS</strong></a>
     <br>
   </td>
   <td>

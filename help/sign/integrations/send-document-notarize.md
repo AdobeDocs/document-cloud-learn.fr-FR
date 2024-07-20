@@ -1,6 +1,6 @@
 ---
-title: Envoi de documents pour autorisation
-description: Découvrez comment envoyer un document pour autorisation
+title: Envoi de documents pour authentification notariale
+description: Découvrez comment envoyer un document pour authentification notariale
 feature: Integrations
 role: User
 level: Intermediate
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# Envoi de documents pour autorisation
+# Envoi de documents pour authentification notariale
 
-Adobe Acrobat Sign s’est associé à Notarize, Inc. pour fournir des services d’authentification notariale en ligne. Dans ce tutoriel en trois parties, découvrez comment envoyer un document pour autorisation, afficher l’expérience du signataire et recevoir les résultats.
+Adobe Acrobat Sign s’est associé à Notarize, Inc. pour fournir des services d’authentification en ligne. Dans ce tutoriel en trois parties, découvrez comment envoyer un document pour authentification notariale, afficher l’expérience du signataire et recevoir les résultats.
 
 >[!NOTE]
 >
->L’intégration d’Acrobat Sign avec [!DNL Notarize] Le service d&#39;authentification notariale en ligne d&#39;Inc. n&#39;est disponible qu&#39;aux États-Unis avec des plans de service de niveau Business et Enterprise.
+>L’intégration d’Acrobat Sign avec le service d’authentification notariale en ligne de [!DNL Notarize] Inc. est uniquement disponible aux États-Unis avec les formules de service de niveau professionnel et entreprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Lorsque l’authentification notariale est activée pour un compte Acrobat Sign, l’expéditeur peut sélectionner **Nécessite une autorisation** en sélectionnant les points de suspension à droite de l’enregistrement du destinataire. L’option d’authentification notariale est disponible uniquement pour les destinataires dotés d’un rôle de signataire.
+>Lorsque l’authentification notariale est activée pour un compte Acrobat Sign, l’expéditeur peut sélectionner **Nécessite une authentification notariale** en sélectionnant l’ellipse sur le côté droit de l’enregistrement du destinataire. L’option d’authentification notariale est uniquement disponible pour les destinataires ayant le rôle de Signataire.

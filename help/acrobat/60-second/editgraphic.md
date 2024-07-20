@@ -1,6 +1,6 @@
 ---
-title: Modification d’une image dans votre PDF
-description: Apprenez à apporter des modifications avancées à une image dans votre PDF à l’aide d’Illustrator
+title: Modification d’un graphique dans votre PDF
+description: Apprenez à apporter des modifications avancées à un graphique dans votre PDF à l’aide d’Illustrator
 feature: Edit PDF
 role: User
 level: Intermediate
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Modification d’une image dans votre PDF
 
-Dans ce tutoriel vidéo de 60 secondes, apprenez à apporter des modifications avancées à une image dans votre PDF à l’aide d’Illustrator. Après avoir sélectionné Modifier le PDF, cliquez avec le bouton droit sur une image et choisissez de la modifier dans Illustrator. Lorsque vous avez terminé, choisissez Enregistrer dans Illustrator. Acrobat met alors à jour l’illustration dans le PDF.
+Dans ce tutoriel vidéo de 60 secondes, apprenez à apporter des modifications avancées à une image dans votre PDF à l’aide d’Illustrator ! Après avoir sélectionné Modifier le PDF, cliquez avec le bouton droit de la souris sur un graphique et choisissez de le modifier dans Illustrator. Lorsque vous avez terminé, il vous suffit de choisir Enregistrer dans Illustrator pour qu’Acrobat mette à jour l’illustration dans le PDF.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)

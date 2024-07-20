@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Accords de politique commerciale
 
-Collectez efficacement les signatures de tous vos employés sur les accords de stratégie, les mises à jour de stratégie, etc. Découvrez comment créer un formulaire web en ligne pouvant être rempli **et** signé sans imprimer ni poster quoi que ce soit.
+Collectez efficacement les signatures de tous vos employés sur les accords de stratégie, les mises à jour de stratégie, etc. Découvrez comment créer un formulaire web en ligne qui peut être rempli, signé **et** sans impression ni envoi postal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
 

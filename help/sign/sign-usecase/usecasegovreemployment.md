@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Aide au réemploi
 
-Aidez les citoyens à obtenir l&#39;aide dont ils ont besoin sans avoir à remplir des formulaires de demande entièrement numériques qui peuvent être mis en ligne en quelques jours. Découvrez comment créer un formulaire web en ligne pouvant être rempli **et** signé sans imprimer ni poster quoi que ce soit.
+Aidez les citoyens à obtenir l&#39;aide dont ils ont besoin sans avoir à remplir des formulaires de demande entièrement numériques qui peuvent être mis en ligne en quelques jours. Découvrez comment créer un formulaire web en ligne qui peut être rempli, signé **et** sans impression ni envoi postal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33809?quality=12&learn=on&hidetitle=true)
 

@@ -1,6 +1,6 @@
 ---
-title: Remplir et signer un document
-description: Découvrez comment remplir des formulaires et apposer votre signature électronique sur des documents
+title: Remplissage et signature d’un document
+description: Découvrez comment remplir des formulaires et ajouter votre signature électronique à des documents
 feature: Form, Sign
 role: User
 level: Beginner
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Remplissage et signature d’un document
 
-Comment remplir des formulaires ? **ET** apposez votre signature électronique sur vos documents.
+Découvrez comment remplir les formulaires **ET** et ajouter votre signature électronique aux documents.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)

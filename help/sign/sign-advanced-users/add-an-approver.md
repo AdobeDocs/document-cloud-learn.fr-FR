@@ -10,14 +10,14 @@ thumbnail: 17367.jpg
 exl-id: e3d46b27-c30b-47eb-8d84-3d99813f3096
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 22%
+source-wordcount: '90'
+ht-degree: 23%
 
 ---
 
-# Utilisation du rôle d&#39;approbateur
+# Utilisation du rôle d’approbateur
 
-Découvrez comment envoyer un document via un processus d’approbation. Dans cet exemple, découvrez comment envoyer un contrat de recrutement via le service des ressources humaines, un employé potentiel et le responsable du recrutement. Le rôle d’approbateur fonctionne bien lorsqu’une personne doit « approuver » un document avant qu’il soit envoyé au signataire.
+Découvrez comment envoyer un document via un processus d’approbation. Dans cet exemple, découvrez comment envoyer un contrat d&#39;embauche par le biais des ressources humaines, d&#39;un employé potentiel et du responsable de l&#39;embauche. Le rôle d’approbateur fonctionne bien lorsqu’une personne doit « approuver » un document avant qu’il soit envoyé au signataire.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
 

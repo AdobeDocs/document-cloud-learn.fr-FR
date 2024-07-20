@@ -1,6 +1,6 @@
 ---
 title: Création et gestion de groupes
-description: Découvrez comment créer des groupes, ajouter des utilisateurs à des groupes et modifier des paramètres de groupe
+description: Découvrez comment créer des groupes, ajouter des utilisateurs à des groupes et modifier les paramètres de groupe
 feature: Administration, Deploy
 role: Admin
 level: Intermediate
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Création et gestion de groupes
 
-Découvrez comment créer des groupes, ajouter des utilisateurs à des groupes et modifier des paramètres de groupe. Les groupes vous permettent d’avoir des sous-ensembles distincts d’utilisateurs qui ont accès à différents documents de bibliothèque et à différents paramètres (tels que des logos et des parties en copie).
+Découvrez comment créer des groupes, ajouter des utilisateurs à des groupes et modifier les paramètres de groupe. Les groupes vous permettent d’avoir des sous-ensembles distincts d’utilisateurs qui ont accès à différents documents de bibliothèque et à différents paramètres (tels que les logos et les parties en copie).
 
 >[!NOTE]
 >
->Les groupes sont uniquement disponibles pour les formules de niveau Business et Enterprise.
+>Les groupes sont uniquement disponibles pour les formules Entreprises et Grands comptes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/344682?quality=12&learn=on&hidetitle=true)

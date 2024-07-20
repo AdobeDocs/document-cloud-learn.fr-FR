@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Ne faites jamais l’erreur de travailler avec la mauvaise version d’un fichier. Détectez rapidement et précisément les différences entre deux fichiers de PDF pour améliorer les workflows de révision de documents.
 
-[!BADGE Cas d’utilisation]
+[!BADGE Cas D’Utilisation]
 Applications, documents connexes, fiches d&#39;information, manuels, politiques, rapports, appels d&#39;offres
 
 [!BADGE Impact organisationnel]
@@ -28,7 +28,7 @@ Applications, documents connexes, fiches d&#39;information, manuels, politiques,
 
 >[!TIP]
 >
-Cette vidéo fait partie du cours [Gagnez en efficacité avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) disponible gratuitement sur Experience League !
+Cette vidéo fait partie du cours [Travailler plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !
 
 >[!NOTE]
 >

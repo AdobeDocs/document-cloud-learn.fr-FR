@@ -1,20 +1,20 @@
 ---
-title: Partage et commentaires sur des fichiers de PDF dans Teams
+title: Partage et commentaires sur les fichiers de PDF dans Teams
 description: Découvrez comment collaborer en temps réel sur un fichier de PDF dans Microsoft Teams
 feature: Collaboration, Integrations
 role: User
 level: Intermediate
 jira: KT-13296
-exl-id: b8411496-6488-4c13-b26e-dd5f6b825494
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+exl-id: 9276d255-6e6e-461b-abc9-77aaa62e827a
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
 
 ---
 
-# Partage et commentaires sur des fichiers de PDF dans Teams
+# Partage et commentaires sur les fichiers de PDF dans Teams
 
-Dans ce tutoriel vidéo de 60 secondes, découvrez comment collaborer en temps réel sur un fichier PDF dans Microsoft Teams.
+Dans ce tutoriel vidéo de 60 secondes, découvrez comment collaborer en temps réel sur un fichier de PDF dans Microsoft Teams.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343048?quality=12&learn=on&hidetitle=true)

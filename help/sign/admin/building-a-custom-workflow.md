@@ -9,7 +9,7 @@ thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '140'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ ht-degree: 0%
 
 Découvrez comment personnaliser et automatiser les workflows de documents pour obtenir des signatures électroniques, collecter des données de formulaire et confirmer la remise d’un document important afin de rationaliser la gestion des workflows.
 
-[!BADGE Cas d’utilisation]
+[!BADGE Cas D’Utilisation]
 
-* [Workflow personnalisé pour le processus IEP Éducation](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
-Découvrez comment le concepteur de workflow personnalisé est utilisé pour numériser un processus de programme d’éducation individualisé (IEP)
-* [Forms des contrats et des demandes d&#39;approvisionnement gouvernementaux](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
+* [Processus IEP personnalisé pour l’éducation](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+Découvrez comment le Designer de workflow personnalisé est utilisé pour numériser un processus de programme d’éducation individualisé (IEP)
+* [Forms des contrats et des demandes d&#39;approvisionnement du gouvernement](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
 * [Forms des contrats commerciaux et des demandes d&#39;approvisionnement](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
 
 >[!NOTE]
 >
->Les administrateurs de groupe peuvent affecter des workflows à n&#39;importe quel groupe qu&#39;ils gèrent (pas seulement à leur groupe principal). Les administrateurs de groupe peuvent également modifier tout workflow affecté à un groupe qu’ils gèrent.
+Les administrateurs de groupe peuvent affecter des workflows à n&#39;importe quel groupe qu&#39;ils gèrent (pas seulement à leur groupe principal). Les administrateurs de groupe peuvent également modifier tout workflow affecté à un groupe qu’ils gèrent.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Initiation à Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) disponible gratuitement sur Experience League !
+Cette vidéo fait partie du cours [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) qui est disponible gratuitement sur Experience League !

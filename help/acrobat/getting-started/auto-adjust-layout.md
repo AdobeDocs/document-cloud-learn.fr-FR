@@ -1,5 +1,5 @@
 ---
-title: Réglage automatique de la mise en page
+title: Ajustement automatique de la mise en page
 description: Découvrez le nouveau mode de modification qui ajuste automatiquement le contenu
 feature: Edit PDF
 role: User
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 ---
 
-# Réglage automatique de la disposition
+# Ajustement automatique de la mise en page
 
-Découvrez le nouveau mode de modification qui redistribue le contenu et ajuste automatiquement la mise en page sur les pages de votre PDF. Ce tutoriel vidéo utilise le [nouvel espace de travail](new-workspace.md).
+Découvrez le nouveau mode de modification qui redistribue le contenu et ajuste automatiquement la mise en page sur les pages de votre PDF. Ce tutoriel vidéo utilise la [nouvelle expérience de l&#39;espace de travail](new-workspace.md).
 
 >[!NOTE]
 >
->La mise en page de réglage automatique ne prend pas encore en charge tous les types de contenu ou de langues du PDF.
+>L&#39;ajustement automatique de la mise en page ne prend pas encore en charge tous les types de contenu ou de langues du PDF.
 
 <br> 
 

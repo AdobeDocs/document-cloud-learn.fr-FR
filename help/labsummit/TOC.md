@@ -20,7 +20,7 @@ ht-degree: 0%
 # Libérez les expériences digitales avec Adobe Document Cloud {#lab719}
 
 + [Présentation du laboratoire](overview.md)
-+ Libérez les expériences digitales avec Adobe Document Cloud {#gsd}
++ Libérez des expériences numériques avec Adobe Document Cloud {#gsd}
    + [Libérez les expériences digitales avec Adobe Document Cloud](gsd.md)
    + [Ex.1 : numériser n&#39;importe quel formulaire](scan.md)
    + [Ex.2 : remplir et signer n’importe quel formulaire](fillsign.md)

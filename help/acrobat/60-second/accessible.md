@@ -1,6 +1,6 @@
 ---
-title: Acrobat vous aide à rendre les PDF accessibles
-description: Vérifiez si un PDF est accessible
+title: Laissez Acrobat vous aider à rendre les mots de PDF accessibles
+description: Vérifier si un PDF est accessible
 feature: Accessibility
 role: User
 level: Intermediate
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# Acrobat vous aide à créer des PDF accessibles
+# Laissez Acrobat vous aider à rendre les mots de PDF accessibles
 
 >[!NOTE]
 >

@@ -23,7 +23,7 @@ ht-degree: 7%
 # Acrobat Sign Tutorials {#sign-learning-hub}
 
 + [Présentation](overview.md)
-+ Prise en main {#getting-started}
++ Prise en main de {#getting-started}
    + [Présentation](sign-beginner-tutorials/beginner-users-overview.md)
    + Envoyer {#getting-started-sending}
       + [Espace de travail – Principes de base](sign-beginner-tutorials/quick-tour.md)
@@ -44,7 +44,7 @@ ht-degree: 7%
       + [Signature avec un tampon](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Gérer {#getting-started-managing}
       + [Gestion et suivi de vos accords](sign-beginner-tutorials/manage-and-track.md)
-      + [Création d’un modèle de document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
+      + [Création d&#39;un modèle de document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Tâches avancées {#advanced-tasks}
    + [Présentation](sign-advanced-users/advanced-users-overview.md)
    + Envoyer {#advanced-tasks-sending}
@@ -57,7 +57,7 @@ ht-degree: 7%
       + [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
       + [Création d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
       + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
-      + [Utilisation du balisage de texte dans [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
+      + [Utilisation du balisage de texte dans  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gérer {#advanced-tasks-managing}
       + [Création d’un rapport](sign-advanced-users/creating-a-report.md)
       + [Gestion des modèles de document](sign-advanced-users/edit-a-template.md)
@@ -65,7 +65,7 @@ ht-degree: 7%
       + [Gestion des données de formulaire web](sign-advanced-users/manage-webform-data.md)
 + Administrer {#admin-set-up}
    + [Présentation](admin/intro-admin-overview.md)
-   + Prise en main {#getting-started-admin}
+   + Prise en main de {#getting-started-admin}
       + [Prise en main pour les nouveaux administrateurs](admin/get-started-admin.md)
       + [Prêt pour les administrateurs](admin/up-and-running-admin.md)
       + [Configuration des notifications pour les événements et les alertes](admin/set-up-shared-events-and-alert.md)
@@ -76,7 +76,7 @@ ht-degree: 7%
       + [Création d&#39;un graphique de rapport](admin/create-a-report.md)
       + [Options de rapport pour les utilisateurs](admin/report-options.md)
       + [Création d’un formulaire web](sign-advanced-users/webform.md)
-      + [Modification d’un formulaire web existant](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
+      + [Modifier un formulaire web existant](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Envoi en masse](sign-advanced-users/megasign.md)
       + [Création d’un workflow personnalisé](admin/building-a-custom-workflow.md)
    + Tâches avancées {#advanced-tasks-admins}
@@ -90,52 +90,52 @@ ht-degree: 7%
    + Aadhaar {#aadhaar}
       + [Signature à l’aide d’Aadhaar](digitalid/aadhaar-sign.md)
    + Digidentity {#digidentity}
-      + [S’inscrire et signer avec [!DNL Digidentity]](digitalid/digidentity-sign.md)
+      + [S&#39;inscrire et signer à l&#39;aide de  [!DNL Digidentity]](digitalid/digidentity-sign.md)
    + D-Trust {#dtrust}
       + [S&#39;inscrire et signer à l&#39;aide de [!DNL D-Trust]](digitalid/d-trust.md)
-   + Intesi Group {#intesi}
+   + Groupe Intesi {#intesi}
       + [Obtention d’un ID numérique auprès de l’Intesi Group (avancé)](digitalid/intesi-advanced.md)
       + [Obtenir un ID numérique de l’Intesi Group (qualifié)](digitalid/intesi-qualified.md)
       + [Signature avec Intesi Group](digitalid/intesi-sign.md)
 + Intégrations {#integrations}
    + [Présentation](integrations/integrations-overview.md)
    + Microsoft {#microsoft}
-      + [Remplissage et connexion [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
-      + [Envoyer pour signature dans [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
-      + [Envoyer pour signature dans [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
-      + [Suivi en entrée [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
-      + [Intégration d’un formulaire web à [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
+      + [Remplissage et signature dans  [!DNL Outlook]](integrations/fill-and-sign-doc-microsoft-outlook.md)
+      + [Envoyer pour signature dans  [!DNL Outlook]](integrations/send-for-signature-with-outlook.md)
+      + [Envoyer pour signature dans  [!DNL SharePoint Online]](integrations/send-for-signature-with-sharepoint-online.md)
+      + [Suivi dans  [!DNL SharePoint Online]](integrations/track-an-agreement-with-sharepoint-online.md)
+      + [Intégrer un formulaire web à  [!DNL SharePoint Online]](integrations/integrate-web-form-sharepoint-online.md)
       + [Archiver automatiquement les fichiers dans [!DNL SharePoint] avec [!DNL Power Automate]](integrations/auto-archive-sharepoint-power-automate.md)
-      + [Automatisation des documents avec Acrobat Sign pour [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
-      + [Envoyer pour signature dans [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
-      + [Live Sign dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
-      + [Intégration de l’onglet Documents pour [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
-      + [Création d’un workflow simple dans [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
-      + [Création d’un workflow avancé dans [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
+      + [Automatisation des documents avec Acrobat Sign pour  [!DNL Microsoft Power Platform]](integrations/documentautomation.md)
+      + [Envoyer pour signature dans  [!DNL Microsoft Teams]](integrations/adobe-sign-teams-mortgage.md)
+      + [Connexion en direct dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]](integrations/live-sign-microsoft-teams.md)
+      + [Intégration de l&#39;onglet Documents pour  [!DNL Microsoft Teams]](integrations/acrobat-sign-teams-documents-tab.md)
+      + [Créer un workflow simple dans  [!DNL Power Automate]](integrations/simple-workflow-power-automate.md)
+      + [Créer un workflow avancé dans  [!DNL Power Automate]](integrations/advanced-workflow-power-automate.md)
       + [[!DNL Microsoft Dynamics 365] pour le service client](integrations/dynamics-customer-service.md)
       + [[!DNL Microsoft Dynamics 365] pour Field Service](integrations/dynamics-field-service.md)
       + [[!DNL Microsoft Dynamics 365] pour les ventes](integrations/dynamics-sales.md)
-   + Notarize {#notarize}
+   + Authentifier {#notarize}
       + [Envoi de documents pour authentification notariale](integrations/send-document-notarize.md)
    + Salesforce {#salesforce}
-      + [Document Builder pour [!DNL Salesforce]](integrations/create-an-agreement-template.md)
+      + [Document Builder pour  [!DNL Salesforce]](integrations/create-an-agreement-template.md)
       + [Configuration du mappage de données](integrations/set-up-data-mapping.md)
       + [Configuration du mappage de fusion](integrations/set-up-merging-map.md)
       + [Création d’un bouton personnalisé](integrations/create-a-custom-button.md)
    + Workday {#workday}
-      + [Configuration d’Acrobat Sign avec [!DNL Workday]](integrations/workday.md)
+      + [Configuration d&#39;Acrobat Sign avec  [!DNL Workday]](integrations/workday.md)
       + [Intégration d’Acrobat Sign + Workday pour les nouveaux employés](integrations/acrobat-sign-workday-onboarding.md)
    + Marketo {#marketo}
-      + [Envoyer des notifications à l’aide d’Acrobat Sign pour [!DNL Salesforce] et Marketo](integrations/marketo-salesforce-sms.md)
-      + [Envoyer des rappels à l’aide d’Acrobat Sign pour [!DNL Salesforce] et tutoriel vidéo Marketo](integrations/marketo-salesforce-reminder-video.md)
-      + [Envoyer des rappels à l’aide d’Acrobat Sign pour [!DNL Salesforce] et guide de configuration de Marketo](integrations/marketo-salesforce-reminder.md)
-      + [Envoyer des notifications à l’aide d’Acrobat Sign pour [!DNL Microsoft Dynamics] et Marketo](integrations/marketo-dynamics-sms.md)
-      + [Envoyer des rappels à l’aide d’Acrobat Sign pour [!DNL Microsoft Dynamics 365] et Marketo](integrations/marketo-dynamics-reminder.md)
+      + [Envoyer des notifications à l&#39;aide d&#39;Acrobat Sign pour [!DNL Salesforce]  et Marketo](integrations/marketo-salesforce-sms.md)
+      + [Envoyer des rappels à l&#39;aide d&#39;Acrobat Sign pour [!DNL Salesforce]  et d&#39;un tutoriel vidéo Marketo](integrations/marketo-salesforce-reminder-video.md)
+      + [Envoyer des rappels à l&#39;aide d&#39;Acrobat Sign pour [!DNL Salesforce]  et du guide de configuration Marketo](integrations/marketo-salesforce-reminder.md)
+      + [Envoyer des notifications à l&#39;aide d&#39;Acrobat Sign pour [!DNL Microsoft Dynamics]  et Marketo](integrations/marketo-dynamics-sms.md)
+      + [Envoyer des rappels à l&#39;aide d&#39;Acrobat Sign pour [!DNL Microsoft Dynamics 365]  et Marketo](integrations/marketo-dynamics-reminder.md)
 + Industries et départements {#expand}
    + [Présentation](sign-usecase/expand-inspire-overview.md)
-   + Générateur de compétences {#innovation}
+   + Créateur de compétences {#innovation}
       + [Webinaires](sign-usecase/innovation-series.md)
-   + Cas d’utilisation {#recipes}
+   + Cas d&#39;utilisation {#recipes}
       + [Présentation](sign-usecase/recipes.md)
       + Gouvernement {#gov}
          + [Demande de prêt public avec plusieurs signataires inconnus](sign-usecase/webform-multiple-signers.md)
@@ -153,9 +153,9 @@ ht-degree: 7%
          + [Candidature de stage pour le formulaire web Éducation](sign-usecase/usecase-edu-intern.md)
          + [Création d’une demande de stage pour un formulaire web consacré à l’éducation](sign-usecase/usecase-edu-intern-create.md)
          + [Workflow personnalisé pour le processus IEP Éducation](sign-usecase/usecase-edu-iep.md)
-   + Présentation du cas d’utilisation {#use-case}
+   + Exemple d&#39;utilisation {#use-case}
       + [Vitrine](sign-usecase/use-case-showcase.md)
-+ Développement {#develop}
++ Développer {#develop}
    + [Présentation](develop/develop-overview.md)
    + API personnalisées {#custom}
       + [Collecte de documents volumineux à l’aide de GigaSign](develop/gigasign.md)

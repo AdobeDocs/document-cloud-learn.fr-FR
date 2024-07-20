@@ -10,7 +10,7 @@ exl-id: 72762750-5764-4541-aedd-94230b56936b
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
 source-wordcount: '87'
-ht-degree: 5%
+ht-degree: 6%
 
 ---
 
@@ -41,7 +41,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
   </td>  
   <td>
     <a href="admin/intro-admin-overview.md">
-      <img alt="Administrer" src="assets/AS_Title_Administer.png" />
+      <img alt="Administration" src="assets/AS_Title_Administer.png" />
     </a>
   </td>
   <td>

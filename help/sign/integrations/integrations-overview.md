@@ -12,7 +12,7 @@ thumbnail: KT-6850.jpg
 exl-id: 2b1b9fae-7b4c-4092-aec7-c2025ef07cf4
 source-git-commit: 25fd2a2d0d9f0cd2452a65761c298f5280809aee
 workflow-type: tm+mt
-source-wordcount: '812'
+source-wordcount: '818'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,12 @@ Vous pouvez utiliser Acrobat Sign dans d’autres applications déjà utilisées
 
 ## Nouveautés
 
-* [Intégration de l’onglet Documents pour [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
+* Intégration de l&#39;onglet [Documents pour [!DNL Microsoft Teams]](acrobat-sign-teams-documents-tab.md)
 Découvrez comment envoyer des documents pour signature directement à partir de l’onglet Documents dans [!DNL Microsoft Teams]
-* [Live Sign dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
-Découvrez comment créer une expérience de signature en ligne qui ressemble à la signature en personne lors d’un [!DNL Microsoft Teams] réunion
-* [Créez un workflow avancé avec [!DNL Power Automate]](advanced-workflow-power-automate.md)
-Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automate] connecteurs
+* [Connexion en direct dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]](live-sign-microsoft-teams.md)
+Découvrez comment créer une expérience de signature en ligne qui ressemble à la signature en personne lors d’une réunion [!DNL Microsoft Teams]
+* [Créer un workflow avancé avec [!DNL Power Automate]](advanced-workflow-power-automate.md)
+Découvrez comment créer un workflow avancé à l’aide de connecteurs [!DNL Power Automate]
 
 ## Tutoriels sur les intégrations Microsoft
 
@@ -44,7 +44,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="fill-and-sign-doc-microsoft-outlook.md"><strong>Remplissage et signature dans Microsoft Outlook</strong></a>
     </div>
-    <em>Remplir et signer un formulaire directement dans Microsoft Outlook</em>
+    <em>Remplissez et signez un formulaire directement dans Microsoft Outlook</em>
     <br>
   </td>
   <td>
@@ -54,7 +54,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="send-for-signature-with-outlook.md"><strong>Envoyer pour signature dans Outlook</strong></a>
     </div>
-    <em>Envoi d’un document pour signature directement dans Microsoft Outlook</em>
+    <em>Envoyer un document pour signature directement dans Microsoft Outlook</em>
     <br>
   </td>
   <td>
@@ -64,7 +64,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="send-for-signature-with-sharepoint-online.md"><strong>Envoyer pour signature dans SharePoint Online</strong></a>
     </div>
-    <em>Envoi d’un document pour signature directement dans SharePoint Online</em>
+    <em>Envoyer un document pour signature directement dans Sharepoint Online</em>
     <br>
   </td>
    <td>
@@ -74,7 +74,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="track-an-agreement-with-sharepoint-online.md"><strong>Suivi dans SharePoint Online</strong></a>
     </div>
-    <em>Suivi de la progression d’un accord directement dans Microsoft Sharepoint</em>
+    <em>Suivez la progression d’un accord directement dans Microsoft Sharepoint</em>
     <br>
   </td>
 </tr>
@@ -84,9 +84,9 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Intégration d’un formulaire web à [!DNL SharePoint Online]" src="../assets/Web-form-sp.png" />
     </a>
     <div>
-    <a href="integrate-web-form-sharepoint-online.md"><strong>Intégration d’un formulaire web à [!DNL SharePoint Online]</strong></a>
+    <a href="integrate-web-form-sharepoint-online.md"><strong>Intégrer un formulaire web à [!DNL SharePoint Online]</strong></a>
     </div>
-    <em>Découvrez comment mapper les données collectées à partir d’un formulaire web dans un [!DNL SharePoint] liste</em>
+    <em>Découvrez comment mapper les données collectées à partir d’un formulaire web dans une liste [!DNL SharePoint]</em>
     <br>
   </td>
   <td>
@@ -96,7 +96,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="auto-archive-sharepoint-power-automate.md"><strong>Archiver automatiquement les fichiers dans [!DNL SharePoint] avec [!DNL Power Automate]</strong></a>
     </div>
-    <em>Découvrez comment archiver automatiquement les documents signés dans un [!DNL SharePoint] bibliothèque utilisation [!DNL Power Automate]</em>
+    <em>Découvrez comment archiver automatiquement les documents signés dans une bibliothèque [!DNL SharePoint] à l’aide de [!DNL Power Automate]</em>
     <br>
   </td>
   <td>
@@ -106,7 +106,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="documentautomation.md"><strong>Automatisation des documents avec [!DNL Acrobat Sign for Microsoft Power Platform]</strong></a>
     </div>
-    <em>Découvrez comment activer et utiliser la fonctionnalité [!DNL Acrobat Sign] et [!DNL Adobe PDF Tools] connecteurs [!DNL Microsoft Power] applications</em>
+    <em>Découvrez comment activer et utiliser les connecteurs [!DNL Acrobat Sign] et [!DNL Adobe PDF Tools] pour les applications [!DNL Microsoft Power]</em>
     <br>
   </td>
    <td>
@@ -126,9 +126,9 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Live Sign dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]" src="../assets/live-sign.png" />
     </a>
     <div>
-    <a href="live-sign-microsoft-teams.md"><strong>Live Sign dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]</strong></a>
+    <a href="live-sign-microsoft-teams.md"><strong>Connexion en direct dans Adobe Acrobat Sign pour [!DNL Microsoft Teams]</strong></a>
     </div>
-    <em>Découvrez comment créer une expérience de signature en ligne qui ressemble à la signature en personne lors d’un [!DNL Microsoft Teams] réunion</em>
+    <em>Découvrez comment créer une expérience de signature en ligne qui ressemble à la signature en personne lors d’une réunion [!DNL Microsoft Teams]</em>
     <br>
   </td>
    <td>
@@ -146,7 +146,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Créer un workflow simple avec Power Automate" src="../assets/simple-workflow.png" />
     </a>
     <div>
-    <a href="simple-workflow-power-automate.md"><strong>Créez un workflow simple avec [!DNL Power Automate]</strong></a>
+    <a href="simple-workflow-power-automate.md"><strong>Créer un workflow simple avec [!DNL Power Automate]</strong></a>
     </div>
     <em>Découvrez comment créer un workflow simple à l’aide de [!DNL Power Automate] connecteurs</em>
     <br>
@@ -156,7 +156,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Créer un workflow avancé avec Power Automate" src="../assets/advanced-workflow.png" />
     </a>
     <div>
-    <a href="advanced-workflow-power-automate.md"><strong>Créer un workflow avancé avec Power Automate</strong></a>
+    <a href="advanced-workflow-power-automate.md"><strong>Créez un workflow avancé avec Power Automate</strong></a>
     </div>
     <em>Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automate] connecteurs</em>
     <br>
@@ -169,7 +169,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="dynamics-customer-service.md"><strong>Microsoft Dynamics 365 for Customer Service</strong></a>
     </div>
-    <em>Découvrez Acrobat Sign et [!DNL Microsoft Dynamics 365] pour le service client sont utilisés pour améliorer la satisfaction des clients sur un portail Web client en libre-service</em>
+    <em>Découvrez comment Acrobat Sign et [!DNL Microsoft Dynamics 365] pour le service client sont utilisés pour améliorer la satisfaction des clients sur un portail Web client en libre-service</em>
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="dynamics-field-service.md"><strong>Microsoft Dynamics 365 for Field Service</strong></a>
     </div>
-    <em>Découvrez Acrobat Sign, [!DNL Power Automate], et [!DNL Microsoft Dynamics 365] pour le Service sur site sont utilisés pour rationaliser les engagements sur site des clients</em>
+    <em>Découvrez comment Acrobat Sign, [!DNL Power Automate] et [!DNL Microsoft Dynamics 365] pour Field Service sont utilisés pour rationaliser les engagements sur site des clients</em>
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="dynamics-sales.md"><strong>Microsoft Dynamics 365 for Sales</strong></a>
     </div>
-    <em>Découvrez Acrobat Sign et [!DNL Microsoft Dynamics 365] pour les ventes sont utilisées pour automatiser le processus de signature des devis</em>
+    <em>Découvrez comment Acrobat Sign et [!DNL Microsoft Dynamics 365] pour les ventes sont utilisés pour automatiser le processus de signature des devis</em>
     <br>
   </td>
   <td>
@@ -200,7 +200,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
 </tr>
 </table>
 
-## [!DNL Notarize] tutoriels d’intégration
+## Tutoriels d’intégration [!DNL Notarize]
 
 <table style="table-layout:fixed">
 <tr>
@@ -209,7 +209,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Envoi de documents pour authentification notariale" src="../assets/Notarize.png" />
     </a>
     <div>
-    <a href="send-document-notarize.md"><strong>Envoi de documents pour authentification notariale</strong></a>
+    <a href="send-document-notarize.md"><strong>Envoyer des documents pour authentification notariale</strong></a>
     </div>
     <em>Découvrez comment envoyer un document pour authentification notariale</em>
     <br>
@@ -253,7 +253,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="set-up-data-mapping.md"><strong>Configuration du mappage de données</strong></a>
     </div>
-    <em>Réextraction des données dans Salesforce après la signature d’un accord</em>
+    <em>Réintégrer des données dans Salesforce après la signature d’un accord</em>
     <br>
   </td>
   <td>
@@ -271,9 +271,9 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Création d’un bouton personnalisé" src="../assets/SF-Button.png" />
     </a>
     <div>
-    <a href="create-a-custom-button.md"><strong>Création d’un bouton personnalisé</strong></a>
+    <a href="create-a-custom-button.md"><strong>Création d'un bouton personnalisé</strong></a>
     </div>
-    <em>Création d’un bouton personnalisé qui démarre le processus d’envoi et renseigne automatiquement un accord dans Salesforce</em>
+    <em>Créez un bouton personnalisé qui démarre le processus d’envoi et renseigne automatiquement un accord dans Salesforce</em>
     <br>
   </td>
 </tr>
@@ -288,7 +288,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Intégration d’Acrobat Sign + Workday pour les nouveaux employés" src="../assets/workday.png" />
     </a>
     <div>
-    <a href="acrobat-sign-workday-onboarding.md"><strong>Intégration d’Acrobat Sign + Workday pour les nouveaux employés</strong></a>
+    <a href="acrobat-sign-workday-onboarding.md"><strong>Intégration d’Acrobat Sign + Workday à la nouvelle embauche</strong></a>
     </div>
     <em>Découvrez comment rationaliser les workflows d’intégration avec Acrobat Sign + Workday</em>
     <br>
@@ -320,9 +320,9 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Envoi de notifications à l’aide d’Acrobat Sign pour Salesforce et Marketo" src="../assets/Integrate-Salesforce-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-salesforce-sms.md"><strong>Envoi de notifications à l’aide d’Acrobat Sign pour Salesforce et Marketo</strong></a>
+    <a href="marketo-salesforce-sms.md"><strong>Envoyer des notifications à l’aide d’Acrobat Sign pour Salesforce et Marketo</strong></a>
     </div>
-    <em>Découvrez comment envoyer un SMS, un e-mail ou une notification push pour informer le signataire qu’un accord est en cours d’envoi.</em>
+    <em>Découvrez comment envoyer un SMS, un e-mail ou une notification push pour informer le signataire qu’un accord est en cours d’envoi</em>
     <br>
   </td>
   <td>
@@ -330,9 +330,9 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Envoi de rappels à l’aide du tutoriel vidéo Acrobat Sign pour Salesforce et Marketo" src="../assets/Integrate-Salesforce-Reminder-Video.png" />
     </a>
     <div>
-    <a href="marketo-salesforce-reminder.md"><strong>Envoi de rappels à l’aide du tutoriel vidéo Adobe Sign pour Salesforce et Marketo</strong></a>
+    <a href="marketo-salesforce-reminder.md"><strong>Envoyer des rappels à l’aide du tutoriel vidéo Adobe Sign pour Salesforce et Marketo</strong></a>
     </div>
-    <em>Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps</em>
+    <em>Découvrez comment envoyer un rappel par e-mail de Marketo lorsqu’un accord n’est pas signé après un certain temps</em>
     <br>
   </td>
   <td>
@@ -342,7 +342,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
     <div>
     <a href="marketo-salesforce-reminder.md"><strong>Envoyer des rappels à l’aide du guide de configuration d’Acrobat Sign pour Salesforce et Marketo</strong></a>
     </div>
-    <em>Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps</em>
+    <em>Découvrez comment envoyer un rappel par e-mail de Marketo lorsqu’un accord n’est pas signé après un certain temps</em>
     <br>
   </td>
    <td>
@@ -350,7 +350,7 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Envoi de rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo" src="../assets/Integrate-Dynamics-Reminder.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-reminder.md"><strong>Envoi de rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo</strong></a>
+    <a href="marketo-dynamics-reminder.md"><strong>Envoyer des rappels à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo</strong></a>
     </div>
     <em>Découvrez comment envoyer un rappel par e-mail lorsqu’un accord n’est pas signé après un certain temps</em>
     <br>
@@ -362,9 +362,9 @@ Découvrez comment créer un workflow avancé à l’aide de [!DNL Power Automat
       <img alt="Envoi de notifications à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo" src="../assets/Integrate-Dynamics-SMS.jpg" />
     </a>
     <div>
-    <a href="marketo-dynamics-sms.md"><strong>Envoi de notifications à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo</strong></a>
+    <a href="marketo-dynamics-sms.md"><strong>Envoyer des notifications à l’aide d’Acrobat Sign pour Microsoft Dynamics et Marketo</strong></a>
     </div>
-    <em>Découvrez comment envoyer un SMS, un e-mail ou une notification push pour informer le signataire qu’un accord est en cours d’envoi.</em>
+    <em>Découvrez comment envoyer un SMS, un e-mail ou une notification push pour informer le signataire qu’un accord est en cours d’envoi</em>
     <br>
   </td>
   <td>

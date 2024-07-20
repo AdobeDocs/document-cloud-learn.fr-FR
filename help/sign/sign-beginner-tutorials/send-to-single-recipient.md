@@ -9,17 +9,17 @@ thumbnail: KT-4965.jpg
 exl-id: 39f698dc-9118-48c6-9eed-aacbaf500939
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '75'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
-# Envoi à un destinataire unique
+# Envoi à un seul destinataire
 
-Processus le plus courant dans Acrobat Sign : envoi d’un document pour signature. Découvrez comment télécharger un document, ajouter des champs de formulaire et l’envoyer pour signature.
+Workflow le plus courant dans Acrobat Sign : envoi d’un document pour signature. Découvrez comment charger un document, ajouter des champs de formulaire et envoyer à quelqu’un pour signature.
 
 >[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Prise en main d’Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Prise en main d&#39;Acrobat Sign](https://experienceleague.adobe.com/?recommended=Sign-U-1-2020.1) qui est disponible gratuitement sur Experience League !

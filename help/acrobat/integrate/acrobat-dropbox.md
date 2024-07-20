@@ -1,6 +1,6 @@
 ---
-title: Utilisation de fichiers provenant de [!DNL Dropbox]
-description: Découvrez comment ouvrir, créer, modifier, signer et enregistrer les modifications apportées à votre [!DNL Dropbox] fichiers depuis Acrobat
+title: Utiliser des fichiers de  [!DNL Dropbox]
+description: Découvrez comment ouvrir, créer, modifier, signer et enregistrer les modifications apportées à vos  [!DNL Dropbox]  fichiers depuis Acrobat
 feature: Integrations, Create PDF, Sign, Edit PDF
 role: User
 level: Beginner
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# Utilisation de fichiers provenant de [!DNL Dropbox]
+# Utiliser des fichiers de [!DNL Dropbox]
 
-Découvrez comment ouvrir, créer, modifier, signer et enregistrer les modifications apportées à votre [!DNL Dropbox] depuis Acrobat. La connexion de votre compte de Dropbox à Acrobat vous fait gagner un temps considérable, en gardant tous vos fichiers à portée de main.
+Découvrez comment ouvrir, créer, modifier, signer et enregistrer les modifications apportées à vos fichiers [!DNL Dropbox] à partir d’Acrobat. La connexion de votre compte de Dropbox à Acrobat vous fait gagner beaucoup de temps, car vous gardez tous vos fichiers à portée de main.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409411?quality=12&learn=on&hidetitle=true)

@@ -10,8 +10,8 @@ thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
 source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 13%
+source-wordcount: '148'
+ht-degree: 2%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 13%
       <img alt="Création d’un compte développeur" src="../assets/Develop_Getting-Started.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Création d’un compte développeur</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign.html" target="_blank"><strong>Créer un compte développeur</strong></a>
     </div>
     <em>Découvrez comment commencer à utiliser un compte développeur</em>
     <br>
@@ -36,9 +36,9 @@ ht-degree: 13%
       <img alt="Découvrir ce que vous pouvez faire" src="../assets/Develop_Learn.png" />
     </a>
     <div>
-    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Découvrir ce que vous pouvez faire</strong></a>
+    <a href="https://www.adobe.io/apis/documentcloud/sign/docs.html" target="_blank"><strong>Découvrir les possibilités</strong></a>
     </div>
-    <em>Découvrez comment intégrer les fonctionnalités d’Acrobat Sign dans n’importe quelle application externe</em>
+    <em>Découvrez comment incorporer les fonctionnalités d’Acrobat Sign dans n’importe quelle application externe</em>
     <br>
   </td>  
   <td>
@@ -48,7 +48,7 @@ ht-degree: 13%
     <div>
     <a href="gigasign.md"><strong>Collecte de documents volumineux à l’aide de GigaSign</strong></a>
     </div>
-    <em>Envoyer, collecter et suivre des documents pour signature à des milliers de personnes en même temps</em>
+    <em>Envoyez, collectez et suivez des documents pour signature à des milliers de personnes en même temps</em>
     <br>
   </td>
    <td>

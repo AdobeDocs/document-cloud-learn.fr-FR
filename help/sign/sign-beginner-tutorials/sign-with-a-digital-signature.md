@@ -1,6 +1,6 @@
 ---
-title: Qu’est-ce qu’une signature numérique ?
-description: En savoir plus sur les signatures numériques à base de certificat
+title: Présentation d’une signature numérique
+description: En savoir plus sur les signatures numériques basées sur certificat
 feature: Digital ID, Sign
 role: User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Qu’est-ce qu’une signature numérique ?
+# Qu’est-ce qu’une signature numérique
 
-Découvrez les signatures numériques à base de certificats, qui sont conformes aux réglementations juridiques les plus strictes du monde entier et qui offrent les niveaux de garantie les plus élevés sur l’identité d’un signataire.
+Découvrez les signatures numériques basées sur certificat, qui sont conformes aux réglementations légales les plus strictes au monde et offrent le plus haut niveau de garantie de l’identité d’un signataire.
 
 >[!VIDEO](https://video.tv.adobe.com/v/343648?quality=12&learn=on&hidetitle=true)

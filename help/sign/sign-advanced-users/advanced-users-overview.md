@@ -10,7 +10,7 @@ exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
 source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
 workflow-type: tm+mt
 source-wordcount: '428'
-ht-degree: 5%
+ht-degree: 2%
 
 ---
 
@@ -54,9 +54,9 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
       <img alt="Utilisation du rôle d’approbateur" src="../assets/Approver.png" />
     </a>
     <div>
-    <a href="add-an-approver.md"><strong>Utilisation du rôle d’approbateur</strong></a>
+    <a href="add-an-approver.md"><strong>Utilisation du rôle d'approbateur</strong></a>
     </div>
-    <em>Ajouter un rôle d’approbateur à votre processus d’approbation de contrat</em>
+    <em>Ajouter un rôle d'approbateur à votre processus d'approbation de contrat</em>
     <br>
   </td>
   <td>
@@ -76,7 +76,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
         <img alt="Gestion des données de formulaire" src="../assets/manage-form-data.png" />
       </a>
       <div>
-      <a href="manage-form-data.md"><strong>Gestion des données de formulaire</strong></a>
+      <a href="manage-form-data.md"><strong>Gérer les données de formulaire</strong></a>
       </div>
       <em>Découvrez comment consolider les données de formulaire à partir de vos documents</em>
       <br>
@@ -86,7 +86,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
       <img alt="Configuration des paiements en ligne" src="../assets/Payments.png" />
     </a>
     <div>
-    <a href="set-up-online-payments.md"><strong>Configuration des paiements en ligne</strong></a>
+    <a href="set-up-online-payments.md"><strong>Configurer les paiements en ligne</strong></a>
     </div>
     <em>Découvrez comment configurer et accepter les paiements en ligne dans vos documents</em>
     <br>
@@ -96,7 +96,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
         <img alt="Envoi en masse" src="../assets/send-in-bulk.png" />
       </a>
       <div>
-      <a href="megasign.md"><strong>Envoi en masse</strong></a>
+      <a href="megasign.md"><strong>Envoyer en masse</strong></a>
       </div>
       <em>Recueillez des centaines de signatures à la fois pour n’importe quel document en quelques étapes simples</em>
       <br>
@@ -155,9 +155,9 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
       <img alt="Création d’un rapport" src="../assets/Report.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Création d’un rapport</strong></a>
+    <a href="creating-a-report.md"><strong>Création d'un rapport</strong></a>
     </div>
-    <em>Découvrez comment créer vos propres rapports pour bénéficier d’une visibilité sur le processus de signature de documents</em>
+    <em>Apprenez à créer vos propres rapports pour gagner en visibilité sur le processus de signature des documents</em>
     <br>
   </td>
   <td>
@@ -165,9 +165,9 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
       <img alt="Gestion des modèles de document" src="../assets/ManageTemplate.png" />
     </a>
     <div>
-    <a href="edit-a-template.md"><strong>Gestion des modèles de document</strong></a>
+    <a href="edit-a-template.md"><strong>Gérer les modèles de document</strong></a>
     </div>
-    <em>Modification ou suppression d’un modèle de votre bibliothèque</em>
+    <em>Modifier ou supprimer un modèle de votre bibliothèque</em>
     <br>
   </td>
   <td>
@@ -175,7 +175,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
       <img alt="Modification d’un formulaire web existant" src="../assets/Modifywebform.png" />
     </a>
     <div>
-    <a href="modify-webform.md"><strong>Modification d’un formulaire web existant</strong></a>
+    <a href="modify-webform.md"><strong>Modifier un formulaire web existant</strong></a>
     </div>
     <em>Découvrez comment désactiver, modifier et réactiver un formulaire web existant</em>
     <br>
@@ -187,7 +187,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
     <div>
     <a href="manage-webform-data.md"><strong>Gestion des données de formulaire web</strong></a>
     </div>
-    <em>Découvrez comment suivre, gérer et exporter des données à partir d’un formulaire web.</em>
+    <em>Découvrez comment suivre, gérer et exporter des données à partir d’un formulaire web</em>
     <br>
   </td>  
 </tr>

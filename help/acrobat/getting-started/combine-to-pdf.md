@@ -1,6 +1,6 @@
 ---
 title: Combine Files dans un seul PDF
-description: Combinez plusieurs types de fichiers (PDF, Word, Excel, PowerPoint ou JPEG) dans un même PDF
+description: Combinez de nombreux types de fichiers différents, tels que PDF, Word, Excel, PowerPoint ou JPEG, dans un seul PDF
 feature: Edit PDF
 role: User
 level: Beginner
@@ -9,18 +9,18 @@ thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
 source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 3%
+source-wordcount: '123'
+ht-degree: 0%
 
 ---
 
-# Regroupement de fichiers dans un seul PDF
+# Combiner des fichiers dans un seul PDF
 
-La diffusion d’expériences client optimales exige une création de contenu plus rapide que jamais. Découvrez comment combiner de manière transparente de nombreux types de fichiers (PDF, Word, Excel, PowerPoint, JPEG, etc.) dans un seul PDF. [Combinaison de fichiers dans un seul PDF](https://www.adobe.com/fr/acrobat/online/merge-pdf.html){target="_blank"} vous permet de gérer et de contrôler le contenu que vous envoyez à d’autres personnes, pour une meilleure expérience.
+Pour offrir les meilleures expériences client, le contenu doit être créé plus rapidement que jamais. Apprenez à combiner de nombreux types de fichiers (PDF, Word, Excel, PowerPoint, JPEG, etc.) dans un seul PDF. [La combinaison de fichiers dans un seul PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} vous permet de gérer et de contrôler le contenu que vous envoyez à d&#39;autres personnes, ce qui améliore l&#39;expérience client.
 
 >[!TIP]
 >
->Découvrez comment ajouter une marque [nouvelle page personnalisée](add-custom-page.md) lors de la combinaison de fichiers.
+>Découvrez comment ajouter une [nouvelle page personnalisée](add-custom-page.md) de marque tout en combinant des fichiers.
 
 <br> 
 
@@ -28,4 +28,4 @@ La diffusion d’expériences client optimales exige une création de contenu pl
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Gagnez en efficacité avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie du cours [Travailler plus intelligemment avec Acrobat DC et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !

@@ -1,6 +1,6 @@
 ---
-title: Création de signatures électroniques et d’expériences documentaires incorporées
-description: Découvrez comment utiliser les API Acrobat Sign pour incorporer la signature électronique et les expériences documentaires dans vos plateformes web et systèmes de gestion de contenu et de documents
+title: Création d’expériences de signature électronique et de document intégrées
+description: Découvrez comment utiliser les API Acrobat Sign pour intégrer des expériences de signature électronique et de document dans vos plateformes web et systèmes de gestion de contenu et de document
 feature: Integrations, Workflow
 role: Developer
 level: Intermediate
@@ -11,53 +11,53 @@ kt: 7489
 exl-id: db300cb9-6513-4a64-af60-eadedcd4858e
 source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
 workflow-type: tm+mt
-source-wordcount: '876'
-ht-degree: 2%
+source-wordcount: '832'
+ht-degree: 0%
 
 ---
 
-# Créer des expériences documentaires et de signature électronique intégrées
+# Création d’expériences de signature électronique et de document intégrées
 
-Découvrez comment utiliser les API Acrobat Sign pour incorporer la signature électronique et les expériences documentaires dans vos plateformes web et systèmes de gestion de contenu et de documents. Ce tutoriel pratique se divise en quatre parties.
+Découvrez comment utiliser les API Acrobat Sign pour intégrer des expériences de signature électronique et de document dans vos plateformes web et systèmes de gestion de contenu et de document. Ce tutoriel pratique se divise en quatre parties.
 
 ## Partie 1 : Ce dont vous avez besoin
 
-Dans la première partie, découvrez comment commencer à utiliser tout ce dont vous avez besoin pour les parties 2 à 4. Commençons par obtenir les identifiants d’API.
+Dans la partie 1, découvrez comment prendre en main tout ce dont vous avez besoin pour les parties 2 à 4. Commençons par obtenir les identifiants d’API.
 
-+++Voir les détails sur l’obtention des identifiants d’API
++++Voir les détails sur la façon d’obtenir des identifiants d’API
 
 * [Compte développeur Acrobat Sign](https://acrobat.adobe.com/fr/fr/sign/developer-form.html)
 * [Code de démarrage](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [Code VS (ou éditeur de votre choix)](https://code.visualstudio.com)
 * Python 3.x
    * Mac — Homebrew
-   * Linux — Programme d&#39;installation intégré
+   * Linux : programme d&#39;installation intégré
    * Windows — Chocolatey
    * Tous — https://www.python.org/downloads/
 
 +++
 
-## Partie 2 : Code faible/sans — la puissance des formulaires web
+## Partie 2 : Code faible/nul — la puissance des formulaires web
 
-Dans la partie 2, explorez l’option low/no-code de l’utilisation de formulaires web. C&#39;est toujours une bonne idée de voir si vous pouvez éviter d&#39;écrire du code au début.
+Dans la deuxième partie, explorez l’option de codage faible/sans code de l’utilisation des formulaires web. Il est toujours bon de voir si vous pouvez éviter d’écrire du code au début.
 
-+++Affichage des détails sur la création d’un formulaire web
++++Afficher des détails sur la création d’un formulaire web
 
 1. Accédez à Acrobat Sign avec votre compte développeur.
 
-1. Sélectionner **Publication d’un formulaire web** sur la page d’accueil.
+1. Sélectionnez **Publish un formulaire web** sur la page d’accueil.
 
-   ![Capture d&#39;écran page d&#39;accueil Acrobat Sign](assets/embeddedesignature/embed_1.png)
+   ![Page d’accueil Acrobat Sign de capture d’écran](assets/embeddedesignature/embed_1.png)
 
 1. Créez votre accord.
 
-   ![Capture d’écran de la création d’un formulaire web](assets/embeddedesignature/embed_2.png)
+   ![Capture d’écran expliquant comment créer un formulaire web](assets/embeddedesignature/embed_2.png)
 
-1. Incorporez votre accord dans une page de HTML plate.
+1. Incorporer votre accord sur une page de HTML plat.
 
-1. Essayez d&#39;ajouter des paramètres de requête de manière dynamique.
+1. Testez l’ajout dynamique de paramètres de requête.
 
-   ![Capture d&#39;écran de l&#39;ajout de paramètres](assets/embeddedesignature/embed_3.png)
+   ![Capture d&#39;écran de l&#39;ajout des paramètres de requête](assets/embeddedesignature/embed_3.png)
 
 +++
 
@@ -65,98 +65,100 @@ Dans la partie 2, explorez l’option low/no-code de l’utilisation de formulai
 
 Dans la partie 3, créez des accords de manière dynamique.
 
-+++Affichage des détails sur la création dynamique d’accords
++++Afficher des détails sur la création dynamique d’accords
 
-Tout d’abord, vous devez établir l’accès. Avec Acrobat Sign, il existe deux façons de se connecter via l’API. Jetons OAuth et clés d’intégration. À moins que vous n’ayez une raison très spécifique d’utiliser OAuth avec votre application, vous devez d’abord explorer les clés d’intégration.
+Tout d’abord, vous devez établir l’accès. Avec Acrobat Sign, il existe deux façons de se connecter via une API. Jetons et clés d’intégration OAuth. À moins d’avoir une raison très spécifique d’utiliser OAuth avec votre application, vous devez d’abord explorer les clés d’intégration.
 
-1. Sélectionner **Clé d’intégration** dans le **Informations API** sous le menu **Compte** dans Acrobat Sign.
+1. Sélectionnez **Clé d&#39;intégration** dans le menu **Informations sur l&#39;API** sous l&#39;onglet **Compte** dans Acrobat Sign.
 
-   ![Capture d’écran indiquant où trouver la clé d’intégration](assets/embeddedesignature/embed_4.png)
+   ![Capture d&#39;écran de l&#39;emplacement de la clé d&#39;intégration](assets/embeddedesignature/embed_4.png)
 
-Maintenant que vous avez accès à l’API et pouvez interagir avec celle-ci, découvrez ce que vous pouvez faire avec elle.
+Maintenant que vous avez accès à l’API et que vous pouvez interagir avec elle, découvrez ce que vous pouvez faire avec l’API.
 
-1. Accédez à l’onglet [Méthodes de l’API REST Acrobat Sign version 6](http://adobesign.com/public/docs/restapi/v6).
+1. Accédez aux [méthodes de l’API REST Acrobat Sign version 6](http://adobesign.com/public/docs/restapi/v6).
 
-   ![Capture d’écran des méthodes de navigation de l’API REST Acrobat Sign version 6](assets/embeddedesignature/embed_5.png)
+   ![Capture d’écran de la navigation dans les méthodes de l’API REST Acrobat Sign version 6](assets/embeddedesignature/embed_5.png)
 
-1. Utilisez le jeton en tant que valeur &quot;porteur&quot;.
+1. Utilisez le jeton comme valeur « porteur ».
 
-   ![Capture d’écran de la valeur du porteur](assets/embeddedesignature/embed_6.png)
+   ![Capture d&#39;écran de bearer value](assets/embeddedesignature/embed_6.png)
 
 Pour envoyer votre premier accord, il est préférable de comprendre comment utiliser l’API.
 
-1. Créez un document temporaire et envoyez-le.
+1. Créer un document temporaire et l’envoyer.
 
 >[!NOTE]
 >
->Les appels de requête basés sur JSON ont une option &quot;Modèle&quot; et &quot;Schéma de modèle minimal&quot;. Cela donne des spécifications et une charge utile minimale définie.
+>Les appels de requête JSON disposent d’une option « Modèle » et « Schéma de modèle minimal ». Vous obtenez ainsi des spécifications et une charge utile minimale.
 
 ![Capture d&#39;écran de la création d&#39;un document temporaire](assets/embeddedesignature/embed_7.png)
 
-Après avoir envoyé un accord pour la première fois, vous êtes prêt à ajouter la logique. C&#39;est toujours une bonne idée d&#39;établir des aides pour minimiser la répétition. En voici quelques exemples :
+Après avoir envoyé un accord pour la première fois, vous pouvez ajouter la logique. Il est toujours bon d&#39;établir des aides pour minimiser les répétitions. En voici quelques exemples :
 
 **Validation**
 
 ![Capture d&#39;écran de la logique de validation](assets/embeddedesignature/embed_8.png)
 
-**En-têtes/authentification**
+**En-têtes/Auth**
 
-![Capture d&#39;écran de la logique headers/auth](assets/embeddedesignature/embed_9.png)
+![Capture d&#39;écran des en-têtes/logique d&#39;authentification](assets/embeddedesignature/embed_9.png)
 
 **URI de base**
 
 ![Capture d&#39;écran de la logique URI de base](assets/embeddedesignature/embed_10.png)
 
-Soyez conscient de l’emplacement des documents transitoires dans le grand schéma de l’écosystème Sign.
-Transitoire -> Accord temporaire -> Modèle -> Accord temporaire -> Widget -> Accord
+Sachez où les documents temporaires atterrissent dans le grand schéma de l’écosystème Sign.
+Transitoire -> Accord
+Temporaire -> Modèle -> Accord
+Temporaire -> Widget -> Accord
 
-Cet exemple utilise un modèle comme source de document. C’est généralement le meilleur itinéraire, sauf si vous avez une bonne raison de générer dynamiquement des documents pour signature (par exemple, génération de code hérité ou de documents).
+Cet exemple utilise un modèle comme source du document. Il s’agit généralement du meilleur moyen, à moins que vous n’ayez une raison sérieuse de générer dynamiquement des documents pour signature (par exemple, un code hérité ou une génération de document).
 
-Le code est assez simple ; il utilise un document de bibliothèque (modèle) pour la source du document. Les premier et second signataires sont assignés dynamiquement. La `IN_PROCESS` état signifie que le document est envoyé immédiatement. En outre, `mergeFieldInfo` permet de remplir les champs de manière dynamique.
+Le code est assez simple : il utilise un document de bibliothèque (modèle) comme source du document. Les premier et deuxième signataires sont attribués dynamiquement. L&#39;état `IN_PROCESS` signifie que le document est envoyé immédiatement. En outre, `mergeFieldInfo` est utilisé pour remplir les champs de manière dynamique.
 
-![Capture d&#39;écran du code pour ajouter dynamiquement des signatures](assets/embeddedesignature/embed_11.png)
+![Capture d’écran du code pour ajouter des signatures de manière dynamique](assets/embeddedesignature/embed_11.png)
 
 +++
 
-## Partie 4 : Intégrer l’expérience de signature, les redirections, etc.
+## Partie 4 : Intégration de l’expérience de signature, des redirections et plus encore
 
-Dans de nombreux scénarios, vous pouvez autoriser le participant déclencheur à signer immédiatement un accord. Cette fonction est utile pour les applications orientées client et les bornes interactives.
+Dans de nombreux scénarios, vous pouvez autoriser le participant déclencheur à signer immédiatement un accord. Ceci est utile pour les applications et les kiosques orientés client.
 
-+++Découvrez comment intégrer l’expérience de signature.
++++Voir les détails sur l’intégration de l’expérience de signature
 
-Si vous ne souhaitez pas que le premier e-mail d’envoi se déclenche, un moyen simple consiste à gérer le comportement en modifiant l’appel d’API.
+Si vous ne souhaitez pas que le premier e-mail envoyé se déclenche, une façon simple de gérer le comportement consiste à modifier l’appel API.
 
-![Capture d’écran du code pour ne pas déclencher l’envoi du courrier électronique](assets/embeddedesignature/embed_12.png)
+![Capture d&#39;écran du code pour ne pas déclencher l&#39;envoi d&#39;un e-mail](assets/embeddedesignature/embed_12.png)
 
 Voici comment contrôler la redirection post-signature :
 
 ![Capture d’écran du code pour contrôler la redirection post-signature](assets/embeddedesignature/embed_13.png)
 
-Après avoir mis à jour le processus de création de l’accord, l’étape finale consiste à générer l’URL de signature. Cet appel est également assez simple et génère une URL qu’un signataire peut utiliser pour accéder à sa partie du processus de signature.
+Après la mise à jour du processus de création de l’accord, l’étape finale consiste à générer l’URL de signature. Cet appel est également assez simple et génère une URL qu’un signataire peut utiliser pour accéder à sa partie du processus de signature.
 
-![Capture d’écran du code permettant de générer l’URL du signataire](assets/embeddedesignature/embed_14.png)
+![Capture d’écran du code pour générer une URL de signataire](assets/embeddedesignature/embed_14.png)
 
 >[!NOTE]
 >
->Notez que l’appel de création d’accord est techniquement asynchrone. Cela signifie qu’un appel d’accord &quot;POST&quot; peut être effectué, mais que l’accord n’est pas encore prêt. La meilleure pratique consiste à établir une boucle de nouvelle tentative. Utilisez une nouvelle tentative ou n’importe quelle autre bonne pratique pour votre environnement.
+>Notez que l’appel de création d’accord est techniquement asynchrone. Cela signifie qu’un appel d’accord « POST » peut être effectué, mais que l’accord n’est pas encore prêt. La meilleure pratique consiste à établir une boucle de nouvelle tentative. Utilisez une nouvelle tentative ou toute autre méthode adaptée à votre environnement.
 
 ![Capture d&#39;écran indiquant qu&#39;il est recommandé d&#39;établir une boucle de nouvelle tentative](assets/embeddedesignature/embed_15.png)
 
-Quand tout est mis en place, la solution est assez simple. Vous créez un accord, puis générez une URL de signature sur laquelle le signataire peut cliquer pour commencer le rituel de signature.
+Lorsque tout est mis ensemble, la solution est assez simple. Vous créez un accord, puis générez une URL de signature sur laquelle le signataire peut cliquer pour commencer le rituel de signature.
 
 +++
 
 ## Rubriques supplémentaires
 
 * [Événements JS](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/events.md)
-* Événements Webhook
+* Événements de webhook
    * [API REST](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/webhooks/createWebhook)
    * [Webhooks dans Acrobat Sign v6](https://www.adobe.io/apis/documentcloud/sign/docs.html#!adobedocs/adobe-sign/master/webhooks.md)
-* [Réactiver les e-mails de demande (avec événements)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
-* [Remplacer le délai d’expiration par une nouvelle tentative](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
+* [Réactiver les e-mails de demande (avec les événements)](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/updateAgreement)
+* [Remplacer le délai d&#39;expiration par une nouvelle tentative](https://stackoverflow.com/questions/23267409/how-to-implement-retry-mechanism-into-python-requests-library)
 * Rappels personnalisés
    * Avec la création initiale
 
      ![Capture d’écran de la navigation vers Power Automate](assets/embeddedesignature/embed_16.png)
 
-   * Ou ajoutez-en un [en vol](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)
+   * Ou ajoutez-en un [en cours](https://sign-acs.na1.echosign.com/public/docs/restapi/v6#!/agreements/createReminderOnParticipant)

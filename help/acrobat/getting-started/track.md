@@ -1,6 +1,6 @@
 ---
 title: Suivi de vos documents
-description: Sachez toujours quels fichiers sont en attente de signature et lesquels ont été signés.
+description: Toujours savoir quels fichiers sont en attente de signature et lesquels ont été signés
 feature: Sign
 role: User
 level: Beginner
@@ -16,10 +16,10 @@ ht-degree: 0%
 
 # Suivi de vos documents
 
-Sachez toujours quels fichiers sont en attente de signature et lesquels ont été signés.
+Identifiez toujours les fichiers en attente de signature et ceux qui ont été signés.
 
 >[!IMPORTANT]
 >
->Vous devez disposer d’un droit Acrobat Sign Enterprise en plus de votre abonnement Acrobat Enterprise.
+>Vous devez disposer d’un droit d’accès Acrobat Sign Enterprise en plus de votre abonnement Acrobat Enterprise.
 
 >[!VIDEO](https://video.tv.adobe.com/v/338492?quality=12&learn=on&hidetitle=true)

@@ -46,7 +46,7 @@ Découvrez comment transformer l’expérience de signature électronique de vot
       <img alt="Présentation du cas d’utilisation" src="../assets/UseCaseShowcaseR.png" />
     </a>
     <div>
-    <a href="use-case-showcase.md"><strong>Présentation du cas d’utilisation</strong></a>
+    <a href="use-case-showcase.md"><strong>Exemple d’utilisation</strong></a>
     </div>
     <em>Regardez des sessions en direct ou enregistrées qui vous présentent les nouveaux cas d’utilisation et les nouvelles tendances d’Acrobat Sign</em>
     <br>

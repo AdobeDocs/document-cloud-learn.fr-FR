@@ -1,20 +1,20 @@
 ---
-title: Création d’un PDF depuis [!DNL Microsoft Word]
-description: Création d'un PDF à partir de [!DNL Microsoft Word]
+title: Créer un PDF à partir de [!DNL Microsoft Word]
+description: Découvrez comment créer un PDF à partir de [!DNL Microsoft Word]
 feature: Create PDF
 role: User
 level: Beginner
 jira: KT-13292
-exl-id: a61848c0-2a24-4006-a740-f09ec7370598
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+exl-id: 97833c3b-7e9e-41f0-8a90-37ecbd9e07a0
+source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
-source-wordcount: '34'
-ht-degree: 14%
+source-wordcount: '30'
+ht-degree: 3%
 
 ---
 
-# Création d’un PDF depuis [!DNL Microsoft Word]
+# Créer un PDF à partir de [!DNL Microsoft Word]
 
-Dans ce tutoriel vidéo de 60 secondes, découvrez comment [création d’un PDF depuis Microsoft Word](https://www.adobe.com/fr/acrobat/online/word-to-pdf.html){target="_blank"}.
+Dans ce tutoriel vidéo de 60 secondes, découvrez comment [créer un PDF à partir de Microsoft Word](https://www.adobe.com/fr/acrobat/online/word-to-pdf.html){target="_blank"}.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342627?quality=12&learn=on&hidetitle=true)
