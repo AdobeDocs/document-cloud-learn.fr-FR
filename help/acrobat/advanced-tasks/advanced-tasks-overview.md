@@ -7,10 +7,10 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 4c1a831cdeda378dceb8dc319c783cd4df8a115c
+source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 3%
+source-wordcount: '283'
+ht-degree: 1%
 
 ---
 
@@ -31,65 +31,113 @@ Apprenez à optimiser un PDF pour améliorer la détectabilité et le classement
     <a href="bookmarks.md">
       <img alt="Ajout de signets et d’hyperliens" src="../assets/bookmarks.png" />
     </a>
+    <div>
+      <a href="bookmarks.md"><strong>Ajout de signets et d'hyperliens</strong></a>
+      </div>
+      Ajout de signets et d’hyperliens pour une meilleure navigation
   </td>
   <td>
     <a href="optimizescan.md">
       <img alt="Optimisation des documents numérisés" src="../assets/optimize.png" />
     </a>
+    <div>
+      <a href="optimizescan.md"><strong>Optimiser les documents numérisés</strong></a>
+      </div>
+      Découvrez comment améliorer les documents numérisés
   </td>
   <td>
     <a href="custom.md">
       <img alt="Commandes et outils personnalisés" src="../assets/custom-commands.png" />
     </a>
+    <div>
+      <a href="custom.md"><strong>Commandes et outils personnalisés</strong></a>
+      </div>
+      Découvrez comment améliorer l’efficacité du workflow de documents
   </td>
   <td>
     <a href="advancedforms.md">
       <img alt="Champs de formulaire avancés" src="../assets/advanced-forms.png" />
     </a>
+    <div>
+      <a href="advancedforms.md"><strong>Champs de formulaire avancés</strong></a>
+      </div>
+      Découvrez comment créer des champs de formulaire avancés
   </td>
 </tr>
 <tr>
  <td>
     <a href="optimizeseo.md">
-      <img alt="Optimize PDF pour SEO (optimisation du moteur de recherche)" src="../assets/seo.png" />
+      <img alt="Optimize PDF pour le référencement" src="../assets/seo.png" />
     </a>
+    <div>
+      <a href="optimizeseo.md"><strong>Optimize PDF pour le référencement</strong></a>
+      </div>
+      Optimisation d’un PDF pour le référencement (optimisation du moteur de recherche)
   </td>
   <td>
     <a href="workforms.md">
       <img alt="Utilisation des champs de formulaire" src="../assets/work-forms.png" />
     </a>
+    <div>
+      <a href="workforms.md"><strong>Utilisation des champs de formulaire</strong></a>
+      </div>
+      Découvrez comment ajouter différents types de champs de formulaire et de propriétés
   </td>
   <td>
     <a href="enhance.md">
       <img alt="Améliorer votre PDF" src="../assets/enhance.png" />
     </a>
+    <div>
+      <a href="enhance.md"><strong>Améliorer votre PDF</strong></a>
+      </div>
+      Découvrez comment transformer votre PDF
   </td>
  <td>
     <a href="compare.md">
       <img alt="Détecter les différences entre deux PDF" src="../assets/compare.png" />
     </a>
+    <div>
+      <a href="compare.md"><strong>Détecter les différences entre deux PDF</strong></a>
+      </div>
+      Détecter rapidement les différences entre deux fichiers de PDF
   </td>
 </tr>
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action-wizard.png" />
+      <img alt="Action Wizard" src="../assets/action.png" />
     </a>
+    <div>
+      <a href="action.md"><strong>Action Wizard</strong></a>
+      </div>
+      Découvrez comment améliorer l’efficacité à l’aide des actions
   </td>
   <td>
     <a href="redact.md">
       <img alt="Biffer et assainir" src="../assets/redact.png" />
     </a>
+    <div>
+      <a href="redact.md"><strong>Biffer et assainir</strong></a>
+      </div>
+      Découvrez comment supprimer définitivement des informations sensibles
   </td>
  <td>
     <a href="reduce.md">
       <img alt="Réduire la taille du fichier et l’optimiser" src="../assets/reduce.png" />
     </a>
+    <div>
+      <a href="reduce.md"><strong>Réduire la taille des fichiers et optimiser</strong></a>
+      </div>
+      Réduire les fichiers volumineux sans compromettre la qualité
   </td>
   <td>
     <a href="formdata.md">
-      <img alt="Action Wizard" src="../assets/form-data.png" />
+      <img alt="Utilisation des données de formulaire" src="../assets/form-data.png" />
     </a>
+    <div>
+      <a href="formdata.md"><strong>Utilisation des données de formulaire</strong></a>
+      </div>
+      Découvrez comment compiler des données de formulaire
   </td>
 </tr>
 <tr>
@@ -97,11 +145,19 @@ Apprenez à optimiser un PDF pour améliorer la détectabilité et le classement
     <a href="accessibility.md">
       <img alt="Vérifier l’accessibilité du PDF" src="../assets/accessibility.png" />
     </a>
+    <div>
+      <a href="accessibility.md"><strong>Vérifier l'accessibilité du PDF</strong></a>
+      </div>
+      Découvrez comment vérifier si votre PDF est universellement accessible
   </td>
  <td>
     <a href="accessibility-series.md">
-      <img alt="Préparation des fichiers de PDF accessibles" src="../assets/accessibility-series.png" />
+      <img alt="Acrobat Accessibility Series" src="../assets/accessibility-series.png" />
     </a>
+    <div>
+      <a href="accessibility-series.md"><strong>Série Acrobat Accessibility</strong></a>
+      </div>
+      Série de six sessions sur l’accessibilité des PDF à la demande
   </td>
   <td>
    <img alt="Espaceur" src="../assets/Grayspacer.png" />
