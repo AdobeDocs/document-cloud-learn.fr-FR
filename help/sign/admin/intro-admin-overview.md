@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: c37964c029dd0b068cb30d35c7e666a3122e16cc
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '563'
 ht-degree: 2%
 
 ---
@@ -21,12 +21,13 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
 
 ## Nouveautés
 
+* [Configuration des administrateurs chargés de la protection des données](privacy.md)
+Découvrez comment configurer et utiliser les administrateurs des informations personnelles
+* [Outil de téléchargement massif](bulk-download-tool.md)
+Découvrez comment utiliser l’outil Téléchargement en masse pour télécharger rapidement tous vos accords signés
 * [Rapports d&#39;audit](audit-reports.md)
 Découvrez comment accéder aux rapports d’audit, les utiliser et les configurer en fonction des besoins de votre organisation
-* [Envoyer en masse](../sign-advanced-users/megasign.md)
-Apprenez à recueillir des milliers de signatures à la fois pour n’importe quel document en quelques étapes simples
-* [Options de rapport](report-options.md)
-Découvrez comment configurer des options de rapport pour les utilisateurs
+
 
 ## Prise en main
 
@@ -225,13 +226,13 @@ Découvrez comment configurer des options de rapport pour les utilisateurs
     <br>
   </td>
   <td>
-    <a href="use-bio-pharma-settings.md">
-      <img alt="Utilisation des paramètres Bio-Pharma" src="../assets/Bio_1280.png" />
+    <a href="bulk-download-tool.md">
+      <img alt="Outil de téléchargement massif" src="../assets/bulk-download-tool.png" />
     </a>
     <div>
-    <a href="use-bio-pharma-settings.md"><strong>Utilisation des paramètres Bio-Pharma</strong></a>
+    <a href="bulk-download-tool.md"><strong>Outil de téléchargement massif</strong></a>
     </div>
-    <em>Configurez les paramètres Bio-Pharma qui vous permettent de répondre aux exigences de la FDA 21 CFR Part 11</em>
+    <em>Découvrez comment utiliser l’outil de téléchargement massif pour télécharger rapidement tous vos accords signés</em>
     <br>
   </td> 
 </tr>
@@ -247,13 +248,23 @@ Découvrez comment configurer des options de rapport pour les utilisateurs
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <a href="use-bio-pharma-settings.md">
+      <img alt="Utilisation des paramètres Bio-Pharma" src="../assets/Bio_1280.png" />
+    </a>
     <div>
+    <a href="use-bio-pharma-settings.md"><strong>Utilisation des paramètres Bio-Pharma</strong></a>
+    </div>
+    <em>Configurez les paramètres Bio-Pharma qui vous permettent de répondre aux exigences de la FDA 21 CFR Part 11</em>
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <a href="privacy.md">
+      <img alt="Configuration de l’administrateur des informations personnelles" src="../assets/privacy.png" />
+    </a>
     <div>
+    <a href="privacy.md"><strong>Configuration des administrateurs chargés de la protection des données</strong></a>
+    </div>
+    <em>Découvrez comment configurer et utiliser les administrateurs chargés de la protection des données</em>
     <br>
   </td>
   <td>

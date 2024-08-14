@@ -8,16 +8,21 @@ jira: KT-6852
 topic-revisit: Integrations
 thumbnail: KT-6852.jpg
 exl-id: 6b86081e-cbf4-4988-a215-95a770620342
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 2%
+source-wordcount: '197'
+ht-degree: 3%
 
 ---
 
 # Présentation du développement
 
 40 % des accords dans Acrobat Sign sont créés à l’aide d’API. Utilisez les API pour créer des applications personnalisées pour vos équipes, partenaires et clients.
+
+## Nouveautés
+
+* [Configuration des webhooks](webhooks.md)
+Découvrez comment créer un webhook pour automatiser des processus qui nécessitent normalement une intervention manuelle.
 
 <table style="table-layout:fixed">
 <tr>
@@ -59,6 +64,33 @@ ht-degree: 2%
     <a href="embeddedesignature.md"><strong>Création d’expériences de signature électronique et de document intégrées</strong></a>
     </div>
     <em>Découvrez comment utiliser les API Acrobat Sign pour intégrer des expériences de signature électronique et de document dans vos plateformes web et systèmes de gestion de contenu et de document</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href="webhooks.md">
+      <img alt="Configuration des webhooks" src="../assets/how-webhooks.png" />
+    </a>
+    <div>
+    <a href="webhooks.md"><strong>Configuration des webhooks</strong></a>
+    </div>
+    <em>Découvrez comment créer un webhook pour automatiser des processus qui nécessitent normalement une intervention manuelle</em>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
