@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: b12425a4dd0f6cac45349e161f83cf1945519589
+source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
 workflow-type: tm+mt
-source-wordcount: '428'
+source-wordcount: '424'
 ht-degree: 2%
 
 ---
@@ -152,12 +152,12 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authen
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="Création d’un rapport" src="../assets/Report.png" />
+      <img alt="Utilisation des rapports et des transactions" src="../assets/reporting.png" />
     </a>
     <div>
-    <a href="creating-a-report.md"><strong>Création d'un rapport</strong></a>
+    <a href="creating-a-report.md"><strong>Utilisation des rapports et des transactions</strong></a>
     </div>
-    <em>Apprenez à créer vos propres rapports pour gagner en visibilité sur le processus de signature des documents</em>
+    <em>Découvrez comment générer des rapports et suivre l'utilisation des transactions</em>
     <br>
   </td>
   <td>

@@ -1,22 +1,22 @@
 ---
-title: Création d’un rapport
-description: Découvrez comment créer vos propres rapports pour bénéficier d’une visibilité sur le processus de signature de documents
+title: Utilisation des rapports et des transactions
+description: Découvrez comment générer des rapports et suivre l’utilisation des transactions
 feature: Report
 role: User, Admin
 level: Intermediate
 jira: KT-11027
 thumbnail: KT-11027.jpg
 exl-id: f30d174d-7990-499b-a6a6-3e68ab2a8e50
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 29f3dfa773325594787ca5a37838625e314212f6
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
-# Création d’un rapport
+# Utilisation des rapports et des transactions
 
-Apprenez à créer vos propres rapports pour bénéficier d’une meilleure visibilité sur le processus de signature de vos documents ou à observer les actions de groupes ou d’utilisateurs individuels.
+Découvrez comment générer des rapports et suivre l’utilisation des transactions. Ces rapports peuvent inclure des informations telles que le pourcentage d’accords signés ou le temps moyen nécessaire pour les signer. La génération de rapports et le suivi de l’utilisation vous donnent une visibilité sur vos processus de signature de documents.
 
 >[!NOTE]
 >

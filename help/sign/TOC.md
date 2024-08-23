@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6eea40485b9482dd22f7177ede0748bf3a0c5cc6
+source-git-commit: c117d305ad61a734db69884a49f8cf5e5ebd3df0
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '538'
 ht-degree: 7%
 
 ---
@@ -59,7 +59,7 @@ ht-degree: 7%
       + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Utilisation du balisage de texte dans  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gérer {#advanced-tasks-managing}
-      + [Création d’un rapport](sign-advanced-users/creating-a-report.md)
+      + [Utilisation des rapports et des transactions](sign-advanced-users/creating-a-report.md)
       + [Gestion des modèles de document](sign-advanced-users/edit-a-template.md)
       + [Modification d’un formulaire web existant](sign-advanced-users/modify-webform.md)
       + [Gestion des données de formulaire web](sign-advanced-users/manage-webform-data.md)
@@ -73,7 +73,7 @@ ht-degree: 7%
       + [Création et gestion de groupes](admin/create-and-manage-groups.md)
       + [Configuration d’une archive externe](admin/set-up-your-external-archive.md)
       + [Création d’un modèle](sign-advanced-users/create-a-template.md)
-      + [Création d&#39;un graphique de rapport](admin/create-a-report.md)
+      + [Utilisation des rapports et des transactions](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Options de rapport pour les utilisateurs](admin/report-options.md)
       + [Création d’un formulaire web](sign-advanced-users/webform.md)
       + [Modifier un formulaire web existant](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
@@ -125,6 +125,8 @@ ht-degree: 7%
       + [Configuration du mappage de données](integrations/set-up-data-mapping.md)
       + [Configuration du mappage de fusion](integrations/set-up-merging-map.md)
       + [Création d’un bouton personnalisé](integrations/create-a-custom-button.md)
+      + [Configuration des mises à jour automatiques](integrations/salesforce-automatic-updates.md)
+      + [Configuration de fichiers volumineux et de mappages Push](integrations/salesforce-large-files.md)
    + Workday {#workday}
       + [Configuration d&#39;Acrobat Sign avec  [!DNL Workday]](integrations/workday.md)
       + [Intégration d’Acrobat Sign + Workday pour les nouveaux employés](integrations/acrobat-sign-workday-onboarding.md)
