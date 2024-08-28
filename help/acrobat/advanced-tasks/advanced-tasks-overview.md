@@ -7,9 +7,9 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '294'
 ht-degree: 1%
 
 ---
@@ -19,6 +19,9 @@ ht-degree: 1%
 Allez au-delà des bases avec ces outils avancés dans Acrobat. Apprenez à créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser des fichiers volumineux, rassembler rapidement des données de formulaire et créer des fichiers de PDF universellement accessibles.
 
 ## Nouveautés
+
+* [Actions guidées](action.md)
+Découvrez comment améliorer l’efficacité à l’aide d’actions guidées
 
 * [Optimize PDF pour le référencement (optimisation du moteur de recherche)](optimizeseo.md)
 Apprenez à optimiser un PDF pour améliorer la détectabilité et le classement des moteurs de recherche sur le Web
@@ -105,12 +108,12 @@ Apprenez à optimiser un PDF pour améliorer la détectabilité et le classement
 <tr>
   <td>
     <a href="action.md">
-      <img alt="Action Wizard" src="../assets/action.png" />
+      <img alt="Actions guidées" src="../assets/action.png" />
     </a>
     <div>
-      <a href="action.md"><strong>Action Wizard</strong></a>
+      <a href="action.md"><strong>Actions guidées</strong></a>
       </div>
-      Découvrez comment améliorer l’efficacité à l’aide des actions
+      Découvrez comment améliorer l’efficacité à l’aide d’actions guidées
   </td>
   <td>
     <a href="redact.md">
