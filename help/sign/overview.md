@@ -7,7 +7,7 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6846
 thumbnail: KT-6846.jpg
 exl-id: 72762750-5764-4541-aedd-94230b56936b
-source-git-commit: 3aabfd79a135f925fcc500d8ac42356b3437dfaa
+source-git-commit: 9e46f85c7c7d7ae9dbe190f30ef66a9944c5d8b1
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 4%
@@ -36,7 +36,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
     <div>
       <a href="sign-beginner-tutorials/beginner-users-overview.md"><strong>Prise en main</strong></a>
       </div>
-      <em>Découvrez comment envoyer, signer et suivre des documents</em>
+      Découvrez comment envoyer, signer et suivre des documents
       <br>
   </td>
   <td>
@@ -46,7 +46,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
     <div>
       <a href="sign-advanced-users/advanced-users-overview.md"><strong>Tâches avancées</strong></a>
       </div>
-      <em>Allez au-delà des bases avec des tâches spécifiques et l'automatisation</em>
+      Allez au-delà des bases avec des tâches spécifiques et l'automatisation
       <br>
   </td>  
   <td>
@@ -56,7 +56,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
     <div>
       <a href="admin/intro-admin-overview.md"><strong>Administrer</strong></a>
       </div>
-      <em>Conseils de configuration de base à avancés pour votre organisation</em>
+      Conseils de configuration de base à avancés pour votre organisation
       <br>
   </td>
   <td>
@@ -66,7 +66,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
      <div>
       <a href="digitalid/digitalid-overview.md"><strong>ID numérique</strong></a>
       </div>
-      <em>Découvrez comment utiliser des identifications numériques du monde entier dans Acrobat Sign</em>
+      Découvrez comment utiliser des identifications numériques du monde entier dans Acrobat Sign
       <br>
   </td>
 </tr>
@@ -78,7 +78,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
     <div>
       <a href="integrations/integrations-overview.md"><strong>Intégrations</strong></a>
       </div>
-      <em>Ajoutez Acrobat Sign directement dans d'autres applications que votre organisation utilise déjà</em>
+      Ajout d’Acrobat Sign directement dans d’autres applications déjà utilisées par votre entreprise
       <br>
   </td>
   <td>
@@ -88,7 +88,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
     <div>
       <a href="sign-usecase/expand-inspire-overview.md"><strong>Secteurs et services</strong></a>
       </div>
-      <em>Explorez des cas d’utilisation réels du secteur et des services</em>
+      Exploration des cas d’utilisation réels dans l’industrie et les services
       <br>
   </td>
   <td>
@@ -98,7 +98,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
     <div>
       <a href="develop/develop-overview.md"><strong>Développement</strong></a>
       </div>
-      <em>Obtenir des ressources de développement sur Acrobat Sign I/O</em>
+      Obtenir des ressources de développement sur Acrobat Sign I/O
       <br>
   </td>
    <td>
@@ -108,7 +108,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
     <div>
       <a href="deploy-overview.md"><strong>Déployer</strong></a>
       </div>
-      <em>Informations et bonnes pratiques pour le déploiement d’Acrobat Sign au sein de votre organisation</em>
+      Informations et bonnes pratiques pour le déploiement d’Acrobat Sign au sein de votre organisation
       <br>
   </td>
 </tr>
@@ -120,7 +120,7 @@ Acrobat Sign, une solution Adobe Document Cloud, évolue pour répondre aux beso
     <div>
       <a href="mobile/mobile-overview.md"><strong>Application mobile</strong></a>
       </div>
-      <em>Envoyez, signez et recevez des mises à jour en temps réel sur votre appareil mobile</em>
+      Envoyez, signez et obtenez des mises à jour en temps réel sur votre appareil mobile
       <br>
   </td>  
 </tr>
