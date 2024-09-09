@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 59143ff41832f74df4012ce576b96482a4c6dcfa
+source-git-commit: 8fa83a1a43067e65eb496becd5ac543845f2f1c3
 workflow-type: tm+mt
-source-wordcount: '584'
-ht-degree: 2%
+source-wordcount: '642'
+ht-degree: 1%
 
 ---
 
@@ -21,6 +21,8 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
 
 ## Nouveautés
 
+* [Comment promouvoir un utilisateur à un rôle d&#39;administrateur](promote-admin.md)
+Découvrez comment promouvoir un utilisateur à un rôle d’administrateur Acrobat Sign à l’aide du Admin Console
 * [Comment utiliser plusieurs profils](multiple-profiles.md)
 Découvrez comment utiliser le sélecteur de profil pour travailler avec plusieurs comptes Acrobat Sign
 * [Configuration des administrateurs chargés de la protection des données](privacy.md)
@@ -189,8 +191,13 @@ Découvrez comment utiliser l’outil Téléchargement en masse pour télécharg
     <br>
   </td>
   <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <a href="promote-admin.md">
+      <img alt="Comment promouvoir un utilisateur à un rôle d’administrateur" src="../assets/promote-admin.png" />
+    </a>
     <div>
+    <a href="promote-admin.md"><strong>Comment promouvoir un utilisateur à un rôle d'administrateur</strong></a>
+    </div>
+    <em>Découvrez comment promouvoir un utilisateur vers un rôle d’administrateur Acrobat Sign à l’aide du Admin Console</em>
     <br>
   </td>
 </table>
