@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 34fb3cbe888dc5eb81b9ce48b05a9c71aa35ba03
+source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
 workflow-type: tm+mt
-source-wordcount: '561'
+source-wordcount: '562'
 ht-degree: 1%
 
 ---
@@ -20,14 +20,25 @@ Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De 
 
 ## Nouveautés
 
-* [Créer une nouvelle page](add-custom-page.md)
-Apprenez à créer une page d’aspect professionnel dans votre PDF à l’aide d’Adobe Express
-* [Modifier des graphiques dans un PDF](edit-graphics.md)
-Apprenez à créer, modifier et améliorer des images dans votre PDF
-* [Nouvelle expérience de l&#39;espace de travail](new-workspace.md)
-Découvrez le nouvel espace de travail d’Acrobat qui vous permet de découvrir rapidement les outils et d’effectuer efficacement les tâches de votre PDF
-* [Découvrir les informations du PDF avec l’assistant AI](ai-assistant.md)
-Découvrez comment obtenir des informations à partir de vos fichiers de PDF à l’aide de l’assistant AI
+>[!BEGINTABS]
+
+>[!TAB Créer une nouvelle page]
+
+Apprenez à [créer une page d&#39;aspect professionnel](add-custom-page.md) dans votre PDF à l&#39;aide d&#39;Adobe Express.
+
+>[!TAB Modifier des graphiques dans un PDF]
+
+Découvrez comment [créer, modifier et améliorer des graphiques](edit-graphics.md) dans votre PDF.
+
+>[!TAB Nouvelle expérience de l&#39;espace de travail]
+
+Découvrez le [nouvel espace de travail](new-workspace.md) d&#39;Acrobat qui vous permet de découvrir rapidement les outils et d&#39;effectuer efficacement les tâches de votre PDF.
+
+>[!TAB Découvrir les informations du PDF avec l’assistant AI]
+
+Apprenez à obtenir des informations à partir des fichiers de votre PDF à l’aide de l’assistant AI.
+
+>[!ENDTABS]
 
 ## Tutoriels de prise en main
 
