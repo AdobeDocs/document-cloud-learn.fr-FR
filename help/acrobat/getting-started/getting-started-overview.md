@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: d6f75802191d527f0371640f1c8a5913a0ee38e1
+source-git-commit: fe13a7b01c0eab2ac4931396097d5114ec3104be
 workflow-type: tm+mt
-source-wordcount: '541'
-ht-degree: 2%
+source-wordcount: '544'
+ht-degree: 1%
 
 ---
 
@@ -147,12 +147,12 @@ Découvrez comment obtenir des informations à partir de vos fichiers de PDF à 
     </td>
     <td>
       <a href="add-custom-page.md">
-        <img alt="Ajout d’une page personnalisée" src="../assets/custom.png" />
+        <img alt="Créer une nouvelle page" src="../assets/design.png" />
       </a>
       <div>
-      <a href="add-custom-page.md"><strong>Ajouter une page personnalisée</strong></a>
+      <a href="add-custom-page.md"><strong>Créer une nouvelle page</strong></a>
       </div>
-      Découvrez comment ajouter des pages personnalisées à votre PDF
+     Découvrez comment créer une page d’aspect professionnel dans votre PDF
       <br>
     </td>
   </tr>
