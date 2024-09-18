@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: dc2026b6bcee8369f244c9bd410622c55e3c96c8
+source-git-commit: 274bb95c46fd4acff736af882efdc7e75192dda7
 workflow-type: tm+mt
 source-wordcount: '562'
 ht-degree: 1%
@@ -36,7 +36,7 @@ Découvrez le [nouvel espace de travail](new-workspace.md) d&#39;Acrobat qui vou
 
 >[!TAB Découvrir les informations du PDF avec l’assistant AI]
 
-Apprenez à obtenir des informations à partir des fichiers de votre PDF à l’aide de l’assistant AI.
+Apprenez à obtenir des informations à partir des fichiers de votre PDF à l&#39;aide de l&#39;[assistant AI](ai-assistant.md).
 
 >[!ENDTABS]
 
