@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 158baff5fa152b74fa834162acfbf8b9e1cd0402
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -20,10 +20,17 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 
 ## Nouveautés
 
-* [Prise en main d&#39;Acrobat Sign](new-sender.md)
-Vous débutez avec Acrobat Sign ? Ce tutoriel est un excellent point de départ.
-* [Définir des échéances et des rappels](set-deadlines-reminders.md)
-Découvrez comment envoyer régulièrement des rappels par e-mail et connaître les dates limites pour que vos documents soient signés rapidement
+>[!BEGINTABS]
+
+>[!TAB Prise en main d&#39;Acrobat Sign]
+
+Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md)) est un excellent point de départ.
+
+>[!TAB Définir des échéances et des rappels]
+
+Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates limites](set-deadlines-reminders.md) pour faire signer rapidement vos documents.
+
+>[!ENDTABS]
 
 ## Send
 

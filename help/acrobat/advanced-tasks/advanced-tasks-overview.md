@@ -7,7 +7,7 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 8ed26f6fb71956920520d500859d05c1b2f2c622
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 1%
@@ -20,11 +20,17 @@ Allez au-delà des bases avec ces outils avancés dans Acrobat. Apprenez à cré
 
 ## Nouveautés
 
-* [Actions guidées](action.md)
-Découvrez comment améliorer l’efficacité à l’aide d’actions guidées
+>[!BEGINTABS]
 
-* [Optimize PDF pour le référencement (optimisation du moteur de recherche)](optimizeseo.md)
-Apprenez à optimiser un PDF pour améliorer la détectabilité et le classement des moteurs de recherche sur le Web
+>[!TAB Actions guidées]
+
+Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidées](action.md).
+
+>[!TAB Optimize PDF pour le référencement (optimisation du moteur de recherche)]
+
+Découvrez comment [optimiser un PDF](optimizeseo.md) pour améliorer la découvrabilité et le classement des moteurs de recherche sur le web.
+
+>[!ENDTABS]
 
 ## Tutoriels sur les tâches avancées
 

@@ -8,7 +8,7 @@ team: DC Product Marketing Retention and Engagement
 thumbnail: 8200.jpg
 jira: KT-8200
 exl-id: 7f6edd52-c3fc-4cf0-af84-c956db3bd008
-source-git-commit: 955918403f01fc722674a04f63613c8e266e9e9a
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '423'
 ht-degree: 0%
@@ -21,14 +21,25 @@ Découvrez comment différentes organisations utilisent Acrobat Sign pour transf
 
 ## Nouveautés
 
-* [Processus IEP personnalisé pour l’éducation](usecase-edu-iep.md)
-Découvrez comment le Designer de workflow personnalisé est utilisé pour numériser un processus de programme d’éducation individualisé (IEP)
-* [Candidature de stage de formulaire web pour l’éducation](usecase-edu-intern.md)
-Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires requis.
-* [Créer une demande de stage de formulaire web pour l’éducation](usecase-edu-intern-create.md)
-Apprenez à créer un formulaire web de stage
-* [Demande de prêt public avec plusieurs signataires inconnus](webform-multiple-signers.md)
-Découvrez comment un formulaire web est utilisé pour un workflow complexe de demande de prêt public impliquant plusieurs participants inconnus.
+>[!BEGINTABS]
+
+>[!TAB Processus IEP personnalisé pour l’éducation]
+
+Découvrez comment le [Designer de workflow personnalisé](usecase-edu-iep.md) est utilisé pour numériser un processus de programme d&#39;éducation individualisé (IEP).
+
+>[!TAB Candidature de stage de formulaire web pour l’éducation]
+
+Découvrez comment les [formulaires web](usecase-edu-intern.md) sont utilisés pour améliorer l’accès des étudiants aux formulaires requis.
+
+>[!TAB Créer une demande de stage de formulaire web pour l’éducation]
+
+Découvrez comment créer un [formulaire web](usecase-edu-intern-create.md) de stage.
+
+>[!TAB Demande de prêt public avec plusieurs signataires inconnus]
+
+Découvrez comment un [formulaire web](webform-multiple-signers.md) est utilisé pour un workflow complexe de demande de prêt public qui implique plusieurs participants inconnus.
+
+>[!ENDTABS]
 
 ## Cas d’utilisation par les administrations
 

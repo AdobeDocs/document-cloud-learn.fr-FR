@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 1df07fcfd6321e360118e7ffd9f7a8904e51033d
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -20,10 +20,17 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
 
 ## Nouveautés
 
-* [Envoyer en masse](megasign.md)
-Apprenez à recueillir des milliers de signatures à la fois pour n’importe quel document en quelques étapes simples
-* [Méthodes d’authentification dans Acrobat Sign](authentication-methods.md)
-Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’une personne qui signe un document
+>[!BEGINTABS]
+
+>[!TAB Envoyer en masse]
+
+Découvrez comment [recueillir des milliers](megasign.md) de signatures à la fois pour n’importe quel document en quelques étapes simples.
+
+>[!TAB Méthodes d’authentification dans Acrobat Sign]
+
+Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authentifier](authentication-methods.md) l&#39;identité d&#39;une personne signataire d&#39;un document.
+
+>[!ENDTABS]
 
 ## Send
 

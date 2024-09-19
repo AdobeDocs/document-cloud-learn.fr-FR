@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-8990
 thumbnail: KT-8990.jpg
 exl-id: 753b7016-6331-40df-9003-5acee8be752a
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -24,10 +24,17 @@ Comme un passeport sous forme électronique, une identité numérique (ID numér
 
 ## Nouveautés
 
-* [S&#39;inscrire et signer à l&#39;aide de Digidentity](digidentity-sign.md)
-Découvrez comment enregistrer et utiliser votre ID numérique [!DNL Digidentity] avec Acrobat Sign
-* [S&#39;inscrire et signer à l&#39;aide de D-Trust](d-trust.md)
-Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utiliser la signature numérique [!DNL D-Trust] sur un document dans Acrobat Sign
+>[!BEGINTABS]
+
+>[!TAB S&#39;inscrire et signer à l&#39;aide de Digidentity]
+
+Découvrez comment enregistrer et utiliser votre ID numérique [[!DNL Digidentity]](digidentity-sign.md) avec Acrobat Sign.
+
+>[!TAB S&#39;inscrire et signer à l&#39;aide de D-Trust]
+
+Découvrez comment enregistrer votre identité avec [[!DNL D-Trust]](d-trust.md), puis utiliser la signature numérique [!DNL D-Trust] sur un document dans Acrobat Sign.
+
+>[!ENDTABS]
 
 ## [!DNL Aadhaar]
 
