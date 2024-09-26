@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 9efd6313d1a94ea4448034f5b1f624fe2d64b622
+source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -38,7 +38,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
 <tr>
  <td>
     <a href="quick-tour.md">
-      <img alt="Espace de travail – Principes de base" src="../assets/workspace_1280.png" />
+      <img alt="Espace de travail – Principes de base" src="../assets/workspace.png" />
     </a>
     <div>
     <a href="quick-tour.md"><strong>Concepts de base de l'espace de travail</strong></a>
@@ -196,7 +196,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
 <tr>
   <td>
     <a href="sign-with-a-digital-signature.md">
-      <img alt="Qu’est-ce qu’une signature numérique" src="../assets/Whatisdigsig_1280.jpg" />
+      <img alt="Qu’est-ce qu’une signature numérique" src="../assets/whatisdigsig.png" />
     </a>
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Qu’est-ce qu’une signature numérique</strong></a>
@@ -233,7 +233,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gestion et suivi de vos accords" src="../assets/Manage_1280.png" />
+      <img alt="Gestion et suivi de vos accords" src="../assets/Manage.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Gérer et suivre vos accords</strong></a>
