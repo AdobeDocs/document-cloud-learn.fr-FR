@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 02e877aaf618c29208da2eb971524baf80e76678
+source-git-commit: 06d3049acc900a52e1eab23a8aac9906ad40d3ea
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 3%
@@ -43,7 +43,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="quick-tour.md"><strong>Concepts de base de l'espace de travail</strong></a>
     </div>
-    <em>Découvrez rapidement l’espace de travail d’Acrobat Sign pour être opérationnel</em>
+    Découvrir rapidement l’espace de travail d’Acrobat Sign pour prendre en main votre application
     <br>
   </td>
   <td>
@@ -53,7 +53,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="new-sender.md"><strong>Prise en main d'Acrobat Sign</strong></a>
     </div>
-    <em>Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs dans Acrobat Sign</em>
+    Ce tutoriel complet est un excellent point de départ pour les nouveaux expéditeurs dans Acrobat Sign
     <br>
   </td>
   <td>
@@ -63,7 +63,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="send-to-single-recipient.md"><strong>Envoi à un seul destinataire</strong></a>
     </div>
-    <em>Découvrez à quel point il est facile d'envoyer un document pour signature</em>
+    Intervenez et découvrez à quel point il est facile d’envoyer un document pour signature
     <br>
   </td>
   <td>
@@ -73,7 +73,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="send-to-multiple-recipients.md"><strong>Envoi à plusieurs destinataires</strong></a>
     </div>
-    <em>Envoyez un document pour signature électronique à plusieurs personnes dans l'ordre exact souhaité</em>
+    Envoyez un document pour signature électronique à plusieurs personnes dans l’ordre exact souhaité
     <br>
   </td>
 </tr>
@@ -85,7 +85,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="sending-options.md"><strong>Configurer les options d'envoi</strong></a>
     </div>
-    <em>Découvrez comment configurer différentes options lors de l’envoi d’un document pour signature</em>
+    Découvrez comment configurer différentes options lors de l’envoi d’un document pour signature
     <br>
   </td>
   <td>
@@ -95,7 +95,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="adding-fields.md"><strong>Ajout de champs à vos documents</strong></a>
     </div>
-    <em>Découvrez comment ajouter différents types de champs à vos documents</em>
+    Découvrez comment ajouter différents types de champs à vos documents
     <br>
   </td>
   <td>
@@ -105,7 +105,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="modify-in-flight.md"><strong>Modification d'un document après l'envoi</strong></a>
     </div>
-    <em>Modifier un document déjà en cours</em>
+    Modification d’un document déjà en cours
     <br>
   </td>
   <td>
@@ -115,7 +115,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="replace-signer.md"><strong>Remplacement d’un signataire</strong></a>
     </div>
-    <em>Découvrez comment modifier le signataire d’un document déjà en cours</em>
+    Découvrez comment modifier le signataire d’un document déjà en cours
      <br>
   </td>
 </tr>
@@ -127,7 +127,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
       <div>
       <a href="set-deadlines-reminders.md"><strong>Définir des échéances et des rappels</strong></a>
       </div>
-      <em>Découvrez comment envoyer régulièrement des rappels par e-mail et des dates limites pour que vos documents soient signés rapidement</em>
+      Découvrez comment envoyer régulièrement des rappels par e-mail et connaître les dates limites pour que vos documents soient signés rapidement
       <br>
     </td> 
   <td>
@@ -159,7 +159,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="electronically-sign-a-document.md"><strong>Signature électronique d'un document</strong></a>
     </div>
-    <em>Découvrez avec quelle facilité signer un document qui vous est envoyé avec Acrobat Sign</em>
+    Découvrez combien il est facile de signer un document qui vous est envoyé avec Acrobat Sign
     <br>
   </td>
   <td>
@@ -169,7 +169,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="fill-and-sign.md"><strong>Remplissage et signature d'un document</strong></a>
     </div>
-    <em>Remplissez des formulaires et ajoutez votre signature électronique aux documents</em>
+    Remplir des formulaires et ajouter votre signature électronique aux documents
     <br>
   </td>
   <td>
@@ -179,7 +179,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="sign-in-person.md"><strong>Obtention d’une signature en personne</strong></a>
     </div>
-    <em>Obtenez la signature d'une autre personne en personne à l'aide de l'application mobile Acrobat Sign</em>
+    Obtenir la signature de quelqu’un d’autre en personne à l’aide de l’application mobile Acrobat Sign
     <br>
   </td>
   <td>
@@ -189,7 +189,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="delegate-signing.md"><strong>Déléguer la signature à quelqu’un d’autre</strong></a>
     </div>
-    <em>Découvrez comment déléguer la signature d’un document à quelqu’un d’autre</em>
+    Découvrez comment déléguer la signature d’un document à une autre personne
     <br>
   </td>
 </tr>
@@ -201,7 +201,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="sign-with-a-digital-signature.md"><strong>Qu’est-ce qu’une signature numérique</strong></a>
     </div>
-    <em>En savoir plus sur les signatures numériques basées sur certificat</em>
+    En savoir plus sur les signatures numériques basées sur certificat
     <br>
   </td>
   <td>
@@ -211,7 +211,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="sign-with-a-stamp.md"><strong>Signature à l’aide d’un tampon</strong></a>
     </div>
-    <em>Utiliser des tampons pour marquer un document approuvé ou terminé</em>
+    Utiliser des tampons pour marquer un document approuvé ou terminé
      <br>
   </td> 
  <td>
@@ -238,7 +238,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="manage-and-track.md"><strong>Gérer et suivre vos accords</strong></a>
     </div>
-    <em>Découvrez comment gérer et suivre les accords envoyés pour signature</em>
+    Découvrez comment gérer et suivre les accords envoyés pour signature
     <br>
   </td>
   <td>
@@ -248,7 +248,7 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <div>
     <a href="../sign-advanced-users/create-a-template.md"><strong>Création d'un modèle de document</strong></a>
     </div>
-    <em>Créez un modèle de document réutilisable pour offrir rapidité et cohérence à votre organisation</em>
+    Créez un modèle de document réutilisable pour offrir rapidité et cohérence à votre entreprise
     <br>
   </td>
   <td>
