@@ -8,7 +8,7 @@ jira: KT-5505
 topic-revisit: Administration
 thumbnail: 40186.jpg
 exl-id: a10c42e9-8aec-4784-a374-23c69a3f8111
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 3%
@@ -27,4 +27,4 @@ Découvrez comment configurer un partage de compte avancé, qui permet aux admin
 
 >[!TIP]
 >
->Cette vidéo fait partie du cours [Tâches avancées pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.1) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Tâches avancées pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) qui est disponible gratuitement sur Experience League !

@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-5495
 thumbnail: 33656.jpg
 exl-id: b892b278-cf83-461d-a548-57237b85b297
-source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Les administrateurs de groupe peuvent affecter des workflows à n&#39;importe qu
 
 >[!TIP]
 >
-Cette vidéo fait partie du cours [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/?recommended=Sign-A-1-2020.2) qui est disponible gratuitement sur Experience League !
+Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) qui est disponible gratuitement sur Experience League !

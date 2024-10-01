@@ -10,9 +10,9 @@ topic: Integrations
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: ac3334ec-b65f-4ce4-b323-884948f5e0a6
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -150,7 +150,3 @@ Récupérez ces paramètres de votre compte, puis ouvrez votre instance Marketo.
    ![Appeler Webhook](assets/callWebhook.png)
 
 1. Votre campagne de notification par SMS pour les prospects ajoutés à un accord est maintenant configurée.
-
->[!TIP]
->
->Ce tutoriel fait partie du cours [Accélérer les cycles de vente avec Acrobat Sign pour Salesforce et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), disponible gratuitement sur Experience League !

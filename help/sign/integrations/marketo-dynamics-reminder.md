@@ -10,9 +10,9 @@ topic-revisit: Integrations
 jira: KT-7250
 thumbnail: KT-7250.jpg
 exl-id: 5a97fade-18a3-448a-8504-efb9e38e9187
-source-git-commit: 452299b2b786beab9df7a5019da4f3840d9cdec9
+source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
 workflow-type: tm+mt
-source-wordcount: '891'
+source-wordcount: '864'
 ht-degree: 0%
 
 ---
@@ -204,7 +204,3 @@ Le filtre de campagne **Jours avant l&#39;expiration** ayant été utilisé, vou
 1. Définissez la **planification** sur _quotidienne_. Si nécessaire, choisissez un jour et une heure de début et une date de fin pour la campagne.
 
    ![Paramètres de planification](assets/scheduleSettings.png)
-
->[!TIP]
->
->Ce tutoriel fait partie du cours [Accélérer les cycles de vente avec Acrobat Sign pour Microsoft Dynamics et Marketo](https://experienceleague.adobe.com/?recommended=Sign-U-1-2021.1), disponible gratuitement sur Experience League !
