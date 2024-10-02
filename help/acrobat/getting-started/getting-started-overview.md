@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '574'
 ht-degree: 1%
 
 ---
 
 # Présentation de la prise en main
 
-Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De la création d&#39;un document à la protection ou à la [modification de vos fichiers de PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}, ce contenu est conçu pour vous faciliter l&#39;accès aux workflows de PDF.
+Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De la création d&#39;un document à la protection ou à la [modification de vos fichiers de PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}, ce contenu est conçu pour vous faciliter l&#39;accès aux workflows de PDF. Consultez cette [liste de lecture](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) soigneusement sélectionnée pour commencer à utiliser Acrobat.
 
 ## Nouveautés
 

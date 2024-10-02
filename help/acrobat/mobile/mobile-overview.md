@@ -8,9 +8,9 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 9e9ca31d5cbf12057da850ae223742c4c9b431bd
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '184'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,9 @@ Créez, remplissez et [signez des mots de PDF](https://www.adobe.com/fr/acrobat/
     <a href="../getting-started/productivity.md">
       <img alt="Productivité mobile" src="../assets/productivity.png" />
     </a>
+    </div>
+    <em>Apprenez à en faire plus directement depuis votre tablette ou votre téléphone mobile avec l'application mobile Acrobat Reader</em>
+    <br>
   </td>
   <td>
    <img alt="Espaceur" src="../assets/Whitespacer.png" />

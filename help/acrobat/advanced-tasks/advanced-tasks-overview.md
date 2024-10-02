@@ -7,16 +7,16 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '307'
 ht-degree: 1%
 
 ---
 
 # Présentation des tâches avancées
 
-Allez au-delà des bases avec ces outils avancés dans Acrobat. Apprenez à créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser des fichiers volumineux, rassembler rapidement des données de formulaire et créer des fichiers de PDF universellement accessibles.
+Allez au-delà des bases avec ces outils avancés dans Acrobat. Apprenez à créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser des fichiers volumineux, rassembler rapidement des données de formulaire et créer des fichiers de PDF universellement accessibles. Consultez cette [liste de lecture](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) soigneusement sélectionnée pour effectuer des tâches avancées dans Acrobat.
 
 ## Nouveautés
 
