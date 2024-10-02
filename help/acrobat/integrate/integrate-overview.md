@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
+source-git-commit: ab26a4e6ead996f8b49aa5595b9cdd6585eb0615
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '319'
 ht-degree: 1%
 
 ---
@@ -85,7 +85,7 @@ Découvrez comment tous les membres de votre équipe peuvent travailler en toute
     <div>
     <a href="edge.md"><strong>Créer du contenu de PDF lors de la navigation avec [!DNL Microsoft Edge]</strong></a>
     </div>
-    Découvrez comment transformer des pages web en PDF à la volée avec l’extension Adobe Acrobat pour [!DNL Microsoft Edge]
+    Découvrez comment transformer des pages web en PDF avec l’extension Adobe Acrobat pour [!DNL Microsoft Edge]
     <br>
   </td>
   <td>
