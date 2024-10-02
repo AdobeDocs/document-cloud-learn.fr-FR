@@ -9,9 +9,9 @@ topic-revisit: Integrations
 jira: KT-6859
 thumbnail: KT-6859.jpg
 exl-id: 76cb40b4-bbb4-4f50-b01d-4c5a74bf9f20
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: 2944661b9d10624b95c25979b7f653348b4c0f52
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '322'
 ht-degree: 1%
 
 ---
@@ -43,7 +43,7 @@ Découvrez comment tous les membres de votre équipe peuvent travailler en toute
     <div>
     <a href="createofficeweb.md"><strong>Créer des mots de PDF dans [!DNL Office] pour le web</strong></a>
     </div>
-    Apprenez à créer des fichiers de PDF riches et robustes directement à partir de Microsoft Word
+    Découvrez comment créer des fichiers de PDF sans jamais quitter votre [!DNL Microsoft Office] pour les applications web
     <br>
   </td> 
   <td>
@@ -63,7 +63,7 @@ Découvrez comment tous les membres de votre équipe peuvent travailler en toute
     <div>
     <a href="acrobatandteams.md"><strong>Collaboration PDF dans [!DNL Microsoft Teams]</strong></a>
     </div>
-    Collaborez et travaillez avec des collègues en affichant, en annotant et en révisant des PDF sans jamais quitter [!DNL Microsoft Teams]
+    Collaborer et réviser des PDF sans jamais quitter [!DNL Microsoft Teams]
     <br>
   </td>
 </tr>
@@ -95,7 +95,7 @@ Découvrez comment tous les membres de votre équipe peuvent travailler en toute
     <div>
     <a href="microsoftsensitivitylabels.md"><strong>Mots de PDF Protect utilisant [!DNL Microsoft Purview Information] étiquettes de sensibilité</strong></a>
     </div>
-    Découvrez comment protéger les mots de PDF en ajoutant, modifiant, personnalisant et supprimant des étiquettes de sensibilité Microsoft Purview Information directement dans Acrobat
+    Découvrez comment protéger les mots de PDF avec les étiquettes de sensibilité Microsoft Purview Information directement dans Acrobat
     <br>
   </td>
   <td>
