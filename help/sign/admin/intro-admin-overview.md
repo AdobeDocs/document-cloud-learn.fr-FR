@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
 workflow-type: tm+mt
-source-wordcount: '642'
-ht-degree: 1%
+source-wordcount: '600'
+ht-degree: 2%
 
 ---
 
@@ -26,10 +26,6 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
 >[!TAB Comment promouvoir un utilisateur à un rôle d&#39;administrateur]
 
 Découvrez comment [promouvoir un utilisateur](promote-admin.md) à un rôle d&#39;administrateur Acrobat Sign à l&#39;aide du Admin Console.
-
->[!TAB Comment utiliser plusieurs profils]
-
-Découvrez comment utiliser le [sélecteur de profil](multiple-profiles.md) pour travailler avec plusieurs comptes Acrobat Sign.
 
 >[!TAB Configuration des administrateurs chargés de la protection des données]
 
@@ -192,16 +188,6 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
     <br>
   </td>
   <td>
-    <a href="multiple-profiles.md">
-      <img alt="Comment utiliser plusieurs profils" src="../assets/multiple-profiles.png" />
-    </a>
-    <div>
-    <a href="multiple-profiles.md"><strong>Comment utiliser plusieurs profils</strong></a>
-    </div>
-    <em>Découvrez comment utiliser le sélecteur de profil pour travailler avec plusieurs comptes Acrobat Sign</em>
-    <br>
-  </td>
-  <td>
     <a href="promote-admin.md">
       <img alt="Comment promouvoir un utilisateur à un rôle d’administrateur" src="../assets/promote-admin.png" />
     </a>
@@ -209,6 +195,11 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
     <a href="promote-admin.md"><strong>Comment promouvoir un utilisateur à un rôle d'administrateur</strong></a>
     </div>
     <em>Découvrez comment promouvoir un utilisateur vers un rôle d’administrateur Acrobat Sign à l’aide du Admin Console</em>
+    <br>
+  </td>
+   <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </table>
