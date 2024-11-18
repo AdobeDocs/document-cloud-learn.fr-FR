@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 38c5bc7ac76bfc5c64201a52ea7f06386ce43eb9
+source-git-commit: f26ffeb845594ada1b0cde035f91781b5b1d3026
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '577'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De 
 
 >[!BEGINTABS]
 
+>[!TAB Collaborez en temps réel]
+
+Découvrez comment créer un [processus de révision](collaborate.md) de document qui améliore non seulement l&#39;efficacité, mais également la qualité du contenu.
+
 >[!TAB Créer une nouvelle page]
 
 Apprenez à [créer une page d&#39;aspect professionnel](add-custom-page.md) dans votre PDF à l&#39;aide d&#39;Adobe Express.
@@ -33,10 +37,6 @@ Découvrez comment [créer, modifier et améliorer des graphiques](edit-graphics
 >[!TAB Nouvelle expérience de l&#39;espace de travail]
 
 Découvrez le [nouvel espace de travail](new-workspace.md) d&#39;Acrobat qui vous permet de découvrir rapidement les outils et d&#39;effectuer efficacement les tâches de votre PDF.
-
->[!TAB Découvrir les informations du PDF avec l’assistant AI]
-
-Apprenez à obtenir des informations à partir des fichiers de votre PDF à l&#39;aide de l&#39;[assistant AI](ai-assistant.md).
 
 >[!ENDTABS]
 
