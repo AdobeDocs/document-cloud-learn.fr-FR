@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c6058f76f43e271341f1418051921edef1403d6e
+source-git-commit: 229342b0b960e8f170481b24101a4f2c8e859a71
 workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 3%
@@ -16,16 +16,15 @@ ht-degree: 3%
 
 # Acrobat Tutorials {#acrobat-learning}
 
-+ [Présentation](overview.md)
++ [Vue d’ensemble](overview.md)
 + Prise en main de {#getting-started}
-   + [Présentation](getting-started/getting-started-overview.md)
+   + [Vue d’ensemble](getting-started/getting-started-overview.md)
    + [Nouvelle expérience de l’espace de travail](getting-started/new-workspace.md)
    + [Espace de travail – Principes de base](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Découvrir les informations d’un PDF avec l’assistant AI](getting-started/ai-assistant.md)
    + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
    + [Productivité mobile](getting-started/productivity.md)
    + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
-   + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
    + [Création d’un PDF](getting-started/create-pdf.md)
    + [Combiner des fichiers dans un seul PDF](getting-started/combine-to-pdf.md)
    + [Organiser les pages](getting-started/organize.md)
@@ -43,8 +42,9 @@ ht-degree: 3%
    + [Protect d’un fichier de mot de PDF avec un mot de passe](getting-started/password-protect.md)
    + [Obtenir des signatures](getting-started/signatures.md)
    + [Suivi de vos documents](getting-started/track.md)
+   + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
 + Tâches avancées {#advanced-tasks}
-   + [Présentation](advanced-tasks/advanced-tasks-overview.md)
+   + [Vue d’ensemble](advanced-tasks/advanced-tasks-overview.md)
    + [Ajout de signets et d’hyperliens](advanced-tasks/bookmarks.md)
    + [Optimisation des documents numérisés](advanced-tasks/optimizescan.md)
    + [Commandes et outils personnalisés](advanced-tasks/custom.md)
@@ -59,7 +59,7 @@ ht-degree: 3%
    + [Utilisation des données de formulaire](advanced-tasks/formdata.md)
    + [Vérifier l’accessibilité du PDF](advanced-tasks/accessibility.md)
    + Série sur l’accessibilité d’Acrobat {#accessibility-series}
-      + [Présentation](advanced-tasks/accessibility-series.md)
+      + [Vue d’ensemble](advanced-tasks/accessibility-series.md)
       + [Introduction à l’accessibilité des mots de PDF](advanced-tasks/accessibilitysession1.md)
       + [Correction d’un PDF inaccessible](advanced-tasks/accessibilitysession2.md)
       + [Tableaux complexes](advanced-tasks/accessibilitysession3.md)
@@ -67,7 +67,7 @@ ht-degree: 3%
       + [Ajout de champs de formulaire à un PDF balisé](advanced-tasks/accessibilitysession5.md)
       + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
 + Acrobat {#60-second} de 60 secondes
-   + [Présentation](60-second/60-second-overview.md)
+   + [Vue d’ensemble](60-second/60-second-overview.md)
    + [Modifier le PDF avec Acrobat sur le web](60-second/edit.md)
    + [Reconnaissance du texte dans un fichier de PDF numérisé](60-second/textrecognition.md)
    + [Combiner des fichiers dans un seul PDF](60-second/combine-to-one-pdf.md)
@@ -98,7 +98,7 @@ ht-degree: 3%
 + Générateurs de compétences {#skill-builders}
    + [Webinaires](skill-builder/skill-builder-webinars.md)
 + Intégrations {#integrations}
-   + [Présentation](integrate/integrate-overview.md)
+   + [Vue d’ensemble](integrate/integrate-overview.md)
    + [Créer un PDF à partir de [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Créer des mots de PDF dans [!DNL Office] pour le web](integrate/createofficeweb.md)
    + [Collaboration PDF dans  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
@@ -109,9 +109,9 @@ ht-degree: 3%
    + [Adobe Acrobat pour  [!DNL Google Drive]](integrate/acrobatandgoogle.md)
    + [Utiliser des fichiers de  [!DNL Dropbox]](integrate/acrobat-dropbox.md)
 + Industries et départements {#by-industry}
-   + [Présentation](industry/industry-overview.md)
+   + [Vue d’ensemble](industry/industry-overview.md)
    + Gouvernement {#gov}
-      + [Présentation](industry/gov/gov-overview.md)
+      + [Vue d’ensemble](industry/gov/gov-overview.md)
       + 5 conseils pour travailler n&#39;importe où avec Acrobat {#tips}
          + [5 conseils pour travailler n&#39;importe où avec Acrobat](industry/gov/5-tips-for-working-anywhere-with-acrobat-dc-for-government.md)
          + [Conseil #1 - Obtenir vos outils](industry/gov/get-your-tools.md)
@@ -126,11 +126,11 @@ ht-degree: 3%
          + [#3 - Finition dans Acrobat](industry/gov/finishing-in-acrobat.md)
          + [Rendre les bulletins de vote des PDF plus accessibles](industry/gov/making-pdf-ballots-accessible.md)
 + Développer {#develop}
-   + [Présentation](develop/develop-overview.md)
+   + [Vue d’ensemble](develop/develop-overview.md)
 + Déployer {#deploy}
-   + [Présentation](deploy/deploy-overview.md)
+   + [Vue d’ensemble](deploy/deploy-overview.md)
    + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Mobile {#mobile}
-   + [Présentation](mobile/mobile-overview.md)
+   + [Vue d’ensemble](mobile/mobile-overview.md)
    + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
