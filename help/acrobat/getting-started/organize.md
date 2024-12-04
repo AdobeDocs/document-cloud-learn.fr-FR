@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6832
 thumbnail: KT-6832.jpg
 exl-id: 1b39380c-ebdc-48b3-8237-1512cbc7b146
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 548f7a5979a4b9e829d09090dbd7cec9493f351a
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Pour offrir les meilleures expériences client, le contenu doit être créé plu
 
 >[!TIP]
 >
->Découvrez comment ajouter une [nouvelle page personnalisée](add-custom-page.md) de marque lors de l&#39;organisation des pages.
+>Découvrez comment ajouter une [nouvelle page personnalisée](add-custom-page.md) lors de l&#39;organisation des pages.
 
 <br> 
 
