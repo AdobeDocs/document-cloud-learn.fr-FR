@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-8498
 thumbnail: KT-8498.jpg
 exl-id: 8c611578-59e9-4438-ac99-3bb22e661d17
-source-git-commit: ee046e998b5396dc5d170c3dbd2c4c77ea725fe7
+source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 1%
@@ -29,3 +29,4 @@ Avec le travail à distance partout, il est essentiel de fournir du contenu rapi
 >[!TIP]
 >
 >Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) qui est disponible gratuitement sur Experience League !
+
