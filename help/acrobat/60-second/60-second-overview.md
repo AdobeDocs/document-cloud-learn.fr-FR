@@ -7,9 +7,9 @@ level: Beginner, Intermediate
 jira: KT-8493
 thumbnail: KT-8493.jpg
 exl-id: 43750150-6e0d-4326-946d-61e1bae86f2a
-source-git-commit: 4261cd5c2e0d0a8795ba610edb4c3a2b8e3b5d8a
+source-git-commit: b859d10ca3f8761285fba430515d0333a3814e93
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '1110'
 ht-degree: 0%
 
 ---
@@ -22,371 +22,677 @@ Acrobat de 60 secondes vous propose des tutoriels rapides pour vous aider à app
 
 ## Modifier
 
-<table style="table-layout:fixed">
-<tr>
-   <td>
-    <a href="edit.md">
-      <img alt="Modifier le PDF avec Acrobat Web" src="../assets/60-edit-web.png" />
-    </a>
-    <div>
-    <a href="edit.md"><strong>Modifier le PDF avec Acrobat Web</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Edit PDF with Acrobat Web">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/edit" title="Modifier le PDF avec Acrobat Web" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_15446e803641327fa17c7dad1078f062c9dc5712a.png?width=400&format=webply&optimize=medium" alt="Modifier le PDF avec Acrobat Web"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/edit" target="_self" rel="referrer" title="Modifier le PDF avec Acrobat Web">Modifier le PDF avec Acrobat Web</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment modifier du contenu dans Acrobat web</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/edit" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment modifier du contenu dans Acrobat web
-    <br>
-  </td>
-  <td>
-    <a href="textrecognition.md">
-      <img alt="Reconnaissance du texte dans un fichier de PDF numérisé" src="../assets/60-ocr.png" />
-    </a>
-    <div>
-    <a href="textrecognition.md"><strong>Reconnaître le texte dans un fichier de PDF numérisé</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Recognize text in a scanned PDF file">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/textrecognition" title="Reconnaissance du texte dans un fichier de PDF numérisé" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_18991458e25e3aeaa0ba7f169a5c62d91bfd011c7.png?width=400&format=webply&optimize=medium" alt="Reconnaissance du texte dans un fichier de PDF numérisé"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/textrecognition" target="_self" rel="referrer" title="Reconnaissance du texte dans un fichier de PDF numérisé">Reconnaître le texte dans un fichier de PDF numérisé</a>
+                    </p>
+                    <p class="is-size-6">Apprenez à reconnaître le texte d’une image numérisée</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/textrecognition" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Apprenez à reconnaître le texte d’une image numérisée
-    <br>
-  </td>
-  <td>
-    <a href="combine-to-one-pdf.md">
-      <img alt="Combiner des fichiers dans un seul PDF" src="../assets/60-combine.png" />
-    </a>
-    <div>
-    <a href="combine-to-one-pdf.md"><strong>Combiner les fichiers dans un seul PDF</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Combine files into one PDF">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/combine-to-one-pdf" title="Combiner des fichiers dans un seul PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium" alt="Combiner des fichiers dans un seul PDF"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/combine-to-one-pdf" target="_self" rel="referrer" title="Combiner des fichiers dans un seul PDF">Combiner les fichiers dans un seul PDF</a>
+                    </p>
+                    <p class="is-size-6">Découvrez à quelle vitesse combiner des fichiers dans un seul PDF</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/combine-to-one-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez à quelle vitesse combiner des fichiers dans un seul PDF
-    <br>
-  </td>
-   <td>
-    <a href="organize.md">
-      <img alt="Organiser les pages en un clin d’œil" src="../assets/60-organize.png" />
-    </a>
-    <div>
-    <a href="organize.md"><strong>Organiser les pages en un clin d'œil</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Organize pages in a snap">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/organize" title="Organiser les pages en un clin d’œil" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_134a5e6bdc79683186039aefd4886410edcf8f24d.png?width=400&format=webply&optimize=medium" alt="Organiser les pages en un clin d’œil"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/organize" target="_self" rel="referrer" title="Organiser les pages en un clin d’œil">Organiser les pages en un clin d'œil</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment organiser rapidement les pages dans un PDF</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/organize" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment organiser rapidement les pages dans un PDF
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="editphoto.md">
-      <img alt="Modifier une photo dans votre PDF" src="../assets/60-edit-photo.png" />
-    </a>
-    <div>
-    <a href="editphoto.md"><strong>Modifier une photo dans votre PDF</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Edit a photo in your PDF">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/editphoto" title="Modifier une photo dans votre PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_143402bd2ebb039d28d318ff79922f5cd6a72bb4c.png?width=400&format=webply&optimize=medium" alt="Modifier une photo dans votre PDF"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/editphoto" target="_self" rel="referrer" title="Modifier une photo dans votre PDF">Modifier une photo dans votre PDF</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment modifier une photo dans votre PDF</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/editphoto" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment modifier une photo dans votre PDF
-  </td>
-  <td>
-    <a href="editgraphic.md">
-      <img alt="Modification d’une image dans votre PDF" src="../assets/60-edit-graphic.png" />
-    </a>
-    <div>
-    <a href="editgraphic.md"><strong>Modifier un graphique dans votre PDF</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Edit a graphic in your PDF">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/editgraphic" title="Modification d’une image dans votre PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1e5970d9a0f57a1cb0c18325e8511645af3435571.png?width=400&format=webply&optimize=medium" alt="Modification d’une image dans votre PDF"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/editgraphic" target="_self" rel="referrer" title="Modification d’une image dans votre PDF">Modifier un graphique dans votre PDF</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment modifier un graphique dans votre PDF</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/editgraphic" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment modifier un graphique dans votre PDF
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Convertir
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="convert-pdf-word.md">
-      <img alt="Conversion d’un PDF au format Word" src="../assets/60-convert-word.png" />
-    </a>
-    <div>
-    <a href="convert-pdf-word.md"><strong>Convertir un PDF au format Word</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Convert a PDF to Word">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-word" title="Conversion d’un PDF au format Word" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_151fd684b86b4fce9905135d01d2089da2112ddc7.png?width=400&format=webply&optimize=medium" alt="Conversion d’un PDF au format Word"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-word" target="_self" rel="referrer" title="Conversion d’un PDF au format Word">Convertir un PDF au format Word</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment convertir un PDF au format Word</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-word" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment convertir un PDF au format Word
-  </td>
- <td>
-    <a href="convert-pdf-excel.md">
-      <img alt="Conversion d’un PDF au format Excel" src="../assets/60-convert-excel.png" />
-    </a>
-    <div>
-    <a href="convert-pdf-excel.md"><strong>Convertir un PDF en Excel</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Convert a PDF to Excel">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-excel" title="Conversion d’un PDF au format Excel" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_150c2cc7e2c37eb955ee680e942f7240e7a3be743.png?width=400&format=webply&optimize=medium" alt="Conversion d’un PDF au format Excel"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-excel" target="_self" rel="referrer" title="Conversion d’un PDF au format Excel">Convertir un PDF en Excel</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment convertir un PDF au format Excel</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-excel" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment convertir un PDF au format Excel
-  </td>
-  <td>
-    <a href="convert-pdf-powerpoint.md">
-      <img alt="Conversion d’un PDF en PowerPoint" src="../assets/60-convert-pptx.png" />
-    </a>
-    <div>
-    <a href="convert-pdf-powerpoint.md"><strong>Convertir un PDF en PowerPoint</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Convert a PDF to PowerPoint">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint" title="Conversion d’un PDF en PowerPoint" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1f8d6d403480a260dc967912fe013c5a6419dcffc.png?width=400&format=webply&optimize=medium" alt="Conversion d’un PDF en PowerPoint"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint" target="_self" rel="referrer" title="Conversion d’un PDF en PowerPoint">Convertir un PDF en PowerPoint</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment convertir un PDF au format PowerPoint</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment convertir un PDF au format PowerPoint
-  </td>
-  <td>
-    <a href="exportwordphone.md">
-      <img alt="Export PDF de Word à partir de votre téléphone" src="../assets/60-export-word-phone.png" />
-    </a>
-    <div>
-    <a href="exportwordphone.md"><strong>Export PDF de Word à partir de votre téléphone</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Export PDF to Word from your phone">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/exportwordphone" title="Export PDF de Word à partir de votre téléphone" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_159dede237c9c628066a9c0d75d0ea1d0a0255f26.png?width=400&format=webply&optimize=medium" alt="Export PDF de Word à partir de votre téléphone"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/exportwordphone" target="_self" rel="referrer" title="Export PDF de Word à partir de votre téléphone">Export PDF de Word à partir de votre téléphone</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment exporter un PDF vers Word à partir de votre téléphone</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/exportwordphone" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment exporter un PDF vers Word à partir de votre téléphone
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Créer
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="word-to-pdf.md">
-      <img alt="Création d’un PDF à partir de Microsoft Word" src="../assets/60-create-word.png" />
-    </a>
-    <div>
-    <a href="word-to-pdf.md"><strong>Créer un PDF à partir de Microsoft Word</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a PDF from Microsoft Word">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/word-to-pdf" title="Création d’un PDF à partir de Microsoft Word" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1cd736365ac8082ced244671cce45aefc5162b2b5.png?width=400&format=webply&optimize=medium" alt="Création d’un PDF à partir de Microsoft Word"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/word-to-pdf" target="_self" rel="referrer" title="Création d’un PDF à partir de Microsoft Word">Créer un PDF à partir de Microsoft Word</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment créer un PDF directement à partir de Word</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/word-to-pdf" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment créer un PDF directement à partir de Word
-  </td>
-  <td>
-    <a href="create-from-acrobat.md">
-      <img alt="Création de mots de PDF à partir d’Acrobat" src="../assets/60-create-acrobat.png" />
-    </a>
-    <div>
-    <a href="create-from-acrobat.md"><strong>Créer des mots de PDF à partir d'Acrobat</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create PDF files with Acrobat">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/create-from-acrobat" title="Création de fichiers de PDF avec Acrobat" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_11870f1d4b20a042dc6d14477c438af32860ceac8.png?width=400&format=webply&optimize=medium" alt="Création de fichiers de PDF avec Acrobat"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/create-from-acrobat" target="_self" rel="referrer" title="Création de fichiers de PDF avec Acrobat">Création de fichiers de PDF avec Acrobat</a>
+                    </p>
+                    <p class="is-size-6">Apprenez à créer des mots de PDF depuis Acrobat</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/create-from-acrobat" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Apprenez à créer des mots de PDF depuis Acrobat
-  <td>
-    <a href="wordform.md">
-      <img alt="Convertir Word en PDF avec champs de formulaire" src="../assets/60-convert-word-form.png" />
-    </a>
-    <div>
-    <a href="wordform.md"><strong>Convertir Word en PDF, y compris les champs de formulaire</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Convert Word to PDF including form fields">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/wordform" title="Convertir Word en PDF avec champs de formulaire" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_144fe4c86278b0d29c252495b50d8d16f3d2c3876.png?width=400&format=webply&optimize=medium" alt="Convertir Word en PDF avec champs de formulaire"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/wordform" target="_self" rel="referrer" title="Convertir Word en PDF avec champs de formulaire">Convertir Word en PDF, y compris les champs de formulaire</a>
+                    </p>
+                    <p class="is-size-6">Conversion d’un fichier Word en PDF et génération automatique des champs de formulaire</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/wordform" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Conversion d’un fichier Word en PDF et génération automatique des champs de formulaire
-  </td>
-  <td>
-    <a href="photo.md">
-      <img alt="Création d’un PDF de photos en un instant" src="../assets/60-create-photos.png" />
-    </a>
-    <div>
-    <a href="photo.md"><strong>Créez un PDF de photos en un instant</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create a PDF of photos in an instant">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/photo" title="Création d’un PDF de photos en un instant" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_18e81d37992122545eb35d6f082caab4a314eb4d3.png?width=400&format=webply&optimize=medium" alt="Création d’un PDF de photos en un instant"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/photo" target="_self" rel="referrer" title="Création d’un PDF de photos en un instant">Créez un PDF de photos en un instant</a>
+                    </p>
+                    <p class="is-size-6">Création d’un PDF de plusieurs photos</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/photo" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Création d’un PDF de plusieurs photos
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="phone.md">
-      <img alt="Conversion d’un fichier PPT en PDF sur votre téléphone" src="../assets/60-pptx-phone.png" />
-    </a>
-    <div>
-    <a href="phone.md"><strong>Convertir un fichier PPT en PDF sur votre téléphone</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Convert a PPT file to PDF on your phone">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/phone" title="Conversion d’un fichier PPT en PDF sur votre téléphone" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_17330e204d49ad64a1af9098da67fc2d172566d0a.png?width=400&format=webply&optimize=medium" alt="Conversion d’un fichier PPT en PDF sur votre téléphone"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/phone" target="_self" rel="referrer" title="Conversion d’un fichier PPT en PDF sur votre téléphone">Convertir un fichier PPT en PDF sur votre téléphone</a>
+                    </p>
+                    <p class="is-size-6">Conversion d’un fichier PowerPoint en PDF sur votre téléphone</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/phone" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Conversion d’un fichier PowerPoint en PDF sur votre téléphone
-  </td>
-  <td>
-    <a href="optimize.md">
-      <img alt="Créez des fichiers de PDF plus efficaces en un clin d’œil" src="../assets/60-efficient.png" />
-    </a>
-    <div>
-    <a href="optimize.md"><strong>Créez des fichiers de PDF plus efficaces en un clin d'œil</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Create more efficient PDF files in a snap">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/optimize" title="Créez des fichiers de PDF plus efficaces en un clin d’œil" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1803962c9009d3368a7edd10c31f9d262e8867539.png?width=400&format=webply&optimize=medium" alt="Créez des fichiers de PDF plus efficaces en un clin d’œil"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/optimize" target="_self" rel="referrer" title="Créez des fichiers de PDF plus efficaces en un clin d’œil">Créez des fichiers de PDF plus efficaces en un clin d'œil</a>
+                    </p>
+                    <p class="is-size-6">Optimisation des fichiers de votre PDF en un clin d’œil</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/optimize" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Optimisation des fichiers de votre PDF en un clin d’œil
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Signer
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="sign.md">
-      <img alt="Signer électroniquement un document papier" src="../assets/60-signature.png" />
-    </a>
-    <div>
-    <a href="sign.md"><strong>Signer électroniquement un document papier</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Electronically sign a paper document">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/sign" title="Signer électroniquement un document papier" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1208aec2e5b247e623754caa50e089d2f4ded0a6d.png?width=400&format=webply&optimize=medium" alt="Signer électroniquement un document papier"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/sign" target="_self" rel="referrer" title="Signer électroniquement un document papier">Signer électroniquement un document papier</a>
+                    </p>
+                    <p class="is-size-6">Apprenez à signer électroniquement un document papier</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/sign" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Apprenez à signer électroniquement un document papier
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Protéger
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="protect.md">
-      <img alt="Protect de vos fichiers de mot de PDF avec un mot de passe" src="../assets/60-protect.png" />
-    </a>
-    <div>
-    <a href="protect.md"><strong>Protect de vos fichiers de mot de PDF avec un mot de passe</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Protect your PDF files with a password">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/protect" title="Protect de vos fichiers de mot de PDF avec un mot de passe" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1dd983a4813e3ef7b729b15e794efae1217399beb.png?width=400&format=webply&optimize=medium" alt="Protect de vos fichiers de mot de PDF avec un mot de passe"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/protect" target="_self" rel="referrer" title="Protect de vos fichiers de mot de PDF avec un mot de passe">Protect de vos fichiers de mot de PDF avec un mot de passe</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment sécuriser votre PDF avec un mot de passe</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/protect" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment sécuriser votre PDF avec un mot de passe
-  </td>
-  <td>
-    <a href="redaction.md">
-      <img alt="Biffure : la bonne façon" src="../assets/60-redaction.png" />
-    </a>
-    <div>
-    <a href="redaction.md"><strong>Biffure : la bonne méthode</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Redaction: The right way">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/redaction" title="Biffure : le bon moyen" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_157cf46d9edc5dd644ff1bef8f186a240b931fb37.png?width=400&format=webply&optimize=medium" alt="Biffure : le bon moyen"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/redaction" target="_self" rel="referrer" title="Biffure : le bon moyen">Biffure : le bon moyen</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment biffer correctement les informations sensibles dans votre PDF</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/redaction" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment biffer correctement les informations sensibles dans votre PDF
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Partage et révision
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="share-comment.md">
-      <img alt="Partage d’un PDF pour commentaires" src="../assets/60-share-comment.png" />
-    </a>
-    <div>
-    <a href="share-comment.md"><strong>Partage d'un PDF pour commentaires</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Share a PDF for commenting">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/share-comment" title="Partage d’un PDF pour commentaires" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1df6283b214efd1ddd237c3677af76911195315c2.png?width=400&format=webply&optimize=medium" alt="Partage d’un PDF pour commentaires"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/share-comment" target="_self" rel="referrer" title="Partage d’un PDF pour commentaires">Partage d'un PDF pour commentaires</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment partager un PDF avec d’autres personnes pour qu’elles le commentent</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/share-comment" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment partager un PDF pour que d’autres personnes puissent le commenter
-  </td>
-  <td>
-    <a href="share-comment-teams.md">
-      <img alt="Partage et commentaires sur les fichiers de PDF dans Teams" src="../assets/60-share-teams.png" />
-    </a>
-    <div>
-    <a href="share-comment-teams.md"><strong>Partager et commenter des fichiers de PDF dans Teams</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Share and comment on PDF files in Teams">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams" title="Partage et commentaires sur les fichiers de PDF dans Teams" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1720a3899d776d3ac481b80fee706cbdf3858bbf7.png?width=400&format=webply&optimize=medium" alt="Partage et commentaires sur les fichiers de PDF dans Teams"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams" target="_self" rel="referrer" title="Partage et commentaires sur les fichiers de PDF dans Teams">Partager et commenter des fichiers de PDF dans Teams</a>
+                    </p>
+                    <p class="is-size-6">Partage et commentaire d’un fichier de PDF dans Microsoft Teams</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Partage et commentaire d’un fichier de PDF dans Microsoft Teams
-  </td>
-  <td>
-    <a href="summarize-comments.md">
-      <img alt="Résoudre les problèmes liés aux commentaires du PDF avec l’option Résumé" src="../assets/60-summarize.png" />
-    </a>
-    <div>
-    <a href="summarize-comments.md"><strong>Résoudre les problèmes liés aux commentaires du PDF avec le résumé</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Wrangling PDF comments with Summarize">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/summarize-comments" title="Résoudre les problèmes liés aux commentaires du PDF avec l’option Résumé" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_17b1b68eade2127c8eb341461188bbf3c1067669e.png?width=400&format=webply&optimize=medium" alt="Résoudre les problèmes liés aux commentaires du PDF avec l’option Résumé"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/summarize-comments" target="_self" rel="referrer" title="Résoudre les problèmes liés aux commentaires du PDF avec l’option Résumé">Résoudre les problèmes liés aux commentaires du PDF avec le résumé</a>
+                    </p>
+                    <p class="is-size-6">Résumez tous vos commentaires dans un seul PDF</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/summarize-comments" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Résumez tous vos commentaires dans un seul PDF
-  </td>
-   <td>
-    <a href="indesign.md">
-      <img alt="Chargement des commentaires du PDF dans l’InDesign" src="../assets/60-indesign.png" />
-    </a>
-    <div>
-    <a href="indesign.md"><strong>Charger les commentaires du PDF dans l'InDesign</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Load PDF comments into InDesign">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/indesign" title="Chargement des commentaires du PDF dans l’InDesign" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_12b5fbc41158aa6c29b27d55f48da2e555340bb74.png?width=400&format=webply&optimize=medium" alt="Chargement des commentaires du PDF dans l’InDesign"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/indesign" target="_self" rel="referrer" title="Chargement des commentaires du PDF dans l’InDesign">Charger les commentaires du PDF dans l'InDesign</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment mettre en InDesign tous les commentaires de votre PDF</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/indesign" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment mettre en InDesign tous les commentaires de votre PDF
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Préparer
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="accessible.md">
-      <img alt="Laissez Acrobat vous aider à créer des mots de PDF accessibles" src="../assets/60-accessible.png" />
-    </a>
-    <div>
-    <a href="accessible.md"><strong>Laissez Acrobat vous aider à rendre les mots de PDF accessibles</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Let Acrobat help you make accessible PDFs">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/accessible" title="Laissez Acrobat vous aider à rendre les mots de PDF accessibles" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1e2904f6c282577ed675e5b1afeaa1e9512565f47.png?width=400&format=webply&optimize=medium" alt="Laissez Acrobat vous aider à rendre les mots de PDF accessibles"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/accessible" target="_self" rel="referrer" title="Laissez Acrobat vous aider à rendre les mots de PDF accessibles">Laissez Acrobat vous aider à rendre les mots de PDF accessibles</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment rendre votre PDF universellement accessible</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/accessible" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment rendre votre PDF universellement accessible
-  </td>
- <td>
-    <a href="conform.md">
-      <img alt="Mise en conformité d’un PDF avec un format standard" src="../assets/60-conform.png" />
-    </a>
-    <div>
-    <a href="conform.md"><strong>Conformer un PDF à un format standard</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Conform a PDF to a standard format">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/conform" title="Mise en conformité d’un PDF avec un format standard" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1c82cf6c647f1f7df7f66caab864c0abb7adece74.png?width=400&format=webply&optimize=medium" alt="Mise en conformité d’un PDF avec un format standard"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/conform" target="_self" rel="referrer" title="Mise en conformité d’un PDF avec un format standard">Conformer un PDF à un format standard</a>
+                    </p>
+                    <p class="is-size-6">Apprenez à conformer un PDF à une norme spécifique</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/conform" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Apprenez à conformer un PDF à une norme spécifique
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
 ## Rubriques supplémentaires
 
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="compare.md">
-      <img alt="Repérer les différences avec PDF Comparer" src="../assets/60-compare.png" />
-    </a>
-    <div>
-    <a href="compare.md"><strong>Repérez les différences avec la comparaison par PDF</strong></a>
+<!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
+<div class="columns">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Spot the differences with PDF compare">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/compare" title="Repérer les différences avec la comparaison par PDF" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_19b8c3f5665ede86ff64b4144d108a150bc09f02e.png?width=400&format=webply&optimize=medium" alt="Repérer les différences avec la comparaison par PDF"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/compare" target="_self" rel="referrer" title="Repérer les différences avec la comparaison par PDF">Repérer les différences avec la comparaison par PDF</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment comparer rapidement la différence entre deux PDF</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/compare" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment comparer rapidement la différence entre deux PDF
-  </td>
- <td>
-    <a href="search.md">
-      <img alt="Rechercher dans plusieurs fichiers de PDF à la fois" src="../assets/60-search.png" />
-    </a>
-    <div>
-    <a href="search.md"><strong>Rechercher dans plusieurs fichiers de PDF à la fois</strong></a>
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Search multiple PDF files at once">
+        <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
+            <div class="card-image">
+                <figure class="image x-is-16by9">
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/search" title="Rechercher dans plusieurs fichiers de PDF à la fois" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/media_1ac5f9ef54b42fa190b6b3c15408bf332e9e22aa0.png?width=400&format=webply&optimize=medium" alt="Rechercher dans plusieurs fichiers de PDF à la fois"
+                             style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
+                    </a>
+                </figure>
+            </div>
+            <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
+                <div class="top-card-content">
+                    <p class="headline is-size-6 has-text-weight-bold">
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/search" target="_self" rel="referrer" title="Rechercher dans plusieurs fichiers de PDF à la fois">Rechercher dans plusieurs fichiers de PDF à la fois</a>
+                    </p>
+                    <p class="is-size-6">Découvrez comment effectuer une recherche dans plusieurs fichiers de PDF</p>
+                </div>
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/search" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
+                </a>
+            </div>
+        </div>
     </div>
-    Découvrez comment effectuer une recherche dans plusieurs fichiers de PDF
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-        <div>
-        <br>
-  </td>
-</tr>
-</table>
+</div>
+<!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
