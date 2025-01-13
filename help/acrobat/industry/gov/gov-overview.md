@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 jira: KT-9910
 thumbnail: KT-9910.jpg
 exl-id: 8a8e760f-0983-46b5-86ed-8c8d977b6478
-source-git-commit: 6417f5a5ddcf97fbf3ce9e2b26fc7043c79defea
+source-git-commit: 88bbe7e4866b46984017455c61f13c518b1465fc
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -284,74 +284,3 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations f�
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-<table>
-<tr>
-  <td>
-    <a href="making-pdfs-accessible.md">
-      <img alt="Rendre les PDF accessibles (14h11)" src="../../assets/Accessiblecomplete.png" />
-    </a>
-    <div>
-    <a href="making-pdfs-accessible.md"><strong>Rendre les PDF accessibles (14:11)</strong></a>
-    </div>
-    <em>Découvrez le workflow optimal pour la création de fichiers de PDF accessibles</em>
-    <br>
-  </td>
-  <td>
-    <a href="understanding-accessibility.md">
-      <img alt="Rendre les PDF accessibles : comprendre l’accessibilité" src="../../assets/Accessibiityunderstanding.png" />
-    </a>
-    <div>
-    <a href="understanding-accessibility.md"><strong>Rendre les PDF accessibles : comprendre l'accessibilité</strong></a>
-    </div>
-    <em>Découvrir ce que signifie rendre un PDF accessible aux personnes handicapées</em>
-    <br>
-  </td>  
-  <td>
-    <a href="collaborate-on-documents.md">
-      <img alt="Rendre les PDF accessibles : création dans Word" src="../../assets/Accessibilityword.png" />
-    </a>
-    <div>
-    <a href="collaborate-on-documents.md"><strong>Rendre les PDF accessibles : création dans Word</strong></a>
-    </div>
-    <em>Découvrez les bonnes pratiques pour créer des fichiers de PDF créés dans [!DNL Microsoft Word]</em>
-    <br>
-  </td>
-   <td>
-    <a href="finishing-in-acrobat.md">
-      <img alt="Rendre les PDF accessibles : finition dans Acrobat" src="../../assets/Accessibilityacrobat.png" />
-    </a>
-    <div>
-    <a href="finishing-in-acrobat.md"><strong>Rendre les PDF accessibles : finalisation dans Acrobat</strong></a>
-    </div>
-    <em>Apprenez à rendre votre fichier de PDF accessible à l'aide des outils d'Acrobat Pro</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-    <a href="making-pdf-ballots-accessible.md">
-      <img alt="Rendre les bulletins de vote des PDF plus accessibles" src="../../assets/Accessibleballots.png" />
-    </a>
-    <div>
-    <a href="making-pdf-ballots-accessible.md"><strong>Rendre les bulletins de vote des PDF plus accessibles</strong></a>
-    </div>
-    <em>Ce webinaire couvre les domaines essentiels de l'accessibilité du PDF nécessaires pour permettre aux utilisateurs de technologies d'assistance, telles que les lecteurs d'écran, de lire et de remplir leurs bulletins de vote</em>
-    <br>
-  </td>  
-  <td>
-   <img alt="Espaceur" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaceur" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-  <td>
-   <img alt="Espaceur" src="../../assets/Grayspacer.png" />
-    <div>
-    <br>
-  </td>
-</tr>
-</table>
