@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6853
 thumbnail: KT-6853.jpg
 exl-id: b91fd23d-3aa3-4623-96f7-a00b3768251f
-source-git-commit: 05751444c0dab6eccd7076889e8735d58dfee82c
+source-git-commit: 251d7aa679e53d55a9cc1d827ff41898b89aefd9
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 4%
+source-wordcount: '99'
+ht-degree: 6%
 
 ---
 
 # Présentation du déploiement
 
-Articles de bonnes pratiques offrant des informations précieuses sur le déploiement d’Acrobat Sign au sein de votre entreprise.
+Articles présentant des informations précieuses et les bonnes pratiques concernant le déploiement d’Acrobat Sign au sein de votre organisation.
 
 <table style="table-layout:fixed">
 <tr>
@@ -31,11 +31,11 @@ Articles de bonnes pratiques offrant des informations précieuses sur le déploi
     <br>
   </td>
   <td>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank">
+    <a href="https://www.adobe.com/fr/trust/document-cloud-security.html" target="_blank">
       <img alt="Centre de gestion de la confidentialité de l’Adobe" src="assets/Deploy_Trust.png" />
     </a>
     <div>
-    <a href="https://www.adobe.com/trust/document-cloud-security.html" target="_blank"><strong>Centre de données d’Adobe</strong></a>
+    <a href="https://www.adobe.com/fr/trust/document-cloud-security.html" target="_blank"><strong>Centre de données d’Adobe</strong></a>
     </div>
     <em>Découvrez nos efforts en cours en matière de sécurité, de légalité et de normes pour Acrobat Sign</em>
     <br>
