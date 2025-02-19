@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: cb41e14f914f1fe25dfe37ba8f2104d147198c7a
+source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
 workflow-type: tm+mt
-source-wordcount: '858'
+source-wordcount: '854'
 ht-degree: 1%
 
 ---
@@ -90,12 +90,12 @@ Découvrez le [nouvel espace de travail](new-workspace.md) d&#39;Acrobat qui vou
             </div>
         </div>
     </div>
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with the AI Assistant">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Discover PDF insights with AI Assistant">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" title="Découvrir les informations d’un PDF avec l’assistant AI" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium" alt="Découvrir les informations d’un PDF avec l’assistant AI"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant" title="Découvrir les informations du PDF avec l’assistant AI" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_12db4e53771239c4c355e54868bb8c2d72912cf58.png?width=400&format=webply&optimize=medium" alt="Découvrir les informations du PDF avec l’assistant AI"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
