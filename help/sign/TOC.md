@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 59400129df861a6a92e69609b965b2fd82371640
+source-git-commit: 1968bc6d01d1e7ae3f732a92c0c9a06fdeab3edd
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '545'
 ht-degree: 6%
 
 ---
@@ -69,7 +69,7 @@ ht-degree: 6%
       + [Prise en main pour les nouveaux administrateurs](admin/get-started-admin.md)
       + [Prêt pour les administrateurs](admin/up-and-running-admin.md)
       + [Configuration des notifications pour les événements et les alertes](admin/set-up-shared-events-and-alert.md)
-      + [Ajout d’utilisateurs](admin/add-users-to-your-account.md)
+      + [Ajouter un nouvel utilisateur](admin/add-users-to-your-account.md)
       + [Création et gestion de groupes](admin/create-and-manage-groups.md)
       + [Configuration d’une archive externe](admin/set-up-your-external-archive.md)
       + [Création d’un modèle](sign-advanced-users/create-a-template.md)
@@ -80,7 +80,7 @@ ht-degree: 6%
       + [Envoi en masse](sign-advanced-users/megasign.md)
       + [Création d’un workflow personnalisé](admin/building-a-custom-workflow.md)
       + [Rapports d’audit](admin/audit-reports.md)
-      + [Comment promouvoir un utilisateur à un rôle d’administrateur](admin/promote-admin.md)
+      + [Attribution de rôles d’administrateur de produit et de support](admin/promote-admin.md)
    + Tâches avancées {#advanced-tasks-admins}
       + [Paramètres généraux](admin/learn-about-global-settings.md)
       + [Partage de l’accès au compte](admin/share-account-access.md)
