@@ -8,9 +8,9 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 8755e93c7ea0019a6edb6084a97c5e9cbb93942a
+source-git-commit: 72a03c600396f317278f5dfcd251796631b0c25f
 workflow-type: tm+mt
-source-wordcount: '618'
+source-wordcount: '616'
 ht-degree: 1%
 
 ---
@@ -25,7 +25,7 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
 
 >[!TAB Ajouter un nouvel utilisateur]
 
-Découvrez comment [ajouter et gérer des utilisateurs pour Acrobat Sign](add-users-to-your-account.md).
+Découvrez comment [ajouter de nouveaux utilisateurs à Acrobat Sign](add-users-to-your-account.md).
 
 >[!TAB Configuration des administrateurs chargés de la protection des données]
 
@@ -72,6 +72,18 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
     <br>
   </td>
   <td>
+    <a href="add-users-to-your-account.md">
+      <img alt="Ajouter un nouvel utilisateur" src="../assets/Add-a-new-user.jpg" />
+    </a>
+    <div>
+    <a href="add-users-to-your-account.md"><strong>Ajouter un nouvel utilisateur</strong></a>
+    </div>
+    <em>Découvrez comment ajouter de nouveaux utilisateurs à Acrobat Sign</em>
+    <br>
+  </td>
+</tr>
+<tr>
+ <td>
     <a href="add-admin.md">
       <img alt="Ajouter un nouvel administrateur de compte" src="../assets/Add-a-new-admin.jpg" />
     </a>
@@ -79,18 +91,6 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
     <a href="add-admin.md"><strong>Ajouter un administrateur de compte</strong></a>
     </div>
     <em>Découvrez comment créer un utilisateur ou promouvoir un utilisateur existant au rôle d'administrateur Acrobat Sign</em>
-    <br>
-  </td>
-</tr>
-<tr>
- <td>
-    <a href="create-and-manage-groups.md">
-      <img alt="Création et gestion de groupes" src="../assets/Creating-Groups.png" />
-    </a>
-    <div>
-    <a href="create-and-manage-groups.md"><strong>Création et gestion de groupes</strong></a>
-    </div>
-    <em>Créer des groupes, ajouter des utilisateurs à des groupes et modifier les paramètres de groupe</em>
     <br>
   </td>
   <td>
