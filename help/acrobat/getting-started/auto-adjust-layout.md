@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10835
 thumbnail: KT-10835.jpg
 exl-id: f6d9daa7-5022-4581-9a24-42637cf5fd47
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Ajustement automatique de la mise en page
 
-Découvrez le nouveau mode de modification qui redistribue le contenu et ajuste automatiquement la mise en page sur les pages de votre PDF. Ce tutoriel vidéo utilise la [nouvelle expérience de l&#39;espace de travail](new-workspace.md).
+Découvrez le nouveau mode de modification qui redistribue le contenu et ajuste automatiquement la mise en page sur les pages de votre PDF. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-workspace.md).
 
 >[!NOTE]
 >

@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: d27fb8609e412632424cb88dd1b8239e665964f9
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Modification de texte dans un PDF
 
-Découvrez comment modifier des mots, des expressions ou même des pages entières dans votre PDF. La modification de texte directement dans Acrobat vous permet de mettre à jour le contenu avec précision et de manière professionnelle, sans passer d’une application à l’autre. Ce tutoriel vidéo utilise la [nouvelle expérience de l&#39;espace de travail](new-workspace.md).
+Découvrez comment modifier des mots, des expressions ou même des pages entières dans votre PDF. La modification de texte directement dans Acrobat vous permet de mettre à jour le contenu avec précision et de manière professionnelle, sans passer d’une application à l’autre. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-workspace.md).
 
 >[!TIP]
 >

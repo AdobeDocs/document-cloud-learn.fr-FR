@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5531
 thumbnail: KT-5531.jpg
 exl-id: 4638061c-6ed7-4dc0-b865-5e0b8da9cbd4
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 6%
@@ -20,7 +20,7 @@ Découvrez comment l’interface d’Acrobat facilite l’accès aux fichiers et
 
 >[!TIP]
 >
->Vous souhaitez en savoir plus sur la nouvelle expérience d’espace de travail que vous pouvez activer dans Acrobat ? Découvrez la [nouvelle expérience de l&#39;espace de travail](new-workspace.md).
+>Vous souhaitez en savoir plus sur la nouvelle expérience Acrobat que vous pouvez activer dans Acrobat ? Découvrez la [nouvelle expérience Acrobat](new-workspace.md).
 
 <br> 
 

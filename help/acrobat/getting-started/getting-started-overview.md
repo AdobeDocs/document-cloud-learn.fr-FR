@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 5ae26a41271759a3a352fbfff68bab685d723067
+source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '852'
 ht-degree: 1%
 
 ---
@@ -34,9 +34,9 @@ Apprenez à [créer une page d&#39;aspect professionnel](add-custom-page.md) dan
 
 Découvrez comment [créer, modifier et améliorer des graphiques](edit-graphics.md) dans votre PDF.
 
->[!TAB Nouvelle expérience de l&#39;espace de travail]
+>[!TAB nouvelle expérience Acrobat]
 
-Découvrez le [nouvel espace de travail](new-workspace.md) d&#39;Acrobat qui vous permet de découvrir rapidement les outils et d&#39;effectuer efficacement les tâches de votre PDF.
+Découvrez la [nouvelle expérience Acrobat](new-workspace.md) qui vous aide à découvrir rapidement les outils et à effectuer efficacement les tâches de votre PDF.
 
 >[!ENDTABS]
 
@@ -44,12 +44,12 @@ Découvrez le [nouvel espace de travail](new-workspace.md) d&#39;Acrobat qui vou
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New workspace experience">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="New Acrobat experience">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="Nouvelle expérience de l’espace de travail" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="Nouvelle expérience de l’espace de travail"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" title="nouvelle expérience Acrobat" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/media_1fd7846c8083ccd0da406c6abf96fe746d9b4539e.png?width=400&format=webply&optimize=medium" alt="nouvelle expérience Acrobat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -57,9 +57,9 @@ Découvrez le [nouvel espace de travail](new-workspace.md) d&#39;Acrobat qui vou
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="Nouvelle expérience de l’espace de travail">Nouvelle expérience de l'espace de travail</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" title="nouvelle expérience Acrobat">Nouvelle expérience Acrobat</a>
                     </p>
-                    <p class="is-size-6">En savoir plus sur le nouvel espace de travail d’Acrobat</p>
+                    <p class="is-size-6">En savoir plus sur la nouvelle expérience Acrobat</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
