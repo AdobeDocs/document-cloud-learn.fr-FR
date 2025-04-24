@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
 workflow-type: tm+mt
-source-wordcount: '852'
+source-wordcount: '857'
 ht-degree: 1%
 
 ---
 
 # Présentation de la prise en main
 
-Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De la création d&#39;un document à la protection ou à la [modification de vos fichiers de PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}, ce contenu est conçu pour vous faciliter l&#39;accès aux workflows de PDF. Consultez cette [liste de lecture](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) soigneusement sélectionnée pour commencer à utiliser Acrobat.
+Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De la création d&#39;un document à la protection ou à la [modification des fichiers de votre PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}, ce contenu est conçu pour vous faciliter l&#39;accès aux workflows du PDF. Consultez cette [liste de lecture](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) soigneusement sélectionnée pour commencer à utiliser Acrobat.
 
 ## Nouveautés
 
@@ -448,7 +448,7 @@ Découvrez la [nouvelle expérience Acrobat](new-workspace.md) qui vous aide à 
                     <p class="headline is-size-6 has-text-weight-bold">
                         <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" title="Commenter un PDF">Commenter un PDF</a>
                     </p>
-                    <p class="is-size-6">Ajouter des commentaires, puis partager votre PDF avec d’autres personnes</p>
+                    <p class="is-size-6">Découvrez comment ajouter des commentaires sur un PDF partagé à l’aide d’un simple navigateur web</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
