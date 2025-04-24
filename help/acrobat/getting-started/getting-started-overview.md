@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6856
 thumbnail: KT-6856.jpg
 exl-id: 24660a17-a04e-4937-be94-0a42c4b2c2ca
-source-git-commit: 2a19279b4dbc1c1a24ef4ec7f79301c2da1465d8
+source-git-commit: 4832311602e9626774a952f2a9b2aeb6ad576305
 workflow-type: tm+mt
-source-wordcount: '857'
+source-wordcount: '853'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,10 @@ Apprenez à utiliser Adobe Acrobat à l’aide de ces tutoriels détaillés. De 
 
 >[!BEGINTABS]
 
+>[!TAB Commenter un PDF]
+
+Découvrez comment [commenter un PDF partagé](comment-on-pdf-files.md) à l&#39;aide d&#39;un simple navigateur web.
+
 >[!TAB Collaborez en temps réel]
 
 Découvrez comment créer un [processus de révision](collaborate.md) de document qui améliore non seulement l&#39;efficacité, mais également la qualité du contenu.
@@ -33,10 +37,6 @@ Apprenez à [créer une page d&#39;aspect professionnel](add-custom-page.md) dan
 >[!TAB Modifier des graphiques dans un PDF]
 
 Découvrez comment [créer, modifier et améliorer des graphiques](edit-graphics.md) dans votre PDF.
-
->[!TAB nouvelle expérience Acrobat]
-
-Découvrez la [nouvelle expérience Acrobat](new-workspace.md) qui vous aide à découvrir rapidement les outils et à effectuer efficacement les tâches de votre PDF.
 
 >[!ENDTABS]
 
