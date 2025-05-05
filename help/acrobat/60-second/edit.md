@@ -22,4 +22,4 @@ Dans ce tutoriel vidéo de 60 secondes, apprenez à apporter [de simples modific
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Adobe Acrobat](https://experienceleague.adobe.com/fr/playlists/acrobat-get-started-business-users) qui est disponible gratuitement sur Experience League !

@@ -15,13 +15,13 @@ Ce projet a adopté le [Adobe Code de conduite Open Source](code-of-conduct.md) 
 
 ## À propos de vos contributions au contenu des Adobes
 
-Voir le [Guide du contributeur de documents d&#39;Adobe](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Voir le [Guide du contributeur de documents d&#39;Adobe](https://docs.adobe.com/content/help/fr-FR/contributor/contributor-guide/introduction.html).
 
 La façon dont vous contribuez dépend de qui vous êtes et du type de changements que vous souhaitez apporter :
 
 ### Modifications mineures
 
-Si vous fournissez des mises à jour mineures par coeur, consultez l’article et cliquez sur le lien **Modifier** dans l’article qui va à la source GitHub pour l’article. Ensuite, utilisez simplement l’interface utilisateur GitHub pour effectuer vos mises à jour. Pour plus d&#39;informations, consultez le [Adobe Docs contributor guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) (Guide du contributeur de documents ).
+Si vous fournissez des mises à jour mineures par coeur, consultez l’article et cliquez sur le lien **Modifier** dans l’article qui va à la source GitHub pour l’article. Ensuite, utilisez simplement l’interface utilisateur GitHub pour effectuer vos mises à jour. Pour plus d&#39;informations, consultez le [Adobe Docs contributor guide](https://docs.adobe.com/content/help/fr-FR/contributor/contributor-guide/introduction.html) (Guide du contributeur de documents ).
 
 Les corrections mineures ou clarifications que vous soumettez pour la documentation et les exemples de code dans ce référentiel sont couvertes par les conditions d’utilisation de l’Adobe.
 
@@ -43,7 +43,7 @@ Si vous êtes rédacteur technique, responsable de programme ou développeur de 
 
 Les contributeurs de la communauté peuvent utiliser l’interface utilisateur GitHub pour effectuer des modifications de base ou forquer le référentiel pour apporter des contributions importantes.
 
-Pour plus d&#39;informations, consultez le [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Pour plus d&#39;informations, consultez le [Adobe Docs Contributor Guide](https://docs.adobe.com/content/help/fr-FR/contributor/contributor-guide/introduction.html).
 
 ## Comment utiliser le balisage pour formater votre rubrique
 

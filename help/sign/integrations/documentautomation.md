@@ -263,7 +263,7 @@ Ces dossiers sont désormais référencés dans le cadre de votre flux Power Aut
 
    ![Capture d&#39;écran de la sélection du symbole +](assets/documentautomation/automation_27.png)
 
-1. Accédez à https://www.adobe.com/go/powerautomate_getstarted dans un nouvel onglet.
+1. Accédez à https://www.adobe.com/go/powerautomate_getstarted_fr dans un nouvel onglet.
 1. Cliquez sur **Démarrer**.
 
    ![Capture d&#39;écran du bouton Commencer](assets/documentautomation/automation_28.png)

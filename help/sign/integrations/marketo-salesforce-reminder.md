@@ -25,7 +25,7 @@ Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accor
 
 1. Installez Marketo Salesforce Sync.
 
-   Des informations et le dernier plug-in pour Salesforce Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html).
+   Des informations et le dernier plug-in pour Salesforce Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=fr).
 
 1. Installez Acrobat Sign pour Salesforce.
 

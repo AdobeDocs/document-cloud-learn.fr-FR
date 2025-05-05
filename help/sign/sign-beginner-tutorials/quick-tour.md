@@ -22,5 +22,5 @@ Suivez la visite guidée en vidéo de l’espace de travail d’Acrobat Sign pou
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-get-started-business-users) qui est disponible gratuitement sur Experience League !
 

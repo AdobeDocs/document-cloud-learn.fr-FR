@@ -26,4 +26,4 @@ Découvrez les sept domaines clés sur lesquels les administrateurs doivent se c
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-get-started-administrators) qui est disponible gratuitement sur Experience League !

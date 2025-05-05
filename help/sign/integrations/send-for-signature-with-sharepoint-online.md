@@ -24,4 +24,4 @@ Découvrez comment rationaliser les workflows de documents en envoyant un docume
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Utilisation des applications Acrobat Sign Inside Microsoft](https://experienceleague.adobe.com/en/playlists/acrobat-sign-integrate-microsoft-apps), disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Utilisation des applications Acrobat Sign Inside Microsoft](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-integrate-microsoft-apps), disponible gratuitement sur Experience League !

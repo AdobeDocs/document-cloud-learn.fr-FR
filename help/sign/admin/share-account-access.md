@@ -22,4 +22,4 @@ Découvrez comment configurer l’accès en lecture seule aux transactions du co
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Tâches avancées pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Tâches avancées pour les administrateurs](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-perform-advanced-tasks-administrators) qui est disponible gratuitement sur Experience League !

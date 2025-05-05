@@ -30,4 +30,4 @@ Apprenez à créer des fichiers de PDF riches et robustes avec une table des mat
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Intégrer Acrobat et Microsoft 365](https://experienceleague.adobe.com/en/playlists/acrobat-integrate-microsoft-365) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Intégrer Acrobat et Microsoft 365](https://experienceleague.adobe.com/fr/playlists/acrobat-integrate-microsoft-365) qui est disponible gratuitement sur Experience League !

@@ -19,7 +19,7 @@ on s&#39;attend à ce que vous respectiez ce code. Veuillez signaler un comporte
 
 ## Documentation du guide du contributeur
 
-Reportez-vous au [Guide du contributeur](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Reportez-vous au [Guide du contributeur](https://docs.adobe.com/content/help/fr-FR/contributor/contributor-guide/introduction.html).
 
 ## Une Question ?
 
@@ -57,4 +57,4 @@ n&#39;hésitez pas à communiquer avec les comités existants pour discuter de c
 
 ## Problèmes de sécurité
 
-Les problèmes de sécurité ne doivent pas être signalés sur ce dispositif de suivi des problèmes. Au lieu de cela, [déposez un problème à nos experts en sécurité](https://helpx.adobe.com/security/alertus.html)
+Les problèmes de sécurité ne doivent pas être signalés sur ce dispositif de suivi des problèmes. Au lieu de cela, [déposez un problème à nos experts en sécurité](https://helpx.adobe.com/fr/security/alertus.html)

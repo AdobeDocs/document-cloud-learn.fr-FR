@@ -25,7 +25,7 @@ Découvrez comment envoyer un SMS, un e-mail ou une notification push pour infor
 
 1. Installez Marketo Microsoft Dynamics Sync.
 
-   Des informations et le dernier plug-in pour Microsoft Dynamics Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html).
+   Des informations et le dernier plug-in pour Microsoft Dynamics Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=fr).
 
 1. Installez Acrobat Sign pour Microsoft Dynamics.
 

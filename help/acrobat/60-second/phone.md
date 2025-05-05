@@ -22,4 +22,4 @@ Dans ce tutoriel vidéo de 60 secondes, découvrez comment convertir une pièce 
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Intégrer Acrobat et Microsoft 365](https://experienceleague.adobe.com/?recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Intégrer Acrobat et Microsoft 365](https://experienceleague.adobe.com/?lang=fr&recommended=Acrobat-U-1-2021.microsoft365) qui est disponible gratuitement sur Experience League !

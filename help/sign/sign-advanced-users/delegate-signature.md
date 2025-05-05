@@ -26,4 +26,4 @@ Découvrez comment utiliser le rôle de délégant pour envoyer un document à u
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-perform-advanced-tasks-business-users) qui est disponible gratuitement sur Experience League !

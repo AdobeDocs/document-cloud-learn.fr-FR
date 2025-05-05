@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Les créateurs de compétences Acrobat Sign proposent des sessions de 30 minutes conçues pour mettre vos signatures électroniques à profit, sans ajouter de travail supplémentaire à votre journée. Chaque mois, un nouveau sujet est mis en évidence.
 
-Consultez tous les webinaires à la demande [ici](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/overview).
+Consultez tous les webinaires à la demande [ici](https://experienceleague.adobe.com/fr/docs/events/acrobat-sign-webinars/overview).

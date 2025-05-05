@@ -20,10 +20,10 @@ Découvrez comment personnaliser et automatiser les workflows de documents pour 
 
 [!BADGE Cas D’Utilisation]
 
-* [Processus IEP personnalisé pour l’éducation](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=en)
+* [Processus IEP personnalisé pour l’éducation](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html?lang=fr)
 Découvrez comment le Designer de workflow personnalisé est utilisé pour numériser un processus de programme d’éducation individualisé (IEP)
-* [Forms des contrats et des demandes d&#39;approvisionnement du gouvernement](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=en)
-* [Forms des contrats commerciaux et des demandes d&#39;approvisionnement](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=en)
+* [Forms des contrats et des demandes d&#39;approvisionnement du gouvernement](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovcontracts.html?lang=fr)
+* [Forms des contrats commerciaux et des demandes d&#39;approvisionnement](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecomcontracts.html?lang=fr)
 
 >[!NOTE]
 >
@@ -33,4 +33,4 @@ Découvrez comment le Designer de workflow personnalisé est utilisé pour numé
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-get-started-administrators) qui est disponible gratuitement sur Experience League !
