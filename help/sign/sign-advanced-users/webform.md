@@ -33,4 +33,4 @@ Découvrez comment un formulaire web est utilisé pour un workflow complexe de d
 
 >[!TIP]
 >
-Cette vidéo fait partie des listes de lecture [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) et [Prise en main d’Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) qui sont disponibles gratuitement sur Experience League !
+>Cette vidéo fait partie des listes de lecture [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-business-users) et [Prise en main d’Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) qui sont disponibles gratuitement sur Experience League !

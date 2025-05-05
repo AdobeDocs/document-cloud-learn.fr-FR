@@ -27,10 +27,10 @@ Découvrez comment le Designer de workflow personnalisé est utilisé pour numé
 
 >[!NOTE]
 >
-Les administrateurs de groupe peuvent affecter des workflows à n&#39;importe quel groupe qu&#39;ils gèrent (pas seulement à leur groupe principal). Les administrateurs de groupe peuvent également modifier tout workflow affecté à un groupe qu’ils gèrent.
+>Les administrateurs de groupe peuvent affecter des workflows à n&#39;importe quel groupe qu&#39;ils gèrent (pas seulement à leur groupe principal). Les administrateurs de groupe peuvent également modifier tout workflow affecté à un groupe qu’ils gèrent.
 
 >[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
-Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-administrators) qui est disponible gratuitement sur Experience League !

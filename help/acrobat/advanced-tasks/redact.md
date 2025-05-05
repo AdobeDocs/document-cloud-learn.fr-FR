@@ -67,8 +67,8 @@ Utilisez la zone de recherche pour rechercher un mot ou une expression spécifiq
 
 >[!TIP]
 >
-Pour accélérer le processus de biffure, consultez l&#39;[Action Wizard](../advanced-tasks/action.md).
+>Pour accélérer le processus de biffure, consultez l&#39;[Action Wizard](../advanced-tasks/action.md).
 
 >[!TIP]
 >
-Cette vidéo fait partie de la liste de lecture [Effectuer des tâches avancées dans Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Effectuer des tâches avancées dans Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), disponible gratuitement sur Experience League !

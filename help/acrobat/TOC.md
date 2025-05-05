@@ -66,7 +66,7 @@ ht-degree: 3%
       + [Documents numérisés et listes complexes](advanced-tasks/accessibilitysession4.md)
       + [Ajout de champs de formulaire à un PDF balisé](advanced-tasks/accessibilitysession5.md)
       + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
-+ Acrobat {#60-second} de 60 secondes
++ Acrobat de 60 secondes {#60-second}
    + [Vue d’ensemble](60-second/60-second-overview.md)
    + [Modifier le PDF avec Acrobat sur le web](60-second/edit.md)
    + [Reconnaissance du texte dans un fichier de PDF numérisé](60-second/textrecognition.md)
