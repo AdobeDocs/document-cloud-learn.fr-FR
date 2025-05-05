@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Remplacez rapidement le traitement papier par des workflows numériques conformes, complétés par des rapports d’audit. Découvrez l&#39;outil [Acrobat Sign Workflow Designer](../admin/building-a-custom-workflow.md) pour simplifier l&#39;ensemble du processus.
 
->[!VIDEO](https://video.tv.adobe.com/v/33980?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409212?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 Sélectionnez cette option pour télécharger ou ouvrir une recette de PDF étape par étape pour les contrats et les formulaires de demande d&#39;approvisionnement.
 

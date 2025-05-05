@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Découvrez comment modifier ou supprimer un modèle dans votre bibliothèque.
 
->[!VIDEO](https://video.tv.adobe.com/v/342567?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411200?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

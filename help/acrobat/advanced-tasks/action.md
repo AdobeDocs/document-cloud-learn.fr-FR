@@ -22,7 +22,7 @@ Pour offrir les meilleures expériences client, le contenu doit être créé plu
 >
 >Disponible dans Acrobat Pro uniquement.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433138?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444877?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

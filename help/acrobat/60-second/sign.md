@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Dans ce tutoriel vidéo de 60 secondes, apprenez à utiliser Adobe Scan pour signer un formulaire imprimé. Scannez-le, signez-le et envoyez-le simplement en tant que PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338331?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347124?quality=12&learn=on&hidetitle=true&captions=fre_fr)

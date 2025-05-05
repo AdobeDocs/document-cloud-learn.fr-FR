@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser votre ID numérique [!DNL Aadhaar] pour authentifier votre identité et autoriser une signature numérique à distance (signature cloud) sur un document dans Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/338362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444514?quality=12&learn=on&hidetitle=true&captions=fre_fr)

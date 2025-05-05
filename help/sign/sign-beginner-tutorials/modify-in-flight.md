@@ -27,7 +27,7 @@ Découvrez comment modifier un document qui a déjà été envoyé pour signatur
 >
 >La modification d’un document après l’envoi est uniquement disponible pour les formules d’entreprise. Votre administrateur Acrobat Sign doit activer **Modifier les accords** dans la section **Paramètres d’envoi** des **Paramètres de compte** pour utiliser cette fonctionnalité.
 
->[!VIDEO](https://video.tv.adobe.com/v/342299?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410734?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

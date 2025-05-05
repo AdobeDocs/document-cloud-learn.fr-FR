@@ -18,4 +18,4 @@ ht-degree: 3%
 
 Dans ce tutoriel vidéo de 60 secondes, apprenez à utiliser l&#39;outil [Organiser les pages](https://www.adobe.com/fr/acrobat/online/rearrange-pdf.html) pour obtenir une vue d&#39;ensemble de votre PDF. Modifiez l&#39;ordre des pages et la mise en page, et divisez même [le PDF](https://www.adobe.com/fr/acrobat/online/split-pdf.html){target="_blank"} en fichiers plus petits.
 
->[!VIDEO](https://video.tv.adobe.com/v/338278?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409108?quality=12&learn=on&hidetitle=true&captions=fre_fr)

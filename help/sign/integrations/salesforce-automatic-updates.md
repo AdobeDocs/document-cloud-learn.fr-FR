@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment lier facilement votre compte à [!DNL Salesforce] pour obtenir des mises à jour automatiques, en rationalisant les opérations et en améliorant la précision.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432775?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439594?quality=12&learn=on&hidetitle=true&captions=fre_fr)

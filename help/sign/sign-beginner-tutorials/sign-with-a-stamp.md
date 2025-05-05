@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser des tampons pour marquer un document comme approuvé ou terminé.
 
->[!VIDEO](https://video.tv.adobe.com/v/345170?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411254?quality=12&learn=on&hidetitle=true&captions=fre_fr)

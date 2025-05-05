@@ -19,4 +19,4 @@ Découvrez comment les formulaires web sont utilisés pour améliorer l’accès
 
 Consultez la page [Création d’une application de stage en ligne pour l’éducation](usecase-edu-intern-create.md) pour apprendre à créer ce formulaire web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421773?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430539?quality=12&learn=on&hidetitle=true&captions=fre_fr)

@@ -24,4 +24,4 @@ Découvrez comment l’interface d’Acrobat facilite l’accès aux fichiers et
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337971?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409170?quality=12&learn=on&hidetitle=true&captions=fre_fr)

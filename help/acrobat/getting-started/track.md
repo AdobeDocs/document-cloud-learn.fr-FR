@@ -22,4 +22,4 @@ Identifiez toujours les fichiers en attente de signature et ceux qui ont été s
 >
 >Vous devez disposer d’un droit d’accès Acrobat Sign Enterprise en plus de votre abonnement Acrobat Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/338492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347155?quality=12&learn=on&hidetitle=true&captions=fre_fr)

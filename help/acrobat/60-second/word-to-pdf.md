@@ -17,4 +17,4 @@ ht-degree: 3%
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment [créer un PDF à partir de Microsoft Word](https://www.adobe.com/fr/acrobat/online/word-to-pdf.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/342627?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437080?quality=12&learn=on&hidetitle=true&captions=fre_fr)

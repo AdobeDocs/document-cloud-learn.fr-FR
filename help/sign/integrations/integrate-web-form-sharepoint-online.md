@@ -23,4 +23,4 @@ Découvrez comment mapper les données collectées à partir d’un formulaire w
 >
 >Le mappage de champs entre les formulaires web Acrobat Sign et les listes [!DNL SharePoint] est disponible uniquement pour les installations en ligne et non pour les installations sur site.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421616?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423560?quality=12&learn=on&hidetitle=true&captions=fre_fr)

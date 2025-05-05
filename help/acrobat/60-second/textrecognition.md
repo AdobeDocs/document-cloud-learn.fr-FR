@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment convertir un PDF numérisé afin de pouvoir rechercher du texte dans le PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/340081?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347078?quality=12&learn=on&hidetitle=true&captions=fre_fr)

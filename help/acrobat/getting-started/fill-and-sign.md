@@ -18,4 +18,4 @@ ht-degree: 2%
 
 Découvrez comment [remplir et signer un formulaire de PDF](https://www.adobe.com/fr/acrobat/online/sign-pdf.html){target="_blank"} rapidement et facilement. Aucune impression ou numérisation désordonnée n&#39;est nécessaire.
 
->[!VIDEO](https://video.tv.adobe.com/v/35495?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409628?quality=12&learn=on&hidetitle=true&captions=fre_fr)

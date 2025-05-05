@@ -22,4 +22,4 @@ Découvrez comment suivre, gérer et exporter des données à partir d&#39;un [f
 >
 >Seules les formules Entreprises et Grands comptes ont la possibilité de configurer les options d’accès aux formulaires web et de signataire. Les options d’accès aux formulaires web et de signataire sont activées ou désactivées au niveau du compte ou du groupe sous Compte > Paramètres de compte > Paramètres généraux > Formulaires web.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409607?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417073?quality=12&learn=on&hidetitle=true&captions=fre_fr)

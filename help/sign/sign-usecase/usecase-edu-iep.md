@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Découvrez comment le Designer de workflow personnalisé est utilisé pour numériser un processus de programme d’éducation individualisée (IEP) pour une école du primaire et du secondaire. Les PEI sont des plans d’éducation écrits conçus pour répondre aux besoins d’un étudiant et qui nécessitent la signature de plusieurs membres de l’équipe PEI.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422174?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423329?quality=12&learn=on&hidetitle=true&captions=fre_fr)

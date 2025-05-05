@@ -22,5 +22,5 @@ Découvrez comment envoyer régulièrement des rappels par e-mail et connaître 
 >
 >Les formules Grands comptes et Entreprises peuvent exposer de manière sélective l’option Rappel pendant le processus d’envoi ou activer l’automatisation à l’échelle du compte/groupe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411445?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425313?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 

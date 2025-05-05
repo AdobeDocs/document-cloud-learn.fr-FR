@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment Liquid Mode améliore l’expérience de signature mobile. Plus besoin de pincer et zoomer lors de la lecture et de la signature de documents. Ce tutoriel explique comment envoyer un _HTML de formulaire_ pour signature et améliorer automatiquement l’expérience de signature pour les utilisateurs mobiles.
 
->[!VIDEO](https://video.tv.adobe.com/v/333803?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409664?quality=12&learn=on&hidetitle=true&captions=fre_fr)

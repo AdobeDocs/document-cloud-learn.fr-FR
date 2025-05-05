@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment envoyer des documents pour signature directement à partir de l&#39;onglet Documents dans [!DNL Microsoft Teams].
 
->[!VIDEO](https://video.tv.adobe.com/v/3425477?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439650?quality=12&learn=on&hidetitle=true&captions=fre_fr)

@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Apprenez à créer des PDF de qualité professionnelle avec les outils de conception simples d&#39;emploi intégrés dans [Adobe Express](https://express.adobe.com). Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445543?enablevpops&quality=12&learn=on&hidetitle=true&captions=fre_fr)

@@ -23,7 +23,7 @@ Découvrez comment configurer un partage de compte avancé, qui permet aux admin
 >
 >Le partage de compte avancé est uniquement disponible pour les formules Grands comptes. Le support technique peut activer le partage avancé, mais une fois qu’il est activé, il modifie les relations des objets partagés d’une manière irréversible. Pour cette raison, il est recommandé de contacter l’équipe chargée de votre compte d’Adobe et de configurer un compte d’évaluation afin de tester la fonctionnalité et de vérifier qu’elle permet tout ce que vous souhaitez accomplir.
 
->[!VIDEO](https://video.tv.adobe.com/v/40186?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411212?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

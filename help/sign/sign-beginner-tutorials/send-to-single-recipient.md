@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Workflow le plus courant dans Acrobat Sign : envoi d’un document pour signature. Découvrez comment charger un document, ajouter des champs de formulaire et envoyer à quelqu’un pour signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425269?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Découvrez comment envoyer des accords pour signature, vérifier le statut des accords et envoyer des rappels depuis [!DNL Microsoft Teams]. Cet exemple passe par un courtier hypothécaire qui envoie une demande de prêt pour signature directement au sein de Teams. Cette intégration étroite accélère le processus de prêt hypothécaire, même lorsque vous travaillez avec des demandeurs de prêt hypothécaire dans un environnement de travail à distance.
 
->[!VIDEO](https://video.tv.adobe.com/v/346545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446195?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

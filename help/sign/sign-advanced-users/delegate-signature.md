@@ -22,7 +22,7 @@ Découvrez comment utiliser le rôle de délégant pour envoyer un document à u
 >
 >Le rôle de délégant est uniquement disponible pour les formules au niveau de l’entreprise. Votre administrateur Acrobat Sign devra peut-être activer le paramètre **Autoriser les expéditeurs à marquer certains destinataires comme délégants** dans la section **Paramètres d’envoi** des **Paramètres de compte** pour utiliser cette fonctionnalité.
 
->[!VIDEO](https://video.tv.adobe.com/v/343621?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412748?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

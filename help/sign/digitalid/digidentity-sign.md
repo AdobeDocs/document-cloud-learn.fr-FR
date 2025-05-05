@@ -20,4 +20,4 @@ Digidentity est un fournisseur de services de confiance qualifié (QTSP) de l’
 
 Ce tutoriel vidéo détaille le parcours de l’utilisateur, de la réception de l’e-mail d’invitation à l’utilisation d’une identification numérique pour authentifier et apposer une signature cloud dans Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/336991?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449784?quality=12&learn=on&hidetitle=true&captions=fre_fr)

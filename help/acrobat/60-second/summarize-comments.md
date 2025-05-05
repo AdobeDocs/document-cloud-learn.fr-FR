@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment créer un résumé de tous les commentaires et annotations dans votre fichier de PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409907?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436969?quality=12&learn=on&hidetitle=true&captions=fre_fr)

@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment convertir une pièce jointe [PowerPoint en PDF](https://www.adobe.com/fr/acrobat/online/ppt-to-pdf.html){target="_blank"} sur votre téléphone. Lorsque le fichier revient, affichez-le et appuyez sur Partager pour l’envoyer à votre équipe, le tout sans PowerPoint sur votre téléphone.
 
->[!VIDEO](https://video.tv.adobe.com/v/336366?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409205?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

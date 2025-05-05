@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Apprenez à protéger les mots de PDF en ajoutant, modifiant, personnalisant et supprimant des étiquettes de sensibilité [Informations sur Microsoft Purview](https://learn.microsoft.com/en-us/microsoft-365/compliance/information-protection?view=o365-worldwide) directement dans Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410552?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444300?quality=12&learn=on&hidetitle=true&captions=fre_fr)

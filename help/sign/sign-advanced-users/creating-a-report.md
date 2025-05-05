@@ -22,4 +22,4 @@ Découvrez comment générer des rapports et suivre l’utilisation des transact
 >
 >La création de rapports est uniquement disponible pour les formules Entreprises et Grands comptes.
 
->[!VIDEO](https://video.tv.adobe.com/v/346754?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3444684?quality=12&learn=on&hidetitle=true&captions=fre_fr)

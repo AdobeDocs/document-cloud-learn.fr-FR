@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour authentifier l’identité d’un signataire de document. L’authentification de l’identité permet de réduire la fraude et ajoute un niveau de sécurité supplémentaire aux documents signés.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419287?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447584?quality=12&learn=on&hidetitle=true&captions=fre_fr)

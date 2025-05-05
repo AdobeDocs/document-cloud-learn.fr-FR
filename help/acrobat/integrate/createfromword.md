@@ -26,7 +26,7 @@ Apprenez à créer des fichiers de PDF riches et robustes avec une table des mat
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331736?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409572?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

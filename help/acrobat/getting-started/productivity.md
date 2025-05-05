@@ -24,7 +24,7 @@ Avec le travail à distance partout, il est essentiel de fournir du contenu rapi
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337972?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347146?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 ![Code QR](../assets/Acrobatqrcode.jpg)
 

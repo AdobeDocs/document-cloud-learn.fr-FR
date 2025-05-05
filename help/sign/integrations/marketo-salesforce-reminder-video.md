@@ -32,5 +32,5 @@ Découvrez comment envoyer un rappel par e-mail de Marketo pour les accords non 
 
    Des informations sur ce plug-in sont disponibles [ici](https://helpx.adobe.com/ca/sign/using/salesforce-integration-installation-guide.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/332506?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410390?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 

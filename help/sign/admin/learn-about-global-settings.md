@@ -19,7 +19,7 @@ ht-degree: 2%
 
 La section Paramètres généraux de l’onglet Compte est l’une des sections les plus riches en fonctionnalités, et tous les paramètres sont spécifiques à l’utilisation. Découvrez comment modifier les paramètres globalement pour l’ensemble de votre organisation ou pour des groupes spécifiques.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3452104?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment créer une nouvelle page d’aspect professionnel dans votre PDF à l’aide d’Adobe Express. Concevoir une nouvelle page vous donne la possibilité de créer du contenu personnalisé de marque professionnel en quelques minutes, ce qui est vraiment unique. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/347331?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3417492?enablevpops&quality=12&learn=on&hidetitle=true&captions=fre_fr)

@@ -19,4 +19,4 @@ Apprenez à créer, modifier et améliorer des graphiques dans votre PDF. La mod
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446931?enablevpops&quality=12&learn=on&hidetitle=true&captions=fre_fr)

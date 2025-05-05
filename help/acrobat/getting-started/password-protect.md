@@ -25,7 +25,7 @@ Découvrez comment [ajouter un mot de PDF](https://www.adobe.com/fr/acrobat/onli
 [!BADGE Impact organisationnel]
 Protection des informations, gestion des risques
 
->[!VIDEO](https://video.tv.adobe.com/v/35497?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409646?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

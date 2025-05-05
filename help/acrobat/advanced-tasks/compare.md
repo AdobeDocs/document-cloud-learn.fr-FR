@@ -24,7 +24,7 @@ Applications, documents connexes, fiches d&#39;information, manuels, politiques,
 [!BADGE Impact organisationnel]
 Économies de coûts, efficacité organisationnelle, gain de temps, assurance qualité
 
->[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409324?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

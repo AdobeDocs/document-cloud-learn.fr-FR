@@ -19,7 +19,7 @@ ht-degree: 23%
 
 Découvrez comment envoyer un document via un processus d’approbation. Dans cet exemple, découvrez comment envoyer un contrat d&#39;embauche par le biais des ressources humaines, d&#39;un employé potentiel et du responsable de l&#39;embauche. Le rôle d’approbateur fonctionne bien lorsqu’une personne doit « approuver » un document avant qu’il soit envoyé au signataire.
 
->[!VIDEO](https://video.tv.adobe.com/v/343854?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411218?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

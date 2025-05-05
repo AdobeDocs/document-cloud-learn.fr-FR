@@ -29,7 +29,7 @@ Découvrez comment le Designer de workflow personnalisé est utilisé pour numé
 >
 >Les administrateurs de groupe peuvent affecter des workflows à n&#39;importe quel groupe qu&#39;ils gèrent (pas seulement à leur groupe principal). Les administrateurs de groupe peuvent également modifier tout workflow affecté à un groupe qu’ils gèrent.
 
->[!VIDEO](https://video.tv.adobe.com/v/33656?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412783?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

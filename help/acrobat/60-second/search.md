@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment lancer une recherche dans un fichier de PDF, puis lancer la recherche avancée et rechercher dans un dossier entier de fichiers de PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/336363?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409470?quality=12&learn=on&hidetitle=true&captions=fre_fr)

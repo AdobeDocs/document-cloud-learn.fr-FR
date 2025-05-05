@@ -22,7 +22,7 @@ Découvrez les sept domaines clés sur lesquels les administrateurs doivent se c
 >
 >La création de rapports est uniquement disponible pour les formules Entreprises et Grands comptes.
 
->[!VIDEO](https://video.tv.adobe.com/v/33657?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411236?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

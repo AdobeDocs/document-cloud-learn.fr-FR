@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment configurer des documents volumineux et des services Push Agreement dans Acrobat Sign pour [!DNL Salesforce]. Les accords Push vous permettent d’envoyer des documents, de créer un formulaire web et de faire publier des accords comme s’ils avaient été créés dans [!DNL Salesforce].
 
->[!VIDEO](https://video.tv.adobe.com/v/3432842?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3455779?quality=12&learn=on&hidetitle=true&captions=fre_fr)

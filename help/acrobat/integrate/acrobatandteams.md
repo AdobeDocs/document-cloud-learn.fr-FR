@@ -32,7 +32,7 @@ Adobe Acrobat abonnement Équipe permet aux utilisateurs de collaborer et de tra
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331277?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409682?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

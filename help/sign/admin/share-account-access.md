@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Découvrez comment configurer l’accès en lecture seule aux transactions du compte d’un autre utilisateur.
 
->[!VIDEO](https://video.tv.adobe.com/v/40187?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411194?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >

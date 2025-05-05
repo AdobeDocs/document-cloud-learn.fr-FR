@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment utiliser votre ID numérique [!DNL Intesi Group] pour authentifier votre identité et autoriser une signature numérique à distance (signature cloud) sur un document.
 
->[!VIDEO](https://video.tv.adobe.com/v/336989?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443663?quality=12&learn=on&hidetitle=true&captions=fre_fr)

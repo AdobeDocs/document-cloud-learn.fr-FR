@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment créer une archive externe pour les copies de sauvegarde des accords signés. Vous pouvez archiver des copies vers n’importe quelle adresse e-mail ou vers [!DNL Box] et Evernote. Une copie de l’e-mail signé et complété est envoyée à l’adresse e-mail ou au service cloud que vous désignez.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409072?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412808?quality=12&learn=on&hidetitle=true&captions=fre_fr)

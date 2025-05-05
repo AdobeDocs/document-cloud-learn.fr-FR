@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment désactiver, modifier et réactiver un formulaire web existant. Lorsque vous désactivez un formulaire web, vous pouvez rediriger l’URL ou créer un message personnalisé pour les utilisateurs finaux.
 
->[!VIDEO](https://video.tv.adobe.com/v/346677?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412768?quality=12&learn=on&hidetitle=true&captions=fre_fr)

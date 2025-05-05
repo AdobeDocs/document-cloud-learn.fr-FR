@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment fusionner des données de Salesforce directement dans un document Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409412?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412823?quality=12&learn=on&hidetitle=true&captions=fre_fr)

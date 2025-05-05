@@ -33,4 +33,4 @@ Fichiers d’exemple pour s’entraîner (ZIP, 1,7 Mo)
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340379?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446333?quality=12&learn=on&hidetitle=true&captions=fre_fr)

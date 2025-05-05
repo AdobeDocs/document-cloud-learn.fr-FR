@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Découvrez comment obtenir la signature d&#39;une autre personne en personne à l&#39;aide de l&#39;[application mobile Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=fr).
 
->[!VIDEO](https://video.tv.adobe.com/v/345169?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411260?quality=12&learn=on&hidetitle=true&captions=fre_fr)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment configurer différentes options lors de l’envoi d’un document pour signature. Découvrez comment définir les messages du document, les formats de fichiers, la fréquence des rappels et l’expiration du document.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412763?quality=12&learn=on&hidetitle=true&captions=fre_fr)

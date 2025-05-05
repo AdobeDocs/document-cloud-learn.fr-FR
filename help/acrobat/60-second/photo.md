@@ -18,4 +18,4 @@ ht-degree: 1%
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment glisser-déposer un groupe de mots de passe JPG sur l’icône Acrobat. Cliquez sur Oui pour créer un PDF de plusieurs pages. Ensuite, vous pouvez simplement faire glisser d&#39;autres fichiers de PDF JPG dans le panneau Pages pour [ajouter des pages supplémentaires au panneau](https://www.adobe.com/fr/acrobat/online/add-pages-to-pdf.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/336365?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409559?quality=12&learn=on&hidetitle=true&captions=fre_fr)

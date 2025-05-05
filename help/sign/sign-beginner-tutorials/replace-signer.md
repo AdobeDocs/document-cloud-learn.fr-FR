@@ -22,4 +22,4 @@ Apprenez à remplacer un signataire (par exemple, si un e-mail incorrect a été
 >
 >Le paramètre par défaut pour Remplacer le destinataire consiste à remplacer entièrement le destinataire actuel par un nouveau destinataire. Les formules Entreprises et Grands comptes offrent d’autres options.
 
->[!VIDEO](https://video.tv.adobe.com/v/342340?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425302?quality=12&learn=on&hidetitle=true&captions=fre_fr)

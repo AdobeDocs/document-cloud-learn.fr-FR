@@ -19,4 +19,4 @@ ht-degree: 0%
 Découvrez comment les membres non techniques de votre organisation peuvent créer des workflows simples qui se connectent à d’autres systèmes à l’aide des connecteurs [!DNL Microsoft Power Automate] préconfigurés inclus gratuitement dans Acrobat Sign. Ces workflows de documents automatisés permettent d’accélérer et d’optimiser les processus courants, de réduire le temps consacré aux tâches répétitives et de réduire les erreurs et les reprises.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424251?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437911?quality=12&learn=on&hidetitle=true&captions=fre_fr)

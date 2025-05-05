@@ -24,4 +24,4 @@ Pour offrir les meilleures expériences client, le contenu doit être créé plu
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409022?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412793?quality=12&learn=on&hidetitle=true&captions=fre_fr)

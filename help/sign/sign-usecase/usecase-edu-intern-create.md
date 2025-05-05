@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Découvrez comment créer un formulaire web de stage pour améliorer l’accès des étudiants aux formulaires requis qui peuvent être envoyés à partir de n’importe quel appareil et depuis n’importe quel emplacement. Dans cet exemple, le workflow de chaque étudiant est unique en fonction de son cursus d’études, car chaque étudiant doit ajouter son propre superviseur de faculté et chef de département pour approbation.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3423375?quality=12&learn=on&hidetitle=true&captions=fre_fr)

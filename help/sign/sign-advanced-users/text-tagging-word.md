@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez comment créer un modèle de document réutilisable en ajoutant des balises de texte Acrobat Sign dans [!DNL Microsoft Word]. Le balisage de texte crée automatiquement des champs de formulaire sur votre document lorsqu’il est envoyé pour signature. Aucun placement manuel des champs n’est nécessaire. Ce processus réduit considérablement le temps nécessaire pour apporter des révisions et des modifications aux documents [!DNL Microsoft Word] que vous envoyez pour signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412818?quality=12&learn=on&hidetitle=true&captions=fre_fr)

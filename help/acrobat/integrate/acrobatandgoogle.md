@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Découvrez comment accéder aux outils de PDF et aux workflows de signature électronique qui vous feront gagner du temps directement dans l’application [!DNL Google Drive].
 
->[!VIDEO](https://video.tv.adobe.com/v/333600?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409670?quality=12&learn=on&hidetitle=true&captions=fre_fr)

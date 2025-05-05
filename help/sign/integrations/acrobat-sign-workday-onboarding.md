@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Acrobat Sign dans Workday simplifie les workflows d’intégration grâce à un processus 100 % numérique de collecte des signatures. Permettez à votre équipe de consacrer moins de temps à la gestion des processus de signature et plus de temps à l’exécution d’un travail précieux.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418984?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446635?quality=12&learn=on&hidetitle=true&captions=fre_fr)

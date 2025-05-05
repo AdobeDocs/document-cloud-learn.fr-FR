@@ -20,4 +20,4 @@ Découvrez comment ajouter des commentaires sur un PDF partagé à l’aide d’
 
 Pour savoir comment partager un PDF, consultez le tutoriel [Collaborer en temps réel](collaborate.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/35492?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409184?quality=12&learn=on&hidetitle=true&captions=fre_fr)

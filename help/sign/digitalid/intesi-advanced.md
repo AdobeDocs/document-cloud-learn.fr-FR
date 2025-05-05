@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Découvrez comment obtenir un certificat de signature numérique avancé auprès de [!DNL Intesi Group]. Une fois inscrit et que votre identité est vérifiée, [!DNL Intesi Group] vous délivre un ID numérique utilisé pour apposer une signature cloud Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/337065?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449896?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 <br> 
 

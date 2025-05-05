@@ -18,4 +18,4 @@ ht-degree: 3%
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment [protéger un mot de PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target="_blank"} afin qu&#39;un mot de PDF soit requis pour l&#39;ouverture ou la [modification du mot de passe](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}.
 
->[!VIDEO](https://video.tv.adobe.com/v/340075?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347110?quality=12&learn=on&hidetitle=true&captions=fre_fr)

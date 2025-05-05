@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Dans ce tutoriel vidéo de 60 secondes, apprenez à apporter [de simples modifications par PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"} au texte et aux images sans même télécharger le PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/336362?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409464?quality=12&learn=on&hidetitle=true&captions=fre_fr)
 
 >[!TIP]
 >
