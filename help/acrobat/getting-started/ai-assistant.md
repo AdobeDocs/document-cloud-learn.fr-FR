@@ -39,4 +39,4 @@ Passez en revue les transcriptions des réunions et aidez-vous à rédiger un r�
 
 >[!ENDTABS]
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445824?enablevpops&quality=12&learn=on&hidetitle=true&captions=fre_fr)
