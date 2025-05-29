@@ -3,14 +3,14 @@ title: Envoyer des rappels à l’aide du Guide de configuration d’Acrobat Sig
 description: Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accord n’est pas signé après un certain temps
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 jira: KT-7248
 topic-revisit: Integrations
 thumbnail: KT-7248.jpg
 exl-id: 33aca2e0-2f27-4100-a16f-85ba652c17a3
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '921'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Découvrez comment envoyer un rappel par e-mail depuis Marketo lorsqu’un accor
 
 1. Installez Marketo Salesforce Sync.
 
-   Des informations et le dernier plug-in pour Salesforce Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=fr).
+   Des informations et le dernier plug-in pour Salesforce Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html).
 
 1. Installez Acrobat Sign pour Salesforce.
 

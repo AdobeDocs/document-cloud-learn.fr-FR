@@ -3,14 +3,14 @@ title: Envoi de notifications à l’aide d’Acrobat Sign pour Microsoft Dynami
 description: Découvrez comment envoyer un SMS, un e-mail ou une notification push pour informer le signataire qu’un accord est en cours d’envoi.
 feature: Integrations
 role: Admin
-solution: Acrobat Sign, Marketo, Document Cloud
+solution: Acrobat Sign, Marketo Engage, Document Cloud
 level: Intermediate
 topic: Integrations
 topic-revisit: Integrations
 jira: KT-7249
 thumbnail: KT-7249.jpg
 exl-id: 2e0de48c-70bf-4dc5-8251-88e7399f588a
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: a88ec5a68aa2a02ec2f118332ec31f47d3d5d300
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Découvrez comment envoyer un SMS, un e-mail ou une notification push pour infor
 
 1. Installez Marketo Microsoft Dynamics Sync.
 
-   Des informations et le dernier plug-in pour Microsoft Dynamics Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html?lang=fr).
+   Des informations et le dernier plug-in pour Microsoft Dynamics Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/marketo-plugin-releases-for-microsoft-dynamics.html).
 
 1. Installez Acrobat Sign pour Microsoft Dynamics.
 
