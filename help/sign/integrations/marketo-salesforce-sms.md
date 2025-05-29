@@ -25,7 +25,7 @@ Découvrez comment envoyer un SMS, un e-mail ou une notification push pour infor
 
 1. Installez Marketo Salesforce Sync.
 
-   Des informations et le dernier plug-in pour Salesforce Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html).
+   Des informations et le dernier plug-in pour Salesforce Sync sont disponibles [ici](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/understanding-the-salesforce-sync.html?lang=fr).
 
 1. Installez Acrobat Sign pour Salesforce.
 
