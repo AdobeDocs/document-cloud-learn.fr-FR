@@ -24,4 +24,4 @@ Dans ce webinaire enregistré (sans inscription), découvrez comment créer des 
 
 >[!TIP]
 >
->Cette vidéo fait partie des listes de lecture [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) et [Tâches avancées pour les administrateurs](https://experienceleague.adobe.com/en/playlists/acrobat-sign-perform-advanced-tasks-administrators) qui sont disponibles gratuitement sur Experience League !
+>Cette vidéo fait partie des listes de lecture [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-get-started-business-users) et [Tâches avancées pour les administrateurs](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-perform-advanced-tasks-administrators) qui sont disponibles gratuitement sur Experience League !
