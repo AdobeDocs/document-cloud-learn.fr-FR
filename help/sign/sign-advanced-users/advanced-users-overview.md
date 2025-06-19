@@ -7,7 +7,7 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 3b6aefd36b5fa77a11e2cd61032f11e6d4ca862c
+source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
 workflow-type: tm+mt
 source-wordcount: '424'
 ht-degree: 2%
@@ -38,7 +38,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Configuration de l’ordre de signature" src="../assets/Routing.png">
+      <img alt="Configuration de l’ordre de signature" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>Configuration de l’ordre de signature</strong></a>
@@ -48,7 +48,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
   </td>
   <td>
     <a href="delegate-signature.md">
-      <img alt="Délégation à quelqu&apos;un d&apos;autre" src="../assets/Delegating.png" />
+      <img alt="Délégation à quelqu&apos;un d&apos;autre" src="../assets/delegator-role.png" />
     </a>  
     <div>
     <a href="delegate-signature.md"><strong>Utilisation du rôle de délégant</strong></a>
@@ -58,7 +58,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
   </td>
   <td>
     <a href="add-an-approver.md">
-      <img alt="Utilisation du rôle d’approbateur" src="../assets/Approver.png" />
+      <img alt="Utilisation du rôle d’approbateur" src="../assets/approver-role.png" />
     </a>
     <div>
     <a href="add-an-approver.md"><strong>Utilisation du rôle d'approbateur</strong></a>
@@ -90,7 +90,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
     </td>
   <td>
     <a href="set-up-online-payments.md">
-      <img alt="Configuration des paiements en ligne" src="../assets/Payments.png" />
+      <img alt="Configuration des paiements en ligne" src="../assets/payment.png" />
     </a>
     <div>
     <a href="set-up-online-payments.md"><strong>Configurer les paiements en ligne</strong></a>
@@ -110,7 +110,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
   </td>
  <td>
       <a href="webform.md">
-        <img alt="Création d’un formulaire web" src="../assets/Webform.png" />
+        <img alt="Création d’un formulaire web" src="../assets/web-form.png" />
     </a>
       <div>
       <a href="webform.md"><strong>Création d’un formulaire web</strong></a>
@@ -122,7 +122,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
 <tr>
   <td>
       <a href="adobe-sign-text-tagging.md">
-        <img alt="Balisage de texte Acrobat Sign" src="../assets/Text-Tagging.png" />
+        <img alt="Balisage de texte Acrobat Sign" src="../assets/tagging.png" />
     </a>
       <div>
       <a href="adobe-sign-text-tagging.md"><strong>Balisage de texte Acrobat Sign</strong></a>
@@ -132,7 +132,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
     </td>
   <td>
     <a href="text-tagging-word.md">
-      <img alt="Utilisation du balisage de texte dans [!DNL Microsoft Word]" src="../assets/Wordtexttagging.png" />
+      <img alt="Utilisation du balisage de texte dans [!DNL Microsoft Word]" src="../assets/word-tagging.png" />
   </a>
     <div>
     <a href="text-tagging-word.md"><strong>Utilisation du balisage de texte dans [!DNL Microsoft Word]</strong></a>
@@ -169,7 +169,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
   </td>
   <td>
     <a href="edit-a-template.md">
-      <img alt="Gestion des modèles de document" src="../assets/ManageTemplate.png" />
+      <img alt="Gestion des modèles de document" src="../assets/edit-template.png" />
     </a>
     <div>
     <a href="edit-a-template.md"><strong>Gérer les modèles de document</strong></a>
@@ -179,7 +179,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
   </td>
   <td>
     <a href="modify-webform.md">
-      <img alt="Modification d’un formulaire web existant" src="../assets/Modifywebform.png" />
+      <img alt="Modification d’un formulaire web existant" src="../assets/modify-web-form.png" />
     </a>
     <div>
     <a href="modify-webform.md"><strong>Modifier un formulaire web existant</strong></a>
@@ -189,7 +189,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
   </td>  
   <td>
     <a href="manage-webform-data.md">
-      <img alt="Gestion des données de formulaire web" src="../assets/Managewebform.png" />
+      <img alt="Gestion des données de formulaire web" src="../assets/manage-web-form.png" />
     </a>
     <div>
     <a href="manage-webform-data.md"><strong>Gestion des données de formulaire web</strong></a>
