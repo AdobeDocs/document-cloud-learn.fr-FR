@@ -8,7 +8,7 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: c776790139b32c80655b7ce6a8bdef8b63acb357
 workflow-type: tm+mt
 source-wordcount: '615'
 ht-degree: 1%
@@ -43,7 +43,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
 <tr>
   <td>
     <a href="get-started-admin.md">
-      <img alt="Prise en main pour les nouveaux administrateurs" src="../assets/Gettingstartedadmin_1280.png" />
+      <img alt="Prise en main pour les nouveaux administrateurs" src="../assets/get-started-admin.png" />
     </a>
     <div>
     <a href="get-started-admin.md"><strong>Prise en main pour les nouveaux administrateurs</strong></a>
@@ -53,7 +53,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="up-and-running-admin.md">
-      <img alt="Prêt à l’emploi pour les administrateurs" src="../assets/Up-Running.png" />
+      <img alt="Prêt à l’emploi pour les administrateurs" src="../assets/up-and-running.png" />
     </a>
     <div>
     <a href="up-and-running-admin.md"><strong>Prêt à l’emploi pour les administrateurs</strong></a>
@@ -63,7 +63,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="set-up-shared-events-and-alert.md">
-      <img alt="Configuration d’événements partagés et d’alertes" src="../assets/Notifications_1280.png" />
+      <img alt="Configuration d’événements partagés et d’alertes" src="../assets/notifications.png" />
     </a>
     <div>
     <a href="set-up-shared-events-and-alert.md"><strong>Configuration des notifications pour les événements et les alertes</strong></a>
@@ -73,7 +73,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="add-users-to-your-account.md">
-      <img alt="Ajouter un nouvel utilisateur" src="../assets/Add-a-new-user.jpg" />
+      <img alt="Ajouter un nouvel utilisateur" src="../assets/add-user.png" />
     </a>
     <div>
     <a href="add-users-to-your-account.md"><strong>Ajouter un nouvel utilisateur</strong></a>
@@ -85,7 +85,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
 <tr>
  <td>
     <a href="add-admin.md">
-      <img alt="Ajouter un nouvel administrateur de compte" src="../assets/Add-a-new-admin.jpg" />
+      <img alt="Ajouter un nouvel administrateur de compte" src="../assets/add-admin.png" />
     </a>
     <div>
     <a href="add-admin.md"><strong>Ajouter un administrateur de compte</strong></a>
@@ -95,7 +95,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="create-and-manage-groups.md">
-      <img alt="Création et gestion de groupes" src="../assets/Creating-Groups.png" />
+      <img alt="Création et gestion de groupes" src="../assets/groups.png" />
     </a>
     <div>
     <a href="create-and-manage-groups.md"><strong>Création et gestion de groupes</strong></a>
@@ -105,7 +105,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="set-up-your-external-archive.md">
-      <img alt="Configuration d’une archive externe" src="../assets/ExternalArchive.png" />
+      <img alt="Configuration d’une archive externe" src="../assets/external-archive.png" />
     </a>
     <div>
     <a href="set-up-your-external-archive.md"><strong>Configuration d'une archive externe</strong></a>
@@ -179,7 +179,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Configuration d’un workflow" src="../assets/BuildingWorkflow.png" />
+      <img alt="Configuration d’un workflow" src="../assets/workflow.png" />
     </a>
     <div>
     <a href="building-a-custom-workflow.md"><strong>Configuration d'un workflow</strong></a>
@@ -189,7 +189,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="audit-reports.md">
-      <img alt="Rapports d’audit" src="../assets/audit-reports-configure.png" />
+      <img alt="Rapports d’audit" src="../assets/audit-report.png" />
     </a>
     <div>
     <a href="audit-reports.md"><strong>Rapports d'audit</strong></a>
@@ -199,7 +199,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="promote-admin.md">
-      <img alt="Attribution de rôles d’administrateur de produit et de support" src="../assets/admin-roles.jpg" />
+      <img alt="Attribution de rôles d’administrateur de produit et de support" src="../assets/assign-product.png" />
     </a>
     <div>
     <a href="promote-admin.md"><strong>Attribuer des rôles d’administrateur de produit et de support</strong></a>
@@ -216,7 +216,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
 <tr>
   <td>
     <a href="learn-about-global-settings.md">
-      <img alt="Paramètres généraux" src="../assets/GlobalSettings_1280.png">
+      <img alt="Paramètres généraux" src="../assets/global-settings.png">
     </a>
     <div>
     <a href="learn-about-global-settings.md"><strong>Paramètres généraux</strong></a>
@@ -226,7 +226,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="share-account-access.md">
-      <img alt="Partage de l’accès au compte" src="../assets/SharingAccess.png" />
+      <img alt="Partage de l’accès au compte" src="../assets/sharing.png" />
     </a>  
     <div>
     <a href="share-account-access.md"><strong>Partage d'accès au compte</strong></a>
@@ -236,7 +236,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="advanced-account-sharing.md">
-      <img alt="Partage de compte avancé" src="../assets/AdvancedSharing_1280.png" />
+      <img alt="Partage de compte avancé" src="../assets/advanced-sharing.png" />
     </a>
     <div>
     <a href="advanced-account-sharing.md"><strong>Partage de compte avancé</strong></a>
@@ -246,7 +246,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="bulk-download-tool.md">
-      <img alt="Outil de téléchargement massif" src="../assets/bulk-download-tool.png" />
+      <img alt="Outil de téléchargement massif" src="../assets/bulk-download.png" />
     </a>
     <div>
     <a href="bulk-download-tool.md"><strong>Outil de téléchargement massif</strong></a>
@@ -268,7 +268,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="use-bio-pharma-settings.md">
-      <img alt="Utilisation des paramètres Bio-Pharma" src="../assets/Bio_1280.png" />
+      <img alt="Utilisation des paramètres Bio-Pharma" src="../assets/bio-settings.png" />
     </a>
     <div>
     <a href="use-bio-pharma-settings.md"><strong>Utilisation des paramètres Bio-Pharma</strong></a>
@@ -278,7 +278,7 @@ Découvrez comment utiliser l&#39;[outil de téléchargement en bloc](bulk-downl
   </td>
   <td>
     <a href="privacy.md">
-      <img alt="Configuration de l’administrateur des informations personnelles" src="../assets/privacy.png" />
+      <img alt="Configuration de l’administrateur des informations personnelles" src="../assets/privacy-admin.png" />
     </a>
     <div>
     <a href="privacy.md"><strong>Configuration des administrateurs chargés de la protection des données</strong></a>
