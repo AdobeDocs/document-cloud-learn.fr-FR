@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Découvrir les informations du PDF avec l’assistant AI](getting-started/ai-assistant.md)
    + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
    + [Productivité mobile](getting-started/productivity.md)
-   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
    + [Création d’un PDF](getting-started/create-pdf.md)
    + [Combiner des fichiers dans un seul PDF](getting-started/combine-to-pdf.md)
    + [Organiser les pages](getting-started/organize.md)
@@ -138,5 +138,5 @@ ht-degree: 5%
    + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
    + [Présentation](mobile/mobile-overview.md)
-   + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
+   + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=fr)
    + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
