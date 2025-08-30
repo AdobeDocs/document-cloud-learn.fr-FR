@@ -5,7 +5,8 @@ feature: Workspace, Accessibility, Action
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
-source-git-commit: e49d52f7b83bccfe246ee69d377f3558c2b30a85
+exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
+source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 1%
@@ -20,9 +21,9 @@ Découvrez comment rendre les fichiers de PDF accessibles. Les Tutorials de la s
 
 >[!BEGINTABS]
 
->[!TAB Le pourquoi et le comment des fichiers de PDF accessibles]
+>[!TAB Le quoi et le pourquoi des fichiers de PDF accessibles]
 
-Découvrez [pourquoi et comment il est important de rendre les fichiers du PDF accessibles](how-why-accessible-pdf.md).
+Découvrez [ce qu&#39;est un fichier de PDF accessible et pourquoi il est important](what-why-accessible-pdf.md).
 
 >[!TAB Configuration de votre espace de travail]
 
@@ -43,13 +44,13 @@ Découvrez comment rendre les [formulaires accessibles](create-accessible-forms.
 <table style="table-layout:fixed">
 <tr>
   <td>
-    <a href="how-why-accessible-pdf.md">
-      <img alt="Le pourquoi et le comment des fichiers de PDF accessibles" src="../assets/accessibility-series-2025.png" />
+    <a href="what-why-accessible-pdf.md">
+      <img alt="Le quoi et le pourquoi des fichiers de PDF accessibles" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
-    <a href="how-why-accessible-pdf.md"><strong>Le pourquoi et le comment des fichiers de PDF accessibles</strong></a>
+    <a href="what-why-accessible-pdf.md"><strong>Le quoi et le pourquoi des fichiers de PDF accessibles</strong></a>
     </div>
-    <em>Découvrez comment et pourquoi il est important de rendre les fichiers du PDF accessibles.</em>
+    <em>Découvrez ce qu'est un fichier de PDF accessible et pourquoi il est important</em>
     <br>
   </td>
   <td>
