@@ -6,7 +6,7 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 5%
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Découvrir les informations du PDF avec l’assistant AI](getting-started/ai-assistant.md)
    + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
    + [Productivité mobile](getting-started/productivity.md)
-   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
+   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Création d’un PDF](getting-started/create-pdf.md)
    + [Combiner des fichiers dans un seul PDF](getting-started/combine-to-pdf.md)
    + [Organiser les pages](getting-started/organize.md)
@@ -138,5 +138,5 @@ ht-degree: 5%
    + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
    + [Présentation](mobile/mobile-overview.md)
-   + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=fr)
+   + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
