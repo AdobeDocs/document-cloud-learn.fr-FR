@@ -30,4 +30,4 @@ Ce tutoriel aborde les sujets suivants :
 * Gestion et suivi des accords
 * Accès à l’assistance et aux ressources
 
->[!VIDEO](https://video.tv.adobe.com/v/337151?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3454385?quality=12&learn=on&hidetitle=true&captions=fre_fr)
