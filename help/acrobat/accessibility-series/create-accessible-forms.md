@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Découvrez comment rendre les formulaires accessibles dans Acrobat. Suivre ces sept étapes peut aider à accélérer le traitement de la mise à disposition de PDF avec les champs de formulaire interactifs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471664?quality=12&learn=on&hidetitle=true&captions=fre_fr)
