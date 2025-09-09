@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 8b71554f14df8c072d14cda6123f01310d2bf803
+source-git-commit: 3b4a86c78a1d80ba0c77a98a3d10bc7b1f3f6071
 workflow-type: tm+mt
-source-wordcount: '464'
+source-wordcount: '470'
 ht-degree: 3%
 
 ---
@@ -22,13 +22,13 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 
 >[!BEGINTABS]
 
+>[!TAB Envoyer un document à un seul signataire]
+
+Intervenez et découvrez à quel point il est facile d&#39;[envoyer un document pour signature](send-to-single-recipient.md)
+
 >[!TAB Prise en main d&#39;Acrobat Sign]
 
 Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md) est un excellent point de départ.
-
->[!TAB Définir des échéances et des rappels]
-
-Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates limites](set-deadlines-reminders.md) pour faire signer rapidement vos documents.
 
 >[!ENDTABS]
 
@@ -36,6 +36,16 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
 
 <table style="table-layout:fixed">
 <tr>
+  <td>
+    <a href="new-sender.md">
+      <img alt="Prise en main d’Acrobat Sign" src="../assets/gettingstartednew.png" />
+    </a>
+    <div>
+    <a href="new-sender.md"><strong>Prise en main d'Acrobat Sign</strong></a>
+    </div>
+    Ce tutoriel est un excellent point de départ pour les nouveaux utilisateurs d’Acrobat Sign
+    <br>
+  </td>
  <td>
     <a href="quick-tour.md">
       <img alt="Espace de travail – Principes de base" src="../assets/workspace.png" />
@@ -47,21 +57,11 @@ Découvrez comment envoyer régulièrement des e-mails de [rappel et des dates l
     <br>
   </td>
   <td>
-    <a href="new-sender.md">
-      <img alt="Prise en main d’Acrobat Sign" src="../assets/gettingstartednew.png" />
-    </a>
-    <div>
-    <a href="new-sender.md"><strong>Prise en main d'Acrobat Sign</strong></a>
-    </div>
-    Ce tutoriel est un excellent point de départ pour les nouveaux utilisateurs d’Acrobat Sign
-    <br>
-  </td>
-  <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Envoi à un seul destinataire" src="../assets/send-single-recipient.png" />
+      <img alt="Envoi d’un document à un seul signataire" src="../assets/send-single-recipient.png" />
     </a>
     <div>
-    <a href="send-to-single-recipient.md"><strong>Envoi à un seul destinataire</strong></a>
+    <a href="send-to-single-recipient.md"><strong>Envoyer un document à un seul signataire</strong></a>
     </div>
     Intervenez et découvrez à quel point il est facile d’envoyer un document pour signature
     <br>
