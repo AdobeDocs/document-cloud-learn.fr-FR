@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: dc5ed616e9e6c88d8f7b07895e64a94a89d2b5a7
+source-git-commit: 701b24aa8b6db23ce3f87c03d7201de4f98ff5cf
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '516'
 ht-degree: 5%
 
 ---
@@ -23,8 +23,8 @@ ht-degree: 5%
    + [Espace de travail – Principes de base](getting-started/get-to-know-the-acrobat-dc-interface.md)
    + [Découvrir les informations du PDF avec l’assistant AI](getting-started/ai-assistant.md)
    + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
-   + [Productivité mobile](getting-started/productivity.md)
-   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
+   + [Qu’est-ce qu’Acrobat Studio ?](getting-started/acrobat-studio.md)
+   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Création d’un PDF](getting-started/create-pdf.md)
    + [Combiner des fichiers dans un seul PDF](getting-started/combine-to-pdf.md)
    + [Organiser les pages](getting-started/organize.md)
@@ -42,6 +42,7 @@ ht-degree: 5%
    + [Protect d’un fichier de mot de PDF avec un mot de passe](getting-started/password-protect.md)
    + [Obtenir des signatures](getting-started/signatures.md)
    + [Suivi de vos documents](getting-started/track.md)
+   + [Productivité mobile](getting-started/productivity.md)
    + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
 + Tâches avancées {#advanced-tasks}
    + [Présentation](advanced-tasks/advanced-tasks-overview.md)
@@ -138,5 +139,5 @@ ht-degree: 5%
    + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
    + [Présentation](mobile/mobile-overview.md)
-   + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=fr)
+   + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
