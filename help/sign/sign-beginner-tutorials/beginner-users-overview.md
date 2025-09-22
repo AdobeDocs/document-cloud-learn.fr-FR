@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 1889816bcd1abf3f5fae2d1c43f1ac0339005854
+source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
 workflow-type: tm+mt
-source-wordcount: '472'
-ht-degree: 3%
+source-wordcount: '495'
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,10 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Envoyer à plusieurs signataires]
+
+Découvrez comment envoyer un document pour signature électronique à [plus d&#39;une personne](send-to-multiple-recipients.md) dans l&#39;ordre exact que vous souhaitez.
 
 >[!TAB Envoyer un document à un seul signataire]
 
@@ -68,10 +72,10 @@ Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md) est un excellent 
   </td>
   <td>
     <a href="send-to-multiple-recipients.md">
-      <img alt="Envoi à plusieurs destinataires" src="../assets/send-to-multiple-recipient.png" />
+      <img alt="Envoyer à plusieurs signataires" src="../assets/send-to-multiple-recipient.png" />
     </a>
     <div>
-    <a href="send-to-multiple-recipients.md"><strong>Envoi à plusieurs destinataires</strong></a>
+    <a href="send-to-multiple-recipients.md"><strong>Envoyer à plusieurs signataires</strong></a>
     </div>
     Envoyez un document pour signature électronique à plusieurs personnes dans l’ordre exact souhaité
     <br>
