@@ -22,4 +22,4 @@ Avez-vous plusieurs personnes qui doivent signer votre document ? Découvrez com
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-get-started-business-users) qui est disponible gratuitement sur Experience League !
