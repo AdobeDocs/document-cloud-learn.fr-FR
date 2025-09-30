@@ -2,19 +2,19 @@
 user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/fr/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/fr/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/fr/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 9d1ff1524588cb56779e3f2ea0957241fc54182c
+source-git-commit: e62043373ad528f7ee22b8a14d28ffe9303a6cd7
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '560'
 ht-degree: 10%
 
 ---
@@ -44,7 +44,7 @@ ht-degree: 10%
       + [Signature avec un tampon](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Gérer {#getting-started-managing}
       + [Gestion et suivi de vos accords](sign-beginner-tutorials/manage-and-track.md)
-      + [Création d&#39;un modèle de document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=fr)
+      + [Création d&#39;un modèle de document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
 + Tâches avancées {#advanced-tasks}
    + [Présentation](sign-advanced-users/advanced-users-overview.md)
    + Send {#advanced-tasks-sending}
@@ -54,9 +54,9 @@ ht-degree: 10%
       + [Méthodes d’authentification dans Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Gestion des données de formulaire](sign-advanced-users/manage-form-data.md)
       + [Configuration des paiements en ligne](sign-advanced-users/set-up-online-payments.md)
-      + [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=fr)
-      + [Création d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=fr)
-      + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=fr)
+      + [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Création d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Utilisation du balisage de texte dans  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gérer {#advanced-tasks-managing}
       + [Utilisation des rapports et des transactions](sign-advanced-users/creating-a-report.md)
@@ -70,19 +70,20 @@ ht-degree: 10%
       + [Prêt pour les administrateurs](admin/up-and-running-admin.md)
       + [Migrer les modèles Docusign](admin/docusign-templates.md)
       + [Ajouter un nouvel utilisateur](admin/add-users-to-your-account.md)
+      + [Activation des règles d’affectation automatique des utilisateurs](admin/automatic-assignment-rules.md)
       + [Ajouter un nouvel administrateur de compte](admin/add-admin.md)
-      + [Configuration des notifications pour les événements et les alertes](admin/set-up-shared-events-and-alert.md)
+      + [Attribution de rôles d’administrateur de produit et de support](admin/promote-admin.md)
       + [Création et gestion de groupes](admin/create-and-manage-groups.md)
       + [Configuration d’une archive externe](admin/set-up-your-external-archive.md)
       + [Création d’un modèle](sign-advanced-users/create-a-template.md)
-      + [Utilisation des rapports et des transactions](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Utilisation des rapports et des transactions](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Options de rapport pour les utilisateurs](admin/report-options.md)
       + [Création d’un formulaire web](sign-advanced-users/webform.md)
-      + [Modifier un formulaire web existant](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=fr)
+      + [Modifier un formulaire web existant](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Envoi en masse](sign-advanced-users/megasign.md)
       + [Création d’un workflow personnalisé](admin/building-a-custom-workflow.md)
       + [Rapports d’audit](admin/audit-reports.md)
-      + [Attribution de rôles d’administrateur de produit et de support](admin/promote-admin.md)
+      + [Configuration des notifications pour les événements et les alertes](admin/set-up-shared-events-and-alert.md)
    + Tâches avancées {#advanced-tasks-admins}
       + [Paramètres généraux](admin/learn-about-global-settings.md)
       + [Partage de l’accès au compte](admin/share-account-access.md)
