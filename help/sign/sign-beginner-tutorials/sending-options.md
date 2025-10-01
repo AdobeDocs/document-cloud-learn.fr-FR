@@ -22,4 +22,4 @@ Découvrez comment personnaliser les détails de l’accord, joindre des fichier
 >
 >Il se peut que votre administrateur ait personnalisé les options d’envoi. Par conséquent, les options affichées peuvent différer de celles présentées dans ce tutoriel.
 
->[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412763?quality=12&learn=on&hidetitle=true&captions=fre_fr)
