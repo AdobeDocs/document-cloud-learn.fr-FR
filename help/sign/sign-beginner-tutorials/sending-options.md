@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-10980
 thumbnail: KT-10980.jpg
 exl-id: 86c0825e-1f40-428f-ad0d-b69118c72be1
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 80704a995b5767b5aa45f9a71bcbdcdea7e1a67c
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -20,6 +20,6 @@ Découvrez comment personnaliser les détails de l’accord, joindre des fichier
 
 >[!NOTE]
 >
->Les options d’envoi peuvent être configurées par votre administrateur. Il est donc possible que vous ne voyiez pas exactement les mêmes options que celles mentionnées dans ce tutoriel.
+>Il se peut que votre administrateur ait personnalisé les options d’envoi. Par conséquent, les options affichées peuvent différer de celles présentées dans ce tutoriel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412763?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/346675?quality=12&learn=on&hidetitle=true)
