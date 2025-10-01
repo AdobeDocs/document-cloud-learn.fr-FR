@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 165df9226be5dd82ba7dc2ab90b79adb39329815
+source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '511'
 ht-degree: 2%
 
 ---
@@ -21,6 +21,10 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Configurer les options d’envoi]
+
+Découvrez comment [configurer différentes options](sending-options.md) lors de l&#39;envoi d&#39;un document pour signature.
 
 >[!TAB Envoyer à plusieurs signataires]
 
@@ -87,7 +91,7 @@ Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md) est un excellent 
       <img alt="Configuration des options d’envoi" src="../assets/configure.png" />
     </a>
     <div>
-    <a href="sending-options.md"><strong>Configurer les options d'envoi</strong></a>
+    <a href="sending-options.md"><strong>Configurer les options d’envoi</strong></a>
     </div>
     Découvrez comment configurer différentes options lors de l’envoi d’un document pour signature
     <br>
