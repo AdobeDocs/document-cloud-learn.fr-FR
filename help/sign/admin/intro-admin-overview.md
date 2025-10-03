@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 1aa7b65e507c6138b2adee6248153a1414afa4f1
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '666'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -137,10 +137,10 @@ Découvrez comment [ajouter de nouveaux utilisateurs à Acrobat Sign](add-users-
     </td>
   <td>
     <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Création d’un modèle de document" src="../assets/create-template.png" />
+      <img alt="Créer un modèle réutilisable" src="../assets/create-template.png" />
     </a>
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Création d'un modèle de document</strong></a>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Créer un modèle réutilisable</strong></a>
     </div>
     <em>Créez un modèle de document réutilisable pour plus de vitesse et de cohérence</em>
     <br>

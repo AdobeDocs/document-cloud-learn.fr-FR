@@ -2,19 +2,19 @@
 user-guide-title: Acrobat Sign Tutorials
 solution: Acrobat Sign
 solution-title: Learning Hub
-solution-hub-url: https://helpx.adobe.com/fr/support/sign.html
+solution-hub-url: https://helpx.adobe.com/support/sign.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/fr/sign/using/get-started-guide.html
+getting-started-url: https://helpx.adobe.com/sign/using/get-started-guide.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/fr/sign/tutorials.html
+tutorials-url: https://helpx.adobe.com/sign/tutorials.html
 breadcrumb-title: Acrobat Sign Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
-source-wordcount: '560'
+source-wordcount: '557'
 ht-degree: 10%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 10%
       + [Modification d’un document après l’envoi](sign-beginner-tutorials/modify-in-flight.md)
       + [Remplacer un signataire](sign-beginner-tutorials/replace-signer.md)
       + [Définition d’échéances et de rappels](sign-beginner-tutorials/set-deadlines-reminders.md)
+      + [Créer un modèle réutilisable](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html)
    + Signer {#getting-started-signing}
       + [Signature électronique d’un document](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Remplissage et signature d’un document](sign-beginner-tutorials/fill-and-sign.md)
@@ -44,7 +45,6 @@ ht-degree: 10%
       + [Signature avec un tampon](sign-beginner-tutorials/sign-with-a-stamp.md)
    + Gérer {#getting-started-managing}
       + [Gestion et suivi de vos accords](sign-beginner-tutorials/manage-and-track.md)
-      + [Création d&#39;un modèle de document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=fr)
 + Tâches avancées {#advanced-tasks}
    + [Présentation](sign-advanced-users/advanced-users-overview.md)
    + Send {#advanced-tasks-sending}
@@ -54,9 +54,9 @@ ht-degree: 10%
       + [Méthodes d’authentification dans Acrobat Sign](sign-advanced-users/authentication-methods.md)
       + [Gestion des données de formulaire](sign-advanced-users/manage-form-data.md)
       + [Configuration des paiements en ligne](sign-advanced-users/set-up-online-payments.md)
-      + [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=fr)
-      + [Création d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html?lang=fr)
-      + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html?lang=fr)
+      + [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html)
+      + [Création d’un formulaire web](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/webform.html)
+      + [Balisage de texte Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging.html)
       + [Utilisation du balisage de texte dans  [!DNL Microsoft Word]](sign-advanced-users/text-tagging-word.md)
    + Gérer {#advanced-tasks-managing}
       + [Utilisation des rapports et des transactions](sign-advanced-users/creating-a-report.md)
@@ -75,11 +75,11 @@ ht-degree: 10%
       + [Attribution de rôles d’administrateur de produit et de support](admin/promote-admin.md)
       + [Création et gestion de groupes](admin/create-and-manage-groups.md)
       + [Configuration d’une archive externe](admin/set-up-your-external-archive.md)
-      + [Création d’un modèle](sign-advanced-users/create-a-template.md)
-      + [Utilisation des rapports et des transactions](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
+      + [Créer un modèle réutilisable](sign-advanced-users/create-a-template.md)
+      + [Utilisation des rapports et des transactions](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report)
       + [Options de rapport pour les utilisateurs](admin/report-options.md)
       + [Création d’un formulaire web](sign-advanced-users/webform.md)
-      + [Modifier un formulaire web existant](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=fr)
+      + [Modifier un formulaire web existant](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html)
       + [Envoi en masse](sign-advanced-users/megasign.md)
       + [Création d’un workflow personnalisé](admin/building-a-custom-workflow.md)
       + [Rapports d’audit](admin/audit-reports.md)
@@ -162,8 +162,6 @@ ht-degree: 10%
          + [Candidature de stage pour le formulaire web Éducation](sign-usecase/usecase-edu-intern.md)
          + [Création d’une demande de stage pour un formulaire web consacré à l’éducation](sign-usecase/usecase-edu-intern-create.md)
          + [Workflow personnalisé pour le processus IEP Éducation](sign-usecase/usecase-edu-iep.md)
-   + Présentation du cas d’utilisation {#use-case}
-      + [Vitrine](sign-usecase/use-case-showcase.md)
 + Développement {#develop}
    + [Présentation](develop/develop-overview.md)
    + API et webhooks {#custom}

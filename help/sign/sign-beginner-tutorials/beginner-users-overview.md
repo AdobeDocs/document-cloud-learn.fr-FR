@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: c4f71ecbe34c7141abaad8c2c5a990fc49006279
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '511'
 ht-degree: 2%
@@ -139,10 +139,15 @@ Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md) est un excellent 
       <br>
     </td> 
   <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-    </td>
+    <a href="../sign-advanced-users/create-a-template.md">
+      <img alt="Créer un modèle réutilisable" src="../assets/create-template.png" />
+    </a>
+    <div>
+    <a href="../sign-advanced-users/create-a-template.md"><strong>Créer un modèle réutilisable</strong></a>
+    </div>
+    Créez un modèle de document réutilisable pour offrir rapidité et cohérence à votre entreprise
+    <br>
+  </td>
     <td>
       <img alt="Espaceur" src="../assets/Whitespacer.png" />
       <div>
@@ -250,13 +255,8 @@ Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md) est un excellent 
     <br>
   </td>
   <td>
-    <a href="../sign-advanced-users/create-a-template.md">
-      <img alt="Création d’un modèle de document" src="../assets/create-template.png" />
-    </a>
+    <img alt="Espaceur" src="../assets/Whitespacer.png" />
     <div>
-    <a href="../sign-advanced-users/create-a-template.md"><strong>Création d'un modèle de document</strong></a>
-    </div>
-    Créez un modèle de document réutilisable pour offrir rapidité et cohérence à votre entreprise
     <br>
   </td>
   <td>

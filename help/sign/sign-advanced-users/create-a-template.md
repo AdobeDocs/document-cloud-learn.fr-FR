@@ -1,25 +1,25 @@
 ---
-title: Création d’un modèle de document
+title: Création d’un modèle réutilisable
 description: Création d’un modèle de document réutilisable pour plus de rapidité et de cohérence
 feature: Workflow
 role: User, Admin
-level: Intermediate
+level: Beginner
 jira: KT-6059
 thumbnail: 38037.jpg
 exl-id: 4d36509a-e7a7-4a5a-bcf8-ef82099f24a4,1930bc23-bfba-4113-b19a-76634667bda3
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 2ad4bdf7af7560958ca90ebc14d09348b0352e49
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Création d’un modèle de document
+# Créer un modèle réutilisable
 
-Découvrez comment créer un modèle de document réutilisable et l’ajouter à votre bibliothèque Acrobat Sign pour une utilisation ultérieure. Les modèles de document offrent une rapidité et une cohérence dans vos transactions de signature, tout en permettant de gérer les révisions et les modifications de documents.
+Découvrez comment créer un modèle de document réutilisable et l’ajouter à votre bibliothèque Acrobat Sign pour une utilisation ultérieure. Les modèles de document offrent une rapidité et une cohérence dans vos transactions de signature, ainsi que la possibilité de gérer les révisions et les modifications de documents.
 
->[!VIDEO](https://video.tv.adobe.com/v/347139?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/38037?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-get-started-business-users) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Acrobat Sign](https://experienceleague.adobe.com/en/playlists/acrobat-sign-get-started-business-users) qui est disponible gratuitement sur Experience League !
