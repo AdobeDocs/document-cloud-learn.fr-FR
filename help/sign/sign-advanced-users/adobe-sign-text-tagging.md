@@ -1,27 +1,76 @@
 ---
 title: Balisage de texte Acrobat Sign
-description: Apprenez à créer des champs de formulaire Acrobat Sign à l’aide du balisage de texte dans Adobe Acrobat
+description: Apprenez à créer des champs de formulaire Acrobat Sign à l’aide du balisage de texte
 feature: Workflow, Sign
 role: User, Admin
 level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 03197d1b968dd53c3e92183ae3fa321e3b03b01c
+source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
 workflow-type: tm+mt
-source-wordcount: '152'
-ht-degree: 0%
+source-wordcount: '402'
+ht-degree: 2%
 
 ---
 
 # Balisage de texte Acrobat Sign
 
-Dans ce webinaire enregistré (sans inscription), découvrez comment créer des champs de formulaire Acrobat Sign avec balisage de texte à l’aide d’Adobe Acrobat. Le balisage de texte réduit considérablement le temps nécessaire à la création et à la révision de documents contenant de nombreux champs de formulaire. Les expéditeurs de documents n’ont pas besoin de placer des champs individuels sur chaque document, ce qui représente un gain de temps considérable. Parmi les autres avantages figurent la validation des champs de formulaire (collecte de données précise et sans erreur) et la cohérence de la conception professionnelle des formulaires. N&#39;hésitez pas à nous envoyer vos questions pendant le webinaire via le module Q&amp;R. Cliquez sur l’image ci-dessous pour commencer à regarder l’enregistrement.
+Apprenez à créer des champs de formulaire Acrobat Sign avec balisage de texte. Les balises de texte peuvent être ajoutées directement aux outils de création tels que Microsoft Word, Adobe InDesign ou, si vous disposez d’un PDF, dans Acrobat. Ils peuvent réduire considérablement l’effort de préparation des documents utilisés dans Acrobat Sign. Après avoir chargé un document balisé dans Acrobat Sign, vous pouvez le configurer comme modèle, ce qui évite à quiconque d’ajouter des champs à ses documents.
 
-[![Regarder la session](../assets/tagging.png)](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+## Prise en main
 
-[Regardez le webinaire enregistré sur le balisage de texte Acrobat Sign](https://event.on24.com/wcc/r/2338276/415BE4603F60A61A546C0A91528B444F)
+Les balises de texte sont des éléments de texte au formatage unique placés n’importe où dans un document qui sont
+automatiquement reconnus comme champs lors du téléchargement vers Acrobat Sign.
 
->[!TIP]
->
->Cette vidéo fait partie des listes de lecture [Tâches avancées pour les utilisateurs](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-get-started-business-users) et [Tâches avancées pour les administrateurs](https://experienceleague.adobe.com/fr/playlists/acrobat-sign-perform-advanced-tasks-administrators) qui sont disponibles gratuitement sur Experience League !
+     ![Syntaxe de la balise de texte](../assets/syntax.png)
+
+Les balises de texte peuvent être ajoutées directement aux outils de création tels que Microsoft Word, Adobe InDesign, ou si
+vous avez un PDF : Acrobat. Les balises de texte simplifient considérablement la préparation
+documents utilisés dans Acrobat Sign.
+
+## Ajout de balises dans Microsoft Word
+
+Pour ajouter des balises de texte à un document Microsoft Word, consultez ce [tutoriel vidéo](text-tagging-word.md).
+
+## Ajout de balises dans Acrobat
+
+Adobe Acrobat dispose d’un environnement de création de formulaires robuste par glisser-déposer. L’application de balises de texte dans Acrobat vous permet d’exploiter d’autres fonctionnalités disponibles dans Acrobat Sign.
+
+1. Ouvrez votre formulaire dans Acrobat.
+
+1. Sélectionnez **[!UICONTROL Préparer un formulaire]** dans le panneau **[!UICONTROL Tous les outils]**.
+
+1. Sélectionnez **[!UICONTROL Créer un formulaire]**.
+
+1. Sélectionnez **[!UICONTROL Préparer le formulaire pour la signature électronique]** dans la liste déroulante du panneau **[!UICONTROL Options]**.
+
+   ![Préparer le formulaire pour la signature électronique](../assets/tag-prepare-e-signing.png)
+
+1. Sélectionnez **[!UICONTROL Suivant]** pour confirmer.
+
+   ![Confirmer la conversion des champs](../assets/tag-confirm.png)
+
+1. Double-cliquez sur un champ pour afficher la boîte de dialogue **[!UICONTROL Propriétés]**.
+
+   Utilisez la syntaxe détaillée dans le [Guide des balises de texte d&#39;Acrobat Sign](https://helpx.adobe.com/fr/sign/using/text-tag.html) pour modifier le nom du champ de formulaire.
+
+1. Par exemple, vous pouvez saisir *OInt_es_:signer1:optinitials* dans le nom du champ pour rendre un champ initial facultatif.
+
+   ![Modifier le nom du champ](../assets/tag-opt-initials.png)
+
+   Les balises de texte sont ajoutées au nom du champ de formulaire et, contrairement à la syntaxe que vous utiliseriez dans Microsoft Word (ou d’autres outils de création), les accolades ne sont pas incluses.
+
+   Les balises de texte peuvent également être ajoutées dans le panneau Champs en renommant simplement le champ de formulaire.
+
+   ![Renommer dans le panneau Champs](../assets/tag-rename.png)
+
+1. Enregistrez et fermez le fichier.
+
+1. Chargez le fichier dans Acrobat Sign et créez un modèle réutilisable, comme indiqué dans la section suivante.
+
+## Créer un modèle réutilisable
+
+Après avoir créé un document balisé, configurez-le en tant que modèle réutilisable, ce qui évite à quiconque d’ajouter des champs à ses documents.
+
+Pour créer un modèle réutilisable, consultez ce [tutoriel vidéo](../sign-advanced-users/create-a-template.md).
