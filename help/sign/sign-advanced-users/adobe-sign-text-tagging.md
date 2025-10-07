@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6059
 thumbnail: KT-6402.jpg
 exl-id: 3a54925d-b713-487b-92b7-ec7160513696,c981c640-e50a-4952-ac39-2f90d6d0cf08
-source-git-commit: 06ec359f950cc8e589bc6c97219acc32f460b969
+source-git-commit: 656c87201aca58de947cb835f610f6c82a814d57
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 2%
+source-wordcount: '400'
+ht-degree: 3%
 
 ---
 
@@ -20,20 +20,17 @@ Apprenez à créer des champs de formulaire Acrobat Sign avec balisage de texte.
 
 ## Prise en main
 
-Les balises de texte sont des éléments de texte au formatage unique placés n’importe où dans un document qui sont
-automatiquement reconnus comme champs lors du téléchargement vers Acrobat Sign.
+Les balises de texte sont des parties de texte au formatage unique, placées n’importe où dans un document et automatiquement reconnues comme champs lors du téléchargement vers Acrobat Sign.
 
-     ![Syntaxe de la balise de texte](../assets/syntax.png)
+![Syntaxe de la balise de texte](../assets/syntax.png)
 
-Les balises de texte peuvent être ajoutées directement aux outils de création tels que Microsoft Word, Adobe InDesign, ou si
-vous avez un PDF : Acrobat. Les balises de texte simplifient considérablement la préparation
-documents utilisés dans Acrobat Sign.
+Les balises de texte peuvent être ajoutées directement aux outils de création tels que Microsoft Word, Adobe InDesign ou, si vous disposez d’un PDF, Acrobat. Les balises de texte simplifient considérablement la préparation des documents utilisés dans Acrobat Sign.
 
-## Ajout de balises dans Microsoft Word
+### Ajout de balises dans Microsoft Word
 
 Pour ajouter des balises de texte à un document Microsoft Word, consultez ce [tutoriel vidéo](text-tagging-word.md).
 
-## Ajout de balises dans Acrobat
+### Ajout de balises dans Acrobat
 
 Adobe Acrobat dispose d’un environnement de création de formulaires robuste par glisser-déposer. L’application de balises de texte dans Acrobat vous permet d’exploiter d’autres fonctionnalités disponibles dans Acrobat Sign.
 
@@ -69,7 +66,7 @@ Adobe Acrobat dispose d’un environnement de création de formulaires robuste p
 
 1. Chargez le fichier dans Acrobat Sign et créez un modèle réutilisable, comme indiqué dans la section suivante.
 
-## Créer un modèle réutilisable
+### Créer un modèle réutilisable
 
 Après avoir créé un document balisé, configurez-le en tant que modèle réutilisable, ce qui évite à quiconque d’ajouter des champs à ses documents.
 
