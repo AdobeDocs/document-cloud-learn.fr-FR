@@ -13,7 +13,7 @@ Voici un ensemble de lignes directrices à suivre pour contribuer à ce projet.
 
 ## Code de conduite
 
-Ce projet respecte le code de conduite [de l&#39;Adobe ](code-of-conduct.md). En participant,
+Ce projet respecte le code de conduite [de l&#39;Adobe &#x200B;](code-of-conduct.md). En participant,
 on s&#39;attend à ce que vous respectiez ce code. Veuillez signaler un comportement inacceptable à
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
