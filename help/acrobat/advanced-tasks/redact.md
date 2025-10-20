@@ -1,5 +1,5 @@
 ---
-title: Biffer et assainir
+title: Supprimer les informations sensibles
 description: Découvrez comment supprimer définitivement des informations confidentielles ou sensibles de votre PDF
 feature: Security
 role: User
@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
-# Biffer et assainir
+# Supprimer les informations sensibles
 
-Apprenez à utiliser l’outil Biffer pour supprimer définitivement des informations confidentielles ou sensibles de votre PDF. Utilisez l’outil Assainir pour supprimer les informations qui ne sont pas visibles dans le fichier, telles que les commentaires, les métadonnées ou les calques masqués.
+Découvrez comment utiliser l’outil Biffer pour supprimer définitivement des informations confidentielles ou sensibles d’un PDF, puis assainir le document pour supprimer des informations qui ne sont pas visibles dans le fichier, telles que les commentaires, les métadonnées ou les calques masqués. Il est important de supprimer définitivement le contenu sensible et les données masquées afin que les informations ne soient pas transmises lors de la publication de votre PDF. Ce tutoriel utilise la [nouvelle expérience Acrobat](../getting-started/new-workspace.md).
 
 >[!NOTE]
 >
@@ -25,50 +25,47 @@ Apprenez à utiliser l’outil Biffer pour supprimer définitivement des informa
 [!BADGE Impact organisationnel]
 Protection des données client, gestion des risques
 
-## Biffer du texte et des images
+## Comment biffer des informations dans Acrobat pour poste de travail
 
-1. Sélectionnez **[!UICONTROL Biffer]** dans le volet central ou droit des [!UICONTROL outils].
-
+1. Ouvrez un fichier et sélectionnez **[!UICONTROL Tous les outils]** dans la barre d&#39;outils, puis choisissez **[!UICONTROL Biffer un PDF]**.
    ![Biffer L’Étape 1](../assets/Redact_1.png)
 
-1. Sélectionnez **[!UICONTROL Biffer le texte et les images]** **>** **[!UICONTROL Propriétés]** pour personnaliser l’apparence de vos biffures, y compris la couleur des zones de biffure ou de l’incrustation de texte.
+1. Sélectionnez **[!UICONTROL Définir les propriétés]** pour personnaliser l’apparence de vos biffures, y compris la couleur des zones de biffure ou de l’incrustation de texte.
 
    ![Biffer l’étape 2](../assets/Redact_2.png)
 
-Pour biffer des informations, commencez par marquer les éléments à supprimer, puis appliquez les biffures. Vous pouvez biffer des pages entières ou du contenu sélectionné.
+   Pour biffer des informations, commencez par marquer les éléments à supprimer, puis appliquez les biffures. Vous pouvez biffer des pages entières ou du contenu sélectionné.
 
-1. Sélectionnez **[!UICONTROL Biffer des pages]**, puis choisissez la page ou la plage de pages à biffer, puis sélectionnez **[!UICONTROL OK]**.
+1. Sélectionnez **[!UICONTROL Biffer le texte et les images]** et utilisez le curseur pour sélectionner le contenu à biffer.
 
    ![Biffer l’étape 4](../assets/Redact_3.png)
 
-Vous pouvez également utiliser le curseur pour sélectionner le contenu à biffer. Vous pouvez afficher un aperçu de la biffure en passant la souris sur le contenu sélectionné.
+   Vous pouvez afficher un aperçu de la biffure en passant la souris sur le contenu sélectionné.
 
    ![Biffer l’étape 5a](../assets/Redact_4.png)
 
-1. Sélectionnez **[!UICONTROL Biffer du texte et des images]** **>** **[!UICONTROL Rechercher du texte et des biffures]** pour trouver du contenu spécifique à biffer.
+1. Sélectionnez **[!UICONTROL Rechercher du texte et des biffures]** pour rechercher un mot ou une expression spécifique, ou recherchez un motif pour trouver certains types d&#39;informations. Définissez votre recherche et sélectionnez Rechercher et supprimer du texte.
 
-Utilisez la zone de recherche pour rechercher un mot ou une expression spécifique.
-
-1. Sélectionnez **[!UICONTROL Motifs]** pour trouver certains types of puis cochez les cases et sélectionnez **[!UICONTROL Rechercher et supprimer du texte]**.
+1. Dans la boîte de dialogue des résultats de la recherche, cochez les cases en regard des éléments et sélectionnez **[!UICONTROL Marquer les résultats sélectionnés pour la biffure]**.
 
    ![Biffer l’étape 5b](../assets/Redact_5.png)
 
-1. Sélectionnez **[!UICONTROL Appliquer]** dans le menu supérieur [!UICONTROL Biffer] pour appliquer les biffures marquées et enregistrer le fichier biffé.
+1. Sélectionnez **[!UICONTROL Biffer des pages]** pour marquer des pages entières à biffer.
 
    ![Biffer l’étape 6](../assets/Redact_6.png)
 
-## Assainir le document
+1. Sélectionnez vos pages et choisissez **[!UICONTROL OK]**.
 
-1. Sélectionnez **[!UICONTROL Assainir le document]** dans le menu supérieur [!UICONTROL Biffer].
+1. Sélectionnez **[!UICONTROL Appliquer]** dans le panneau Biffer un PDF pour appliquer les biffures marquées.
 
-1. Sélectionnez **[!UICONTROL OK]** pour confirmer la suppression des informations masquées. Ou sélectionnez **[!UICONTROL Cliquer ici]** pour supprimer de manière sélective les informations masquées.
+   ![Biffer l’étape 6](../assets/Redact_7.png)
 
-   ![Assainir l’étape 2](../assets/Redact_7.png)
+1. Sélectionnez **[!UICONTROL Continuer]** pour nettoyer et supprimer les informations masquées.
+
+   ![Biffer l’étape 6](../assets/Redact_8.png)
+
+Une fois que vous avez confirmé, les biffures et les informations masquées sont supprimées définitivement et enregistrées dans un nouveau fichier.
 
 >[!TIP]
 >
 >Pour accélérer le processus de biffure, consultez l&#39;[Action Wizard](../advanced-tasks/action.md).
-
->[!TIP]
->
->Cette vidéo fait partie de la liste de lecture [Effectuer des tâches avancées dans Adobe Acrobat](https://experienceleague.adobe.com/fr/playlists/acrobat-peform-advanced-tasks), disponible gratuitement sur Experience League !
