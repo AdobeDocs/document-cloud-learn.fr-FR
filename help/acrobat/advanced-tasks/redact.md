@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
+source-git-commit: f16755624a532246818d05d28fb76c6607790460
 workflow-type: tm+mt
 source-wordcount: '329'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Protection des données client, gestion des risques
 
 1. Sélectionnez **[!UICONTROL Rechercher du texte et des biffures]** pour rechercher un mot ou une expression spécifique, ou recherchez un motif pour trouver certains types d&#39;informations. Définissez votre recherche et sélectionnez Rechercher et supprimer du texte.
 
-![Biffer l’étape 4](../assets/Redact_4.png)
+   ![Biffer l’étape 4](../assets/Redact_4.png)
 
 1. Dans la boîte de dialogue des résultats de la recherche, cochez les cases en regard des éléments et sélectionnez **[!UICONTROL Marquer les résultats sélectionnés pour la biffure]**.
 
