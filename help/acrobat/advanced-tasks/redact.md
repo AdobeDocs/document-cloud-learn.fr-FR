@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 42950a5df4b6993796a55b3a1de847c1d395500d
+source-git-commit: 716e979bcf0a3753edf131a78d7a55829ba026dc
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -38,17 +38,17 @@ Protection des données client, gestion des risques
 
 1. Sélectionnez **[!UICONTROL Biffer le texte et les images]** et utilisez le curseur pour sélectionner le contenu à biffer.
 
-   ![Biffer l’étape 4](../assets/Redact_3.png)
+   ![Biffer l’étape 3](../assets/Redact_3.png)
 
    Vous pouvez afficher un aperçu de la biffure en passant la souris sur le contenu sélectionné.
 
-   ![Biffer l’étape 5a](../assets/Redact_4.png)
-
 1. Sélectionnez **[!UICONTROL Rechercher du texte et des biffures]** pour rechercher un mot ou une expression spécifique, ou recherchez un motif pour trouver certains types d&#39;informations. Définissez votre recherche et sélectionnez Rechercher et supprimer du texte.
+
+![Biffer l’étape 4](../assets/Redact_4.png)
 
 1. Dans la boîte de dialogue des résultats de la recherche, cochez les cases en regard des éléments et sélectionnez **[!UICONTROL Marquer les résultats sélectionnés pour la biffure]**.
 
-   ![Biffer l’étape 5b](../assets/Redact_5.png)
+   ![Biffer l’étape 5](../assets/Redact_5.png)
 
 1. Sélectionnez **[!UICONTROL Biffer des pages]** pour marquer des pages entières à biffer.
 
@@ -56,13 +56,15 @@ Protection des données client, gestion des risques
 
 1. Sélectionnez vos pages et choisissez **[!UICONTROL OK]**.
 
+   ![Biffer l’étape 7](../assets/Redact_7.png)
+
 1. Sélectionnez **[!UICONTROL Appliquer]** dans le panneau Biffer un PDF pour appliquer les biffures marquées.
 
-   ![Biffer l’étape 6](../assets/Redact_7.png)
+   ![Biffer l’étape 8](../assets/Redact_8.png)
 
 1. Sélectionnez **[!UICONTROL Continuer]** pour nettoyer et supprimer les informations masquées.
 
-   ![Biffer l’étape 6](../assets/Redact_8.png)
+   ![Biffer l’étape 9](../assets/Redact_9.png)
 
 Une fois que vous avez confirmé, les biffures et les informations masquées sont supprimées définitivement et enregistrées dans un nouveau fichier.
 
