@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: f6875404577165bc22cbfffee1fed66b27254aca
+source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
 workflow-type: tm+mt
-source-wordcount: '401'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
@@ -24,15 +24,15 @@ Découvrez comment compresser et optimiser la taille d’un fichier de PDF. La c
 
    ![Réduire l&#39;étape 1](../assets/Reduce_1.png)
 
-1. Sélectionnez **[!UICONTROL Fichiers uniques]** ou **[!UICONTROL Fichiers multiples]** dans le panneau **[!UICONTROL Compresser un PDF]** et choisissez **[!UICONTROL Enregistrer]**.
-
-   Le fichier est réduit à la taille la plus petite possible tout en conservant la qualité du document.
+1. Sélectionnez **[!UICONTROL Fichiers uniques]** ou **[!UICONTROL Fichiers multiples]** dans le panneau **[!UICONTROL Compresser un PDF]**.
 
    ![Réduire l&#39;étape 2](../assets/Reduce_2.png)
 
 1. Sélectionnez **[!UICONTROL Enregistrer]**.
 
    ![Réduire l&#39;étape 3](../assets/Reduce_3.png)
+
+   Le fichier est réduit à la taille la plus petite possible tout en conservant la qualité du document.
 
 
 ## Compression d’un PDF dans Acrobat sur le web
@@ -43,7 +43,7 @@ Découvrez comment compresser et optimiser la taille d’un fichier de PDF. La c
 
    ![Réduire l’étape 4](../assets/Reduce_4.png)
 
-1. Sélectionnez **[!UICONTROL Sélectionner des fichiers]**, sélectionnez vos fichiers, puis choisissez [!UICONTROL Ouvrir].
+1. Sélectionnez **[!UICONTROL Sélectionner des fichiers]**, sélectionnez vos fichiers, puis choisissez **[!UICONTROL Ouvrir]**.
 
    ![Réduire l’étape 5](../assets/Reduce_5.png)
 
