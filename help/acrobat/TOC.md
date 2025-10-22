@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: f16755624a532246818d05d28fb76c6607790460
+source-git-commit: 3f0b7909cd5a096a9db0b0d380f47688221ea3ca
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '553'
 ht-degree: 5%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 5%
    + [Découvrir les informations du PDF avec l’assistant AI](getting-started/ai-assistant.md)
    + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](getting-started/pdf-spaces-legal.md)
    + [Qu’est-ce qu’Acrobat Studio ?](getting-started/acrobat-studio.md)
-   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
+   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
    + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
    + [Création d’un PDF](getting-started/create-pdf.md)
    + [Combiner des fichiers dans un seul PDF](getting-started/combine-to-pdf.md)
@@ -63,7 +63,7 @@ ht-degree: 5%
    + [Détecter les différences entre deux PDF](advanced-tasks/compare.md)
    + [Actions guidées](advanced-tasks/action.md)
    + [Supprimer les informations sensibles](advanced-tasks/redact.md)
-   + [Réduire la taille du fichier et l’optimiser](advanced-tasks/reduce.md)
+   + [Compresser et optimiser](advanced-tasks/reduce.md)
    + [Utilisation des données de formulaire](advanced-tasks/formdata.md)
    + [Vérifier l’accessibilité du PDF](advanced-tasks/accessibility.md)
    + Webinaires sur l’accessibilité Acrobat {#accessibility-series}
@@ -76,11 +76,11 @@ ht-degree: 5%
       + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
 + Optimisé par l’IA {#ai-powered}
    + [Présentation](ai-powered/ai-overview.md)
-   + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [Modifier des graphiques dans un PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [Styliser ce PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
+   + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
+   + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
+   + [Modifier des graphiques dans un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
+   + [Styliser ce PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
 + Acrobat 60 secondes {#60-second}
    + [Présentation](60-second/60-second-overview.md)
    + [Modifier le PDF avec Acrobat sur le web](60-second/edit.md)
@@ -147,5 +147,5 @@ ht-degree: 5%
    + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
    + [Présentation](mobile/mobile-overview.md)
-   + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=fr)
+   + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)
    + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
