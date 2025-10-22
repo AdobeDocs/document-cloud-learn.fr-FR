@@ -7,7 +7,7 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 3ee53aef230d66a5cdb4b663827bf9e0d83ccb77
+source-git-commit: c977a4da1389b656e6bc3adb5ac52e9dbb6a6067
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Découvrez comment compresser et optimiser la taille d’un fichier de PDF. La c
 
    ![Réduire l&#39;étape 1](../assets/Reduce_1.png)
 
-1. Sélectionnez **[!UICONTROL Fichiers uniques]** ou **[!UICONTROL Fichiers multiples]** dans le panneau **[!UICONTROL Compresser un PDF]**.
+1. Sélectionnez **[!UICONTROL Fichier unique]** ou **[!UICONTROL Fichiers multiples]** dans le panneau **[!UICONTROL Compresser un PDF]**.
 
    ![Réduire l&#39;étape 2](../assets/Reduce_2.png)
 
@@ -65,15 +65,13 @@ Découvrez comment compresser et optimiser la taille d’un fichier de PDF. La c
 
    ![Optimiser l&#39;étape 1](../assets/Optimize_1.png)
 
-   Par défaut, **Standard** est sélectionné dans le menu **Paramètres**. Si vous modifiez des paramètres dans la boîte de dialogue Optimisation du PDF, le menu **Paramètres** passe automatiquement à **Personnalisé**.
-
 1. Dans la liste déroulante **Rendre compatible avec**, choisissez **Conserver l&#39;existant** pour conserver la version actuelle du PDF, ou choisissez une version d&#39;Acrobat. Activez la case à cocher en regard d&#39;un panneau (par exemple, Images, Polices, Transparence), sélectionnez les options de ce panneau, choisissez **[!UICONTROL OK]**, puis enregistrez le fichier.
 
    ![Optimiser l&#39;étape 2](../assets/Optimize_2.png)
 
-   Pour empêcher l’exécution de toutes les options d’un panneau lors de l’optimisation, désactivez la case à cocher de ce panneau.
+   Par défaut, **Standard** est sélectionné dans le menu **Paramètres**. Si vous modifiez des paramètres dans la boîte de dialogue Optimisation du PDF, le menu **Paramètres** passe automatiquement à **Personnalisé**. Pour empêcher l’exécution de toutes les options d’un panneau lors de l’optimisation, désactivez la case à cocher de ce panneau.
 
-1. (Facultatif) Pour enregistrer vos paramètres personnalisés, sélectionnez **[!UICONTROL Enregistrer]** et nommez les paramètres. Pour supprimer un paramètre enregistré, choisissez-le dans le menu **Paramètres** et sélectionnez **[!UICONTROL Supprimer]**.
+1. (Facultatif) Pour enregistrer vos paramètres personnalisés, sélectionnez **[!UICONTROL Enregistrer]** et nommez les paramètres. Pour supprimer un paramètre enregistré, sélectionnez-le dans la liste déroulante **Paramètres** et sélectionnez **[!UICONTROL Supprimer]**.
 
    ![Optimiser l&#39;étape 3](../assets/Optimize_3.png)
 
