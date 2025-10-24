@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 3d971a90e3e9c639d65440915b0e10734c15b0b4
+source-git-commit: a6ab6bc9c667582b9d75f5582a895e175331186f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -21,9 +21,9 @@ Découvrez comment rendre les fichiers de PDF accessibles. Les Tutorials de la s
 
 >[!BEGINTABS]
 
->[!TAB Le quoi et le pourquoi des fichiers de PDF accessibles]
+>[!TAB Documents numérisés]
 
-Découvrez [ce qu&#39;est un fichier de PDF accessible et pourquoi il est important](what-why-accessible-pdf.md).
+Découvrez comment rendre accessible un [document numérisé](scanned-documents.md).
 
 >[!TAB Configuration de votre espace de travail]
 
@@ -74,14 +74,41 @@ Découvrez comment rendre les [formulaires accessibles](create-accessible-forms.
     <br>
   </td>
   <td>
+    <a href="scanned-documents.md">
+      <img alt="Documents numérisés" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="scanned-documents.md"><strong>Documents numérisés</strong></a>
+    </div>
+    <em>Découvrez comment rendre accessibles les documents numérisés dans Acrobat Pro</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="create-accessible-forms.md">
       <img alt="Création de formulaires accessibles" src="../assets/accessibility-series-2025.png" />
     </a>
     <div>
     <a href="create-accessible-forms.md"><strong>Créer des formulaires accessibles</strong></a>
     </div>
-    <em>Découvrez comment rendre les formulaires accessibles dans Acrobat</em>
+    <em>Découvrez comment rendre les formulaires accessibles dans Acrobat Pro</em>
     <br>
+  </td>
+  <td>
+        <img alt="Espaceur" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espaceur" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espaceur" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
