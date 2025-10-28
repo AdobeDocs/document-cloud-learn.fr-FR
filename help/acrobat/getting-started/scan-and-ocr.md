@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
 workflow-type: tm+mt
-source-wordcount: '334'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
 
 # Papier vers PDF
 
-Découvrez comment numériser (ou prendre en photo) un document papier et le transformer en un [fichier de PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"} intelligent et consultable. La conversion du papier en PDF augmente votre capacité à trouver rapidement de l&#39;information et à la rendre accessible aux personnes handicapées. En outre, vous pouvez facilement partager et collaborer avec d’autres personnes par voie électronique en convertissant du papier en PDF.
+Découvrez comment numériser (ou prendre en photo) un document papier et le transformer en un fichier de PDF [consultable et modifiable](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}. La conversion du papier en PDF augmente votre capacité à trouver rapidement des informations et à les rendre accessibles aux personnes handicapées.
 
 ## Comment transformer du papier en PDF dans Acrobat sur ordinateur
 
@@ -50,7 +50,7 @@ Le fichier est désormais un fichier de PDF consultable et modifiable.
 
    ![Étape d&#39;analyse 5](../assets/Scan_5.png)
 
-1. Sélectionnez **[!UICONTROL Sélectionner des fichiers]**, sélectionnez votre fichier, puis choisissez **[!UICONTROL Ouvrir]**.
+1. Sélectionnez **[!UICONTROL Sélectionner des fichiers]**, choisissez votre fichier, puis sélectionnez **[!UICONTROL Ouvrir]**.
 
    ![Étape d&#39;analyse 6](../assets/Scan_6.png)
 
