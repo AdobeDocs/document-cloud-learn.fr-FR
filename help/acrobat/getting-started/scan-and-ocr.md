@@ -7,9 +7,9 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: ae69e1a95a482c3faad886a07adb65af0bb8b56d
+source-git-commit: 5bf010d8fda369b42515eeb0cc26f3853322cc8a
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -76,33 +76,3 @@ Le fichier est désormais un fichier de PDF consultable et modifiable.
 >[!TIP]
 >
 >Pour effectuer la reconnaissance optique des caractères de plusieurs fichiers de PDF, essayez d&#39;utiliser l&#39;[Action Wizard](../advanced-tasks/action.md) dans Acrobat Pro sur le bureau.
-
-<table style="table-layout:fixed">
-<tr>
-  <td>
-    <a href="scan-and-ocr.md">
-      <img alt="Papier vers PDF" src="../assets/scan.png" />
-    </a>
-    <div>
-    <a href="scan-and-ocr.md"><strong>Du papier au PDF</strong></a>
-    </div>
-    <em>Découvrez comment transformer un document papier en fichier de PDF intelligent, consultable et modifiable</em>
-    <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-  <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
-  </td>
-</tr>
-</table>
