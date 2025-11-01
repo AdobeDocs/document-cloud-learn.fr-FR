@@ -21,4 +21,4 @@ Découvrez comment rendre accessibles les documents numérisés dans Acrobat Pro
 >
 >Certaines fonctionnalités de ce tutoriel sont uniquement disponibles dans Acrobat Pro.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476236?captions=fre_fr&quality=12&learn=on&hidetitle=true)
