@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 01b037690e249731ec29ff294cc8adce4378bacc
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 2%
+source-wordcount: '64'
+ht-degree: 3%
 
 ---
 
@@ -22,11 +22,4 @@ Découvrez comment [ajouter un mot de PDF](https://www.adobe.com/fr/acrobat/onli
 >
 >Pour protéger par mot de PDF plusieurs fichiers, essayez d&#39;utiliser l&#39;[Action Wizard](../advanced-tasks/action.md).
 
-[!BADGE Impact organisationnel]
-Protection des informations, gestion des risques
-
->[!VIDEO](https://video.tv.adobe.com/v/3409646?quality=12&learn=on&hidetitle=true&captions=fre_fr)
-
->[!TIP]
->
->Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Adobe Acrobat](https://experienceleague.adobe.com/fr/playlists/acrobat-get-started-business-users) qui est disponible gratuitement sur Experience League !
+>[!SLIDE](protect-pdfs)
