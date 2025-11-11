@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: 8868038b710d2a7e1a8a01b5761f185bb83645f9
+source-git-commit: 9eff21212e67567d2fda1ac595af3b661adc1b39
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 3%
+source-wordcount: '84'
+ht-degree: 2%
 
 ---
 
 # Protect d’un fichier de mot de PDF avec un mot de passe
 
-Découvrez comment [ajouter un mot de PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target="_blank"} pour empêcher l&#39;ouverture ou la [modification du fichier de mot de PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}.
+Découvrez comment [ajouter un mot de PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target="_blank"} pour empêcher l&#39;ouverture ou la [modification du fichier de mot de PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}. La protection de vos fichiers de PDF empêche les accès non autorisés, protège les informations sensibles, préserve l’intégrité des documents et contribue au respect de certaines réglementations du secteur.
 
 >[!SLIDE](protect-pdfs)
 
