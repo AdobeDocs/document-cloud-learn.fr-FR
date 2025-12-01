@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b6198f50dbdbf6fab6c9f9e91e2395cb8b046406
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 2%
+source-wordcount: '502'
+ht-degree: 6%
 
 ---
 
@@ -21,6 +21,10 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Signer électroniquement un document]
+
+Découvrez combien il est facile de [signer](../sign-beginner-tutorials/electronically-sign-a-document.md) un document qui vous est envoyé avec Acrobat Sign.
 
 >[!TAB Créer un modèle réutilisable]
 
@@ -33,14 +37,6 @@ Découvrez comment [configurer différentes options](sending-options.md) lors de
 >[!TAB Envoyer à plusieurs signataires]
 
 Découvrez comment envoyer un document pour signature électronique à [plus d&#39;une personne](send-to-multiple-recipients.md) dans l&#39;ordre exact que vous souhaitez.
-
->[!TAB Envoyer un document à un seul signataire]
-
-Intervenez et découvrez à quel point il est facile d&#39;[envoyer un document pour signature](send-to-single-recipient.md).
-
->[!TAB Prise en main d&#39;Acrobat Sign]
-
-Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md) est un excellent point de départ.
 
 >[!ENDTABS]
 
@@ -70,7 +66,7 @@ Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md) est un excellent 
   </td>
   <td>
     <a href="send-to-single-recipient.md">
-      <img alt="Envoi d’un document à un seul signataire" src="../assets/send-single-recipient.png" />
+      <img alt="Envoyer un document à un seul signataire" src="../assets/send-single-recipient.png" />
     </a>
     <div>
     <a href="send-to-single-recipient.md"><strong>Envoyer un document à un seul signataire</strong></a>
@@ -171,7 +167,7 @@ Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md) est un excellent 
 <tr>
   <td>
     <a href="electronically-sign-a-document.md">
-      <img alt="Signature électronique d’un document" src="../assets/sign-electronically.png" />
+      <img alt="Signer électroniquement un document" src="../assets/sign-electronically.png" />
     </a>
     <div>
     <a href="electronically-sign-a-document.md"><strong>Signature électronique d'un document</strong></a>
@@ -250,7 +246,7 @@ Vous débutez avec Acrobat Sign ? Ce [tutoriel](new-sender.md) est un excellent 
 <tr>
   <td>
     <a href="manage-and-track.md">
-      <img alt="Gestion et suivi de vos accords" src="../assets/manage-track.png" />
+      <img alt="Gérer et suivre vos accords" src="../assets/manage-track.png" />
     </a>
     <div>
     <a href="manage-and-track.md"><strong>Gérer et suivre vos accords</strong></a>
