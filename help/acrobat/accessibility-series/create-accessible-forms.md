@@ -22,4 +22,4 @@ Découvrez comment rendre les formulaires accessibles dans Acrobat. Suivre ces s
 >
 >Certaines fonctionnalités de ce tutoriel sont uniquement disponibles dans Acrobat Pro, Premium et Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3471615?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3471664?captions=fre_fr&quality=12&learn=on&hidetitle=true)

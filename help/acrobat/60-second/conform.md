@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment valider le contenu d’un PDF par rapport aux critères standard du PDF, tels que PDF/X, PDF/A ou PDF/E.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409906?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437281?captions=fre_fr&quality=12&learn=on&hidetitle=true)

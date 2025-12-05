@@ -22,4 +22,4 @@ Que votre document soit issu d’un appareil photo ou d’un scanner, découvrez
 >
 >Si vous disposez d’Acrobat Pro (Premium ou Studio), exécutez l’option Optimiser les documents numérisés dans l’outil Action Wizard pour automatiser ce processus.
 
->[!VIDEO](https://video.tv.adobe.com/v/340823?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347063?captions=fre_fr&quality=12&learn=on&hidetitle=true)
