@@ -26,4 +26,4 @@ Pour offrir les meilleures expériences client, le contenu doit être créé plu
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Effectuer des tâches avancées dans Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Effectuer des tâches avancées dans Adobe Acrobat](https://experienceleague.adobe.com/fr/playlists/acrobat-peform-advanced-tasks), disponible gratuitement sur Experience League !
