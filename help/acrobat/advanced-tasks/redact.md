@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: a437f01d8f7a3f26a3a2cf6e0bdeb4a24c1a836d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Découvrez comment utiliser l’outil Biffer pour supprimer définitivement des 
 
 >[!NOTE]
 >
->Disponible dans Acrobat Pro uniquement.
+>Disponible uniquement dans Acrobat Pro, Premium ou Studio.
 
 [!BADGE Impact organisationnel]
 Protection des données client, gestion des risques
@@ -70,4 +70,4 @@ Une fois que vous avez confirmé, les biffures et les informations masquées son
 
 >[!TIP]
 >
->Pour accélérer le processus de biffure, consultez l&#39;[Action Wizard](../advanced-tasks/action.md) dans Acrobat Pro sur ordinateur.
+>Pour accélérer le processus de biffure, consultez l&#39;[Action Wizard](../advanced-tasks/action.md) dans Acrobat Pro, Premium ou Studio sur ordinateur.

@@ -7,16 +7,16 @@ level: Experienced
 jira: KT-8606
 thumbnail: KT-8606.jpg
 exl-id: 3765673b-15fd-4071-bb31-e589feffa471
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
 # Introduction à l’accessibilité des mots de PDF
 
-Au cours de cette session, découvrez ce que signifie rendre un PDF accessible, comment configurer Acrobat Pro pour qu’il fonctionne sur des PDF pour l’accessibilité et le processus de conversion d’un document source en PDF.
+Au cours de cette session, découvrez ce que signifie rendre un PDF accessible, comment configurer Acrobat Pro (Premium ou Studio) pour travailler sur les PDF en matière d’accessibilité et le processus de conversion d’un document source en PDF.
 
 Cliquez [ici](../assets/accessibilitysession1.zip) pour télécharger un dossier zip des fichiers de session pratiques.
 

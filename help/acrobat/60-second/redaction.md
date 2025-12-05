@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-13294
 exl-id: dc81aa16-762c-4e3f-b89b-e4224bdfcc68
-source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '42'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Disponible dans Acrobat Pro uniquement.
+>Disponible uniquement dans Acrobat Pro, Premium et Studio.
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment supprimer les informations sensibles d’un PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436914?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3411377?quality=12&learn=on&hidetitle=true)

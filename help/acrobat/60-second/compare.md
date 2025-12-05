@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-13297
 exl-id: a8fb0348-a247-4643-9c50-3758c5ac1ad2
-source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Disponible dans Acrobat Pro uniquement.
+>Disponible uniquement dans Acrobat Pro, Premium et Studio.
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment identifier les différences entre deux fichiers de PDF à l’aide de l’outil Comparer des fichiers d’Acrobat.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437471?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3409905?quality=12&learn=on&hidetitle=true)

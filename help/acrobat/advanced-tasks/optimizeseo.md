@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 Apprenez à optimiser un PDF pour améliorer la détectabilité et le classement des moteurs de recherche sur le Web.
 
-## 1. Création de contenu unique
+## &#x200B;1. Création de contenu unique
 
 Créez un contenu de PDF différent des informations de vos pages web.
 
-+++Voir les détails sur la création de contenu unique
++++Afficher des détails sur la création de contenu unique
 
 Le contenu du PDF doit être unique et structuré comme suit :
 
@@ -31,7 +31,7 @@ Le contenu du PDF doit être unique et structuré comme suit :
 * Utilisation de paragraphes courts contenant des mots-clés et des listes
 * Ajout d’hyperliens internes et externes (contenu de votre site web ou d’autres sites web)
 * Ajout d’une table des matières avec hyperlien pour les documents de plus de 25 pages
-* Exécuter la [reconnaissance de texte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=fr) sur tous les documents numérisés
+* Exécuter la [reconnaissance de texte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html) sur tous les documents numérisés
 * Création de PDF adaptés aux mobiles
 Pour vérifier l&#39;expérience de visionnage mobile de votre PDF, ouvrez le fichier dans l&#39;[application mobile Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) et activez Liquid Mode. Ajoutez des sous-titres supplémentaires si nécessaire pour améliorer la navigation.
 
@@ -41,7 +41,7 @@ Pour vérifier l&#39;expérience de visionnage mobile de votre PDF, ouvrez le fi
 
 <br> 
 
-## 2. Ajout de propriétés de document
+## &#x200B;2. Ajout de propriétés de document
 
 Les fichiers de PDF ont un titre et une méta-description tout comme une page web.
 
@@ -62,11 +62,11 @@ Essayez de commencer le résumé à l’aide d’un verbe d’action tel que App
 
 <br> 
 
-## 3. Marquez votre PDF
+## &#x200B;3. Marquez votre PDF
 
-Le balisage du contenu dans votre PDF rend votre fichier [accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=fr) aux personnes atteintes d&#39;un handicap, mais améliore également le référencement.
+Le balisage du contenu dans votre PDF rend votre fichier [accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html) aux personnes atteintes d&#39;un handicap, mais améliore également le référencement.
 
-+++Afficher des détails sur la façon de baliser un PDF
++++Affichage des détails sur le balisage d’un PDF
 
 Marquez un PDF comme suit :
 
@@ -82,15 +82,15 @@ Marquez un PDF comme suit :
 
 >[!NOTE]
 >
->Disponible dans Acrobat Pro uniquement.
+>Disponible uniquement dans Acrobat Pro, Premium ou Studio.
 
 <br> 
 
-## 4. Préparation pour le web
+## &#x200B;4. Préparation pour le web
 
 Optimisez l&#39;expérience d&#39;interaction avec votre PDF en le préparant pour l&#39;affichage Web et en [réduisant la taille du fichier du PDF](https://www.adobe.com/fr/acrobat/online/compress-pdf.html){target="_blank"}.
 
-+++Voir les détails sur la préparation de votre PDF pour le web
++++Afficher des détails sur la préparation de votre PDF pour le web
 
 Préparez votre PDF pour le web comme suit :
 
@@ -104,15 +104,15 @@ Cette étape réduit la taille du fichier et active **l&#39;affichage rapide des
 
 >[!TIP]
 >
->Si vous disposez d’Acrobat Pro, exécutez l’option Optimiser pour le Web et les appareils mobiles dans l’outil Action Wizard. Cette action convertit les couleurs en sRVB et incorpore les polices pour un affichage cohérent des PDF sur les navigateurs et les appareils mobiles.
+>Si vous disposez d’Acrobat Pro (Premium ou Studio), exécutez l’option Optimiser pour le Web et les appareils mobiles dans l’outil Action Wizard. Cette action convertit les couleurs en sRVB et incorpore les polices pour un affichage cohérent des PDF sur les navigateurs et les appareils mobiles.
 
 +++
 
 <br> 
 
-## 5. Création d’un nom de fichier de mots-clés
+## &#x200B;5. Création d’un nom de fichier de mots-clés
 
-+++Afficher les détails sur la création d’un nom de fichier de mots-clés
++++Affichage des détails sur la création d’un nom de fichier de mots-clés
 
 Créez un nom de fichier de mots-clés comme suit :
 
@@ -122,11 +122,11 @@ Le nom du fichier fait partie de l’URL lorsqu’un PDF est publié sur le Web.
 
 <br> 
 
-## 6. Sécurisez votre PDF
+## &#x200B;6. Sécurisez votre PDF
 
 La dernière étape consiste à [protéger votre PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target="_blank"} pour empêcher les modifications non autorisées.
 
-+++Voir les détails sur la sécurisation de votre PDF
++++Afficher les détails sur la sécurisation de votre PDF
 
 Sécuriser un PDF comme suit :
 

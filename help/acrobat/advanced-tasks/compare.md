@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-8496
 thumbnail: KT-8496.jpg
 exl-id: 433ed8a5-aab6-420e-a86e-903e81841df7
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
@@ -24,12 +24,12 @@ Applications, documents connexes, fiches d&#39;information, manuels, politiques,
 [!BADGE Impact organisationnel]
 Économies de coûts, efficacité organisationnelle, gain de temps, assurance qualité
 
->[!VIDEO](https://video.tv.adobe.com/v/3409324?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/337211?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Effectuer des tâches avancées dans Adobe Acrobat](https://experienceleague.adobe.com/fr/playlists/acrobat-peform-advanced-tasks), disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Effectuer des tâches avancées dans Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks), disponible gratuitement sur Experience League !
 
 >[!NOTE]
 >
->Disponible dans Acrobat Pro uniquement.
+>Disponible uniquement dans Acrobat Pro, Premium ou Studio.

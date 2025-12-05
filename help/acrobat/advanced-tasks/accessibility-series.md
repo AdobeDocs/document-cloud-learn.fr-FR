@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-8364
 thumbnail: KT-8364.jpg
 exl-id: f56fb6f4-bbb8-4698-bc19-047d9245c2ff
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Dans cette série de webinaires à la demande en six parties, passez des bases d
     <div>
     <a href="accessibilitysession1.md"><strong>Introduction à l’accessibilité des PDF</strong></a>
     </div>
-    <em>Au cours de cette session à la demande, découvrez ce que signifie rendre un PDF accessible, comment configurer Acrobat Pro pour qu’il fonctionne sur les PDF pour l’accessibilité et le processus de conversion d’un document source en PDF</em>
+    <em>Au cours de cette session à la demande, découvrez ce que signifie rendre un PDF accessible, comment configurer Acrobat Pro (Premium ou Studio) pour travailler sur les PDF en matière d'accessibilité et le processus de conversion d'un document source en PDF</em>
     <br>
   </td>
   <td>
@@ -39,7 +39,7 @@ Dans cette série de webinaires à la demande en six parties, passez des bases d
     <div>
     <a href="accessibilitysession2.md"><strong>Correction d'un PDF inaccessible</strong></a>
     </div>
-    <em>Au cours de cette session à la demande, découvrez le workflow permettant de convertir un document Word et de résoudre certains problèmes de balisage de base à l'aide des outils Acrobat Pro présentés dans le webinaire d'introduction</em>
+    <em>Au cours de cette session à la demande, découvrez le workflow permettant de convertir un document Word et de résoudre certains problèmes de balisage de base à l’aide des outils Acrobat Pro (Premium ou Studio) présentés dans le webinaire d’introduction</em>
     <br>
   </td>  
   <td>
