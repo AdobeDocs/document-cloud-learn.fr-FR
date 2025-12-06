@@ -23,7 +23,7 @@ Apprenez à envoyer et à recueillir des centaines de signatures (jusqu’à 1 0
 * [Accord de télétravail](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovtelework.html?lang=fr)
 * [Accord de stratégie](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/com/usecasecompolicy.html?lang=fr)
 
->[!VIDEO](https://video.tv.adobe.com/v/33655?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477300?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 [Téléchargez un exemple de fichier CSV au format ZIP](../assets/sendInBulkSample.zip). Découvrez toutes les valeurs que vous pouvez définir dans votre fichier CSV [ici](https://helpx.adobe.com/fr/sign/adv-user/send-in-bulk/send-with-csv.html).
 
