@@ -7,10 +7,10 @@ level: Beginner
 jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
-source-git-commit: b8470e3cd127f6998e57d125b1acddb2e1d51b4c
+source-git-commit: 169855b701bbc9153e349687366a6f6e49adabe6
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 6%
+source-wordcount: '494'
+ht-degree: 7%
 
 ---
 
@@ -21,6 +21,10 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Gérer et suivre les accords]
+
+Découvrez comment [gérer et suivre les accords](../sign-beginner-tutorials/manage-and-track.md) envoyés pour signature.
 
 >[!TAB Signer électroniquement un document]
 
@@ -33,10 +37,6 @@ Découvrez comment créer un [modèle de document réutilisable](../sign-advance
 >[!TAB Configurer les options d’envoi]
 
 Découvrez comment [configurer différentes options](sending-options.md) lors de l&#39;envoi d&#39;un document pour signature.
-
->[!TAB Envoyer à plusieurs signataires]
-
-Découvrez comment envoyer un document pour signature électronique à [plus d&#39;une personne](send-to-multiple-recipients.md) dans l&#39;ordre exact que vous souhaitez.
 
 >[!ENDTABS]
 
