@@ -6,10 +6,10 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 1%
+source-wordcount: '214'
+ht-degree: 0%
 
 ---
 
@@ -20,6 +20,10 @@ Découvrez comment rendre les fichiers de PDF accessibles. Les Tutorials de la s
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Listes complexes]
+
+Découvrez comment baliser [listes complexes](complex-lists.md) pour l&#39;accessibilité dans Acrobat.
 
 >[!TAB Documents numérisés]
 
@@ -32,10 +36,6 @@ Découvrez comment [configurer votre espace de travail](set-up-workspace.md) pou
 >[!TAB Créer un PDF accessible à partir de Word]
 
 Découvrez comment [créer un fichier de PDF accessible à partir de Microsoft Word](create-accessible-from-word.md).
-
->[!TAB Créer des formulaires accessibles]
-
-Découvrez comment rendre les [formulaires accessibles](create-accessible-forms.md) dans Acrobat.
 
 >[!ENDTABS]
 
@@ -96,9 +96,14 @@ Découvrez comment rendre les [formulaires accessibles](create-accessible-forms.
     <br>
   </td>
   <td>
-        <img alt="Espaceur" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
+    <a href="complex-lists.md">
+      <img alt="Listes complexes" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-lists.md"><strong>Listes complexes</strong></a>
+    </div>
+    <em>Découvrez comment baliser des listes complexes pour l’accessibilité dans Acrobat</em>
+    <br>
   </td>
   <td>
         <img alt="Espaceur" src="../assets/Grayspacer.png" />
