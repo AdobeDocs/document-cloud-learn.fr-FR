@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: fd6ff74f94bd93fbd40086badf8158d4bc968e5a
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,10 @@ Découvrez comment rendre les fichiers de PDF accessibles. Les Tutorials de la s
 
 >[!BEGINTABS]
 
+>[!TAB Principes de base du balisage]
+
+Découvrez les principes de base de la [balise d&#39;un fichier de PDF](basics-tagging.md) pour le rendre accessible.
+
 >[!TAB Listes complexes]
 
 Découvrez comment baliser [listes complexes](complex-lists.md) pour l&#39;accessibilité dans Acrobat.
@@ -32,10 +36,6 @@ Découvrez comment rendre accessible un [document numérisé](scanned-documents.
 >[!TAB Configuration de votre espace de travail]
 
 Découvrez comment [configurer votre espace de travail](set-up-workspace.md) pour simplifier la mise à disposition de fichiers de PDF accessibles.
-
->[!TAB Créer un PDF accessible à partir de Word]
-
-Découvrez comment [créer un fichier de PDF accessible à partir de Microsoft Word](create-accessible-from-word.md).
 
 >[!ENDTABS]
 
@@ -74,6 +74,18 @@ Découvrez comment [créer un fichier de PDF accessible à partir de Microsoft W
     <br>
   </td>
   <td>
+    <a href="basics-tagging.md">
+      <img alt="Principes de base du balisage" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="basics-tagging.md"><strong>Principes de base du balisage »</strong></a>
+    </div>
+    <em>Découvrez les principes de base de l'étiquetage d'un fichier de PDF pour le rendre accessible</em>
+    <br>
+  </td>
+</tr>
+<tr>
+  <td>
     <a href="scanned-documents.md">
       <img alt="Documents numérisés" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -83,8 +95,6 @@ Découvrez comment [créer un fichier de PDF accessible à partir de Microsoft W
     <em>Découvrez comment rendre accessibles les documents numérisés dans Acrobat</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
     <a href="create-accessible-forms.md">
       <img alt="Création de formulaires accessibles" src="../assets/accessibility-series-2025.png" />
@@ -95,7 +105,7 @@ Découvrez comment [créer un fichier de PDF accessible à partir de Microsoft W
     <em>Découvrez comment rendre les formulaires accessibles dans Acrobat</em>
     <br>
   </td>
-  <td>
+   <td>
     <a href="complex-lists.md">
       <img alt="Listes complexes" src="../assets/accessibility-series-2025.png" />
     </a>
@@ -104,11 +114,6 @@ Découvrez comment [créer un fichier de PDF accessible à partir de Microsoft W
     </div>
     <em>Découvrez comment baliser des listes complexes pour l’accessibilité dans Acrobat</em>
     <br>
-  </td>
-  <td>
-        <img alt="Espaceur" src="../assets/Grayspacer.png" />
-        <div>
-        <br>
   </td>
   <td>
         <img alt="Espaceur" src="../assets/Grayspacer.png" />

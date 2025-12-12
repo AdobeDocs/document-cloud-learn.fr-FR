@@ -1,14 +1,14 @@
 ---
 title: Documents numérisés
-description: Découvrez comment rendre accessibles les documents numérisés dans Acrobat Pro
+description: Découvrez comment rendre accessibles les documents numérisés dans Acrobat
 feature: Accessibility
 role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18732
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '55'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,4 @@ Découvrez comment rendre accessibles les documents numérisés dans Acrobat. Le
 >
 >Certaines fonctionnalités de ce tutoriel sont uniquement disponibles dans Acrobat Pro, Premium et Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476236?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3476233?quality=12&learn=on&hidetitle=true)
