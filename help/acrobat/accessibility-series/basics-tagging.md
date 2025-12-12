@@ -6,16 +6,16 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18726
-source-git-commit: 6e36c85429152e41bb2f571130e2589804310aa1
+source-git-commit: 1fb311177830a22d7b269df4800444e65b30179d
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
 # Principes de base du balisage
 
-Découvrez les principes de base de l’étiquetage d’un fichier de PDF pour le rendre accessible. Les rubriques abordées sont les suivantes : correction des listes, artefacts, texte de remplacement pour les images et tableaux simples.
+Découvrez les principes de base de l’étiquetage d’un fichier de PDF pour le rendre accessible. Les rubriques abordées sont les suivantes : correction des listes, artefacts, ajout de texte de remplacement pour les images et tableaux simples.
 
 >[!NOTE]
 >
