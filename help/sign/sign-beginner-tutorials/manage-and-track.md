@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Découvrez comment gérer et suivre les documents envoyés pour signature dans Acrobat Sign. Recevez des mises à jour et des notifications de statut en temps réel pour chaque document que vous signez ou envoyez pour signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/337884?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3436620?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
