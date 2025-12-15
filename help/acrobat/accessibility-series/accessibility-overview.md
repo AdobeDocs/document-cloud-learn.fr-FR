@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '289'
 ht-degree: 0%
 
 ---
@@ -21,6 +21,14 @@ Découvrez comment rendre les fichiers de PDF accessibles. Les Tutorials de la s
 
 >[!BEGINTABS]
 
+>[!TAB Tableaux complexes]
+
+Découvrez comment [baliser les tableaux](complex-tables.md) pour l&#39;accessibilité dans Acrobat.
+
+>[!TAB Rendre l&#39;action guidée accessible]
+
+Découvrez comment utiliser l&#39;action guidée [Rendre accessible](make-accessible-action.md).
+
 >[!TAB Créer un PDF accessible dans Acrobat]
 
 Découvrez comment créer un PDF [accessible à partir d&#39;Acrobat](accessible-acrobat.md).
@@ -28,14 +36,6 @@ Découvrez comment créer un PDF [accessible à partir d&#39;Acrobat](accessible
 >[!TAB Principes de base du balisage]
 
 Découvrez les principes de base de la [balise d&#39;un fichier de PDF](basics-tagging.md) pour le rendre accessible.
-
->[!TAB Listes complexes]
-
-Découvrez comment baliser [listes complexes](complex-lists.md) pour l&#39;accessibilité dans Acrobat.
-
->[!TAB Documents numérisés]
-
-Découvrez comment rendre accessible un [document numérisé](scanned-documents.md).
 
 >[!ENDTABS]
 
@@ -125,5 +125,37 @@ Découvrez comment rendre accessible un [document numérisé](scanned-documents.
     <em>Découvrez comment baliser des listes complexes pour l’accessibilité dans Acrobat</em>
     <br>
   </td>
+</tr>
+<tr>
+  <td>
+    <a href="complex-tables.md">
+      <img alt="Tableaux complexes" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="complex-tables.md"><strong>Tableaux complexes</strong></a>
+    </div>
+    <em>Découvrez comment baliser les tableaux pour l'accessibilité dans Acrobat</em>
+    <br>
+  </td>
+  <td>
+    <a href="make-accessible-action.md">
+      <img alt="Rendre l’action guidée accessible" src="../assets/accessibility-series-2025.png" />
+    </a>
+    <div>
+    <a href="make-accessible-action.md"><strong>Rendre l'action guidée accessible</strong></a>
+    </div>
+    <em>Découvrez comment utiliser l’action guidée Rendre accessible</em>
+    <br>
+  </td>
+   <td>
+        <img alt="Espaceur" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+      </td>
+      <td>
+        <img alt="Espaceur" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+    </td>
 </tr>
 </table>
