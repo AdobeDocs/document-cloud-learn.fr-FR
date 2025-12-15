@@ -21,4 +21,4 @@ Découvrez les principes de base de l’étiquetage d’un fichier de PDF pour l
 >
 >Certaines fonctionnalités de ce tutoriel sont uniquement disponibles dans Acrobat Pro, Premium et Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477882?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477884?captions=fre_fr&quality=12&learn=on&hidetitle=true)
