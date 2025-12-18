@@ -8,10 +8,10 @@ jira: KT-6849
 topic-revisit: Administration
 thumbnail: KT-6849.jpg
 exl-id: 1b6ea9f0-6bbb-4ea5-aa22-bfa42f7cca18
-source-git-commit: 07e2a5a81b23efc49934c9693c625da47882f43f
+source-git-commit: b24235986241d53bfd09d602192e50290bfb8817
 workflow-type: tm+mt
-source-wordcount: '678'
-ht-degree: 2%
+source-wordcount: '697'
+ht-degree: 3%
 
 ---
 
@@ -22,6 +22,10 @@ Découvrez comment ajouter des utilisateurs à votre compte, configurer des grou
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Créer un workflow personnalisé]
+
+Découvrez comment créer et utiliser des [workflows personnalisés](building-a-custom-workflow.md) pour accélérer le processus de création et d’envoi d’un accord.
 
 >[!TAB Créer un modèle réutilisable]
 
@@ -34,10 +38,6 @@ Découvrez comment configurer des [règles d’affectation automatique](automati
 >[!TAB Migrer les modèles Docusign]
 
 Découvrez comment [migrer en toute transparence les modèles et les workflows Docusign](docusign-templates.md) en trois étapes simples.
-
->[!TAB Ajouter un nouvel utilisateur]
-
-Découvrez comment [ajouter de nouveaux utilisateurs à Acrobat Sign](add-users-to-your-account.md).
 
 >[!ENDTABS]
 
@@ -151,7 +151,7 @@ Découvrez comment [ajouter de nouveaux utilisateurs à Acrobat Sign](add-users-
   </td>
   <td>
     <a href="../sign-advanced-users/creating-a-report.md">
-      <img alt="Utilisation des rapports et des transactions" src="../assets/reporting.png" />
+      <img alt="Rapports et utilisation des transactions" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="../sign-advanced-users/creating-a-report.md"><strong>Utilisation des rapports et des transactions</strong></a>
@@ -203,12 +203,12 @@ Découvrez comment [ajouter de nouveaux utilisateurs à Acrobat Sign](add-users-
   </td>
   <td>
     <a href="building-a-custom-workflow.md">
-      <img alt="Configuration d’un workflow" src="../assets/workflow.png" />
+      <img alt="Création d’un workflow personnalisé" src="../assets/workflow.png" />
     </a>
     <div>
-    <a href="building-a-custom-workflow.md"><strong>Configuration d'un workflow</strong></a>
+    <a href="building-a-custom-workflow.md"><strong>Créer un workflow personnalisé</strong></a>
     </div>
-    <em>Automatisez les workflows de documents pour obtenir rapidement des signatures électroniques et des données</em>
+    <em>Découvrez comment créer et utiliser des workflows personnalisés pour accélérer le processus de création et d’envoi d’un accord</em>
     <br>
   </td>
 </tr>

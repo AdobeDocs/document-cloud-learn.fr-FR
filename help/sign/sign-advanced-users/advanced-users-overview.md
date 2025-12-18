@@ -7,10 +7,10 @@ level: Experienced
 jira: KT-6848
 thumbnail: KT-6848.jpg
 exl-id: c4f0a953-e28b-4488-a27c-010b5adaf7ec
-source-git-commit: 2a808b6cc197a58ebe680ef4bf50747756f81013
+source-git-commit: 8f33f6e533aca9d2c8945abaf0f4d6d5d958d777
 workflow-type: tm+mt
-source-wordcount: '424'
-ht-degree: 2%
+source-wordcount: '458'
+ht-degree: 4%
 
 ---
 
@@ -21,6 +21,10 @@ Découvrez comment envoyer un document pour signature à des centaines de destin
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Créer un workflow personnalisé]
+
+
 
 >[!TAB Envoyer en masse]
 
@@ -38,7 +42,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
 <tr>
   <td>
     <a href="setting-up-routing.md">
-      <img alt="Configuration de l’ordre de signature" src="../assets/signing-order.png">
+      <img alt="Configuration de la commande de signature" src="../assets/signing-order.png">
     </a>
     <div>
     <a href="setting-up-routing.md"><strong>Configuration de l’ordre de signature</strong></a>
@@ -67,38 +71,6 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
     <br>
   </td>
   <td>
-    <a href="authentication-methods.md">
-      <img alt="Méthodes d’authentification dans Acrobat Sign" src="../assets/authentication.png" />
-    </a>
-    <div>
-    <a href="authentication-methods.md"><strong>Méthodes d’authentification dans Acrobat Sign</strong></a>
-    </div>
-    <em>Découvrez la gamme de méthodes d’authentification d’identité disponibles dans Acrobat Sign</em>
-    <br>
-  </td>
-</tr>
-<tr>
-  <td>
-      <a href="manage-form-data.md">
-        <img alt="Gestion des données de formulaire" src="../assets/manage-form-data.png" />
-      </a>
-      <div>
-      <a href="manage-form-data.md"><strong>Gérer les données de formulaire</strong></a>
-      </div>
-      <em>Découvrez comment consolider les données de formulaire à partir de vos documents</em>
-      <br>
-    </td>
-  <td>
-    <a href="set-up-online-payments.md">
-      <img alt="Configuration des paiements en ligne" src="../assets/payment.png" />
-    </a>
-    <div>
-    <a href="set-up-online-payments.md"><strong>Configurer les paiements en ligne</strong></a>
-    </div>
-    <em>Découvrez comment configurer et accepter les paiements en ligne dans vos documents</em>
-    <br>
-  </td>
-  <td>
       <a href="megasign.md">
         <img alt="Envoi en masse" src="../assets/send-in-bulk.png" />
       </a>
@@ -108,7 +80,9 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
       <em>Recueillez des centaines de signatures à la fois pour n’importe quel document en quelques étapes simples</em>
       <br>
   </td>
- <td>
+</tr>
+<tr>
+  <td>
       <a href="webform.md">
         <img alt="Création d’un formulaire web" src="../assets/web-form.png" />
     </a>
@@ -116,6 +90,36 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
       <a href="webform.md"><strong>Création d’un formulaire web</strong></a>
       </div>
       <em>Découvrez comment créer un document pouvant être signé électroniquement directement sur votre site web</em>
+      <br>
+  </td>
+  <td>
+      <a href="../admin/building-a-custom-workflow.md">
+        <img alt="Création d’un workflow personnalisé" src="../assets/workflow.png" />
+      </a>
+      <div>
+      <a href="../admin/building-a-custom-workflow.md"><strong>Créer un workflow personnalisé</strong></a>
+      </div>
+      <em>Découvrez comment créer et utiliser des workflows personnalisés pour accélérer le processus de création et d’envoi d’un accord</em>
+      <br>
+  </td>
+  <td>
+      <a href="set-up-online-payments.md">
+        <img alt="Configuration des paiements en ligne" src="../assets/payment.png" />
+      </a>
+      <div>
+      <a href="set-up-online-payments.md"><strong>Configurer les paiements en ligne</strong></a>
+      </div>
+      <em>Découvrez comment configurer et accepter les paiements en ligne dans vos documents</em>
+      <br>
+  </td>
+  <td>
+      <a href="authentication-methods.md">
+        <img alt="Méthodes d’authentification dans Acrobat Sign" src="../assets/authentication.png" />
+      </a>
+      <div>
+      <a href="authentication-methods.md"><strong>Méthodes d’authentification dans Acrobat Sign</strong></a>
+      </div>
+      <em>Découvrez la gamme de méthodes d’authentification d’identité disponibles dans Acrobat Sign</em>
       <br>
   </td>
 </tr>
@@ -159,7 +163,7 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
 <tr>
 <td>
     <a href="creating-a-report.md">
-      <img alt="Utilisation des rapports et des transactions" src="../assets/reporting.png" />
+      <img alt="Rapports et utilisation des transactions" src="../assets/reporting.png" />
     </a>
     <div>
     <a href="creating-a-report.md"><strong>Utilisation des rapports et des transactions</strong></a>
@@ -197,5 +201,32 @@ Découvrez toute la gamme de méthodes disponibles dans Acrobat Sign pour [authe
     <em>Découvrez comment suivre, gérer et exporter des données à partir d’un formulaire web</em>
     <br>
   </td>  
+</tr>
+<tr>
+  <td>
+      <a href="manage-form-data.md">
+        <img alt="Gestion des données de formulaire" src="../assets/manage-form-data.png" />
+      </a>
+      <div>
+      <a href="manage-form-data.md"><strong>Gérer les données de formulaire</strong></a>
+      </div>
+      <em>Découvrez comment consolider les données de formulaire à partir de vos documents</em>
+      <br>
+    </td>
+    <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
