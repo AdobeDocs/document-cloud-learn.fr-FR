@@ -20,4 +20,4 @@ Découvrez comment baliser des tableaux pour l’accessibilité dans Acrobat. Le
 >
 >Disponible uniquement dans Acrobat Pro, Premium et Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477951?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477954?captions=fre_fr&quality=12&learn=on&hidetitle=true)

@@ -21,4 +21,4 @@ Découvrez comment créer un PDF accessible à partir d’Acrobat. Les sujets ab
 >
 >Certaines fonctionnalités de ce tutoriel sont uniquement disponibles dans Acrobat Pro, Premium et Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477927?captions=fre_fr&quality=12&learn=on&hidetitle=true)

@@ -20,4 +20,4 @@ Découvrez comment utiliser l’action guidée Rendre accessible pour rendre vot
 >
 >Disponible uniquement dans Acrobat Pro, Premium et Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477952?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477965?captions=fre_fr&quality=12&learn=on&hidetitle=true)
