@@ -8,9 +8,9 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
@@ -26,6 +26,10 @@ Envoyez des documents pour signature, suivez la progression de la signature éle
 >[!TAB Vue mobile]
 
 Découvrez comment utiliser la [vue mobile](mobile-friendly.md) pour remplir des formulaires sur votre appareil mobile.
+
+>[!TAB Créer une vue adaptée aux mobiles]
+
+Découvrez comment générer un document [adapté aux mobiles](create-mobile-friendly.md) de manière transparente, sans aucune assistance de la part des développeurs.
 
 >[!ENDTABS]
 
@@ -58,7 +62,7 @@ Découvrez comment utiliser la [vue mobile](mobile-friendly.md) pour remplir des
     <div>
     <a href="create-mobile-friendly.md"><strong>Créer une vue adaptée aux mobiles</strong></a>
     </div>
-    <em>Découvrez comment créer une vue du document adaptée aux mobiles</em>
+    <em>Découvrez comment générer un document adapté aux appareils mobiles de manière transparente, sans aucune assistance de la part des développeurs</em>
     <br>
   </td>
    <td>
@@ -84,11 +88,11 @@ Découvrez comment utiliser la [vue mobile](mobile-friendly.md) pour remplir des
     <br>
   </td>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Téléchargement de l’application mobile Acrobat Sign pour Android" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Téléchargement de l’application mobile Acrobat Sign pour Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Téléchargement de l’application mobile Acrobat Sign pour Android</strong></a>
     </div>
     <em>Téléchargez l’application mobile Acrobat Sign depuis Google Play</em>
     <br>

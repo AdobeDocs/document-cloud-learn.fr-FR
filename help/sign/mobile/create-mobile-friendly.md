@@ -1,20 +1,20 @@
 ---
 title: Créer une vue adaptée aux mobiles
-description: Découvrez comment créer une vue du document adaptée aux mobiles avec le mode « Mobile Focus »
+description: Découvrez comment générer un document adapté aux mobiles en toute transparence, sans aucune assistance de la part des développeurs
 feature: Mobile, Sign
 role: User
 level: Beginner
 jira: KT-18736
-source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
+source-git-commit: f053f885cce9d41478e581bddeba5fae4196fb91
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '72'
 ht-degree: 0%
 
 ---
 
 # Création d’une vue adaptée aux mobiles
 
-Découvrez comment créer une vue du document adaptée aux mobiles avec le mode « Mobile Focus ». Les expéditeurs peuvent désormais générer un formulaire compatible avec les appareils mobiles de manière transparente, sans aucune assistance de la part des développeurs.
+Découvrez comment générer un document adapté aux appareils mobiles en toute transparence, sans l’aide d’un développeur.
 
 Avec Mobile Focus, les expéditeurs bénéficient des avantages suivants :
 
