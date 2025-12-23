@@ -8,9 +8,9 @@ jira: KT-6854
 topic-revisit: Mobile
 thumbnail: KT-6854.jpg
 exl-id: c52bf1c6-0821-4754-af7f-71f29b8a18c9
-source-git-commit: 01929e1d724d398a25ef70eae22330a6bce1d1b4
+source-git-commit: 179d668e1029d12da5147aa259fe28dbd5b681bf
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '177'
 ht-degree: 1%
 
 ---
@@ -52,6 +52,16 @@ Découvrez comment utiliser la [vue mobile](mobile-friendly.md) pour remplir des
     <br>
   </td>  
   <td>
+    <a href="create-mobile-friendly.md">
+      <img alt="Création d’une vue adaptée aux mobiles" src="../assets/create-mobile-friendly.png" />
+    </a>
+    <div>
+    <a href="create-mobile-friendly.md"><strong>Créer une vue adaptée aux mobiles</strong></a>
+    </div>
+    <em>Découvrez comment créer une vue du document adaptée aux mobiles</em>
+    <br>
+  </td>
+   <td>
     <a href="liquidmode.md">
       <img alt="Liquid Mode dans Acrobat Sign" src="../assets/liquid-mode.png" />
     </a>
@@ -61,7 +71,9 @@ Découvrez comment utiliser la [vue mobile](mobile-friendly.md) pour remplir des
     <em>Découvrez comment Liquid Mode améliore l’expérience de signature mobile</em>
     <br>
   </td>
-   <td>
+</tr>
+<tr>
+  <td>
     <a href="https://apps.apple.com/us/app/adobe-acrobat-sign/id481082197_blank">
       <img alt="Téléchargement de l’application mobile Acrobat Sign pour iOS" src="../assets/mobile-ios.png" />
     </a>
@@ -71,21 +83,14 @@ Découvrez comment utiliser la [vue mobile](mobile-friendly.md) pour remplir des
     <em>Télécharger l'application mobile Acrobat Sign à partir d'App Store</em>
     <br>
   </td>
-</tr>
-<tr>
   <td>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank">
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank">
       <img alt="Téléchargement de l’application mobile Acrobat Sign pour Android" src="../assets/mobile-android.png" />
     </a>
     <div>
-    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&hl=en&pli=1_blank"><strong>Téléchargement de l’application mobile Acrobat Sign pour Android</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.adobe.echosign&amp;hl=en&amp;pli=1_blank"><strong>Téléchargement de l’application mobile Acrobat Sign pour Android</strong></a>
     </div>
     <em>Téléchargez l’application mobile Acrobat Sign depuis Google Play</em>
-    <br>
-  </td>
-  <td>
-    <img alt="Espaceur" src="../assets/Grayspacer.png" />
-    <div>
     <br>
   </td>
   <td>
