@@ -23,4 +23,4 @@ Avec la vue Mobile, les expéditeurs bénéficient de :
 * Aucune expertise technique requise : générez des formulaires dynamiques et adaptés aux mobiles avec un minimum d’efforts
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478398?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3478400?captions=fre_fr&quality=12&learn=on&hidetitle=true)
