@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 topics: Accessibility
 jira: KT-18729
-source-git-commit: 93e43b49f6a2768a8adcc29a0d0daca14c498449
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '61'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
@@ -21,4 +21,8 @@ Découvrez comment créer un PDF accessible à partir d’Acrobat. Les sujets ab
 >
 >Certaines fonctionnalités de ce tutoriel sont uniquement disponibles dans Acrobat Pro, Premium et Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3477927?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3477925?quality=12&learn=on&hidetitle=true)
+
+>[!TIP]
+>
+>Cette vidéo fait partie de la playlist [série sur l&#39;accessibilité des PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) qui est disponible gratuitement sur Experience League !

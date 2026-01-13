@@ -6,16 +6,16 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-6856
 exl-id: 26b265dc-b52f-4e0d-b6d9-893e7d3b6077
-source-git-commit: 5e67f280224d00a29d90ac1538e92e2334826e4f
+source-git-commit: f1b917a7889adf2d372965a7c75ced1aac4cfc4c
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # Présentation de la série sur l’accessibilité
 
-Découvrez comment rendre les fichiers de PDF accessibles. Les Tutorials de la série vont des notions de base du balisage à l’utilisation des formulaires. De nouveaux contenus sont régulièrement ajoutés.
+Découvrez comment rendre les fichiers de PDF accessibles. Les Tutorials de la série vont des notions de base du balisage à l’utilisation des formulaires. Cette série est désormais disponible au [format de cours](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials) sur Experience League.
 
 ## Nouveautés
 
