@@ -6,7 +6,7 @@ solution: Acrobat
 role: User
 level: Beginner
 exl-id: 5d109c5a-2954-473a-b880-9c09a61929a5
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: c34798d5e4c08c57620cfd1507dd2f51d9f711b0
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Remplir et signer n’importe quel formulaire sur poste de travail ou mobile
 
-Remplissez, signez et envoyez rapidement des formulaires à partir de votre poste de travail, navigateur ou application mobile. Adobe Sensei reconnaît et enregistre les données couramment utilisées pour les utiliser dans un formulaire de PDF. Créez une signature en dessinant, en important une numérisation ou en saisissant votre nom, puis appliquez-la de manière sécurisée à un document.
+Remplissez, signez et envoyez rapidement des formulaires à partir de votre poste de travail, navigateur ou application mobile. Adobe AI reconnaît et enregistre les données couramment utilisées pour les utiliser dans un formulaire de PDF. Créez une signature en dessinant, en important une numérisation ou en saisissant votre nom, puis appliquez-la de manière sécurisée à un document.
 
 Dans cet exercice, vous allez importer, remplir, signer et envoyer un formulaire à l’aide de votre appareil mobile.
 
