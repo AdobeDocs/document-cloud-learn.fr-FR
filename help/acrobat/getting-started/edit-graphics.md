@@ -17,7 +17,7 @@ ht-degree: 1%
 
 Découvrez comment utiliser le mode de modification dans Acrobat pour ajouter, remplacer, recadrer, redimensionner, faire pivoter et organiser des images directement dans un PDF sur ordinateur et sur le web. Le tutoriel explique également comment générer et affiner des images à partir d’invites textuelles à l’aide du générateur d’images intégré à l’application optimisé par Adobe Express. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-workspace.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3446931?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Par rôle]
 
