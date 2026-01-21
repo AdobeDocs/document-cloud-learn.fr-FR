@@ -19,7 +19,7 @@ Découvrez comment une équipe juridique interne utilise les Espaces PDF pour ra
 
 Les espaces de PDF sont disponibles pour les utilisateurs qui achètent Acrobat Studio ou le module complémentaire AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475134?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Par rôle]
 
