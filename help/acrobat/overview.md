@@ -7,10 +7,10 @@ level: Beginner, Intermediate, Experienced
 jira: KT-6864
 thumbnail: KT-6864.jpg
 exl-id: 353c8352-88cc-4ada-a9a9-19a7423a993f
-source-git-commit: 89794c0ff3fda176703663c2f070abefae5021d6
+source-git-commit: a4c7ebcc6e1154e6377416fa1664e0f126ee4133
 workflow-type: tm+mt
 source-wordcount: '196'
-ht-degree: 5%
+ht-degree: 4%
 
 ---
 
@@ -29,12 +29,12 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
-    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Getting started">
+    <div class="column is-half-tablet is-half-desktop is-one-third-widescreen" aria-label="Get started">
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" title="Prise en main" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/media_19b331849a47f54403361e7661d1882d95fe97fcf.png?width=400&format=webply&optimize=medium" alt="Prise en main"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" title="Prise en main" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_19b331849a47f54403361e7661d1882d95fe97fcf.png?width=400&format=webply&optimize=medium" alt="Prise en main"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -42,11 +42,11 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_self" rel="referrer" title="Prise en main">Prise en main</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_self" rel="referrer" title="Prise en main">Commencer</a>
                     </p>
                     <p class="is-size-6">Découvrez comment créer, modifier, convertir, protéger et bien plus encore avec les fichiers de PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/getting-started-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorer</span>
                 </a>
             </div>
@@ -56,8 +56,8 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" title="Série sur l’accessibilité" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/media_1160a8358f39482862ca2409c878ecea8815b0e35.png?width=400&format=webply&optimize=medium" alt="Série sur l’accessibilité"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" title="Série sur l’accessibilité" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/media_1160a8358f39482862ca2409c878ecea8815b0e35.png?width=400&format=webply&optimize=medium" alt="Série sur l’accessibilité"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -65,11 +65,11 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" title="Série sur l’accessibilité">Série sur l'accessibilité</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" title="Série sur l’accessibilité">Série sur l'accessibilité</a>
                     </p>
                     <p class="is-size-6">Découvrez comment rendre les fichiers de PDF accessibles</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorer</span>
                 </a>
             </div>
@@ -79,8 +79,8 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" title="Tâches avancées" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/media_17d55969ad72e5933df620c2d5c84ba8e273ab39c.png?width=400&format=webply&optimize=medium" alt="Tâches avancées"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" title="Tâches avancées" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_17d55969ad72e5933df620c2d5c84ba8e273ab39c.png?width=400&format=webply&optimize=medium" alt="Tâches avancées"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -88,11 +88,11 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" title="Tâches avancées">Tâches avancées</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" title="Tâches avancées">Tâches avancées</a>
                     </p>
                     <p class="is-size-6">Allez au-delà des bases avec des tâches spécifiques et l'automatisation</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advanced-tasks-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorer</span>
                 </a>
             </div>
@@ -102,8 +102,8 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" title="Optimisé par l’IA" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1220d424bff112d1d5f154e5ab4f2fe8a5cbd4334.png?width=2000?width=400&format=webply&optimize=medium" alt="Optimisé par l’IA"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" title="Optimisé par l’IA" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/media_1220d424bff112d1d5f154e5ab4f2fe8a5cbd4334.png?width=2000?width=400&format=webply&optimize=medium" alt="Optimisé par l’IA"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,11 +111,11 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" title="Optimisé par l’IA">Optimisé par l'IA</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" title="Optimisé par l’IA">Optimisé par l'IA</a>
                     </p>
                     <p class="is-size-6">Découvrez comment l’IA peut transformer les workflows de vos PDF</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/ai-powered/ai-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorer</span>
                 </a>
             </div>
@@ -125,8 +125,8 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" title="Acrobat 60 secondes" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/media_1e95e07bbceaf7e8f9bfccff9dccc7827fe813d96.png?width=400&format=webply&optimize=medium" alt="Acrobat 60 secondes"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" title="Acrobat 60 secondes" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_1e95e07bbceaf7e8f9bfccff9dccc7827fe813d96.png?width=400&format=webply&optimize=medium" alt="Acrobat 60 secondes"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -134,11 +134,11 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" title="Acrobat 60 secondes">Acrobat en 60 secondes</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" title="Acrobat 60 secondes">Acrobat en 60 secondes</a>
                     </p>
                     <p class="is-size-6">Tutoriels de la taille d’une bouchée pour vous aider à apprendre une nouvelle astuce dans Acrobat en une minute ou moins</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/60-second/60-second-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorer</span>
                 </a>
             </div>
@@ -148,8 +148,8 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" title="Intégrations" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/media_171337d52d3205c2011e230e71736cc71f74ba0ee.png?width=400&format=webply&optimize=medium" alt="Intégrations"
+                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" title="Intégrations" target="_self" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/media_171337d52d3205c2011e230e71736cc71f74ba0ee.png?width=400&format=webply&optimize=medium" alt="Intégrations"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -157,11 +157,11 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_self" rel="referrer" title="Intégrations">Intégrations</a>
+                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_self" rel="referrer" title="Intégrations">Intégrations</a>
                     </p>
                     <p class="is-size-6">Ajoutez Acrobat à vos applications existantes, telles que Microsoft, Google Drive, Dropbox et Box</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorer</span>
                 </a>
             </div>
