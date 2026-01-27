@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
+source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '566'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Apprendre les bases {#basics}
       + [Espace de travail – Principes de base](getting-started/workspace-basics.md)
       + [Nouvelle expérience Acrobat](getting-started/new-experience.md)
-      + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
+      + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
       + [Productivité mobile](getting-started/productivity.md)
       + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
@@ -65,26 +65,22 @@ ht-degree: 5%
    + [Rendre l’action guidée accessible](accessibility-series/make-accessible-action.md)
 + Tâches avancées {#advanced-tasks}
    + [Présentation](advanced-tasks/advanced-tasks-overview.md)
-   + [Ajout de signets et d’hyperliens](advanced-tasks/bookmarks.md)
-   + [Optimisation des documents numérisés](advanced-tasks/optimizescan.md)
-   + [Commandes et outils personnalisés](advanced-tasks/custom.md)
-   + [Champs de formulaire avancés](advanced-tasks/advancedforms.md)
-   + [Optimize PDF pour le référencement](advanced-tasks/optimizeseo.md)
-   + [Utilisation des champs de formulaire](advanced-tasks/workforms.md)
-   + [Améliorer votre PDF](advanced-tasks/enhance.md)
-   + [Détecter les différences entre deux PDF](advanced-tasks/compare.md)
-   + [Actions guidées](advanced-tasks/action.md)
-   + [Supprimer les informations sensibles](advanced-tasks/redact.md)
-   + [Compression et optimisation d’un PDF](advanced-tasks/reduce.md)
-   + [Utilisation des données de formulaire](advanced-tasks/formdata.md)
-   + Webinaires sur l’accessibilité Acrobat {#accessibility-series}
-      + [Présentation](advanced-tasks/accessibility-series.md)
-      + [Introduction à l’accessibilité des mots de PDF](advanced-tasks/accessibilitysession1.md)
-      + [Correction d’un PDF inaccessible](advanced-tasks/accessibilitysession2.md)
-      + [Tableaux complexes](advanced-tasks/accessibilitysession3.md)
-      + [Documents numérisés et listes complexes](advanced-tasks/accessibilitysession4.md)
-      + [Ajout de champs de formulaire à un PDF balisé](advanced-tasks/accessibilitysession5.md)
-      + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
+   + Préparation et amélioration {#prepare}
+      + [Compression et optimisation d’un PDF](advanced-tasks/reduce.md)
+      + [Optimisation des documents numérisés](advanced-tasks/optimizescan.md)
+      + [Optimize PDF pour le référencement](advanced-tasks/optimizeseo.md)
+      + [Ajout de signets et d’hyperliens](advanced-tasks/bookmarks.md)
+      + [Détecter les différences entre deux PDF](advanced-tasks/compare.md)
+      + [Améliorer votre PDF](advanced-tasks/enhance.md)
+   + Créer et gérer des formulaires {#forms}
+      + [Utilisation des champs de formulaire](advanced-tasks/workforms.md)
+      + [Champs de formulaire avancés](advanced-tasks/advancedforms.md)
+      + [Utilisation des données de formulaire](advanced-tasks/formdata.md)
+   + Protéger {#protect}
+      + [Supprimer les informations sensibles](advanced-tasks/redact.md)
+   + Automatisation et mise à l’échelle des workflows {#automate}
+      + [Actions guidées](advanced-tasks/action.md)
+      + [Commandes et outils personnalisés](advanced-tasks/custom.md)
 + Optimisé par l’IA {#ai-powered}
    + [Présentation](ai-powered/ai-overview.md)
    + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
