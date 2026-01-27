@@ -6,9 +6,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: bebd1666353b6bef2bc98fd2b97b38ad9a75fa02
 workflow-type: tm+mt
-source-wordcount: '566'
+source-wordcount: '546'
 ht-degree: 5%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 5%
    + Apprendre les bases {#basics}
       + [Espace de travail – Principes de base](getting-started/workspace-basics.md)
       + [Nouvelle expérience Acrobat](getting-started/new-experience.md)
-      + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
+      + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
       + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
       + [Productivité mobile](getting-started/productivity.md)
       + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
@@ -141,12 +141,6 @@ ht-degree: 5%
          + [#3 Conseil : documents numériques Protect](industry/gov/protect-digital-documents.md)
          + [Conseil #4 : utilisation de formulaires et de signatures](industry/gov/work-with-forms-and-signatures.md)
          + [Conseil #5 - Numériser et modifier sur mobile](industry/gov/scan-and-edit-on-mobile.md)
-      + Accessibilité {#pdfs}
-         + [Rendre les PDF accessibles](industry/gov/making-pdfs-accessible.md)
-         + [#1 - Compréhension de l’accessibilité](industry/gov/understanding-accessibility.md)
-         + [#2 - Création dans Word](industry/gov/authoring-in-word.md)
-         + [#3 - Finition dans Acrobat](industry/gov/finishing-in-acrobat.md)
-         + [Rendre les bulletins de vote des PDF plus accessibles](industry/gov/making-pdf-ballots-accessible.md)
 + Développement {#develop}
    + [Présentation](develop/develop-overview.md)
 + Déploiement {#deploy}
