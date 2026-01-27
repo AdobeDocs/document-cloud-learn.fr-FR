@@ -24,4 +24,4 @@ Découvrez le nouveau mode de modification qui redistribue le contenu et ajuste 
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/346975?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3441222?captions=fre_fr&quality=12&learn=on&hidetitle=true)
