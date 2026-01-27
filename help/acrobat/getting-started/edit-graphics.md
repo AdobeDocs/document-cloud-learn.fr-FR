@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 # Modification de graphiques dans un PDF
 
-Découvrez comment utiliser le mode de modification dans Acrobat pour ajouter, remplacer, recadrer, redimensionner, faire pivoter et organiser des images directement dans un PDF sur ordinateur et sur le web. Le tutoriel explique également comment générer et affiner des images à partir d’invites textuelles à l’aide du générateur d’images intégré à l’application optimisé par Adobe Express. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-workspace.md).
+Découvrez comment utiliser le mode de modification dans Acrobat pour ajouter, remplacer, recadrer, redimensionner, faire pivoter et organiser des images directement dans un PDF sur ordinateur et sur le web. Le tutoriel explique également comment générer et affiner des images à partir d’invites textuelles à l’aide du générateur d’images intégré à l’application optimisé par Adobe Express. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3446931?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Par rôle]
 

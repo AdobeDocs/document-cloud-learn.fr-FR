@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5526
 thumbnail: 35491.jpg
 exl-id: a480ca00-a1d6-4024-9d6e-54418b8a1a81
-source-git-commit: 17a25611e3444b0b00f4a78306fdedc59495c07c
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Création d’un PDF
 
-Découvrez comment [créer des mots de PDF à partir de tous les types de documents](https://www.adobe.com/fr/acrobat/online/convert-pdf.html). Démarrez avec un fichier créé dans Microsoft Office ou une application de Creative Cloud, ou utilisez une image, une numérisation ou même un site Web. La conversion de contenu en PDF offre un moyen pratique et fiable de partager, préserver et sécuriser des documents tout en conservant leur mise en forme d’origine. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-workspace.md).
+Découvrez comment [créer des mots de PDF à partir de tous les types de documents](https://www.adobe.com/fr/acrobat/online/convert-pdf.html). Démarrez avec un fichier créé dans Microsoft Office ou une application de Creative Cloud, ou utilisez une image, une numérisation ou même un site Web. La conversion de contenu en PDF offre un moyen pratique et fiable de partager, préserver et sécuriser des documents tout en conservant leur mise en forme d’origine. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-experience.md).
 
 >[!TIP]
 >
@@ -24,7 +24,7 @@ Découvrez comment [créer des mots de PDF à partir de tous les types de docume
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409191?enablevpops&quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
 
 Vous souhaitez utiliser une version mobile de ce tutoriel ? Cliquez sur l’icône du PDF pour ouvrir ou télécharger une version écrite de ce tutoriel.
 

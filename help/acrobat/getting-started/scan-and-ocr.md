@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-6830
 thumbnail: KT-6830.jpg
 exl-id: c898de6e-7320-4cd4-9998-6a99efd7ea56
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Papier vers PDF
 
-Découvrez comment numériser (ou prendre en photo) un document papier et le transformer en un fichier de PDF [consultable et modifiable](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}. La conversion du papier en PDF augmente votre capacité à trouver rapidement des informations et à les rendre accessibles aux personnes handicapées. Ce tutoriel présente la [nouvelle expérience Acrobat](new-workspace.md).
+Découvrez comment numériser (ou prendre en photo) un document papier et le transformer en un fichier de PDF [consultable et modifiable](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"}. La conversion du papier en PDF augmente votre capacité à trouver rapidement des informations et à les rendre accessibles aux personnes handicapées. Ce tutoriel présente la [nouvelle expérience Acrobat](new-experience.md).
 
 
 ## Comment transformer du papier en PDF dans Acrobat sur ordinateur

@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5528
 thumbnail: 35493.jpg
 exl-id: a420293a-c85b-41f1-9922-ab2f1fbef58e
-source-git-commit: 6153591accebf9fa815100fa1545348e6f259f17
+source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Modification de texte dans un PDF
 
-Découvrez comment modifier des mots, des expressions ou même des pages entières dans votre PDF. La modification de texte directement dans Acrobat vous permet de mettre à jour le contenu avec précision et de manière professionnelle, sans passer d’une application à l’autre. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-workspace.md).
+Découvrez comment modifier des mots, des expressions ou même des pages entières dans votre PDF. La modification de texte directement dans Acrobat vous permet de mettre à jour le contenu avec précision et de manière professionnelle, sans passer d’une application à l’autre. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-experience.md).
 
 >[!TIP]
 >
@@ -24,8 +24,8 @@ Découvrez comment modifier des mots, des expressions ou même des pages entièr
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409177?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Adobe Acrobat](https://experienceleague.adobe.com/fr/playlists/acrobat-get-started-business-users) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) qui est disponible gratuitement sur Experience League !

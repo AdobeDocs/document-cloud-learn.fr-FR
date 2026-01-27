@@ -6,10 +6,10 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 069835e3924580e86d562650c4e689185bb16651
+source-git-commit: 7b76b90df77bf73e7f5d17eabe761f106c74d62b
 workflow-type: tm+mt
-source-wordcount: '573'
-ht-degree: 4%
+source-wordcount: '589'
+ht-degree: 5%
 
 ---
 
@@ -17,34 +17,40 @@ ht-degree: 4%
 # Acrobat Tutorials {#acrobat-learning}
 
 + [Présentation](overview.md)
-+ Prise en main {#getting-started}
++ Prise en main {#get-started}
    + [Présentation](getting-started/getting-started-overview.md)
-   + [Nouvelle expérience Acrobat](getting-started/new-workspace.md)
-   + [Espace de travail – Principes de base](getting-started/get-to-know-the-acrobat-dc-interface.md)
-   + [Découvrir les informations du PDF avec l’assistant AI](getting-started/ai-assistant.md)
-   + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](getting-started/pdf-spaces-legal.md)
-   + [Qu’est-ce qu’Acrobat Studio ?](getting-started/acrobat-studio.md)
-   + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
-   + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
-   + [Création d’un PDF](getting-started/create-pdf.md)
-   + [Combiner des fichiers dans un seul PDF](getting-started/combine-to-pdf.md)
-   + [Organiser les pages](getting-started/organize.md)
-   + [Créer une nouvelle page](getting-started/add-custom-page.md)
-   + [Papier vers PDF](getting-started/scan-and-ocr.md)
-   + [Modification de texte dans un PDF](getting-started/edit-pdf.md)
-   + [Modification de graphiques dans un PDF](getting-started/edit-graphics.md)
-   + [Styliser ce PDF](getting-started/stylize-this-pdf.md)
-   + [Ajustement automatique de la mise en page](getting-started/auto-adjust-layout.md)
-   + [Conversion du PDF en différents formats de fichier](getting-started/export-pdf.md)
-   + [Collaborez en temps réel](getting-started/collaborate.md)
-   + [Commenter un PDF](getting-started/comment-on-pdf-files.md)
-   + [Création de formulaires à remplir](getting-started/create-fillable-forms.md)
-   + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
-   + [Protect d’un fichier de mot de PDF avec un mot de passe](getting-started/password-protect.md)
-   + [Obtenir des signatures](getting-started/signatures.md)
-   + [Suivi de vos documents](getting-started/track.md)
-   + [Productivité mobile](getting-started/productivity.md)
-   + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
+   + Apprendre les bases {#basics}
+      + [Espace de travail – Principes de base](getting-started/workspace-basics.md)
+      + [Nouvelle expérience Acrobat](getting-started/new-experience.md)
+      + [Travailler avec [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
+      + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
+      + [Productivité mobile](getting-started/productivity.md)
+      + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
+   + Travaillez plus intelligemment avec l’IA {#ai}
+      + [Découvrir les informations du PDF avec l’assistant AI](getting-started/ai-assistant.md)
+      + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](getting-started/pdf-spaces-legal.md)
+      + [Qu’est-ce qu’Acrobat Studio ?](getting-started/acrobat-studio.md)
+   + Créer et organiser {#create}
+      + [Création d’un PDF](getting-started/create-pdf.md)
+      + [Combiner des fichiers dans un seul PDF](getting-started/combine-to-pdf.md)
+      + [Organiser les pages](getting-started/organize.md)
+      + [Créer une nouvelle page](getting-started/add-custom-page.md)
+      + [Papier vers PDF](getting-started/scan-and-ocr.md)
+   + Modifier et améliorer {#edit}
+      + [Modification de texte dans un PDF](getting-started/edit-pdf.md)
+      + [Modification de graphiques dans un PDF](getting-started/edit-graphics.md)
+      + [Styliser ce PDF](getting-started/stylize-this-pdf.md)
+      + [Ajustement automatique de la mise en page](getting-started/auto-adjust-layout.md)
+      + [Conversion du PDF en différents formats de fichier](getting-started/export-pdf.md)
+   + Collaboration et révision {#collaborate}
+      + [Collaborez en temps réel](getting-started/collaborate.md)
+      + [Commenter un PDF](getting-started/comment-on-pdf-files.md)
+   + Forms, signatures et protection {#tools}
+      + [Création de formulaires à remplir](getting-started/create-fillable-forms.md)
+      + [Fill &amp; Sign PDF forms](getting-started/fill-and-sign.md)
+      + [Protect d’un fichier de mot de PDF avec un mot de passe](getting-started/password-protect.md)
+      + [Obtenir des signatures](getting-started/signatures.md)
+      + [Suivi de vos documents](getting-started/track.md)
 + Série sur l’accessibilité {#accessibility-tutorials}
    + [Présentation](accessibility-series/accessibility-overview.md)
    + [Le quoi et le pourquoi des fichiers de PDF accessibles](accessibility-series/what-why-accessible-pdf.md)
@@ -81,11 +87,11 @@ ht-degree: 4%
       + [Ajout de champs de formulaire à un PDF sans balise](advanced-tasks/accessibilitysession6.md)
 + Optimisé par l’IA {#ai-powered}
    + [Présentation](ai-powered/ai-overview.md)
-   + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/ai-assistant)
-   + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal)
-   + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio)
-   + [Modifier des graphiques dans un PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/edit-graphics)
-   + [Styliser ce PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf)
+   + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+   + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+   + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
+   + [Modifier des graphiques dans un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+   + [Styliser ce PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Acrobat 60 secondes {#60-second}
    + [Présentation](60-second/60-second-overview.md)
    + [Modifier le PDF avec Acrobat sur le web](60-second/edit.md)
@@ -152,5 +158,5 @@ ht-degree: 4%
    + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
    + [Présentation](mobile/mobile-overview.md)
-   + [Productivité mobile](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html?lang=fr)
+   + [Productivité mobile](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
    + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
