@@ -7,9 +7,9 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,9 @@ Le contenu du PDF doit être unique et structuré comme suit :
 * Utiliser un seul titre/titre principal commençant par un mot-clé
 * Utilisation de sous-titres de mots-clés organisés en une structure hiérarchique
 * Utilisation de paragraphes courts contenant des mots-clés et des listes
-* Ajout d’hyperliens internes et externes (contenu de votre site web ou d’autres sites web)
+* Ajout de contenu interne et externe à votre site web ou à d’autres sites web à l’aide d’hyperliens
 * Ajout d’une table des matières avec hyperlien pour les documents de plus de 25 pages
-* Exécuter la [reconnaissance de texte](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr.html?lang=fr) sur tous les documents numérisés
+* Exécuter la [reconnaissance de texte](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) sur tous les documents numérisés
 * Création de PDF adaptés aux mobiles
 Pour vérifier l&#39;expérience de visionnage mobile de votre PDF, ouvrez le fichier dans l&#39;[application mobile Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) et activez Liquid Mode. Ajoutez des sous-titres supplémentaires si nécessaire pour améliorer la navigation.
 
@@ -64,7 +64,7 @@ Essayez de commencer le résumé à l’aide d’un verbe d’action tel que App
 
 ## &#x200B;3. Marquez votre PDF
 
-Le balisage du contenu dans votre PDF rend votre fichier [accessible](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility.html?lang=fr) aux personnes atteintes d&#39;un handicap, mais améliore également le référencement.
+Le balisage du contenu dans votre PDF rend votre fichier [accessible](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aux personnes atteintes de handicaps, mais améliore également le référencement.
 
 +++Affichage des détails sur le balisage d’un PDF
 
@@ -88,7 +88,7 @@ Marquez un PDF comme suit :
 
 ## &#x200B;4. Préparation pour le web
 
-Optimisez l&#39;expérience d&#39;interaction avec votre PDF en le préparant pour l&#39;affichage Web et en [réduisant la taille du fichier du PDF](https://www.adobe.com/fr/acrobat/online/compress-pdf.html){target="_blank"}.
+Optimisez votre PDF en le préparant pour l&#39;affichage Web et en [réduisant la taille du fichier du PDF](https://www.adobe.com/fr/acrobat/online/compress-pdf.html){target="_blank"}.
 
 +++Afficher des détails sur la préparation de votre PDF pour le web
 
@@ -131,7 +131,7 @@ La dernière étape consiste à [protéger votre PDF](https://www.adobe.com/fr/a
 Sécuriser un PDF comme suit :
 
 1. Ouvrez **[!UICONTROL Propriétés du document]** (*Ctrl + D* sous Windows ou *Cmd + D* sous Mac) et sélectionnez l&#39;onglet **[!UICONTROL Sécurité]**.
-1. Sélectionnez **[!UICONTROL Impression, modification et impression du document. Un mot de passe sera requis pour modifier ces paramètres.]**
+1. Sélectionnez **[!UICONTROL Impression, modification et impression du document. Un mot de passe est requis pour modifier ces paramètres.]**
 1. Sous **[!UICONTROL Modifications autorisées :]**, sélectionnez **[!UICONTROL Aucune]**.
 1. Cochez la case **[!UICONTROL Activer l’accès au texte pour les lecteurs d’écran destinés aux malvoyants]**.
 1. Saisissez et confirmez un mot de passe sécurisé.
@@ -141,4 +141,4 @@ Sécuriser un PDF comme suit :
 
 +++
 
-Votre PDF est maintenant prêt à être publié sur le Web, avec un potentiel optimal de classement des mots-clés et une interaction optimale avec l&#39;utilisateur final.
+Désormais, votre PDF est prêt à être publié sur le web, avec un potentiel optimal de classement des mots-clés et une interaction optimale avec l’utilisateur final.

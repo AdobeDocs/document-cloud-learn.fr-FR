@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-9345
 thumbnail: KT-9345.jpg
 exl-id: b7dde660-846c-4875-b5a7-741ff087ccc9
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '727'
+source-wordcount: '726'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Utilisez l’outil Prepare Form pour ajouter automatiquement des champs de formu
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3448513?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -94,7 +94,7 @@ Les propriétés de peigne sont utilisées pour répartir le texte de manière u
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3439894?hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
 
 <br> 
 
@@ -118,7 +118,7 @@ La sécurisation d’un formulaire empêche toute modification des champs ou du 
 1. Tapez *Ctrl + D (Cmd + D sur Mac)* pour afficher la boîte de dialogue **Propriétés du document**.
 1. Sélectionnez l&#39;onglet **Sécurité**.
 1. Sélectionnez **Sécurité par mot de passe** dans le menu déroulant **Méthode de sécurité :**.
-1. Cochez **Restreindre la modification et l&#39;impression du document. Un mot de passe sera requis pour modifier ces paramètres d&#39;autorisation.**
+1. Cochez **Restreindre la modification et l&#39;impression du document. Un mot de passe est requis pour modifier ces paramètres d&#39;autorisation.**
 1. Sélectionnez **Haute résolution** dans la liste déroulante **Impression autorisée :**.
 1. Sélectionnez **Remplir les champs de formulaire et signer les champs de signature existants** dans la liste déroulante **Modifications autorisées :**.
 1. Saisissez un mot de passe sécurisé dans le champ **Modifier le mot de passe d&#39;accès aux droits :**.

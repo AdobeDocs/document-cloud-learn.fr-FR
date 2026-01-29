@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Découvrez comment une équipe juridique interne utilise les Espaces PDF pour ra
 
 Les espaces de PDF sont disponibles pour les utilisateurs qui achètent Acrobat Studio ou le module complémentaire AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475134?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Spécifique à l’équipe]
 
@@ -27,20 +27,20 @@ Les espaces de PDF sont disponibles pour les utilisateurs qui achètent Acrobat 
 
 * **Légal**
 
-  Les équipes juridiques utilisent des Espaces PDF pour regrouper les contrats, les politiques et les directives réglementaires dans un espace de travail unique, ce qui facilite l’examen conjoint des documents, l’identification des modifications et la génération de résumés cités qui prennent en charge une prise de décision précise et contrôlable.
+  Les équipes juridiques utilisent des Espaces PDF pour centraliser les contrats, les politiques et les conseils, ce qui facilite l&#39;examen conjoint des documents, le suivi des modifications et la génération de résumés précis et contrôlables.
 
 * **Ventes**
 
-  Les équipes commerciales utilisent les Espaces PDF pour rassembler les devis, les documents d’appel d’offres et les documents d’accompagnement au même endroit, ce qui leur permet d’examiner efficacement le contenu, d’extraire les points essentiels et de préparer plus rapidement des réponses adaptées aux besoins du client.
+  Les équipes commerciales utilisent des espaces PDF pour rassembler les propositions, les appels d’offres et les documents d’accompagnement au même endroit, ce qui leur permet d’examiner efficacement le contenu, d’extraire les points essentiels et de préparer plus rapidement des réponses adaptées aux besoins du client.
 
 * **H**
 
-  Les équipes RH utilisent les Espaces PDF pour organiser les documents de politiques, les documents d’intégration et les ressources de formation, et pour générer rapidement des résumés clairs ou des notes de référence qui peuvent être partagés de manière cohérente dans l’ensemble de l’organisation.
+  Les équipes RH utilisent les Espaces PDF pour organiser les politiques, les documents d’intégration et les ressources de formation, et générer rapidement des résumés ou des notes de référence clairs pour un partage cohérent au sein de l’organisation.
 
 * **Finance**
 
-  Les équipes financières utilisent les Espaces PDF pour examiner les rapports, les feuilles de calcul et la documentation d’accompagnement en contexte, ce qui facilite la comparaison des informations, la mise en évidence des informations essentielles et la création de rapports à l’intention des dirigeants.
+  Les équipes financières utilisent les Espaces de PDF pour examiner les rapports, les feuilles de calcul et les documents d’accompagnement en contexte, ce qui facilite la comparaison des informations, les aperçus de surface et la création de rapports pour les cadres.
 
 * **Achats**
 
-  Les équipes chargées des achats utilisent les Espaces PDF pour centraliser tous les documents liés aux fournisseurs (contrats, appels d’offres, appels d’offres, cahiers des charges, formulaires de conformité et notes de négociation) dans des espaces de travail partagés et organisés. Cela permet de rationaliser la collaboration avec les parties prenantes, de suivre les versions et les approbations, de maintenir la cohérence entre les processus d&#39;approvisionnement et de s&#39;assurer que tous les documents restent sécurisés, accessibles et faciles à trouver tout au long du cycle de vie de l&#39;approvisionnement.
+  Les équipes d&#39;approvisionnement utilisent des espaces de PDF pour regrouper tous les documents des fournisseurs dans un espace de travail, où l&#39;IA résume automatiquement le contenu, met en évidence les principaux changements et fait ressortir les informations importantes.

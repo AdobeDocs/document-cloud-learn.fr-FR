@@ -7,16 +7,16 @@ level: Beginner
 jira: KT-8254
 thumbnail: 35452.jpg
 exl-id: 56ddf180-89a4-415b-9b25-55842b9bdd62
-source-git-commit: 51d1a59999a7132cb6e47351cc39a93d9a38eaeb
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 # Combiner des fichiers dans un seul PDF
 
-Pour offrir les meilleures expériences client, le contenu doit être créé plus rapidement que jamais. Apprenez à combiner de nombreux types de fichiers (PDF, Word, Excel, PowerPoint, JPEG, etc.) dans un seul PDF. [La combinaison de fichiers dans un seul PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} vous permet de gérer et de contrôler le contenu que vous envoyez à d&#39;autres personnes, ce qui améliore l&#39;expérience client.
+Pour offrir les meilleures expériences client, le contenu doit être créé plus rapidement que jamais. Apprenez à regrouper de nombreux types de fichiers (PDF, Word, Excel, PowerPoint, JPEG, etc.) dans un seul PDF. [La combinaison de fichiers dans un seul PDF](https://www.adobe.com/acrobat/online/merge-pdf.html){target="_blank"} vous permet de gérer et de contrôler le contenu que vous envoyez à d&#39;autres personnes, ce qui améliore l&#39;expérience client.
 
 >[!TIP]
 >
@@ -24,8 +24,8 @@ Pour offrir les meilleures expériences client, le contenu doit être créé plu
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/3409566?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/35452?quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
->Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Adobe Acrobat](https://experienceleague.adobe.com/fr/playlists/acrobat-get-started-business-users) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la liste de lecture [Prise en main d&#39;Adobe Acrobat](https://experienceleague.adobe.com/en/playlists/acrobat-get-started-business-users) qui est disponible gratuitement sur Experience League !

@@ -7,16 +7,16 @@ level: Intermediate
 jira: KT-6804
 thumbnail: KT-6804.jpg
 exl-id: 39ba66c7-bc9a-4ecc-b337-f03d31257877
-source-git-commit: 06e8a40a7f97e486d009fc693487455725ab345f
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
 
 # Supprimer les informations sensibles
 
-Découvrez comment utiliser l’outil Biffer pour supprimer définitivement des informations confidentielles ou sensibles d’un PDF, puis assainir le document pour supprimer des informations qui ne sont pas visibles dans le fichier, telles que les commentaires, les métadonnées ou les calques masqués. Il est important de supprimer définitivement le contenu sensible et les données masquées afin que les informations ne soient pas transmises lors de la publication de votre PDF. Ce tutoriel utilise la [nouvelle expérience Acrobat](../getting-started/new-experience.md).
+Découvrez comment utiliser l’outil Biffer pour supprimer définitivement des informations confidentielles ou sensibles d’un PDF. Le tutoriel explique également comment animer le document pour supprimer les informations qui ne sont pas visibles dans le fichier, telles que les commentaires, les métadonnées ou les calques masqués. Il est important de supprimer définitivement le contenu sensible et les données masquées afin que les informations ne soient pas transmises lors de la publication de votre PDF. Ce tutoriel utilise la [nouvelle expérience Acrobat](../getting-started/new-experience.md).
 
 >[!NOTE]
 >

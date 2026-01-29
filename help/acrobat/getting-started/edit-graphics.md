@@ -6,18 +6,18 @@ role: User
 level: Beginner
 jira: KT-15476
 exl-id: 3e1e6e79-c4d7-473a-8205-56214ac82a45
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '233'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # Modification de graphiques dans un PDF
 
-Découvrez comment utiliser le mode de modification dans Acrobat pour ajouter, remplacer, recadrer, redimensionner, faire pivoter et organiser des images directement dans un PDF sur ordinateur et sur le web. Le tutoriel explique également comment générer et affiner des images à partir d’invites textuelles à l’aide du générateur d’images intégré à l’application optimisé par Adobe Express. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-experience.md).
+Découvrez comment utiliser le mode de modification dans Acrobat pour ajouter, remplacer, recadrer, redimensionner, faire pivoter et organiser des images directement dans un PDF sur ordinateur et sur le web. Le tutoriel explique également comment générer et affiner des images à partir d’invites textuelles avec le générateur d’images intégré optimisé par Adobe Express. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3446931?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3431260?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Spécifique à l’équipe]
 
@@ -41,4 +41,4 @@ Découvrez comment utiliser le mode de modification dans Acrobat pour ajouter, r
 
 * **Achats**
 
-  Les équipes d&#39;approvisionnement peuvent utiliser le mode Modifier pour mettre rapidement à jour les graphiques des fournisseurs, les images des produits et les détails visuels des propositions ou des contrats des fournisseurs, en veillant à ce que les documents d&#39;approvisionnement soient exacts et prêts à être présentés sans avoir besoin des fichiers d&#39;origine.
+  Les équipes d&#39;approvisionnement peuvent utiliser le mode Modifier pour mettre à jour rapidement les graphiques des fournisseurs, les images des produits et les détails visuels des propositions ou des contrats des fournisseurs, sans avoir besoin des fichiers d&#39;origine.

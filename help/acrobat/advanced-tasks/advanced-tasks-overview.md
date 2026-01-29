@@ -7,16 +7,16 @@ level: Intermediate, Experienced
 thumbnail: KT-6857.jpg
 jira: KT-6857
 exl-id: 2e2dc54d-23e1-4bd8-81de-62131aa5c966
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '444'
 ht-degree: 2%
 
 ---
 
 # Présentation des tâches avancées
 
-Allez au-delà des bases avec ces outils avancés dans Acrobat. Apprenez à créer une action pour répéter des tâches banales, supprimer des informations sensibles, réduire et optimiser des fichiers volumineux, rassembler rapidement des données de formulaire et créer des fichiers de PDF universellement accessibles. Consultez cette [liste de lecture](https://experienceleague.adobe.com/fr/playlists/acrobat-peform-advanced-tasks) soigneusement sélectionnée pour effectuer des tâches avancées dans Acrobat.
+Allez au-delà des bases avec ces outils avancés dans Acrobat. Apprenez à créer une action pour automatiser des tâches répétitives, supprimer des informations sensibles, optimiser des fichiers volumineux, rassembler des données de formulaire et produire des mots de PDF accessibles. Consultez cette [liste de lecture](https://experienceleague.adobe.com/en/playlists/acrobat-peform-advanced-tasks) soigneusement sélectionnée pour effectuer des tâches avancées dans Acrobat.
 
 ## Nouveautés
 
@@ -45,7 +45,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/reduce" title="Compression et optimisation d’un PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1bec325d77d10b8d8aec7252b0a335e2f14c0d047.png?width=400&format=webply&optimize=medium" alt="Compression et optimisation d’un PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1bec325d77d10b8d8aec7252b0a335e2f14c0d047.png?width=400&format=webply&optimize=medium" alt="Compression et optimisation d’un PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -68,7 +68,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizescan" title="Optimisation des documents numérisés" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1245100f385dbc2312f856ae1c9cc0e634142a564.png?width=400&format=webply&optimize=medium" alt="Optimisation des documents numérisés"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1245100f385dbc2312f856ae1c9cc0e634142a564.png?width=400&format=webply&optimize=medium" alt="Optimisation des documents numérisés"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -91,7 +91,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/optimizeseo" title="Optimize PDF pour SEO (optimisation du moteur de recherche)" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e2e2daf28ca93e57955df2a9a10a3694829529b1.png?width=400&format=webply&optimize=medium" alt="Optimize PDF pour SEO (optimisation du moteur de recherche)"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e2e2daf28ca93e57955df2a9a10a3694829529b1.png?width=400&format=webply&optimize=medium" alt="Optimize PDF pour SEO (optimisation du moteur de recherche)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -114,7 +114,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/bookmarks" title="Ajout de signets et d’hyperliens" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1928ec63dca97739c8ecf40eefc7e0deee02ea7ae.png?width=400&format=webply&optimize=medium" alt="Ajout de signets et d’hyperliens"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1928ec63dca97739c8ecf40eefc7e0deee02ea7ae.png?width=400&format=webply&optimize=medium" alt="Ajout de signets et d’hyperliens"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -137,7 +137,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/enhance" title="Améliorer votre PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10d82b44057d27bab73c31ffeff18dc125bce92ef.png?width=400&format=webply&optimize=medium" alt="Améliorer votre PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10d82b44057d27bab73c31ffeff18dc125bce92ef.png?width=400&format=webply&optimize=medium" alt="Améliorer votre PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -160,7 +160,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/prepare/compare" title="Détecter les différences entre deux PDF" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ec5b0b1409d4cb597a9e7667e2a1d101ee664cdb.png?width=400&format=webply&optimize=medium" alt="Détecter les différences entre deux PDF"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ec5b0b1409d4cb597a9e7667e2a1d101ee664cdb.png?width=400&format=webply&optimize=medium" alt="Détecter les différences entre deux PDF"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -190,7 +190,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/workforms" title="Utilisation des champs de formulaire" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10ea5d7b55e05f5705621c6f8f904019a395a15f2.png?width=400&format=webply&optimize=medium" alt="Utilisation des champs de formulaire"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_10ea5d7b55e05f5705621c6f8f904019a395a15f2.png?width=400&format=webply&optimize=medium" alt="Utilisation des champs de formulaire"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -213,7 +213,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/advancedforms" title="Champs de formulaire avancés" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b7b362d858e1c0e49ad30ac8e9e9ae597fadb814.png?width=400&format=webply&optimize=medium" alt="Champs de formulaire avancés"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b7b362d858e1c0e49ad30ac8e9e9ae597fadb814.png?width=400&format=webply&optimize=medium" alt="Champs de formulaire avancés"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -236,7 +236,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/forms/formdata" title="Utilisation des données de formulaire" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17ef7a48cda1c31924ec94ce94acea80f1b2ea43a.png?width=400&format=webply&optimize=medium" alt="Utilisation des données de formulaire"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_17ef7a48cda1c31924ec94ce94acea80f1b2ea43a.png?width=400&format=webply&optimize=medium" alt="Utilisation des données de formulaire"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -266,7 +266,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/protect/redact" title="Supprimer les informations sensibles" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ff812f51dc5f60862fb9630e5f4fb1e82144442c.png?width=400&format=webply&optimize=medium" alt="Supprimer les informations sensibles"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1ff812f51dc5f60862fb9630e5f4fb1e82144442c.png?width=400&format=webply&optimize=medium" alt="Supprimer les informations sensibles"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -296,7 +296,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/action" title="Actions guidées" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e58586ea8525eaea6c7ae1b57bc2e8a325b58990.png?width=400&format=webply&optimize=medium" alt="Actions guidées"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1e58586ea8525eaea6c7ae1b57bc2e8a325b58990.png?width=400&format=webply&optimize=medium" alt="Actions guidées"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -319,7 +319,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" title="Commandes et outils personnalisés" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b02719f4c711973890d4dbf3c3c570d9516a5ea5.png?width=400&format=webply&optimize=medium" alt="Commandes et outils personnalisés"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/media_1b02719f4c711973890d4dbf3c3c570d9516a5ea5.png?width=400&format=webply&optimize=medium" alt="Commandes et outils personnalisés"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -331,7 +331,7 @@ Découvrez comment améliorer l&#39;efficacité à l&#39;aide de [actions guidé
                     </p>
                     <p class="is-size-6">Découvrez comment améliorer l’efficacité du workflow de documents</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate.custom" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/automate/custom" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>

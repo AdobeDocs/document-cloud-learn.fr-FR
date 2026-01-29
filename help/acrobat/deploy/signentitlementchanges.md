@@ -1,15 +1,15 @@
 ---
 title: Mises à jour importantes du produit Acrobat DC pour les clients ETLA
-description: Découvrez les modifications importantes apportées aux droits Acrobat DC inclus dans les offres ETLA (Enterprise Term License Agreement) d’août 2020 au 20 novembre 2020
+description: Découvrez les modifications importantes apportées aux droits Acrobat DC inclus dans les offres ETLA (Enterprise Term License Agreement) qui débutent entre août 2020 et le 20 novembre 2020
 feature: Deploy
 role: Admin
 level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '700'
+source-wordcount: '698'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,7 @@ Si vous n’avez pas mis à jour Acrobat DC vers la dernière version, l’outil
 
 ## Pourquoi déprovisionnons-nous ce système?
 
-[En octobre 2018, nous avons publié un tout nouvel Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Cette dernière version comprend de nouveaux outils et fonctionnalités permettant de mieux travailler avec les PDF sur les appareils mobiles, le Web et les ordinateurs, ainsi que de tout nouveaux outils de collaboration. En tant qu’abonné Acrobat DC, vous devriez déjà disposer de ces fonctionnalités exceptionnelles. Une autre mise à jour majeure que nous avons publiée concerne notre solution de signature électronique Adobe Sign.
+[En octobre 2018, nous avons publié un tout nouvel Acrobat DC](https://news.adobe.com/news/news-details/2018/Adobe-Redefines-What-Is-Possible-With-PDF-With-All-New-Acrobat-DC). Cette dernière version comprend de nouveaux outils et fonctionnalités permettant de mieux travailler avec les PDF sur les appareils mobiles, le Web et les ordinateurs, ainsi que de tout nouveaux outils de collaboration. En tant qu’abonné Acrobat DC, vous devriez déjà disposer de ces fonctionnalités exceptionnelles. Une autre mise à jour majeure publiée concerne notre solution de signature électronique Adobe Sign.
 
 Avant la version d&#39;octobre 2018, les utilisateurs d&#39;Acrobat DC pouvaient envoyer des documents pour signature électronique à l&#39;aide d&#39;outils d&#39;Acrobat étiquetés « Fill &amp; Sign » (ou « Adobe Sign » ou « Send for Signature ») qui étaient dotés d&#39;un droit d&#39;accès [!DNL Adobe Sign Individual].
 
@@ -53,12 +53,12 @@ Contactez votre contact d’Adobe pour savoir comment vous pouvez continuer à f
 
 ## Accès aux accords existants
 
-Les utilisateurs pourront toujours accéder à tous les accords envoyés avant cette action via Adobe Document Cloud en se connectant avec leur Adobe ID à l’adresse https://documentcloud.adobe.com. Si la migration de cet utilisateur vers Sign Enterprise est planifiée, il devra suivre ces [instructions](https://helpx.adobe.com/fr/sign/kb/how-to-download-signed-documents---adobe-sign.html).
+Les utilisateurs pourront toujours accéder à tous les accords envoyés avant cette action via Adobe Document Cloud en se connectant avec leur Adobe ID à l’adresse https://documentcloud.adobe.com. Si la migration de cet utilisateur vers Sign Enterprise est planifiée, il doit suivre ces [instructions](https://helpx.adobe.com/fr/sign/kb/how-to-download-signed-documents---adobe-sign.html).
 
 ## Expérience Acrobat DC sans droit [!DNL Sign Individual]
 
-Les utilisateurs disposant de droits Adobe Sign Enterprise pourront envoyer des accords dans Acrobat à l’aide d’Adobe Sign ou de l’outil [!UICONTROL Fill &amp; Sign] (Demander des signatures).
-Les utilisateurs qui ne disposent pas de droits Adobe Sign Enterprise ne pourront pas envoyer de nouveaux accords et recevront un message d’erreur. Le graphique ci-dessous présente les résultats possibles.
+Les utilisateurs disposant de droits Adobe Sign Enterprise peuvent envoyer des accords dans Acrobat à l’aide d’Adobe Sign ou de l’outil [!UICONTROL Fill &amp; Sign] (Demander des signatures).
+Les utilisateurs qui ne disposent pas de droits Adobe Sign Enterprise ne peuvent pas envoyer de nouveaux accords et recevront un message d’erreur. Le graphique ci-dessous présente les résultats possibles.
 
 ![Message d’erreur pour l’expérience Acrobat DC](../assets/Deploy_SignEntitle2.png)
 
@@ -70,8 +70,8 @@ Les utilisateurs pourront se connecter à https://documentcloud.adobe.com/ pour 
 
 ## Pour plus d’informations, consultez les pages ci-dessous :
 
-* [Connexion à Adobe Document Cloud](https://helpx.adobe.com/fr/document-cloud/help/sign-in.html)
-* [Gestion des fichiers (Où sont mes fichiers ?)](https://helpx.adobe.com/fr/document-cloud/help/manage-files.html)
+* [Connexion à Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
+* [Gestion des fichiers (Où sont mes fichiers ?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
 * [Utilisation de [!UICONTROL Acrobat Customization Wizard] pour la configuration](https://www.adobe.com/fr/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
 * [Présentation du [!UICONTROL Admin Console]](https://helpx.adobe.com/fr/enterprise/using/admin-console.html)
 * [Gestion d’Adobe Sign sur le [!UICONTROL Admin Console]](https://helpx.adobe.com/fr/enterprise/using/adobe-sign-for-enterprise.html)

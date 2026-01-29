@@ -6,18 +6,18 @@ role: User
 level: Intermediate
 jira: KT-14195
 exl-id: 30a17c43-1efb-4c76-9133-18bb4dab2238
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Styliser ce PDF
 
-Découvrez comment utiliser Styliser ce PDF pour améliorer l&#39;apparence visuelle d&#39;un PDF en appliquant des recommandations de polices, des thèmes de couleurs, des images et des éléments de conception à l&#39;aide d&#39;outils intégrés à l&#39;application optimisés par l&#39;Adobe Express [Adobe Express](https://express.adobe.com). Le tutoriel explique également comment affiner les mises en page, ajouter des images générées par Adobe Stock ou par l’IA et personnaliser le style du texte pour obtenir des documents soignés et de qualité professionnelle. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-experience.md).
+Découvrez comment utiliser Styliser ce PDF pour améliorer l&#39;apparence visuelle d&#39;un PDF en appliquant des recommandations de polices, des thèmes de couleurs, des images et des éléments de conception à l&#39;aide d&#39;outils intégrés à l&#39;application optimisés par [Adobe Express](https://express.adobe.com). Le tutoriel explique également comment affiner les mises en page, ajouter des images générées par Adobe Stock ou par l’IA et personnaliser le style du texte pour obtenir des documents soignés et de qualité professionnelle. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3445543?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Spécifique à l’équipe]
 
@@ -25,11 +25,11 @@ Découvrez comment utiliser Styliser ce PDF pour améliorer l&#39;apparence visu
 
 * **Légal**
 
-  Les équipes juridiques utilisent Styliser ce PDF pour appliquer une mise en forme, une typographie et des visuels cohérents aux politiques et aux documents d’orientation afin qu’ils apparaissent professionnels et faciles à lire, tout en restant conformes et non modifiés dans la signification.
+  Les équipes juridiques utilisent Styliser ce PDF pour appliquer une mise en forme et des visuels cohérents afin que les politiques et les documents d’orientation aient l’air professionnels et restent clairs et précis.
 
 * **Ventes**
 
-  Les équipes commerciales utilisent Styliser ce PDF pour peaufiner rapidement les propositions et les présentations en appliquant des polices, des couleurs et des images de marque, ce qui permet de créer des documents prêts pour le client sans revenir aux outils de conception.
+  Les équipes commerciales utilisent Styliser ce PDF pour peaufiner rapidement les propositions et les présentations en appliquant des polices, des couleurs et des images de marque, ce qui permet de fournir des documents prêts pour le client sans revenir aux outils de conception.
 
 * **H**
 
@@ -37,7 +37,7 @@ Découvrez comment utiliser Styliser ce PDF pour améliorer l&#39;apparence visu
 
 * **Finance**
 
-  Les équipes financières peuvent utiliser Styliser ce PDF pour appliquer instantanément des styles visuels soignés et cohérents aux rapports et aux présentations, ce qui rend les documents financiers plus professionnels et plus faciles à partager avec les dirigeants et les parties prenantes.
+  Les équipes financières utilisent Styliser ce PDF pour peaufiner et ajouter instantanément des styles visuels aux rapports et aux présentations.
 
 * **Achats**
 

@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-15743
 exl-id: 0c2cd557-19d6-4a0b-b0ae-2cc1da7c1080
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Apprenez à obtenir des informations à partir des fichiers de votre PDF à l’
 
 AI Assistant est disponible pour les utilisateurs qui achètent Acrobat Studio ou le module complémentaire AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3445824?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Spécifique à l’équipe]
 
@@ -27,7 +27,7 @@ AI Assistant est disponible pour les utilisateurs qui achètent Acrobat Studio o
 
 * **Légal**
 
-  Les équipes juridiques utilisent l&#39;assistant AI pour résumer les contrats, les politiques et les documents réglementaires volumineux, identifier rapidement les clauses ou les modifications pertinentes et vérifier les informations grâce à des citations directes du texte source. Cela accélère l&#39;examen tout en maintenant la confiance et la traçabilité.
+  Les équipes juridiques utilisent l&#39;assistant AI pour résumer les contrats, les politiques et les documents réglementaires volumineux, identifier rapidement les clauses ou les modifications pertinentes et vérifier les informations grâce à des citations directes du texte source.
 
 * **Ventes**
 

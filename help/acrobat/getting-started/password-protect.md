@@ -7,7 +7,7 @@ level: Beginner
 jira: KT-5532
 thumbnail: 35497.jpg
 exl-id: cd535ccc-cd5b-4643-88dd-a9a3c1d26691
-source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 1%
@@ -22,7 +22,7 @@ Découvrez comment [ajouter un mot de PDF](https://www.adobe.com/fr/acrobat/onli
 
 >[!TIP]
 >
->Pour protéger par mot de PDF plusieurs fichiers, essayez d&#39;utiliser l&#39;[Action Wizard](../advanced-tasks/action.md).
+>Utilisez l&#39;[Action Wizard](../advanced-tasks/action.md) pour protéger par mot de PDF plusieurs fichiers.
 
 [!BADGE Spécifique à l’équipe]
 
@@ -30,7 +30,7 @@ Découvrez comment [ajouter un mot de PDF](https://www.adobe.com/fr/acrobat/onli
 
 * **Légal**
 
-  La protection des mots de PDF garantit la confidentialité des contrats, des dossiers et des communications avec les clients uniquement accessibles par des personnes autorisées, ce qui réduit les risques en matière de conformité et de confidentialité.
+  La protection des mots de PDF garantit que les contrats, les dossiers et les communications clients confidentiels ne sont accessibles qu’aux parties autorisées, ce qui réduit les risques de non-conformité et de non-respect de la vie privée.
 
 * **Ventes**
 

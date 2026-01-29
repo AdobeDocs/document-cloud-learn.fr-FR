@@ -7,9 +7,9 @@ level: Intermediate
 jira: KT-6827
 thumbnail: KT-6827.jpg
 exl-id: da187edb-b1c9-41ae-91c7-0e6758f3a831
-source-git-commit: 5a27e44f71214e199892832d02661a85227acf4d
+source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Découvrez comment compresser et optimiser la taille d’un fichier de PDF. La c
 
    ![Optimiser l&#39;étape 2](../assets/Optimize_2.png)
 
-   Par défaut, **Standard** est sélectionné dans le menu **Paramètres**. Si vous modifiez des paramètres dans la boîte de dialogue Optimisation du PDF, le menu **Paramètres** passe automatiquement à **Personnalisé**. Pour empêcher l’exécution de toutes les options d’un panneau lors de l’optimisation, désactivez la case à cocher de ce panneau.
+   Par défaut, **Standard** est sélectionné dans le menu **Paramètres**. Si vous modifiez des paramètres dans la boîte de dialogue Optimisation du PDF, le menu **Paramètres** passe automatiquement à **Personnalisé**. Pour empêcher l’exécution de toutes les options d’un panneau pendant l’optimisation, décochez la case de ce panneau.
 
 1. (Facultatif) Pour enregistrer vos paramètres personnalisés, sélectionnez **[!UICONTROL Enregistrer]** et nommez les paramètres. Pour supprimer un paramètre enregistré, sélectionnez-le dans la liste déroulante **Paramètres** et sélectionnez **[!UICONTROL Supprimer]**.
 
