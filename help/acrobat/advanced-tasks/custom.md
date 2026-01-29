@@ -22,4 +22,4 @@ Apprenez à améliorer l’efficacité du flux de production de documents à l�
 >
 >Les commandes personnalisées sont uniquement disponibles dans Acrobat Pro, Premium ou Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/340545?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347069?captions=fre_fr&quality=12&learn=on&hidetitle=true)

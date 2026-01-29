@@ -37,7 +37,7 @@ Utilisez l’outil Prepare Form pour ajouter automatiquement des champs de formu
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340084?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3448513?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 <br> 
 
@@ -94,7 +94,7 @@ Les propriétés de peigne sont utilisées pour répartir le texte de manière u
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/340096?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3439894?captions=fre_fr&hidetitle=true)
 
 <br> 
 

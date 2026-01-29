@@ -19,7 +19,7 @@ Apprenez à obtenir des informations à partir des fichiers de votre PDF à l’
 
 AI Assistant est disponible pour les utilisateurs qui achètent Acrobat Studio ou le module complémentaire AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430512?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445824?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Spécifique à l’équipe]
 

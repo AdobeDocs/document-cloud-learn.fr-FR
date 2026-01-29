@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Avec le travail à distance partout, une collaboration transparente est essentielle pour fournir du contenu rapidement et à grande échelle. Continuez à travailler sur vos projets en collectant des commentaires, en collaborant en temps réel et en suivant l’avancement de vos projets, où que vous soyez. Découvrez comment créer un processus de révision de document qui améliore non seulement l’efficacité, mais également la qualité du contenu. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/337500?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409198?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

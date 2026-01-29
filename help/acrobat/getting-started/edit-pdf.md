@@ -24,7 +24,7 @@ Découvrez comment modifier des mots, des expressions ou même des pages entièr
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35493?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409177?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -24,7 +24,7 @@ Découvrez comment [créer des mots de PDF à partir de tous les types de docume
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/35491?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409191?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
 
 Vous souhaitez utiliser une version mobile de ce tutoriel ? Cliquez sur l’icône du PDF pour ouvrir ou télécharger une version écrite de ce tutoriel.
 
