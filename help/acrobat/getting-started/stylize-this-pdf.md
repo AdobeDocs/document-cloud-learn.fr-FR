@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Découvrez comment utiliser Styliser ce PDF pour améliorer l&#39;apparence visuelle d&#39;un PDF en appliquant des recommandations de polices, des thèmes de couleurs, des images et des éléments de conception à l&#39;aide d&#39;outils intégrés à l&#39;application optimisés par l&#39;Adobe Express [Adobe Express](https://express.adobe.com). Le tutoriel explique également comment affiner les mises en page, ajouter des images générées par Adobe Stock ou par l’IA et personnaliser le style du texte pour obtenir des documents soignés et de qualité professionnelle. Ce tutoriel vidéo utilise la [nouvelle expérience Acrobat](new-experience.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3425137?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3445543?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Spécifique à l’équipe]
 
