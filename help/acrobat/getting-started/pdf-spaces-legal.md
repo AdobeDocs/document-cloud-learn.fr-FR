@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: 47ebb96c31cd2e049ee09e3b1e8813bfc8d03082
+source-git-commit: df889b59e41a41316746cb14803f4d40a473fea4
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -19,36 +19,28 @@ Découvrez comment une équipe juridique interne utilise les Espaces PDF pour ra
 
 Les espaces de PDF sont disponibles pour les utilisateurs qui achètent Acrobat Studio ou le module complémentaire AI Assistant.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475134?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
 
-[!BADGE Par rôle]
+[!BADGE Spécifique à l’équipe]
 
 ## Comment les Espaces PDF aident différentes équipes
 
-* **Respect de la législation et de la conformité**
+* **Légal**
 
   Les équipes juridiques utilisent des Espaces PDF pour regrouper les contrats, les politiques et les directives réglementaires dans un espace de travail unique, ce qui facilite l’examen conjoint des documents, l’identification des modifications et la génération de résumés cités qui prennent en charge une prise de décision précise et contrôlable.
-
-* **Ressources humaines**
-
-  Les équipes RH utilisent les Espaces PDF pour organiser les documents de politiques, les documents d’intégration et les ressources de formation, et pour générer rapidement des résumés clairs ou des notes de référence qui peuvent être partagés de manière cohérente dans l’ensemble de l’organisation.
 
 * **Ventes**
 
   Les équipes commerciales utilisent les Espaces PDF pour rassembler les devis, les documents d’appel d’offres et les documents d’accompagnement au même endroit, ce qui leur permet d’examiner efficacement le contenu, d’extraire les points essentiels et de préparer plus rapidement des réponses adaptées aux besoins du client.
 
-* **Marketing et communications**
+* **H**
 
-  Les équipes marketing utilisent les Espaces PDF pour analyser ensemble des rapports de recherche et des documents sources, ce qui leur permet d’extraire des informations et d’aligner les messages avant de créer des présentations, des notes ou des campagnes.
+  Les équipes RH utilisent les Espaces PDF pour organiser les documents de politiques, les documents d’intégration et les ressources de formation, et pour générer rapidement des résumés clairs ou des notes de référence qui peuvent être partagés de manière cohérente dans l’ensemble de l’organisation.
 
 * **Finance**
 
   Les équipes financières utilisent les Espaces PDF pour examiner les rapports, les feuilles de calcul et la documentation d’accompagnement en contexte, ce qui facilite la comparaison des informations, la mise en évidence des informations essentielles et la création de rapports à l’intention des dirigeants.
 
-* **Gestion des opérations et des programmes**
+* **Achats**
 
-  Les équipes chargées des opérations utilisent des espaces de PDF pour organiser les MON, les documents de projet et les mises à jour dans un espace de travail partagé, ce qui permet un alignement plus rapide et une communication plus claire entre les équipes.
-
-* **Cadres et dirigeants**
-
-  Les cadres utilisent des espaces de PDF pour réviser les résumés générés par l’IA sur plusieurs documents, ce qui les aide à comprendre rapidement les informations essentielles tout en conservant l’accès au contenu source original lorsque cela est nécessaire.
+  Les équipes chargées des achats utilisent les Espaces PDF pour centraliser tous les documents liés aux fournisseurs (contrats, appels d’offres, appels d’offres, cahiers des charges, formulaires de conformité et notes de négociation) dans des espaces de travail partagés et organisés. Cela permet de rationaliser la collaboration avec les parties prenantes, de suivre les versions et les approbations, de maintenir la cohérence entre les processus d&#39;approvisionnement et de s&#39;assurer que tous les documents restent sécurisés, accessibles et faciles à trouver tout au long du cycle de vie de l&#39;approvisionnement.
