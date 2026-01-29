@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Articles sur le déploiement et les bonnes pratiques, avec des informations et des connaissances précieuses acquises en travaillant avec les clients.
 
-* Découvrez comment [déployer Adobe Acrobat](https://helpx.adobe.com/enterprise/using/deploying-acrobat.html){target="_blank"} si vous utilisez Adobe® Creative Cloud™ abonnement Équipe ou Entreprise.
+* Découvrez comment [déployer Adobe Acrobat](https://helpx.adobe.com/fr/enterprise/using/deploying-acrobat.html){target="_blank"} si vous utilisez Adobe® Creative Cloud™ abonnement Équipe ou Entreprise.
 
 * Découvrez le [Enterprise Toolkit pour les produits Acrobat](https://www.adobe.com/fr/devnet-docs/acrobatetk/index.html){target="_blank"} pour déployer des produits personnalisés dans votre organisation, configurer des installations virtualisées et créer des workflows de PDF d&#39;entreprise.
 

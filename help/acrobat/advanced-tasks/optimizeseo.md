@@ -31,7 +31,7 @@ Le contenu du PDF doit être unique et structuré comme suit :
 * Utilisation de paragraphes courts contenant des mots-clés et des listes
 * Ajout de contenu interne et externe à votre site web ou à d’autres sites web à l’aide d’hyperliens
 * Ajout d’une table des matières avec hyperlien pour les documents de plus de 25 pages
-* Exécuter la [reconnaissance de texte](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) sur tous les documents numérisés
+* Exécuter la [reconnaissance de texte](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) sur tous les documents numérisés
 * Création de PDF adaptés aux mobiles
 Pour vérifier l&#39;expérience de visionnage mobile de votre PDF, ouvrez le fichier dans l&#39;[application mobile Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) et activez Liquid Mode. Ajoutez des sous-titres supplémentaires si nécessaire pour améliorer la navigation.
 
@@ -64,7 +64,7 @@ Essayez de commencer le résumé à l’aide d’un verbe d’action tel que App
 
 ## &#x200B;3. Marquez votre PDF
 
-Le balisage du contenu dans votre PDF rend votre fichier [accessible](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aux personnes atteintes de handicaps, mais améliore également le référencement.
+Le balisage du contenu dans votre PDF rend votre fichier [accessible](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aux personnes atteintes de handicaps, mais améliore également le référencement.
 
 +++Affichage des détails sur le balisage d’un PDF
 
