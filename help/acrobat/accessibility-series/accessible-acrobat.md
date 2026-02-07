@@ -25,4 +25,4 @@ Découvrez comment créer un PDF accessible à partir d’Acrobat. Les sujets ab
 
 >[!TIP]
 >
->Cette vidéo fait partie de la playlist [série sur l&#39;accessibilité des PDF](https://experienceleague.adobe.com/en/playlists/acrobat-pdf-accessibility) qui est disponible gratuitement sur Experience League !
+>Cette vidéo fait partie de la playlist [série sur l&#39;accessibilité des PDF](https://experienceleague.adobe.com/fr/playlists/acrobat-pdf-accessibility) qui est disponible gratuitement sur Experience League !
