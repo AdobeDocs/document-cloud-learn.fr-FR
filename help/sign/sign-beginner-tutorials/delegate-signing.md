@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Découvrez à quel point il est facile de déléguer la signature d’un document à une autre personne.
 
->[!VIDEO](https://video.tv.adobe.com/v/343856?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411242?captions=fre_fr&quality=12&learn=on&hidetitle=true)
