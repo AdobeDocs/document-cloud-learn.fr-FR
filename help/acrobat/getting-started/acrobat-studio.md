@@ -6,7 +6,7 @@ role: User
 level: Beginner
 jira: KT-18748
 exl-id: f4a5cab8-0f6c-4607-9188-88011afcf882
-source-git-commit: cbd35489e8b5736ef7461ea60d357bf4df1f5fd9
+source-git-commit: 7540d070cd8efe97535a1d25f3c49bd46a7bcd44
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Apprenez à créer du contenu de marque sécurisée, à extraire des informations et à rationaliser des travaux complexes avec Acrobat Studio, pour que votre équipe puisse travailler plus rapidement. Acrobat Studio est une solution tout-en-un qui comprend Acrobat Pro, AI Assistant, Espaces PDF, ainsi qu’Adobe Express Premium. Explorez les options interactives **Tester maintenant** ci-dessous pour découvrir comment Acrobat Studio rationalise le travail de votre équipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475058?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475053?quality=12&learn=on&hidetitle=true)
 
 [!BADGE Spécifique à l’équipe]
 
@@ -41,4 +41,4 @@ Apprenez à créer du contenu de marque sécurisée, à extraire des information
 
 * **Finance**
 
-  Découvrez comment les équipes financières peuvent évoluer plus rapidement grâce aux rapports financiers, sans compromettre la précision, la confiance ou le contrôle. **[Essayer maintenant](https://w.adobedemo.com/s/31LpAI.){target="_blank"}**
+  Découvrez comment les équipes financières peuvent évoluer plus rapidement grâce aux rapports financiers, sans compromettre la précision, la confiance ou le contrôle. **[Essayer maintenant](https://w.adobedemo.com/s/31LpAI){target="_blank"}.**
