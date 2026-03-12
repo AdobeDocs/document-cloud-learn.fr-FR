@@ -27,7 +27,7 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations f�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/tips/5-tips-for-working-anywhere-with-acrobat-dc-for-government" title="5 conseils pour travailler n’importe où avec Acrobat (15:12)" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_15d041d3a4a509d11dc61c624a6f27e8101822337.png?width=400&format=webply&optimize=medium" alt="5 conseils pour travailler n’importe où avec Acrobat (15:12)"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_15d041d3a4a509d11dc61c624a6f27e8101822337.png?width=400&format=webply&optimize=medium" alt="5 conseils pour travailler n’importe où avec Acrobat (15:12)"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -50,7 +50,7 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations f�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/tips/get-your-tools" title="Conseil #1 - Obtenir vos outils" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_13fcba82130fff3cc46a1e2685fb5fa89fecad9e5.png?width=400&format=webply&optimize=medium" alt="Conseil #1 - Obtenir vos outils"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_13fcba82130fff3cc46a1e2685fb5fa89fecad9e5.png?width=400&format=webply&optimize=medium" alt="Conseil #1 - Obtenir vos outils"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -73,7 +73,7 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations f�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/tips/collaborate-on-documents" title="Conseil #2 - Collaborer sur des documents" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1ca41858036669e991ec89add09696a2ac4307c4a.png?width=400&format=webply&optimize=medium" alt="Conseil #2 - Collaborer sur des documents"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1ca41858036669e991ec89add09696a2ac4307c4a.png?width=400&format=webply&optimize=medium" alt="Conseil #2 - Collaborer sur des documents"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -96,7 +96,7 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations f�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/tips/protect-digital-documents" title="#3 Conseil : documents numériques Protect" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a260a2517207c25aaec5a58c0d7934711766ce7d.png?width=400&format=webply&optimize=medium" alt="#3 Conseil : documents numériques Protect"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1a260a2517207c25aaec5a58c0d7934711766ce7d.png?width=400&format=webply&optimize=medium" alt="#3 Conseil : documents numériques Protect"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -119,7 +119,7 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations f�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/tips/work-with-forms-and-signatures" title="Conseil #4 : utilisation de formulaires et de signatures" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1650a90ec18e02f742aef6fd02f459492d58fbe10.png?width=400&format=webply&optimize=medium" alt="Conseil #4 : utilisation de formulaires et de signatures"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_1650a90ec18e02f742aef6fd02f459492d58fbe10.png?width=400&format=webply&optimize=medium" alt="Conseil #4 : utilisation de formulaires et de signatures"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -142,7 +142,7 @@ Explorez nos tutoriels Acrobat spécialement conçus pour les administrations f�
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/tips/scan-and-edit-on-mobile" title="Conseil #5 - Numériser et modifier sur mobile" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_12d8ea459ae16b4fa76bd01bb35d74ecf4052f317.png?width=400&format=webply&optimize=medium" alt="Conseil #5 - Numériser et modifier sur mobile"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/by-industry/gov/media_12d8ea459ae16b4fa76bd01bb35d74ecf4052f317.png?width=400&format=webply&optimize=medium" alt="Conseil #5 - Numériser et modifier sur mobile"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
