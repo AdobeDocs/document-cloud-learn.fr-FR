@@ -139,7 +139,7 @@ ht-degree: 4%
    + [Créez un PDF à partir de  [!DNL Microsoft Word]](integrate/createfromword.md)
    + [Créer des fichiers PDF dans  [!DNL Office]  pour le Web](integrate/createofficeweb.md)
    + [Collaboration PDF dans  [!DNL Microsoft Teams]](integrate/acrobatandteams.md)
-   + [Utiliser vos  [!DNL SharePoint] ](integrate/acrobatandsp.md)
+   + [Utiliser vos  [!DNL SharePoint] &#x200B;](integrate/acrobatandsp.md)
    + [Convertissez les e-mails et les pièces jointes en PDF dans  [!DNL Outlook]](integrate/outlook.md)
    + [Création de contenu PDF lors de la navigation avec  [!DNL Microsoft Edge]](integrate/edge.md)
    + [Protection des PDF à l’aide  [!DNL Microsoft Purview Information]  libellés de sensibilité](integrate/microsoftsensitivitylabels.md)
