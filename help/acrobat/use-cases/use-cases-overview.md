@@ -1,22 +1,56 @@
 ---
-title: Cas d’utilisation
-description: Découvrez comment transformer les expériences client et employé en explorant différents cas d’utilisation
+title: Présentation des cas d’utilisation
+description: Explorez différents cas d’utilisation pour découvrir comment Acrobat peut transformer votre travail
 feature: Accessibility, Security, Create PDF, Mobile, Workspace, Sign, Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 68cdb0c38c9fe64bf9643b4165485fe90f333b07
+source-git-commit: 70988640e34ad1f06da7e8447c055435a2ac7239
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
 
-# Cas d’utilisation
+# Présentation des cas d’utilisation
 
-Découvrez comment utiliser Acrobat pour accroître la productivité et transformer les informations en informations exploitables pour votre équipe.
+Découvrez comment utiliser Acrobat pour accroître la productivité et transformer les informations en informations exploitables pour votre équipe et le secteur.
+
+## Secteur d’activité
+
+Découvrez comment les équipes de différents secteurs d’activité utilisent Acrobat pour résoudre les problèmes de documentation quotidiens, rationaliser les workflows et prendre en charge les tâches critiques de l’entreprise.
+
+<table style="table-layout:fixed">
+<tr>
+  <td>
+    <a href="lob/finance/finance-overview.md">
+      <img alt="Cas d’utilisation de Finance" src="../assets/use-case-finance.png" />
+    </a>
+    <div>
+    <a href="lob/finance/finance-overview.md"><strong>Cas d’utilisation de Finance</strong></a>
+    </div>
+    <em>Découvrez comment les équipes financières utilisent Acrobat pour créer, gérer, analyser et sécuriser des documents financiers</em>
+    <br>
+  </td>
+  <td>
+        <img alt="Espacement" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espacement" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espacement" src="../assets/Whitespacer.png" />
+        <div>
+        <br>
+  </td>
+</tr>
+</table>
 
 ## Industrie
 
@@ -27,7 +61,7 @@ Découvrez comment utiliser Acrobat pour accroître la productivité et transfor
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/gov/gov-overview" title="Acrobat pour le gouvernement" target="_self" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat pour le gouvernement"
+                        <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/by-industry/media_1abe687622f66d3337ba5f1e48f787f436753c3bc.png?width=400&format=webply&optimize=medium" alt="Acrobat pour le gouvernement"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
