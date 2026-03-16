@@ -5,7 +5,8 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20534
-source-git-commit: 5f9eb79aaedd0dcab16ef0483f1df7e359280b73
+exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -32,10 +33,10 @@ Découvrez comment les équipes RH utilisent Acrobat Studio pour rationaliser le
 <tr>
   <td>
     <a href="hr-insights.md">
-      <img alt="De la perception à l’impact : rationalisez les workflows RH" src="../../../assets/use-case-hr-insights.png" />
+      <img alt="Des perspectives à l’impact : rationalisez les workflows d’intégration" src="../../../assets/use-case-hr-insights.png" />
     </a>
     <div>
-    <a href="hr-insights.md"><strong>De l’aperçu à l’impact : rationalisez les workflows de RH</strong></a>
+    <a href="hr-insights.md"><strong>De l’aperçu à l’impact : rationalisez les workflows d’intégration</strong></a>
     </div>
     <em>Découvrez comment les équipes RH utilisent Acrobat Studio pour rationaliser l’intégration des employés du début à la fin</em>
     <br>

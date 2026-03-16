@@ -1,22 +1,23 @@
 ---
-title: D'Insight à Impact — Rationalisez les workflows RH
+title: 'D’Insight à Impact : rationalisez les workflows d’intégration'
 description: Découvrez comment les équipes RH utilisent Acrobat Studio pour rationaliser l’intégration des employés du début à la fin
 feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20543
-source-git-commit: 21b016a7471f874f538ad2eac73d2833e49a6dc1
+exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
+source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
 workflow-type: tm+mt
-source-wordcount: '257'
+source-wordcount: '253'
 ht-degree: 2%
 
 ---
 
-# De la perception à l’impact : rationalisez les workflows RH
+# Des perspectives à l’impact : rationalisez les workflows d’intégration
 
 Découvrez comment les équipes RH utilisent Acrobat Studio pour rationaliser l’intégration des employés du début à la fin. Apprenez à transformer des documents d’intégration complexes en informations claires, à collaborer avec les parties prenantes dans des espaces de PDF partagés et à créer du contenu de marque soigné, prêt à être partagé avec les nouveaux employés, plus rapidement, de manière plus cohérente et en toute confiance. Ce cas d’utilisation est conçu pour être complété dans l’ordre, chaque vidéo s’appuyant sur l’étape précédente.
 
-**Idéal pour :** les responsables des RH, les opérations de RH et les partenaires commerciaux, les équipes d&#39;intégration et d&#39;expérience des employés, ainsi que toute personne responsable de la révision, de la collaboration ou de la création de documents de RH destinés aux employés.
+**Idéal pour :** les responsables des RH, les opérations de RH et les partenaires commerciaux, les équipes d&#39;intégration et d&#39;expérience des employés et toute personne préparant des documents de RH pour les employés ou la direction.
 
 ## Étape 1. Transformer les documents d’intégration en informations claires
 
@@ -37,4 +38,3 @@ Les commentaires sont terminés et le contenu est prêt à être diffusé. Déco
 >[!VIDEO](https://video.tv.adobe.com/v/3481521?quality=12&learn=on&hidetitle=true)
 
 Vous disposez désormais d’un processus reproductible d’analyse, de révision et de diffusion de documents prêts à l’emploi à l’aide d’Acrobat Studio.
-
