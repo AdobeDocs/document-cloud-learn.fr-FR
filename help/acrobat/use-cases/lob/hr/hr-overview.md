@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate
 jira: KT-20534
 exl-id: a3527421-1f3f-43da-af60-ceed93369ab0
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Découvrez comment les équipes RH utilisent Acrobat pour gérer les documents e
 
 >[!BEGINTABS]
 
->[!TAB De l’aperçu à l’impact : rationalisez les workflows de RH]
+>[!TAB De l’aperçu à l’impact : rationalisez les workflows d’intégration]
 
 Découvrez comment les équipes RH utilisent Acrobat Studio pour rationaliser le contenu d’intégration des employés, de la [connaissance, la collaboration et la livraison sur marque](hr-insights.md).
 

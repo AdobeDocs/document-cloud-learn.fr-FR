@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20543
 exl-id: e557d793-906f-47af-b6d3-ca2f22bbe869
-source-git-commit: b10939fdfaa83b8926019ebe91b01dbcfb03a68e
+source-git-commit: 0777e123ef5665052453a787bd39828a9ca167be
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '257'
 ht-degree: 2%
 
 ---
@@ -31,7 +31,7 @@ Les informations sont maintenant prêtes pour la révision de l’équipe. Déco
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481509?quality=12&learn=on&hidetitle=true)
 
-## Étape 3. Création de présentations destinées aux cadres
+## Étape 3. Créez du contenu d’intégration attrayant pour les nouvelles recrues
 
 Les commentaires sont terminés et le contenu est prêt à être diffusé. Découvrez comment Acrobat Studio utilise l’IA et les modèles de marque pour créer rapidement des présentations et des supports prêts à l’emploi faciles à partager et à mettre à jour.
 
