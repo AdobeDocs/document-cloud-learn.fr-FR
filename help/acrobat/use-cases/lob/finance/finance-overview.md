@@ -6,9 +6,9 @@ role: User
 level: Beginner, Intermediate
 jira: KT-20533
 exl-id: 2e37e636-df5b-4c6a-93c7-8df68d60bc65
-source-git-commit: 8245d1a196a240fd640ddea2e90d65e1e20265d9
+source-git-commit: 77761ef2b213a6cc900b349febb782d452dd6d97
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '113'
 ht-degree: 1%
 
 ---
@@ -23,7 +23,7 @@ Explorez les workflows spécifiques à la finance qui montrent comment Acrobat p
 
 >[!TAB Transformez les rapports financiers en informations prêtes à l’emploi]
 
-Découvrez comment les équipes financières peuvent consolider les informations financières pour faire rapidement apparaître les performances clés [insight](finance-insights.md).
+Découvrez comment les équipes financières peuvent consolider les informations financières pour faire rapidement apparaître les performances clés [insight](finance-insights.md) et fournir des présentations prêtes à être réalisées par les dirigeants.
 
 >[!ENDTABS]
 
