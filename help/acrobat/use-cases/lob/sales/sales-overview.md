@@ -1,11 +1,12 @@
 ---
 title: Présentation des cas d’utilisation d’Acrobat Sales
-description: Découvrez comment les équipes commerciales passent de l’insight à l’impact avec une collaboration plus intelligente et une création de contenu plus rapide.
+description: Découvrez comment les équipes commerciales passent de l’insight à l’impact avec une collaboration plus intelligente et une création de contenu plus rapide
 feature: Gen AI
 role: User
 level: Beginner, Intermediate
 jira: KT-20544
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+exl-id: f0839850-c6d1-4468-ad40-2da36a1cc78b
+source-git-commit: 9f20c7f0dc345eba6b9deb22e2b365d1f7911b04
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 1%
@@ -26,7 +27,7 @@ Découvrez comment les équipes commerciales peuvent recueillir des [information
 
 >[!ENDTABS]
 
-## Tutoriels sur les cas d’utilisation RH
+## Tutoriels sur les cas d’utilisation relatifs aux ventes
 
 <table style="table-layout:fixed">
 <tr>

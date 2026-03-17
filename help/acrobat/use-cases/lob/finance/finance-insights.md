@@ -6,9 +6,9 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: c4f34f8331a6e6d823ec1ef0c5f9df0ef8a750b5
+source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '198'
 ht-degree: 3%
 
 ---
@@ -37,5 +37,5 @@ Les commentaires sont terminés et le contenu est prêt à être diffusé. Trans
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481449?quality=12&learn=on&hidetitle=true)
 
-Vous disposez désormais d’un processus reproductible d’analyse, de révision et de diffusion de documents financiers prêts à l’emploi à l’aide d’Acrobat.
+Vous disposez désormais d’un processus reproductible d’analyse, de révision et de diffusion de documents financiers prêts à l’emploi à l’aide d’Acrobat Studio.
 
