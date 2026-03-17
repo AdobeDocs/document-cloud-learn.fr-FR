@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20546
-source-git-commit: df117083332859e2ff8009b24424b4bdb2f9f748
+source-git-commit: e0561a2b7a25dd36bf8bc5eb37219a4decdcfee8
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '240'
 ht-degree: 2%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 2%
 
 Découvrez comment les équipes commerciales peuvent rassembler des informations sur les clients, collaborer dans un espace de travail partagé et transformer des informations validées en présentations et propositions sur la marque, plus rapidement et en toute confiance. Ce cas d’utilisation est conçu pour être complété dans l’ordre, chaque vidéo s’appuyant sur l’étape précédente.
 
-**Idéal pour :** Idéal pour : les responsables des RH, les opérations de RH et les partenaires commerciaux, les équipes d&#39;intégration et d&#39;expérience des employés et toute personne préparant des documents de RH pour les employés ou la direction.
+**Idéal pour :** les responsables de compte, les directeurs commerciaux, les équipes commerciales et toute personne préparant des documents commerciaux destinés aux clients pour des réunions, des présentations ou des propositions.
 
-## Étape 1. Transformer les documents d’intégration en informations claires
+## Étape 1. Comprendre votre client avec des informations optimisées par l’IA
 
 Commencez par apprendre à collecter des documents clients, à analyser des informations clés et à utiliser des synthèses et des informations basées sur l’IA pour comprendre les besoins des clients et vous préparer à des conversations commerciales plus efficaces.
 
@@ -36,4 +36,4 @@ Les commentaires sont terminés et le contenu est prêt à être diffusé. Appre
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481564?quality=12&learn=on&hidetitle=true)
 
-Vous disposez désormais d’un processus reproductible pour comprendre les clients, collaborer avec les parties prenantes et fournir des présentations et des propositions commerciales à l’aide d’Acrobat Studio.Y
+Vous disposez désormais d’un processus reproductible pour comprendre les clients, collaborer avec les parties prenantes et fournir des présentations et des propositions prêtes à l’emploi à l’aide d’Acrobat Studio.
