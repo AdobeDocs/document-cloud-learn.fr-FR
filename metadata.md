@@ -1,40 +1,40 @@
 ---
 cloud: Document Cloud
 solution-title: Document Cloud
-solution-hub-url: https://helpx.adobe.com/fr/support/document-cloud.html
+solution-hub-url: https://helpx.adobe.com/support/document-cloud.html
 getting-started-title: Getting Started
-getting-started-url: https://helpx.adobe.com/fr/acrobat/get-started.html
+getting-started-url: https://helpx.adobe.com/acrobat/get-started.html
 tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/fr/acrobat/tutorials.html
+tutorials-url: https://helpx.adobe.com/acrobat/tutorials.html
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/document-cloud-learn.fr-FR
+git-repo: https://github.com/AdobeDocs/document-cloud-learn.en
 index: true
 type: Tutorial
-source-git-commit: 95764e25c3d393b751f52eea5c475add8528ac38
+source-git-commit: 31fa4d4ddb5f4c7b6404c17ca90783564dd80075
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 1%
+source-wordcount: '149'
+ht-degree: 0%
 
 ---
 
 
-# Métadonnées pour utilisation interne
+# Métadonnées pour un usage interne
 
-Le fichier metadata.md comprend des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide d’utilisation dans le référentiel. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide d’utilisation, faites-le dans n’importe quel fichier TOC.md.
+Le fichier metadata.md inclut des métadonnées au niveau du référentiel qui sont transmises aux fichiers TOC.md du guide de l’utilisateur dans le référentiel. Si vous souhaitez modifier le contenu metadata.md pour n’importe quel guide de l’utilisateur, faites-le dans n’importe quel fichier TOC.md.
 
-| Métadonnées | ce que cela produit |
+| métadonnées | ce qu&#39;il fait |
 |--- |--- |
-| solution-title | Utilisé dans l’en-tête d’article comme lien |
-| solution-hub-url | Ouvre la page centrale helpx |
-| solution-icon | Affiche l’icône de la solution en regard du titre. Pas encore mis en oeuvre |
-| getting-started-url | Lien vers la page Prise en main helpx |
-| tutorials-url | Lien vers des tutoriels vidéo : tutoriels helpx ou tutoriels KT |
-| mini-toc-levels | Détermine le nombre de niveaux de titre qui apparaissent dans le rail droit. la valeur par défaut est 2 |
+| solution-title | Utilisé dans l’en-tête de l’article en tant que lien |
+| solution-hub-url | Ouvre la page du hub d’aide |
+| solution-icon | Affiche l&#39;icône de la solution à côté du titre de la solution. Pas encore mise en œuvre |
+| getting-started-url | Lien vers la page de prise en main des aides |
+| tutorials-url | Lien vers les tutoriels vidéo : tutoriels d’aide ou tutoriels d’application des connaissances |
+| mini-niveaux de table des matières | Détermine le nombre de niveaux d’intitulé qui apparaissent dans le rail de droite. la valeur par défaut est 2 |
 | git-repo | Spécifie l&#39;emplacement du référentiel maître pour une utilisation interne |
 
 Dans le fichier TOC.md
 
-| Métadonnées | ce que cela produit |
+| métadonnées | ce qu&#39;il fait |
 |--- |--- |
-| user-guide-title | Utilisé dans l’en-tête d’article comme lien |
-| user-guide-url | Ouvre la page centrale helpx |
+| user-guide-title | Utilisé dans l’en-tête de l’article en tant que lien |
+| user-guide-url | Ouvre la page du hub d’aide |
