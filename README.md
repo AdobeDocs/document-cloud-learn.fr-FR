@@ -7,4 +7,4 @@ ht-degree: 14%
 ---
 # ARCHIVÉ
 
-Ce référentiel a été migré vers <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.en>.
+Ce référentiel a été migré vers <https://github.com/Adobe-Enterprise-Docs/document-cloud-learn.fr-FR>.
