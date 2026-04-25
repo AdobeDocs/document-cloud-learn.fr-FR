@@ -23,4 +23,4 @@ Ce que vous apprendrez :
 * Comment le mode de révision protège l’intégrité des accords
 * Quelles sont les modifications consignées dans le rapport d’audit ?
 
->[!VIDEO](https://video.tv.adobe.com/v/3483690?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3483692?captions=fre_fr&quality=12&learn=on&hidetitle=true)
