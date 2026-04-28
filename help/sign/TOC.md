@@ -12,9 +12,9 @@ feature-set: Document Cloud
 feature: Use Cases, Web Forms, Workflow, Sign, Payments, Report, Workspace, Deadline, Administration, Digital ID, Form, Integrations, Mobile, Skill Builder
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 184d041d27da2172761c4bfbb6f58ac80f3395cc
+source-git-commit: c4dd480735696feee27fe21320b24aaa74c990f8
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '694'
 ht-degree: 13%
 
 ---
@@ -36,6 +36,7 @@ ht-degree: 13%
       + [Remplacer un signataire](sign-beginner-tutorials/replace-signer.md)
       + [Définition d’échéances et de rappels](sign-beginner-tutorials/set-deadlines-reminders.md)
       + [Créer un modèle réutilisable](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-template.html?lang=fr)
+      + [Repérer les sélections requises avec les groupes de cases à cocher](sign-beginner-tutorials/checkbox-groups.md)
    + Signer {#getting-started-signing}
       + [Signer électroniquement un document](sign-beginner-tutorials/electronically-sign-a-document.md)
       + [Remplissage et signature d’un document](sign-beginner-tutorials/fill-and-sign.md)
@@ -152,30 +153,30 @@ ht-degree: 13%
          + [Demande de prêt public avec plusieurs signataires inconnus](sign-usecase/webform-multiple-signers.md)
          + [Subventions et prêts aux entreprises](sign-usecase/usecasegovgrants.md)
          + [Contrat de télétravail](sign-usecase/usecasegovtelework.md)
-         + [Contrats et formulaires de demande d&#39;approvisionnement](sign-usecase/usecasegovcontracts.md)
-         + [Aide au réemploi](sign-usecase/usecasegovreemployment.md)
-         + [Protection par chèque de paie](sign-usecase/usecasegovpaycheck.md)
-         + [Demande de mandat à distance](sign-usecase/usecasegovremote.md)
+         + [Contracts and requisition forms](sign-usecase/usecasegovcontracts.md)
+         + [Reemployment assistance](sign-usecase/usecasegovreemployment.md)
+         + [Paycheck protection](sign-usecase/usecasegovpaycheck.md)
+         + [Remote warrant request](sign-usecase/usecasegovremote.md)
       + Commerce {#com}
-         + [Contrats et formulaires de demande d&#39;approvisionnement](sign-usecase/usecasecomcontracts.md)
-         + [Accords de stratégie](sign-usecase/usecasecompolicy.md)
+         + [Contracts and requisition forms](sign-usecase/usecasecomcontracts.md)
+         + [Policy agreements](sign-usecase/usecasecompolicy.md)
          + [Contrat de télétravail](sign-usecase/usecasecomtelework.md)
       + Éducation {#edu}
-         + [Candidature de stage pour le formulaire web Éducation](sign-usecase/usecase-edu-intern.md)
-         + [Création d’une demande de stage pour un formulaire web consacré à l’éducation](sign-usecase/usecase-edu-intern-create.md)
-         + [Workflow personnalisé pour le processus IEP Éducation](sign-usecase/usecase-edu-iep.md)
-+ Développement {#develop}
+         + [Education web form internship application](sign-usecase/usecase-edu-intern.md)
+         + [Create an education web form internship application](sign-usecase/usecase-edu-intern-create.md)
+         + [Custom workflow for education IEP process](sign-usecase/usecase-edu-iep.md)
++ Develop {#develop}
    + [Présentation](develop/develop-overview.md)
-   + API et webhooks {#custom}
-      + [Collecte de documents volumineux à l’aide de GigaSign](develop/gigasign.md)
-      + [Création d’expériences de signature électronique et de document intégrées](develop/embeddedesignature.md)
-      + [Configuration des webhooks](develop/webhooks.md)
+   + APIs and webhooks {#custom}
+      + [Gather high-volume documents using GigaSign](develop/gigasign.md)
+      + [Create embedded e-signature and document experiences](develop/embeddedesignature.md)
+      + [How to set up webhooks](develop/webhooks.md)
 + Déploiement {#deploy}
    + [Présentation](deploy-overview.md)
 + Application mobile {#mobile}
    + [Présentation](mobile/mobile-overview.md)
-   + Tutoriels mobiles {#mobile-tutorials}
-      + [Signer des documents où que vous soyez](mobile/sign-mobile.md)
-      + [Vue mobile](mobile/mobile-friendly.md)
-      + [Création d’une vue adaptée aux mobiles](mobile/create-mobile-friendly.md)
-      + [Liquid Mode dans Acrobat Sign](mobile/liquidmode.md)
+   + Mobile tutorials {#mobile-tutorials}
+      + [Sign documents on the go](mobile/sign-mobile.md)
+      + [Mobile-friendly view](mobile/mobile-friendly.md)
+      + [Create mobile-friendly view](mobile/create-mobile-friendly.md)
+      + [Liquid Mode in Acrobat Sign](mobile/liquidmode.md)
