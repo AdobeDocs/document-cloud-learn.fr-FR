@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -19,17 +19,19 @@ Découvrez comment les équipes financières utilisent Acrobat pour gérer les d
 
 **Idéal pour :** les responsables financiers, les équipes de FP&amp;A, les analystes et toute personne préparant des documents pour la révision des dirigeants ou du conseil d&#39;administration.
 
+**Essayer :** explorez ce workflow de création de rapports financiers [pratique](https://w.adobedemo.com/s/31LpAI){target="_blank"} dès maintenant.
+
 ## Étape 1. Comprendre les performances financières
 
 Commencez par consolider les documents financiers et faire ressortir les principales informations pour préparer les informations à l’examen de la direction.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481425?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
 
 ## Étape 2. Collaboration sur des rapports financiers
 
 Les informations sont maintenant prêtes pour la révision de l’équipe. Rassemblez les parties prenantes pour examiner les documents financiers, partager des commentaires et affiner les informations dans un espace de travail sécurisé.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481438?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
 
 ## Étape 3. Création de présentations destinées aux cadres
 
