@@ -25,13 +25,13 @@ Découvrez comment les équipes financières utilisent Acrobat pour gérer les d
 
 Commencez par consolider les documents financiers et faire ressortir les principales informations pour préparer les informations à l’examen de la direction.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481423?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481425?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Étape 2. Collaboration sur des rapports financiers
 
 Les informations sont maintenant prêtes pour la révision de l’équipe. Rassemblez les parties prenantes pour examiner les documents financiers, partager des commentaires et affiner les informations dans un espace de travail sécurisé.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481436?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481438?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Étape 3. Création de présentations destinées aux cadres
 
