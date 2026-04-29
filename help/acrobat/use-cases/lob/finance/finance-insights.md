@@ -6,10 +6,10 @@ role: User
 level: Intermediate
 jira: KT-20532
 exl-id: bc553a33-0388-4f29-b6f3-4adf0d1a11af
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 3%
+source-wordcount: '213'
+ht-degree: 2%
 
 ---
 
@@ -18,6 +18,8 @@ ht-degree: 3%
 Découvrez comment les équipes financières utilisent Acrobat pour gérer les documents financiers, de la perspicacité à la livraison. Cet exemple d’utilisation décrit un workflow de bout en bout pour l’analyse des informations, la collaboration avec les parties prenantes et la création de supports financiers prêts à l’emploi. Ce cas d’utilisation est conçu pour être complété dans l’ordre, chaque vidéo s’appuyant sur l’étape précédente.
 
 **Idéal pour :** les responsables financiers, les équipes de FP&amp;A, les analystes et toute personne préparant des documents pour la révision des dirigeants ou du conseil d&#39;administration.
+
+**Essayer :** explorez ce workflow de création de rapports financiers [pratique](https://w.adobedemo.com/s/31LpAI){target="_blank"} dès maintenant.
 
 ## Étape 1. Comprendre les performances financières
 

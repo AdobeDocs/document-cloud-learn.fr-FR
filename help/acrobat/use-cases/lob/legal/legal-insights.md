@@ -5,10 +5,11 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-20552
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+exl-id: 86b7e471-0e26-45d9-b87a-c91886e10c33
+source-git-commit: 6480632c135a02770d5ee160cb55001a2f780a06
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 3%
+source-wordcount: '205'
+ht-degree: 2%
 
 ---
 
@@ -17,6 +18,8 @@ ht-degree: 3%
 Découvrez comment les équipes juridiques utilisent Acrobat Studio pour analyser des documents complexes, collaborer en toute sécurité et transformer les informations en conseils clairs et exploitables, plus rapidement et en toute confiance. Ce cas d’utilisation est conçu pour être complété dans l’ordre, chaque vidéo s’appuyant sur l’étape précédente.
 
 **Idéal pour :** les responsables juridiques, les conseillers juridiques internes, les réviseurs de contrats et les équipes fournissant des conseils juridiques dans l’ensemble de l’entreprise.
+
+**Essayer :** explorez ce workflow légal [pratique](https://w.adobedemo.com/s/ujZN1y){target="_blank"} dès maintenant.
 
 ## Étape 1. Analyse des informations juridiques et des informations de surface
 
@@ -37,4 +40,3 @@ Les commentaires sont terminés et le contenu est prêt à être diffusé. Déco
 >[!VIDEO](https://video.tv.adobe.com/v/3481660?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 Vous disposez désormais d’un processus reproductible pour comprendre les documents juridiques, collaborer en toute sécurité et créer des conseils clairs et prêts à l’emploi.
-
