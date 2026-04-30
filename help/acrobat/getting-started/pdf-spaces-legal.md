@@ -21,7 +21,7 @@ Les espaces de PDF sont disponibles pour les utilisateurs qui achètent Acrobat 
 
 **Essayer :** explorez les espaces PDF [pratique](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"} tout de suite.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475131?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3475134?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 [!BADGE Spécifique à l’équipe]
 
