@@ -6,9 +6,9 @@ role: User
 level: Beginner
 jira: KT-18747
 exl-id: dab3498a-3cc7-44b9-bb6f-3d843b521716
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+source-git-commit: 51c7b414f2a0b4a67d70274e1d7d81f4c8be3455
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,8 @@ ht-degree: 0%
 Découvrez comment une équipe juridique interne utilise les Espaces PDF pour rassembler des documents de politique, des notes juridiques et des conseils réglementaires dans un espace de travail unique. Il montre comment les résumés générés par l&#39;IA, les changements mis en évidence et les informations citées aident les équipes à examiner les mises à jour plus efficacement tout en conservant leur précision et leur conformité.
 
 Les espaces de PDF sont disponibles pour les utilisateurs qui achètent Acrobat Studio ou le module complémentaire AI Assistant.
+
+**Essayer :** explorez les espaces PDF [pratique](https://w.adobedemo.com/s/Y1h_Xk){target="_blank"} tout de suite.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3475134?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
