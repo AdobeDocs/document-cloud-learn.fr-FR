@@ -22,4 +22,4 @@ Découvrez comment les cases à cocher sont regroupées :
 * Guider les signataires avec des commentaires clairs et intégrés
 * Améliorer la précision des informations collectées dans les formulaires
 
->[!VIDEO](https://video.tv.adobe.com/v/3484144?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3484162?captions=fre_fr&quality=12&learn=on&hidetitle=true)
