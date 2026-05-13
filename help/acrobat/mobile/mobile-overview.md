@@ -8,10 +8,18 @@ topic-revisit: mobile
 jira: KT-6863
 thumbnail: KT-6863.jpg
 exl-id: d9fe154b-adf9-49da-ab15-6806a0f10edc
-source-git-commit: 6173778d21b03089a503fa9e08017a909d7bc6da
+TQID: https://experienceleague.adobe.com/eXYxxE6n8-KJgWVqYWiC66eYH3WqNQcfCt6j1XyJlLk
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '206'
-ht-degree: 0%
+source-wordcount: 324
+ht-degree: 1%
 
 ---
 
@@ -81,12 +89,12 @@ Créez, remplissez et [signez des mots de PDF](https://www.adobe.com/fr/acrobat/
 
 Téléchargez l&#39;[application mobile Adobe Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html){target="_blank"}, la norme mondiale gratuite pour consulter, annoter et signer des mots de PDF de manière fiable.
 
-[Guide mobile Acrobat Reader pour iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
+[Guide de l’application mobile Acrobat Reader pour iOS](https://www.adobe.com/devnet-docs/acrobat/ios/en/){target="_blank"}
 [Guide mobile Acrobat Reader pour Android](https://www.adobe.com/devnet-docs/acrobat/android/en/){target="_blank"}
 
 Téléchargez l&#39;[application mobile Adobe Scan](https://www.adobe.com/acrobat/mobile/scanner-app.html){target="_blank"} pour capturer n&#39;importe quel document papier et le transformer en un PDF de haute qualité avec du texte que vous pouvez rechercher.
 
-[Guide mobile Adobe Scan pour iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
+[Guide de l’application mobile Adobe Scan pour iOS](https://www.adobe.com/devnet-docs/adobescan/ios/en/){target="_blank"}
 [Guide mobile Adobe Scan pour Android](https://www.adobe.com/devnet-docs/adobescan/android/en/){target="_blank"}
 
 Téléchargez l&#39;[application mobile Adobe Fill &amp; Sign](https://www.adobe.com/acrobat/mobile/fill-sign-pdfs.html){target="_blank"} pour remplir, signer et envoyer n&#39;importe quel formulaire où que vous soyez, sur n&#39;importe quel appareil, en utilisant uniquement votre doigt ou un stylet.

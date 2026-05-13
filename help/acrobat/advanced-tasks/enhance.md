@@ -7,10 +7,17 @@ level: Intermediate
 jira: KT-9343
 thumbnail: KT-9343.jpg
 exl-id: 827d5ff0-1c81-4c5c-9627-a01f7f5a8e6d
-source-git-commit: cc1902cf295d3608fb8ac4ed564a39dbcc885e4a
+TQID: https://experienceleague.adobe.com/PD7GJ1JxUbczgXIgvxf1roU0P0qIpNsK-6P9AS-okqw
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 0%
+source-wordcount: 337
+ht-degree: 1%
 
 ---
 
@@ -31,7 +38,7 @@ Fichiers d’exemple pour s’entraîner (ZIP, 342 Ko)
 
 Utilisez l&#39;[outil Modifier le PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"} pour ajouter des images d&#39;arrière-plan à votre PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443819?hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3443819?captions=fre_fr&hidetitle=true)
 
 <br> 
 
@@ -51,7 +58,7 @@ Saisissez 2 à 26 dans la section **Pages à partir de**, puis sélectionnez **O
 
 Utilisez l’outil Modifier pour ajouter un nouveau pied de page à votre PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3437733?hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3437733?captions=fre_fr&hidetitle=true)
 
 <br> 
 

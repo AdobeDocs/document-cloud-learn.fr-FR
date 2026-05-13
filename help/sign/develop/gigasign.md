@@ -8,10 +8,26 @@ jira: KT-6626
 topic-revisit: Integrations
 thumbnail: 328113.jpg
 exl-id: a59eab61-fe61-45c6-8137-f074e1f2b3ed
-source-git-commit: ba9931920ab3bfb6ea38a92cac4a35da1d0295cd
+TQID: https://experienceleague.adobe.com/62xUXPGJ-H5XyknrYgKSEErD-mW0zIZc-qxQJvzXgCM
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+  - id: e43347a8-f2c5-4aa4-8623-6f13875d7e3a
+  - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+feature_v2:
+  - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '298'
-ht-degree: 1%
+source-wordcount: 331
+ht-degree: 2%
 
 ---
 
@@ -21,9 +37,9 @@ Gigasign vous permet d’envoyer, de collecter et de suivre des documents pour s
 
 >[!IMPORTANT]
 >
->GigaSign n’est plus mis à jour vers la dernière version de Java ou d’Acrobat Sign et ne bénéficiera que d’une prise en charge limitée. Les fonctionnalités de GigaSign sont ajoutées au produit sous la fonctionnalité [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=fr&). Utilisez Envoyer en masse pour tous les cas d’utilisation qui ne nécessitent pas explicitement l’utilisation de GigaSign.
+>GigaSign n’est plus mis à jour vers la dernière version de Java ou d’Acrobat Sign et ne bénéficiera que d’une prise en charge limitée. Les fonctionnalités de GigaSign sont ajoutées au produit sous la fonctionnalité [Envoyer en masse](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/megasign.html?lang=fr ?). Utilisez Envoyer en masse pour tous les cas d’utilisation qui ne nécessitent pas explicitement l’utilisation de GigaSign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453512?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3453512?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Téléchargement et installation de l’application GigaSign
 
