@@ -7,9 +7,13 @@ level: Intermediate
 jira: KT-9277
 thumbnail: KT-9277.jpg
 exl-id: 655019ce-9cb4-486e-820e-61abdde6b789
-source-git-commit: 4e6fbf91e96d26f9ee8f1105ad68738b9450a32d
+TQID: https://experienceleague.adobe.com/v-z2jvRPiyPLaFV-kE2pvlYxst0SUK7DehLjeXEfr6g
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: 76
 ht-degree: 0%
 
 ---
@@ -18,4 +22,4 @@ ht-degree: 0%
 
 Dans ce tutoriel vidéo de 60 secondes, apprenez à apporter des modifications avancées à une image dans votre PDF à l’aide d’Illustrator ! Après avoir sélectionné Modifier le PDF, cliquez avec le bouton droit de la souris sur un graphique et choisissez de le modifier dans Illustrator. Lorsque vous avez terminé, il vous suffit de choisir Enregistrer dans Illustrator pour qu’Acrobat mette à jour l’illustration dans le PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409117?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/338277?quality=12&learn=on&hidetitle=true)

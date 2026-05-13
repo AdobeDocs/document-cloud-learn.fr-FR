@@ -7,10 +7,15 @@ level: Intermediate
 jira: KT-7269
 thumbnail: KT-7269.jpg
 exl-id: 1a8d3f7d-96a4-4811-b4e9-9c55287b92ea
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/yAZqS-n9dBEr5B56ibBNPNF8MfEOfCq3J74wNHFnYo0
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e9001ce2-5245-4a8e-8601-dd958009072fid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 2%
+source-wordcount: 803
+ht-degree: 7%
 
 ---
 
@@ -70,10 +75,10 @@ Les utilisateurs pourront se connecter à https://documentcloud.adobe.com/ pour 
 
 ## Pour plus d’informations, consultez les pages ci-dessous :
 
-* [Connexion à Adobe Document Cloud](https://helpx.adobe.com/fr/document-cloud/help/sign-in.html)
-* [Gestion des fichiers (Où sont mes fichiers ?)](https://helpx.adobe.com/fr/document-cloud/help/manage-files.html)
-* [Utilisation de [!UICONTROL Acrobat Customization Wizard] pour la configuration](https://www.adobe.com/fr/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
-* [Présentation du [!UICONTROL Admin Console]](https://helpx.adobe.com/fr/enterprise/using/admin-console.html)
-* [Gestion d’Adobe Sign sur le [!UICONTROL Admin Console]](https://helpx.adobe.com/fr/enterprise/using/adobe-sign-for-enterprise.html)
+* [Connexion à Adobe Document Cloud](https://helpx.adobe.com/document-cloud/help/sign-in.html)
+* [Gestion des fichiers (Où sont mes fichiers ?)](https://helpx.adobe.com/document-cloud/help/manage-files.html)
+* [Utilisation du [!UICONTROL Customization Wizard Acrobat] pour la configuration](https://www.adobe.com/fr/devnet-docs/acrobatetk/tools/Wizard/WizardDC/index.html)
+* [Vue d&#39;ensemble du [!UICONTROL Admin Console]](https://helpx.adobe.com/fr/enterprise/using/admin-console.html)
+* [Gestion d&#39;Adobe Sign sur le [!UICONTROL Admin Console]](https://helpx.adobe.com/fr/enterprise/using/adobe-sign-for-enterprise.html)
 
 **Révisions** 20 mai 2020 ; publication d’origine - août 2019

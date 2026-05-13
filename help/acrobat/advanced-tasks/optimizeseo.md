@@ -7,10 +7,14 @@ level: Experienced
 jira: KT-9347
 thumbnail: KT-9347.jpg
 exl-id: 2f24d745-762a-4631-8495-08b9e9d77af0
-source-git-commit: baf36807c1dcf2142d9a8a5502d8d10d5b8d6033
+TQID: https://experienceleague.adobe.com/S6cbcBMSAX9TiM02yNUv19Q0E0T7DU1XdciVjZVwBr0
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dcid: cc72dcf1-72e1-48cc-b434-e7c27d62d67cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
 workflow-type: tm+mt
-source-wordcount: '752'
-ht-degree: 0%
+source-wordcount: 805
+ht-degree: 2%
 
 ---
 
@@ -31,7 +35,7 @@ Le contenu du PDF doit être unique et structuré comme suit :
 * Utilisation de paragraphes courts contenant des mots-clés et des listes
 * Ajout de contenu interne et externe à votre site web ou à d’autres sites web à l’aide d’hyperliens
 * Ajout d’une table des matières avec hyperlien pour les documents de plus de 25 pages
-* Exécuter la [reconnaissance de texte](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) sur tous les documents numérisés
+* Exécuter la [reconnaissance de texte](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) sur tous les documents numérisés
 * Création de PDF adaptés aux mobiles
 Pour vérifier l&#39;expérience de visionnage mobile de votre PDF, ouvrez le fichier dans l&#39;[application mobile Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) et activez Liquid Mode. Ajoutez des sous-titres supplémentaires si nécessaire pour améliorer la navigation.
 
@@ -41,7 +45,7 @@ Pour vérifier l&#39;expérience de visionnage mobile de votre PDF, ouvrez le fi
 
 <br> 
 
-## &#x200B;2. Ajout de propriétés de document
+## &#x200B;2. Ajouter des propriétés de document
 
 Les fichiers de PDF ont un titre et une méta-description tout comme une page web.
 
@@ -62,9 +66,9 @@ Essayez de commencer le résumé à l’aide d’un verbe d’action tel que App
 
 <br> 
 
-## &#x200B;3. Marquez votre PDF
+## &#x200B;3. Balisage de votre PDF
 
-Le balisage du contenu dans votre PDF rend votre fichier [accessible](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aux personnes atteintes de handicaps, mais améliore également le référencement.
+Le balisage du contenu dans votre PDF rend votre fichier [accessible](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessibility-overview) aux personnes atteintes de handicaps, mais améliore également le référencement.
 
 +++Affichage des détails sur le balisage d’un PDF
 
@@ -122,7 +126,7 @@ Le nom du fichier fait partie de l’URL lorsqu’un PDF est publié sur le Web.
 
 <br> 
 
-## &#x200B;6. Sécurisez votre PDF
+## &#x200B;6. Sécuriser votre PDF
 
 La dernière étape consiste à [protéger votre PDF](https://www.adobe.com/fr/acrobat/online/password-protect-pdf.html){target="_blank"} pour empêcher les modifications non autorisées.
 
