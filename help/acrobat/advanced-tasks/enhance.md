@@ -38,7 +38,7 @@ Fichiers d’exemple pour s’entraîner (ZIP, 342 Ko)
 
 Utilisez l&#39;[outil Modifier le PDF](https://www.adobe.com/fr/acrobat/online/pdf-editor.html){target="_blank"} pour ajouter des images d&#39;arrière-plan à votre PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338746?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443819?captions=fre_fr&hidetitle=true)
 
 <br> 
 
@@ -58,7 +58,7 @@ Saisissez 2 à 26 dans la section **Pages à partir de**, puis sélectionnez **O
 
 Utilisez l’outil Modifier pour ajouter un nouveau pied de page à votre PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/338745?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3437733?captions=fre_fr&hidetitle=true)
 
 <br> 
 

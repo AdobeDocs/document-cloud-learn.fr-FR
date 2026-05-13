@@ -25,4 +25,4 @@ ht-degree: 12%
 
 Dans ce tutoriel vidéo de 60 secondes, découvrez comment [convertir des fichiers et formulaires Word en PDF](https://www.adobe.com/fr/acrobat/online/word-to-pdf.html){target="_blank"} et créer automatiquement des champs de formulaire.
 
->[!VIDEO](https://video.tv.adobe.com/v/340082?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347090?captions=fre_fr&quality=12&learn=on&hidetitle=true)

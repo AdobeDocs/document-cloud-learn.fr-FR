@@ -31,4 +31,4 @@ ht-degree: 4%
 
 Découvrez comment attribuer un rôle d&#39;administrateur de produit et d&#39;administrateur de support à un utilisateur Acrobat Sign dans le [Admin Console](https://adminconsole.adobe.com/).
 
->[!VIDEO](https://video.tv.adobe.com/v/3453157?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3453160?captions=fre_fr&quality=12&learn=on&hidetitle=true)

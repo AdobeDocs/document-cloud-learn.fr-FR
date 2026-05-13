@@ -31,7 +31,7 @@ ht-degree: 0%
 
 Apprenez à rationaliser les workflows documentaires en remplissant et en signant un formulaire directement dans [!DNL Microsoft Outlook].
 
->[!VIDEO](https://video.tv.adobe.com/v/344947?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443454?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

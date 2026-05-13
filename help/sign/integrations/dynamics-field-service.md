@@ -29,4 +29,4 @@ ht-degree: 0%
 
 Découvrez comment un répartiteur et un technicien de service sur site utilisent Acrobat Sign, [!DNL Power Automate] et [!DNL Dynamics 365] pour rationaliser les engagements du service sur site.
 
->[!VIDEO](https://video.tv.adobe.com/v/3423205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3447300?captions=fre_fr&quality=12&learn=on&hidetitle=true)

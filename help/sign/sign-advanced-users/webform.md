@@ -39,7 +39,7 @@ Découvrez comment un formulaire web est utilisé pour un workflow complexe de d
 * [Subventions et prêts aux entreprises](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=fr)
 * [Aide au réemploi](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=fr)
 
->[!VIDEO](https://video.tv.adobe.com/v/37841?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411224?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

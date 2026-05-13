@@ -25,5 +25,5 @@ ht-degree: 0%
 
 Découvrez comment ajouter des signets et des hyperliens pour une meilleure navigation et interaction avec les fichiers de votre PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/340837?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347057?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 

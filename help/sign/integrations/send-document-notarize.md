@@ -38,7 +38,7 @@ Adobe Acrobat Sign s’est associé à Notarize, Inc. pour fournir des services 
 >
 >L’intégration d’Acrobat Sign avec le service d’authentification notariale en ligne de [!DNL Notarize] Inc. est uniquement disponible aux États-Unis avec les formules de service de niveau professionnel et entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/341029?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3420668?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

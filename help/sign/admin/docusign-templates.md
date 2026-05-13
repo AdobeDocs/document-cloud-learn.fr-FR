@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Découvrez comment migrer en toute simplicité les modèles et workflows Docusign vers Acrobat Sign en trois étapes simples.
 
->[!VIDEO](https://video.tv.adobe.com/v/3465274?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3465276?captions=fre_fr&quality=12&learn=on&hidetitle=true)

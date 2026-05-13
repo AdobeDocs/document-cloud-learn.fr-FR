@@ -31,7 +31,7 @@ Avec le travail à distance partout, il est essentiel de fournir du contenu rapi
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337436?enablevpops&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443531?captions=fre_fr&enablevpops&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

@@ -33,7 +33,7 @@ Découvrez comment archiver les e-mails et les pièces jointes dans le PDF de [!
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/336859?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409318?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

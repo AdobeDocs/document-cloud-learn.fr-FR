@@ -33,7 +33,7 @@ Rationalisez les workflows de documents avec [!DNL SharePoint] et Acrobat à l�
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/331855?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409688?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

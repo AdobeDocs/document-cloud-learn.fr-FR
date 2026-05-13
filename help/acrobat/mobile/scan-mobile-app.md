@@ -25,7 +25,7 @@ ht-degree: 0%
 
 Apprenez à convertir n’importe quel document papier en PDF à l’aide de l’application mobile Adobe Scan.
 
->[!VIDEO](https://video.tv.adobe.com/v/3409254?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412788?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ![Code QR](../assets/Scanqrcode.jpg)
 

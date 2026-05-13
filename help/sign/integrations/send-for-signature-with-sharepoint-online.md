@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Découvrez comment rationaliser les workflows de documents en envoyant un document pour signature directement dans [!DNL Microsoft Sharepoint Online].
 
->[!VIDEO](https://video.tv.adobe.com/v/41263?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409578?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

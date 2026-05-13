@@ -33,7 +33,7 @@ Découvrez comment créer des fichiers de PDF sans jamais quitter votre [!DNL Mi
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337482?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409132?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

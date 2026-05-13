@@ -31,4 +31,4 @@ Découvrez comment configurer l’ordre de signature pour plusieurs signataires.
 >
 >L’acheminement hybride est uniquement disponible pour les formules de niveau entreprise. Votre administrateur Acrobat Sign devra peut-être activer ces fonctionnalités dans la section Paramètres d’envoi des Paramètres de compte.
 
->[!VIDEO](https://video.tv.adobe.com/v/342249?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410715?captions=fre_fr&quality=12&learn=on&hidetitle=true)

@@ -33,7 +33,7 @@ Découvrez comment transformer des pages web en PDF à la volée avec l’extens
 
 <br> 
 
->[!VIDEO](https://video.tv.adobe.com/v/337248?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409094?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

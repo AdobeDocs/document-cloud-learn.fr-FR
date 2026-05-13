@@ -30,7 +30,7 @@ ht-degree: 0%
 
 Suivez la visite guidée en vidéo de l’espace de travail d’Acrobat Sign pour vous familiariser avec l’application.
 
->[!VIDEO](https://video.tv.adobe.com/v/41205?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425254?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

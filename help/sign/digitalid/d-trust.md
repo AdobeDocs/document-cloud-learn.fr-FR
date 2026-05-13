@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Découvrez comment enregistrer votre identité avec [!DNL D-Trust], puis utiliser la signature numérique [!DNL D-Trust] sur un document dans Acrobat Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/3410193?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3449146?captions=fre_fr&quality=12&learn=on&hidetitle=true)

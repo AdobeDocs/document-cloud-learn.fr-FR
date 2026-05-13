@@ -30,7 +30,7 @@ ht-degree: 7%
 
 L’envoi d’un document pour signature unique est l’action la plus courante dans Acrobat Sign. Dans ce tutoriel, découvrez la méthode la plus simple pour préparer et envoyer un document pour signature.
 
->[!VIDEO](https://video.tv.adobe.com/v/341295?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3425269?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

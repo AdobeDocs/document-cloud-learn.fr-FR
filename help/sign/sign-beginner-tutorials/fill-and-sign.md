@@ -27,4 +27,4 @@ ht-degree: 0%
 
 Découvrez comment remplir les formulaires **ET** et ajouter votre signature électronique aux documents.
 
->[!VIDEO](https://video.tv.adobe.com/v/33660?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3410708?captions=fre_fr&quality=12&learn=on&hidetitle=true)

@@ -31,7 +31,7 @@ Faites bouger les affaires en collectant des [signatures électroniques](https:/
 >
 >Vous devez disposer d’un droit d’accès Acrobat Sign Enterprise en plus de votre abonnement Acrobat Enterprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/338359?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/347162?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >

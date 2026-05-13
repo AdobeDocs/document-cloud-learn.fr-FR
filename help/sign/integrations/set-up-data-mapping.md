@@ -31,4 +31,4 @@ ht-degree: 0%
 
 Découvrez comment configurer le mappage de données pour Acrobat Sign dans [!DNL Salesforce]. Le mappage de données vous permet de récupérer les données _dans [!DNL Salesforce] après la signature d&#39;un accord._
 
->[!VIDEO](https://video.tv.adobe.com/v/3409073?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3412803?captions=fre_fr&quality=12&learn=on&hidetitle=true)
