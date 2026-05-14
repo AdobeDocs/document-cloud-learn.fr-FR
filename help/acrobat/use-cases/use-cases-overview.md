@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 1d62c09eb558d00dd6cb3ed26985556c4d09f4ec
+source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
@@ -55,6 +55,18 @@ Découvrez comment des équipes de différents secteurs d’activité utilisent 
     <br>
   </td>
   <td>
+    <a href="lob/marketing/marketing-overview.md">
+      <img alt="Cas d’utilisation marketing" src="../assets/use-case-marketing.png" />
+    </a>
+    <div>
+    <a href="lob/marketing/marketing-overview.md"><strong>Cas d’utilisation marketing</strong></a>
+    </div>
+    <em>Découvrez comment les équipes marketing rationalisent la collaboration, accélèrent les approbations et commercialisent plus rapidement de nouvelles idées</em>
+    <br>
+  </td>
+  </tr>
+  <tr>
+  <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="Cas d’utilisation des ventes" src="../assets/use-case-sales.png" />
     </a>
@@ -67,7 +79,7 @@ Découvrez comment des équipes de différents secteurs d’activité utilisent 
 </tr>
 </table>
 
-## Industrie
+## Administration
 
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
