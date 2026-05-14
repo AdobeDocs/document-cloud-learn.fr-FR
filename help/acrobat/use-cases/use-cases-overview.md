@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: d0dff6f4ad6274a97845c5e4b77c7dd968dd18d2
+source-git-commit: 6d5130128ab9c5084b6476ee5bd5c04869a3f0a9
 workflow-type: tm+mt
-source-wordcount: '236'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -64,8 +64,8 @@ Découvrez comment des équipes de différents secteurs d’activité utilisent 
     <em>Découvrez comment les équipes marketing rationalisent la collaboration, accélèrent les approbations et commercialisent plus rapidement de nouvelles idées</em>
     <br>
   </td>
-  </tr>
-  <tr>
+</tr>
+<tr>
   <td>
     <a href="lob/sales/sales-overview.md">
       <img alt="Cas d’utilisation des ventes" src="../assets/use-case-sales.png" />
@@ -75,6 +75,21 @@ Découvrez comment des équipes de différents secteurs d’activité utilisent 
     </div>
     <em>Découvrez comment les équipes commerciales passent de l’insight à l’impact grâce à une collaboration plus intelligente et à une création de contenu plus rapide</em>
     <br>
+  </td>
+  <td>
+        <img alt="Espaceur" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espaceur" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
+  </td>
+  <td>
+        <img alt="Espaceur" src="../assets/Grayspacer.png" />
+        <div>
+        <br>
   </td>
 </tr>
 </table>
