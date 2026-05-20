@@ -18,10 +18,10 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: 539
-ht-degree: 24%
+source-wordcount: 583
+ht-degree: 22%
 
 ---
 
@@ -32,6 +32,10 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Quand utiliser Créer une copie]
+
+Découvrez comment utiliser [Créer une copie](../sign-beginner-tutorials/create-a-copy.md) pour dupliquer un accord existant. Vous pouvez ajuster les modifications nécessaires et les renvoyer en quelques secondes. Pas de reconstruction à partir de zéro.
 
 >[!TAB Modifier un document après l&#39;envoi]
 
@@ -44,10 +48,6 @@ Découvrez comment [gérer et suivre les accords](../sign-beginner-tutorials/man
 >[!TAB Signer électroniquement un document]
 
 Découvrez combien il est facile de [signer](../sign-beginner-tutorials/electronically-sign-a-document.md) un document qui vous est envoyé avec Acrobat Sign.
-
->[!TAB Créer un modèle réutilisable]
-
-Découvrez comment créer un [modèle de document réutilisable](../sign-advanced-users/create-a-template.md).
 
 >[!ENDTABS]
 
@@ -159,7 +159,7 @@ Découvrez comment créer un [modèle de document réutilisable](../sign-advance
     Créez un modèle de document réutilisable pour gagner en rapidité et en cohérence au sein de votre organisation.
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="Repérer les sélections requises avec les groupes de cases à cocher" src="../assets/checkboxes.png" />
     </a>
@@ -169,10 +169,15 @@ Découvrez comment créer un [modèle de document réutilisable](../sign-advance
     Découvrez comment utiliser les groupes de cases à cocher pour contrôler le nombre d’options qu’un signataire peut sélectionner sur un formulaire
     <br>
     </td>
-    <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="Quand utiliser Créer une copie" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>Quand utiliser Créer une copie</strong></a>
+    </div>
+    Découvrez comment utiliser Créer une copie pour dupliquer un accord existant
+    <br>
     </td>
 </tr>
 </table>
