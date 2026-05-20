@@ -8,20 +8,14 @@ jira: KT-6847
 thumbnail: KT-6847.jpg
 exl-id: e58ce43d-2e8e-4804-8f30-6591fa943607
 TQID: https://experienceleague.adobe.com/vh-3Jo7Qm6k-Kt-JAdScJm7RIq7eCB4JmqpH6wLoHLE
-product_v2:
-  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
-  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
-  - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
-feature_v2:
-  - id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e7b587ebd5c53bb275289de2afba95f510746074
+product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+feature_v2: id: a8a587a8-9b83-4ab3-a2c9-24c085c8c7ba
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 6be89d2539d3a17a74f75460b58b924590e89d43
 workflow-type: tm+mt
-source-wordcount: 539
-ht-degree: 24%
+source-wordcount: 583
+ht-degree: 22%
 
 ---
 
@@ -32,6 +26,10 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Quand utiliser Créer une copie]
+
+Découvrez comment utiliser [Créer une copie](../sign-beginner-tutorials/create-a-copy.md) pour dupliquer un accord existant. Vous pouvez ajuster les modifications nécessaires et les renvoyer en quelques secondes. Pas de reconstruction à partir de zéro.
 
 >[!TAB Modifier un document après l&#39;envoi]
 
@@ -44,10 +42,6 @@ Découvrez comment [gérer et suivre les accords](../sign-beginner-tutorials/man
 >[!TAB Signer électroniquement un document]
 
 Découvrez combien il est facile de [signer](../sign-beginner-tutorials/electronically-sign-a-document.md) un document qui vous est envoyé avec Acrobat Sign.
-
->[!TAB Créer un modèle réutilisable]
-
-Découvrez comment créer un [modèle de document réutilisable](../sign-advanced-users/create-a-template.md).
 
 >[!ENDTABS]
 
@@ -159,7 +153,7 @@ Découvrez comment créer un [modèle de document réutilisable](../sign-advance
     Créez un modèle de document réutilisable pour gagner en rapidité et en cohérence au sein de votre organisation.
     <br>
   </td>
-    <td>
+  <td>
      <a href="checkbox-groups.md">
       <img alt="Repérer les sélections requises avec les groupes de cases à cocher" src="../assets/checkboxes.png" />
     </a>
@@ -169,10 +163,15 @@ Découvrez comment créer un [modèle de document réutilisable](../sign-advance
     Découvrez comment utiliser les groupes de cases à cocher pour contrôler le nombre d’options qu’un signataire peut sélectionner sur un formulaire
     <br>
     </td>
-    <td>
-      <img alt="Espaceur" src="../assets/Whitespacer.png" />
-      <div>
-      <br>
+  <td>
+     <a href="create-a-copy.md">
+      <img alt="Quand utiliser Créer une copie" src="../assets/create-copy.png" />
+    </a>
+    <div>
+    <a href="create-a-copy.md"><strong>Quand utiliser Créer une copie</strong></a>
+    </div>
+    Découvrez comment utiliser Créer une copie pour dupliquer un accord existant
+    <br>
     </td>
 </tr>
 </table>
