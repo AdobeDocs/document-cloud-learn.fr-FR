@@ -26,4 +26,4 @@ Vous avez déjà envoyé un accord, mais il a expiré, a été annulé ou vous d
 >
 >Créer une copie est disponible pour les formules d’entreprise.
 
->[!VIDEO](https://video.tv.adobe.com/v/3491372?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491374?captions=fre_fr&quality=12&learn=on&hidetitle=true)

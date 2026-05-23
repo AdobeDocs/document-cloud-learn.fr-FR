@@ -19,5 +19,5 @@ Dans ce tutoriel, suivez une responsable du marketing qui utilise un espace de P
 
 **Idéal pour :** les responsables marketing et les prospects, les responsables de projet/programme et les équipes de communication et d’activation
 
->[!VIDEO](https://video.tv.adobe.com/v/3491107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3491109?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
