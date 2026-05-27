@@ -28,11 +28,11 @@ Découvrez comment un [formulaire web](../sign-advanced-users/webform.md) est ut
 
 [!BADGE Cas D’Utilisation]
 
-* [Candidature de stage de formulaire web pour l’éducation](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=en)
+* [Candidature de stage de formulaire web pour l’éducation](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html?lang=fr)
 Découvrez comment les formulaires web sont utilisés pour améliorer l’accès des étudiants aux formulaires requis.
-* [Création d’une application de stage de formulaire web pour l’éducation](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=en)
+* [Création d’une application de stage de formulaire web pour l’éducation](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html?lang=fr)
 Apprenez à créer un formulaire web de stage
-* [Subventions et prêts aux entreprises](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=en)
-* [Aide au réemploi](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=en)
+* [Subventions et prêts aux entreprises](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovgrants.html?lang=fr)
+* [Aide au réemploi](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/usecasegovreemployment.html?lang=fr)
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421619?quality=12&learn=on&hidetitle=true)
