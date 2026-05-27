@@ -25,18 +25,18 @@ Découvrez comment les équipes juridiques utilisent Acrobat Studio pour analyse
 
 Commencez par analyser des documents juridiques complexes, mettre en évidence les principaux changements et identifier les risques à l&#39;aide d&#39;informations optimisées par l&#39;IA.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481636?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481634?quality=12&learn=on&hidetitle=true)
 
 ## Étape 2. Collaborez en toute sécurité lors de la révision juridique
 
 Les informations sont maintenant prêtes pour la révision de l’équipe. Découvrez comment réduire le chaos des e-mails, maintenir le contrôle de version et collaborer en toute sécurité sur des révisions juridiques complexes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481649?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481646?quality=12&learn=on&hidetitle=true)
 
 ## Étape 3. Transformer les informations juridiques en contenu prêt à l’emploi
 
 Les commentaires sont terminés et le contenu est prêt à être diffusé. Découvrez comment les équipes juridiques rédigent rapidement des conseils, appliquent une image de marque approuvée et proposent des mots de PDF sécurisés et accessibles.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481660?captions=fre_fr&quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3481647?quality=12&learn=on&hidetitle=true)
 
 Vous disposez désormais d’un processus reproductible pour comprendre les documents juridiques, collaborer en toute sécurité et créer des conseils clairs et prêts à l’emploi.
