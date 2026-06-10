@@ -9,9 +9,9 @@ feature-set: Document Cloud
 role: User
 type: Tutorial
 auto-video-transcripts: true
-source-git-commit: 89b2dc5ef550dff86ca2228997b7d1bda3476cd4
+source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
 workflow-type: tm+mt
-source-wordcount: 682
+source-wordcount: 689
 ht-degree: 5%
 
 ---
@@ -100,6 +100,9 @@ ht-degree: 5%
       + RH {#hr}
          + [Présentation](use-cases/lob/hr/hr-overview.md)
          + [Des perspectives à l’impact : rationalisez les workflows d’intégration](use-cases/lob/hr/hr-insights.md)
+      + IT {#it}
+         + [Présentation](use-cases/lob/it/it-overview.md)
+         + [Activation informatique sans goulot d’étranglement](use-cases/lob/it/it-enablement.md)
       + Mentions légales {#legal}
          + [Présentation](use-cases/lob/legal/legal-overview.md)
          + [Transformer les informations juridiques en conseils pratiques](use-cases/lob/legal/legal-insights.md)

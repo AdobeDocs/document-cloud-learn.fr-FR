@@ -7,9 +7,9 @@ level: Beginner, Intermediate, Experienced
 thumbnail: KT-6860.jpg
 jira: KT-6860
 exl-id: 08886d95-8ddf-42a7-a802-7241d85fd9ff
-source-git-commit: 00f1d9b37a4e9d2a76b7585bf97bd56b7b647f68
+source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '264'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,16 @@ Découvrez comment des équipes de différents secteurs d’activité utilisent 
       <br>
     </td>
     <td>
+      <a href="lob/it/it-overview.md">
+        <img alt="Cas d’utilisation IT" src="../assets/use-case-it.png" />
+      </a>
+      <div>
+      <a href="lob/it/it-overview.md"><strong>Cas d’utilisation informatiques</strong></a>
+      </div>
+      <em>Découvrez comment les équipes informatiques utilisent Acrobat Studio pour rationaliser les workflows documentaires, renforcer la sécurité et la conformité, et faire évoluer les programmes de gouvernance dans l’ensemble de l’entreprise</em>
+      <br>
+    </td>
+    <td>
       <a href="lob/legal/legal-overview.md">
         <img alt="Cas d’utilisation légaux" src="../assets/use-case-legal.png" />
       </a>
@@ -54,6 +64,8 @@ Découvrez comment des équipes de différents secteurs d’activité utilisent 
       <em>Découvrez comment les équipes juridiques comprennent rapidement les documents complexes et les risques et changements critiques de surface</em>
       <br>
     </td>
+  </tr>
+  <tr>
     <td>
       <a href="lob/marketing/marketing-overview.md">
         <img alt="Cas d’utilisation marketing" src="../assets/use-case-marketing.png" />
@@ -64,8 +76,6 @@ Découvrez comment des équipes de différents secteurs d’activité utilisent 
       <em>Découvrez comment les équipes marketing rationalisent la collaboration, accélèrent les approbations et commercialisent plus rapidement de nouvelles idées</em>
       <br>
     </td>
-  </tr>
-  <tr>
     <td>
       <a href="lob/sales/sales-overview.md">
         <img alt="Cas d’utilisation des ventes" src="../assets/use-case-sales.png" />
@@ -75,11 +85,6 @@ Découvrez comment des équipes de différents secteurs d’activité utilisent 
       </div>
       <em>Découvrez comment les équipes commerciales passent de l’insight à l’impact grâce à une collaboration plus intelligente et à une création de contenu plus rapide</em>
       <br>
-    </td>
-    <td>
-          <img alt="Espaceur" src="../assets/Grayspacer.png" />
-          <div>
-          <br>
     </td>
     <td>
           <img alt="Espaceur" src="../assets/Grayspacer.png" />
