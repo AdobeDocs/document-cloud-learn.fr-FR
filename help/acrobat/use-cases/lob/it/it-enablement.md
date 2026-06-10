@@ -5,7 +5,7 @@ feature: Gen AI
 role: User
 level: Intermediate
 jira: KT-21582
-source-git-commit: d6924927618a9dac4a208d03e55601fdf0232695
+source-git-commit: dba63896a6b35d2c8930ad2fad2f92fc8d833945
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 1%
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 # Activation informatique sans goulot d’étranglement
 
-Dans ce tutoriel, suivez un membre de l’équipe informatique de SecurFinancial à travers trois workflows réalistes. Supprimez les informations personnelles et générez un résumé à partir d’un rapport d’incident. Analysez un contrat fournisseur par rapport à vos normes de sécurité internes et produisez un questionnaire de suivi. Transformez ensuite les documents de stratégie statiques en une ressource de gouvernance interactive à l’échelle de l’entreprise à laquelle les employés peuvent accéder et qu’ils peuvent interroger sur n’importe quel appareil. Chaque tutoriel utilise l’assistant IA, les espaces PDF et l’Adobe Express d’Acrobat Studio pour réduire les heures de travail manuel à quelques minutes, tout en gardant le contrôle informatique de chaque étape.Ce cas d’utilisation est conçu pour être complété dans l’ordre, chaque vidéo s’appuyant sur l’étape précédente.
+Dans ce tutoriel, suivez un membre de l’équipe informatique de SecurFinancial à travers trois workflows réalistes. Supprimez les informations personnelles et générez un résumé à partir d’un rapport d’incident. Analysez un contrat fournisseur par rapport à vos normes de sécurité internes et produisez un questionnaire de suivi. Transformez ensuite les documents de stratégie statiques en une ressource de gouvernance interactive à l’échelle de l’entreprise à laquelle les employés peuvent accéder et qu’ils peuvent interroger sur n’importe quel appareil. Chaque tutoriel utilise l’assistant IA, les espaces de PDF et l’Adobe Express d’Acrobat Studio pour réduire les heures de travail manuel à quelques minutes, tout en gardant le contrôle informatique de chaque étape. Ce cas d’utilisation est conçu pour être complété dans l’ordre, chaque vidéo s’appuyant sur l’étape précédente.
 
 **Idéal pour :** les directeurs informatiques, les équipes de sécurité et d’exploitation
 
