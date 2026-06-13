@@ -22,19 +22,19 @@ Dans ce tutoriel, suivez un membre de l’équipe informatique de SecurFinancial
 
 Commencez par supprimer les informations sensibles d’un rapport d’incident, sécurisez et partagez le document et générez une présentation prête à l’emploi, le tout sans quitter Acrobat Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492183?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492187?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Étape 2. Analyser et agir sur un contrat fournisseur
 
 En vous appuyant sur le rapport d’incident sécurisé de la première partie, découvrez comment analyser un contrat fournisseur par rapport aux normes de sécurité de votre entreprise, repérer instantanément les écarts d’alignement et générer un questionnaire de suivi, le tout à partir d’un seul espace PDF.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492184?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492196?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 ## Étape 3. Élaborer et déployer une politique de gouvernance de l’IA
 
 Découvrez comment transformer des documents de stratégie statiques en un espace de travail gouverné et interactif, puis le déployer en tant que ressource libre-service accessible et interrogeable par l’ensemble de l’entreprise sur n’importe quel appareil.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492185?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492205?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 Vous avez sécurisé et résumé un rapport d’incident, analysé un contrat fournisseur par rapport à vos normes de sécurité internes et transformé des documents de stratégie statiques en une ressource libre-service gérée pour l’ensemble de votre organisation : trois workflows, une plateforme, aucun changement d’outil.
 
