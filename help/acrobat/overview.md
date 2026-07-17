@@ -18,16 +18,20 @@ level_v2:
 topic_v2:
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+source-git-commit: ed17f6a547ddf4e1fd7f5675bade9e2457cc14cb
 workflow-type: tm+mt
-source-wordcount: 483
-ht-degree: 1%
+source-wordcount: 802
+ht-degree: 2%
 
 ---
 
 # Tutoriels Acrobat
 
 Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activité en convertissant, modifiant, partageant et signant des mots de PDF. Vous trouverez ici un large éventail d’expériences d’apprentissage conçues pour mettre rapidement à jour les connaissances des utilisateurs débutants et expérimentés sur Adobe Acrobat.
+
+>[!NOTE]
+>
+>L’accès aux fonctionnalités dépend de votre formule Acrobat. Utilisez la [comparaison des formules Acrobat](https://www.adobe.com/fr/acrobat/pricing.html) pour identifier les fonctionnalités à votre disposition. Certaines fonctionnalités sont déployées par phases et peuvent ne pas être encore disponibles pour tout le monde.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
