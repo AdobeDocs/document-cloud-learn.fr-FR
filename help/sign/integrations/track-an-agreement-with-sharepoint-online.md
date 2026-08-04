@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Découvrez comment suivre la progression d’un accord directement dans Microsoft SharePoint. Après avoir envoyé un document pour signature, vous pouvez suivre son statut sans jamais quitter SharePoint.
 
->[!VIDEO](https://video.tv.adobe.com/v/29767t1?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409584?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 >[!TIP]
 >
