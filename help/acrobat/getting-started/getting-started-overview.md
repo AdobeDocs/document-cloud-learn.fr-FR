@@ -58,7 +58,7 @@ Découvrez comment [découvrir les informations du PDF](ai-assistant.md) dans vo
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="Qu’est-ce qu’Acrobat Studio ?" target="_blank" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" title="Qu’est-ce qu’Acrobat Studio ?" target="_blank" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/media_12789c7c38d4d314c98ac632578aa46e427cdf603.webp?width=400&format=webply&optimize=medium" alt="Qu’est-ce qu’Acrobat Studio ?"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -67,11 +67,11 @@ Découvrez comment [découvrir les informations du PDF](ai-assistant.md) dans vo
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" title="Qu’est-ce qu’Acrobat Studio ?">Qu’est-ce qu’Acrobat Studio ?</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" title="Qu’est-ce qu’Acrobat Studio ?">Qu’est-ce qu’Acrobat Studio ?</a>
                     </p>
                     <p class="is-size-6">Apprenez à créer du contenu de marque sécurisée, à extraire des informations et à rationaliser des travaux complexes avec Acrobat Studio</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Regarder</span>
                 </a>
             </div>
