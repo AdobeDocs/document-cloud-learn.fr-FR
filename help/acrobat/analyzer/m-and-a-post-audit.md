@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Découvrez comment Analyzer dans Acrobat Studio peut aider les entreprises à exécuter un audit de contrat M&amp;A post-intégration en quelques minutes au lieu de plusieurs semaines, en utilisant GenAI pour extraire des informations critiques et aider à trouver les contrats à risque.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496356?captions=fre_fr&quality=12&learn=on&hidetitle=true)
