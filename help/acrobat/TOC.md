@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
+source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 5%
+source-wordcount: '704'
+ht-degree: 6%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 5%
     + [Qu’est-ce qu’Acrobat Studio ?](getting-started/acrobat-studio.md)
     + [Espace de travail – Principes de base](getting-started/workspace-basics.md)
     + [Nouvelle expérience Acrobat](getting-started/new-experience.md)
-    + [Travailler avec  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
+    + [Travailler avec  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
     + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
     + [Productivité mobile](getting-started/productivity.md)
     + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
@@ -79,11 +79,16 @@ ht-degree: 5%
     + [Commandes et outils personnalisés](advanced-tasks/custom.md)
 + Optimisé par l’IA {#ai-powered}
   + [Présentation](ai-powered/ai-overview.md)
-  + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-  + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+  + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
   + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-  + [Modification de graphiques dans un PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-  + [Styliser ce PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+  + [Modification de graphiques dans un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+  + [Styliser ce PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Analyzer dans Acrobat Studio {#analyzer}
+  + [Présentation](analyzer/analyzer-overview.md)
+  + [Prise en main](analyzer/get-started.md)
+  + [Collections](analyzer/collections.md)
+  + [Audit du contrat de post-intégration M&amp;A](analyzer/m-and-a-post-audit.md)
 + Cas d’utilisation {#use-cases}
   + [Présentation](use-cases/use-cases-overview.md)
   + Secteur d’activité {#lob}
@@ -119,7 +124,7 @@ ht-degree: 5%
   + [Modifier le PDF avec Acrobat sur le web](60-second/edit.md)
   + [Reconnaissance du texte dans un fichier de PDF numérisé](60-second/textrecognition.md)
   + [Combiner des fichiers dans un seul PDF](60-second/combine-to-one-pdf.md)
-  + [Organiser les pages en un clin d’œil](60-second/organize.md)
+  + [Organisation des pages dans un contraint](60-second/organize.md)
   + [Modifier une photo dans votre PDF](60-second/editphoto.md)
   + [Modification d’une image dans votre PDF](60-second/editgraphic.md)
   + [Conversion d’un PDF au format Word](60-second/convert-pdf-word.md)
@@ -131,7 +136,7 @@ ht-degree: 5%
   + [Convertir Word en PDF avec champs de formulaire](60-second/wordform.md)
   + [Création d’un PDF de photos en un instant](60-second/photo.md)
   + [Conversion d’un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
-  + [Créez des fichiers de PDF plus efficaces en un clin d’œil](60-second/optimize.md)
+  + [Création de fichiers de PDF plus efficaces dans un contraint](60-second/optimize.md)
   + [Signer électroniquement un document papier](60-second/sign.md)
   + [Protect de vos fichiers de mot de PDF avec un mot de passe](60-second/protect.md)
   + [Biffure : la bonne façon](60-second/redaction.md)
@@ -163,5 +168,5 @@ ht-degree: 5%
   + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
   + [Présentation](mobile/mobile-overview.md)
-  + [Productivité mobile](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+  + [Productivité mobile](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
   + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
