@@ -4,10 +4,10 @@ description: En savoir plus sur Analyzer dans Acrobat Studio
 feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
-jira: KT-2255id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+jira: KT-22555
+source-git-commit: 7e88f11d4e543c26bcb4039810f5f0c3b7888778
 workflow-type: tm+mt
-source-wordcount: 161
+source-wordcount: '161'
 ht-degree: 2%
 
 ---
@@ -44,7 +44,7 @@ Apprenez à créer des [collections](collections.md) manuelles et liées, à app
     Découvrez comment Analyzer vous aide à extraire des données structurées et citées de grands volumes de documents dans Acrobat Studio
     <br>
   </td>
- <td>
+  <td>
     <a href="collections.md">
       <img alt="Utiliser les collections" src="../assets/analyzer_collections.png" />
     </a>
@@ -68,6 +68,6 @@ Apprenez à créer des [collections](collections.md) manuelles et liées, à app
       <img alt="Espaceur" src="../assets/Whitespacer.png" />
       <div>
       <br>
-    </td>
+  </td>
 </tr>
 </table>
