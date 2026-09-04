@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 0bf989162b19c40c04b3367e3620587c631feb37
+source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '702'
 ht-degree: 6%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 6%
     + [Qu’est-ce qu’Acrobat Studio ?](getting-started/acrobat-studio.md)
     + [Espace de travail – Principes de base](getting-started/workspace-basics.md)
     + [Nouvelle expérience Acrobat](getting-started/new-experience.md)
-    + [Travailler avec  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
+    + [Travailler avec  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
     + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
     + [Productivité mobile](getting-started/productivity.md)
     + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
@@ -79,15 +79,15 @@ ht-degree: 6%
     + [Commandes et outils personnalisés](advanced-tasks/custom.md)
 + Optimisé par l’IA {#ai-powered}
   + [Présentation](ai-powered/ai-overview.md)
-  + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-  + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+  + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
   + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
-  + [Modification de graphiques dans un PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-  + [Styliser ce PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+  + [Modification de graphiques dans un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+  + [Styliser ce PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Analyzer dans Acrobat Studio {#analyzer}
   + [Présentation](analyzer/analyzer-overview.md)
   + [Prise en main](analyzer/get-started.md)
-  + [Collections](analyzer/collections.md)
+  + [Utiliser les collections](analyzer/collections.md)
   + [Audit du contrat de post-intégration M&amp;A](analyzer/m-and-a-post-audit.md)
 + Cas d’utilisation {#use-cases}
   + [Présentation](use-cases/use-cases-overview.md)
@@ -168,5 +168,5 @@ ht-degree: 6%
   + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
   + [Présentation](mobile/mobile-overview.md)
-  + [Productivité mobile](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+  + [Productivité mobile](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
   + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
