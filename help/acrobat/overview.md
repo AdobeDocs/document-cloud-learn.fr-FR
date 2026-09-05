@@ -140,7 +140,7 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="Prise en main" target="_self" rel="referrer">
+                    <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" title="Prise en main" target="_self" rel="referrer">
                         <img class="is-bordered-r-small" src="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/analyzer/media_1052181d9e75a3ece8d8885c16c96135101b56a6d.png?width=400&format=webply&optimize=medium" alt="Analyzer dans Acrobat Studio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
@@ -149,11 +149,11 @@ Adobe Acrobat, une solution Adobe Document Cloud, permet de maintenir l’activi
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="Prise en main">Analyser dans Acrobat Studio</a>
+                        <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" title="Prise en main">Analyser dans Acrobat Studio</a>
                     </p>
                     <p class="is-size-6">Découvrez comment Analyzer vous aide à extraire des données structurées et citées de grands volumes de documents dans Acrobat Studio</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/analyzer/analyzer-overview" target="_self" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Explorer</span>
                 </a>
             </div>
