@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: f6dc02139caacbab8468d056fbcaef3534c09e1d
+source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 5%
+source-wordcount: '702'
+ht-degree: 6%
 
 ---
 
@@ -84,6 +84,11 @@ ht-degree: 5%
   + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [Modification de graphiques dans un PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Styliser ce PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
++ Analyzer dans Acrobat Studio {#analyzer}
+  + [Présentation](analyzer/analyzer-overview.md)
+  + [Prise en main](analyzer/get-started.md)
+  + [Utiliser les collections](analyzer/collections.md)
+  + [Audit du contrat de post-intégration M&amp;A](analyzer/m-and-a-post-audit.md)
 + Cas d’utilisation {#use-cases}
   + [Présentation](use-cases/use-cases-overview.md)
   + Secteur d’activité {#lob}
@@ -119,7 +124,7 @@ ht-degree: 5%
   + [Modifier le PDF avec Acrobat sur le web](60-second/edit.md)
   + [Reconnaissance du texte dans un fichier de PDF numérisé](60-second/textrecognition.md)
   + [Combiner des fichiers dans un seul PDF](60-second/combine-to-one-pdf.md)
-  + [Organiser les pages en un clin d’œil](60-second/organize.md)
+  + [Organisation des pages dans un contraint](60-second/organize.md)
   + [Modifier une photo dans votre PDF](60-second/editphoto.md)
   + [Modification d’une image dans votre PDF](60-second/editgraphic.md)
   + [Conversion d’un PDF au format Word](60-second/convert-pdf-word.md)
@@ -131,7 +136,7 @@ ht-degree: 5%
   + [Convertir Word en PDF avec champs de formulaire](60-second/wordform.md)
   + [Création d’un PDF de photos en un instant](60-second/photo.md)
   + [Conversion d’un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
-  + [Créez des fichiers de PDF plus efficaces en un clin d’œil](60-second/optimize.md)
+  + [Création de fichiers de PDF plus efficaces dans un contraint](60-second/optimize.md)
   + [Signer électroniquement un document papier](60-second/sign.md)
   + [Protect de vos fichiers de mot de PDF avec un mot de passe](60-second/protect.md)
   + [Biffure : la bonne façon](60-second/redaction.md)
