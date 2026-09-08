@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: be030b0a26f367e8c79cdf08329b1597c1e4ee8b
+source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
 workflow-type: tm+mt
-source-wordcount: '702'
+source-wordcount: '705'
 ht-degree: 6%
 
 ---
@@ -88,6 +88,7 @@ ht-degree: 6%
   + [Présentation](analyzer/analyzer-overview.md)
   + [Prise en main](analyzer/get-started.md)
   + [Utiliser les collections](analyzer/collections.md)
+  + [Utilisation des attributs](analyzer/attributes.md)
   + [Audit du contrat de post-intégration M&amp;A](analyzer/m-and-a-post-audit.md)
 + Cas d’utilisation {#use-cases}
   + [Présentation](use-cases/use-cases-overview.md)
@@ -136,7 +137,7 @@ ht-degree: 6%
   + [Convertir Word en PDF avec champs de formulaire](60-second/wordform.md)
   + [Création d’un PDF de photos en un instant](60-second/photo.md)
   + [Conversion d’un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
-  + [Création de fichiers de PDF plus efficaces dans un contraint](60-second/optimize.md)
+  + [Créez des fichiers de PDF plus efficaces en un clin d’œil](60-second/optimize.md)
   + [Signer électroniquement un document papier](60-second/sign.md)
   + [Protect de vos fichiers de mot de PDF avec un mot de passe](60-second/protect.md)
   + [Biffure : la bonne façon](60-second/redaction.md)
