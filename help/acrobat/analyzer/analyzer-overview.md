@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: b7d8f600864bafa0c45dfae4e1896180c06e514d
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 1%
+source-wordcount: '199'
+ht-degree: 2%
 
 ---
 
@@ -69,11 +69,11 @@ Découvrez comment créer, tester et affiner les [attributs](attributes.md) avec
     <br>
   </td>
   <td>
-    <a href="/help/acrobat/analyzer/use-case/use-case-overview.md">
-      <img alt="Cas d’utilisation d’Analyzer" src="../assets/analyzer_usecases.png" />
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md">
+      <img alt="Analyzer dans les cas d’utilisation d’Acrobat Studio" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    &lt;a href=« /help/acrobat/analyzer/use-case/m-and-a-post-audit.md&gt;<strong>Cas d’utilisation d’Analyzer</strong></a>
+    <a href="/help/acrobat/analyzer/use-cases/use-case-overview.md"><strong>Cas d’utilisation d’Analyzer dans Acrobat Studio</strong></a>
     </div>
     Explorez des cas d’utilisation réels qui montrent comment les organisations peuvent rationaliser les processus de révision, découvrir des informations et transformer le contenu des documents en données prêtes à l’emploi
     <br>
