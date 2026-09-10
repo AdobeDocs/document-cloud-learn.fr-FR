@@ -5,10 +5,10 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: b7d8f600864bafa0c45dfae4e1896180c06e514d
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 2%
+source-wordcount: '205'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,11 @@ Analyzer dans Acrobat Studio aide les utilisateurs professionnels à extraire de
 
 >[!TAB Utiliser les collections]
 
-Apprenez à créer des [collections](collections.md) manuelles et liées, à appliquer des attributs et à organiser les documents au fur et à mesure que votre contenu se développe.
+Découvrez comment créer des [collections](collections.md) manuelles et liées, appliquer des attributs et organiser les documents au fur et à mesure que votre contenu se développe.
+
+>[!TAB Utilisation des attributs]
+
+Découvrez comment créer, tester et affiner les [attributs](attributes.md) avec Analyzer dans Acrobat Studio.
 
 >[!ENDTABS]
 
@@ -65,13 +69,13 @@ Apprenez à créer des [collections](collections.md) manuelles et liées, à app
     <br>
   </td>
   <td>
-    <a href="m-and-a-post-audit.md">
-      <img alt="Audit du contrat de post-intégration M&amp;A" src="../assets/m-and-a.jpg" />
+    <a href="/help/acrobat/analyzer/use-case/use-case-overview.md">
+      <img alt="Cas d’utilisation d’Analyzer" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>Audit de contrat de post-intégration M&amp;A</strong></a>
+    &lt;a href=« /help/acrobat/analyzer/use-case/m-and-a-post-audit.md&gt;<strong>Cas d’utilisation d’Analyzer</strong></a>
     </div>
-    Découvrez comment Analyzer peut aider les entreprises à réaliser un audit de contrat de fusion et acquisition en quelques minutes au lieu de plusieurs semaines
+    Explorez des cas d’utilisation réels qui montrent comment les organisations peuvent rationaliser les processus de révision, découvrir des informations et transformer le contenu des documents en données prêtes à l’emploi
     <br>
   </td>
 </tr>
