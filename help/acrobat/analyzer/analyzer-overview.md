@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: e5aa5a71abbd36787fdc0e4dcd1ed63315869924
+source-git-commit: af50780d9075bc8c926194ea44f8c1030e6b5f42
 workflow-type: tm+mt
-source-wordcount: '179'
+source-wordcount: '199'
 ht-degree: 2%
 
 ---
@@ -26,7 +26,11 @@ Analyzer dans Acrobat Studio aide les utilisateurs professionnels à extraire de
 
 >[!TAB Utiliser les collections]
 
-Apprenez à créer des [collections](collections.md) manuelles et liées, à appliquer des attributs et à organiser les documents au fur et à mesure que votre contenu se développe.
+Découvrez comment créer des [collections](collections.md) manuelles et liées, appliquer des attributs et organiser les documents au fur et à mesure que votre contenu se développe.
+
+>[!TAB Utilisation des attributs]
+
+Découvrez comment créer, tester et affiner les [attributs](attributes.md) avec Analyzer dans Acrobat Studio.
 
 >[!ENDTABS]
 
@@ -65,13 +69,13 @@ Apprenez à créer des [collections](collections.md) manuelles et liées, à app
     <br>
   </td>
   <td>
-    <a href="m-and-a-post-audit.md">
-      <img alt="Audit du contrat de post-intégration M&amp;A" src="../assets/m-and-a.jpg" />
+    <a href="use-cases/use-case-overview.md">
+      <img alt="Analyzer dans les cas d’utilisation d’Acrobat Studio" src="../assets/analyzer_usecases.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>Audit de contrat de post-intégration M&amp;A</strong></a>
+    <a href="use-cases/use-case-overview.md"><strong>Cas d’utilisation d’Analyzer dans Acrobat Studio</strong></a>
     </div>
-    Découvrez comment Analyzer peut aider les entreprises à réaliser un audit de contrat de fusion et acquisition en quelques minutes au lieu de plusieurs semaines
+    Explorez des cas d’utilisation réels qui montrent comment les organisations peuvent rationaliser les processus de révision, découvrir des informations et transformer le contenu des documents en données prêtes à l’emploi
     <br>
   </td>
 </tr>

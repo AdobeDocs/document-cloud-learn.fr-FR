@@ -1,13 +1,13 @@
 ---
 title: Audit du contrat de post-intégration M&A
-description: Découvrez comment Analyzer peut aider les entreprises à réaliser un audit de contrat de fusion et acquisition en quelques minutes au lieu de plusieurs semaines
+description: Découvrez comment Analyzer dans Acrobat Studio peut aider les entreprises à exécuter un audit de contrat de fusion et acquisition après l’intégration en quelques minutes au lieu de plusieurs semaines
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22149
-source-git-commit: fbafd7f563aefc530cdd9d0e7d75a4e29ae8dceb
+source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
 workflow-type: tm+mt
-source-wordcount: '68'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---

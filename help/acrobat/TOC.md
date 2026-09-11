@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 494aca2da9f3540264d81d60620a7a442a85ebc2
+source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '733'
 ht-degree: 6%
 
 ---
@@ -89,7 +89,11 @@ ht-degree: 6%
   + [Prise en main](analyzer/get-started.md)
   + [Utiliser les collections](analyzer/collections.md)
   + [Utilisation des attributs](analyzer/attributes.md)
-  + [Audit du contrat de post-intégration M&amp;A](analyzer/m-and-a-post-audit.md)
+  + Cas d’utilisation {#use-cases}
+    + [Présentation](/help/acrobat/analyzer/use-cases/use-case-overview.md)
+    + [Audit du contrat de post-intégration M&amp;A](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Accélérer la révision des produits et de l’audit dans la finance](analyzer/use-cases/accelerate-revenue.md)
+    + [Transformer les risques liés à la confidentialité des données en visibilité et surveillance totales](analyzer/use-cases/data-privacy-risk.md)
   + [Webinaires](https://experienceleague.adobe.com/fr/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Cas d’utilisation {#use-cases}
   + [Présentation](use-cases/use-cases-overview.md)
@@ -138,7 +142,7 @@ ht-degree: 6%
   + [Convertir Word en PDF avec champs de formulaire](60-second/wordform.md)
   + [Création d’un PDF de photos en un instant](60-second/photo.md)
   + [Conversion d’un fichier PPT en PDF sur votre téléphone](60-second/phone.md)
-  + [Créez des fichiers de PDF plus efficaces en un clin d’œil](60-second/optimize.md)
+  + [Création de fichiers de PDF plus efficaces dans un contraint](60-second/optimize.md)
   + [Signer électroniquement un document papier](60-second/sign.md)
   + [Protect de vos fichiers de mot de PDF avec un mot de passe](60-second/protect.md)
   + [Biffure : la bonne façon](60-second/redaction.md)
