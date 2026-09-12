@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 099945973714aaa8e903af39ce50f92fb213ce1d
+source-git-commit: e99f150b636c45dd0f06959db110c2c3257c897e
 workflow-type: tm+mt
-source-wordcount: '733'
+source-wordcount: '736'
 ht-degree: 6%
 
 ---
@@ -79,9 +79,9 @@ ht-degree: 6%
     + [Commandes et outils personnalisés](advanced-tasks/custom.md)
 + Optimisé par l’IA {#ai-powered}
   + [Présentation](ai-powered/ai-overview.md)
+  + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/acrobat-studio)
   + [Modification de graphiques dans un PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Styliser ce PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Analyzer dans Acrobat Studio {#analyzer}
@@ -89,6 +89,7 @@ ht-degree: 6%
   + [Prise en main](analyzer/get-started.md)
   + [Utiliser les collections](analyzer/collections.md)
   + [Utilisation des attributs](analyzer/attributes.md)
+  + [Explorer les fonctionnalités avancées](analyzer/advanced.md)
   + Cas d’utilisation {#use-cases}
     + [Présentation](/help/acrobat/analyzer/use-cases/use-case-overview.md)
     + [Audit du contrat de post-intégration M&amp;A](analyzer/use-cases/m-and-a-post-audit.md)
