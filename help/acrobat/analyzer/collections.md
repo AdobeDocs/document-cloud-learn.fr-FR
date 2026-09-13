@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Dans Acrobat Studio, Analyzer permet de transformer de grands ensembles de documents en informations structurées et citées. Les collections facilitent ce processus en regroupant les fichiers associés afin que vous puissiez appliquer les attributs appropriés, filtrer les résultats et n’examiner que les informations importantes. Dans cette vidéo, découvrez comment créer des collections manuelles et liées, appliquer des attributs et organiser les documents à mesure que votre contenu se développe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503111?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503122?captions=fre_fr&quality=12&learn=on&hidetitle=true)
