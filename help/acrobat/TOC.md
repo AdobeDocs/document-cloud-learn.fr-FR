@@ -2,9 +2,9 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: 86c5e0581e09572a5ccc52cebbc5db4ad26eeba9
+source-git-commit: a8314b28169e684e8da204aa548b84b67e53c820
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '748'
 ht-degree: 6%
 ---
 
@@ -17,13 +17,14 @@ ht-degree: 6%
     + [Qu’est-ce qu’Acrobat Studio ?](getting-started/acrobat-studio.md)
     + [Espace de travail – Principes de base](getting-started/workspace-basics.md)
     + [Nouvelle expérience Acrobat](getting-started/new-experience.md)
-    + [Travailler avec  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html?lang=fr#microsoft)
+    + [Travailler avec  [!DNL Microsoft 365]](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/integrate-overview.html#microsoft)
     + [Travaillez n’importe où avec Acrobat Web](getting-started/acrobatweb.md)
     + [Productivité mobile](getting-started/productivity.md)
     + [D&#39;où viennent les PDF ?](getting-started/where-do-pdfs-come-from.md)
   + Travaillez plus intelligemment avec l’IA {#ai}
     + [Découvrir les informations du PDF avec l’assistant AI](getting-started/ai-assistant.md)
     + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](getting-started/pdf-spaces-legal.md)
+    + [Création d’un podcast](getting-started/podcast.md)
   + Créer et organiser {#create}
     + [Création d’un PDF](getting-started/create-pdf.md)
     + [Combiner des fichiers dans un seul PDF](getting-started/combine-to-pdf.md)
@@ -77,11 +78,11 @@ ht-degree: 6%
     + [Commandes et outils personnalisés](advanced-tasks/custom.md)
 + Optimisé par l’IA {#ai-powered}
   + [Présentation](ai-powered/ai-overview.md)
-  + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
-  + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
-  + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [Modification de graphiques dans un PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
-  + [Styliser ce PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
+  + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
+  + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
+  + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
+  + [Modification de graphiques dans un PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
+  + [Styliser ce PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Analyzer dans Acrobat Studio {#analyzer}
   + [Présentation](analyzer/analyzer-overview.md)
   + [Prise en main](analyzer/get-started.md)
@@ -94,7 +95,7 @@ ht-degree: 6%
     + [Accélérer la révision des produits et de l’audit dans la finance](analyzer/use-cases/accelerate-revenue.md)
     + [Transformer les risques liés à la confidentialité des données en visibilité et surveillance totales](analyzer/use-cases/data-privacy-risk.md)
     + [Gestion de sous-traitance pour l&#39;identification de la détection des sources de marge d&#39;érosion](analyzer/use-cases/identify-margin-erosion.md)
-  + [Webinaires](https://experienceleague.adobe.com/fr/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
+  + [Webinaires](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Cas d’utilisation {#use-cases}
   + [Présentation](use-cases/use-cases-overview.md)
   + Secteur d’activité {#lob}
@@ -174,5 +175,5 @@ ht-degree: 6%
   + [Mises à jour importantes du produit Acrobat DC pour les clients ETLA](deploy/signentitlementchanges.md)
 + Application mobile {#mobile}
   + [Présentation](mobile/mobile-overview.md)
-  + [Productivité mobile](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
+  + [Productivité mobile](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/basics/productivity)
   + [Numériser n’importe quel document dans le PDF](mobile/scan-mobile-app.md)
