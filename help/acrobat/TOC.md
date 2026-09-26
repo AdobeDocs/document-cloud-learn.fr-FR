@@ -81,7 +81,7 @@ ht-degree: 6%
   + [Qu’est-ce qu’Acrobat Studio ?](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/basics/acrobat-studio)
   + [Découvrir les informations du PDF avec l’assistant AI](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/ai-assistant)
   + [Améliorez l’efficacité de l’équipe avec les Espaces PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/pdf-spaces-legal)
-  + [Création d’un podcast](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
+  + [Création d’un podcast](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/ai/podcast)
   + [Modification de graphiques dans un PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/edit-graphics)
   + [Styliser ce PDF](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/get-started/edit/stylize-this-pdf)
 + Analyzer dans Acrobat Studio {#analyzer}
