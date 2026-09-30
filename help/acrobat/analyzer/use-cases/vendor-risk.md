@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Découvrez comment Analyzer dans Acrobat Studio peut identifier de manière proactive les risques de sécurité des informations liés aux contrats fournisseur.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503853?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503855?captions=fre_fr&quality=12&learn=on&hidetitle=true)

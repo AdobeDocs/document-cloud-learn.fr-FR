@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Rechercher les risques contractuels après une fusion ou une acquisition. Apprenez à analyser des ensembles de contrats volumineux pour identifier les obligations, les conditions et les risques potentiels en quelques minutes au lieu de plusieurs semaines avec Analyzer dans Acrobat Studio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496335?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3496356?captions=fre_fr&quality=12&learn=on&hidetitle=true)

@@ -16,4 +16,4 @@ ht-degree: 0%
 Identifier les problèmes de contrat qui peuvent réduire la rentabilité du projet. Découvrez comment les équipes de construction et de projet peuvent détecter les ordres de modification manqués, les demandes d’information vieillissantes et les lacunes dans les protections de sous-traitance avant qu’ils n’affectent les marges avec Analyzer dans Acrobat Studio.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3503507?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3503509?captions=fre_fr&quality=12&learn=on&hidetitle=true)
