@@ -1,20 +1,19 @@
 ---
-title: Transformer le risque lié à la confidentialité des données en visibilité et surveillance totales
-description: Découvrez comment Analyzer dans Acrobat Studio aide les équipes chargées de la confidentialité, du droit et de l’approvisionnement à extraire, surveiller et valider les termes DPA critiques à grande échelle
+title: Confidentialité et sécurité des informations - Réviser les accords de confidentialité des données
+description: Découvrez comment les équipes chargées de la confidentialité et de la sécurité des informations peuvent identifier les lacunes de conformité et valider les obligations avec des résultats traçables
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22589
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '87'
+source-wordcount: '64'
 ht-degree: 0%
-
 ---
 
+# Confidentialité et sécurité des informations : consultez les accords de confidentialité des données.
 
-# Transformer les risques liés à la confidentialité des données en visibilité et surveillance totales
+Rechercher et surveiller les conditions de confidentialité critiques dans les accords fournisseur et les DPA. Découvrez comment les équipes chargées de la confidentialité et de la sécurité des informations peuvent identifier les lacunes de conformité et valider les obligations avec des résultats traçables avec Analyzer dans Acrobat Studio.
 
-Les obligations en matière de confidentialité des données sont souvent enfouies dans des centaines d&#39;accords de fournisseurs, ce qui rend difficile l&#39;identification des lacunes en matière de conformité avant qu&#39;elles ne deviennent des risques commerciaux. Découvrez comment Analyzer dans Acrobat Studio aide les équipes chargées de la confidentialité, du droit et de l’approvisionnement à extraire, surveiller et valider les termes DPA critiques à grande échelle avec des résultats entièrement traçables.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503312?quality=12&learn=on&hidetitle=true)

@@ -1,20 +1,18 @@
 ---
-title: Accélérer l’examen des produits et de l’audit dans Finance
-description: Découvrez comment Analyzer dans Acrobat Studio aide les équipes financières à extraire, examiner et valider les données de contrat à grande échelle
+title: Finance - Examiner les contrats pour la constatation et les audits des produits
+description: Découvrez comment les équipes financières peuvent se préparer aux audits, prendre en charge la constatation des produits et identifier les risques comptables plus rapidement
 feature: Workflow, Gen AI
 role: User
 level: Intermediate
 jira: KT-22588
-source-git-commit: ca54a427e4885f162f1ec969b0c5918a84269550
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '63'
 ht-degree: 0%
-
 ---
 
+# Finance : Examiner les contrats pour la constatation des produits et les audits
 
-# Accélérer la révision des produits et de l’audit dans la finance
-
-Les informations critiques sur les revenus sont souvent enfouies dans des centaines de contrats, ce qui rend difficile l&#39;identification des risques comptables avant les audits ou la clôture financière. Découvrez comment Analyzer dans Acrobat Studio aide les équipes financières à extraire, examiner et valider les données de contrat à grande échelle pour améliorer la préparation aux audits, la constatation des revenus et la conformité aux contrats de location.
+Extrayez et validez les revenus, les baux et les conditions comptables dans les grands ensembles de contrats. Découvrez comment les équipes financières peuvent se préparer aux audits, prendre en charge la constatation des revenus et identifier les risques comptables plus rapidement avec Analyzer dans Acrobat Studio.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503302?quality=12&learn=on&hidetitle=true)
