@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Découvrez comment utiliser Analyzer dans Acrobat Studio pour transformer des documents complexes en informations claires. Ces courts tutoriels vous aident à démarrer, à explorer les fonctionnalités avancées et à voir des cas d’utilisation réels.
 
-[!BADGE Informatif]{type=Watch overview video url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE Informatif]{type="Watch overview video" url="https://video.tv.adobe.com/v/3503972"}
 
 ## Nouveautés
 
