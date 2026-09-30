@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22555
-source-git-commit: 577634b37e46b0ff2f6240588d27513c5aef24b6
+source-git-commit: 222ff21015d4f90ea250a5b9e4d0971135f33f63
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '451'
 ht-degree: 0%
 ---
 # Présentation d’Analyzer dans Acrobat Studio
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Découvrez comment utiliser Analyzer dans Acrobat Studio pour transformer des documents complexes en informations claires. Ces courts tutoriels vous aident à démarrer, à explorer les fonctionnalités avancées et à voir des cas d’utilisation réels.
 
-[!BADGE Informatif]{type="Watch overview video" url="https://video.tv.adobe.com/v/3503972"}
+[!BADGE Visionner la vidéo de présentation]{type=Informative url="https://video.tv.adobe.com/v/3503972"}
 
 ## Nouveautés
 
