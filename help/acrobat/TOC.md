@@ -2,10 +2,10 @@
 user-guide-title: Acrobat Tutorials
 auto-video-transcripts: true
 nudge: true
-source-git-commit: c27925fb47f6fb33bbf2606da4f0f57d02552b0d
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '764'
-ht-degree: 6%
+source-wordcount: '767'
+ht-degree: 5%
 ---
 
 # Acrobat Tutorials {#acrobat-learning}
@@ -92,10 +92,11 @@ ht-degree: 6%
   + [Explorer les fonctionnalités avancées](analyzer/advanced.md)
   + Cas d’utilisation {#use-cases}
     + [Présentation](/help/acrobat/analyzer/use-cases/use-case-overview.md)
-    + [Audit du contrat de post-intégration M&amp;A](analyzer/use-cases/m-and-a-post-audit.md)
-    + [Accélérer la révision des produits et de l’audit dans la finance](analyzer/use-cases/accelerate-revenue.md)
-    + [Transformer les risques liés à la confidentialité des données en visibilité et surveillance totales](analyzer/use-cases/data-privacy-risk.md)
-    + [Gestion de sous-traitance pour l&#39;identification de la détection des sources de marge d&#39;érosion](analyzer/use-cases/identify-margin-erosion.md)
+    + [Fusions et acquisitions : Contrats d&#39;audit après une acquisition](analyzer/use-cases/m-and-a-post-audit.md)
+    + [Finance : Examiner les contrats pour la constatation des produits et les audits](analyzer/use-cases/accelerate-revenue.md)
+    + [Confidentialité et sécurité des informations : consultez les accords de confidentialité des données.](analyzer/use-cases/data-privacy-risk.md)
+    + [Construction : identifier les risques de marge dans les sous-traitances](analyzer/use-cases/identify-margin-erosion.md)
+    + [Audit de la sécurité des informations : identification du risque fournisseur](analyzer/use-cases/vendor-risk.md)
   + [Webinaires](https://experienceleague.adobe.com/fr/docs/events/acrobat-analyzer-webinars/overview){target=_blank}
 + Cas d’utilisation {#use-cases}
   + [Présentation](use-cases/use-cases-overview.md)

@@ -5,9 +5,9 @@ feature: Gen AI
 role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-22591
-source-git-commit: 412de3823992cd69436f77c38b1bc1d32dbfbe1c
+source-git-commit: 78b1d143414fd3e2b1d865de0aee7030b06e141c
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '338'
 ht-degree: 0%
 ---
 # Présentation des cas d’utilisation d’Analyzer dans Acrobat Studio
@@ -17,6 +17,10 @@ Découvrez comment Analyzer dans Acrobat Studio aide les équipes à extraire de
 ## Nouveautés
 
 >[!BEGINTABS]
+
+>[!TAB Identification des risques de contrat fournisseur]
+
+Découvrez comment Analyzer dans Acrobat Studio aide à identifier de manière proactive les [risques de sécurité des informations liés aux contrats fournisseur](vendor-risk.md).
 
 >[!TAB Identifier la marge d&#39;érosion]
 
@@ -32,48 +36,77 @@ Découvrez comment Analyzer dans Acrobat Studio aide les [équipes chargées de 
 
 >[!ENDTABS]
 
-## Tutoriels de cas d’utilisation Analyzer dans Acrobat Studio
+## Cas d’utilisation en action
+
+Voir les scénarios réels. Découvrez comment différentes équipes utilisent Analyzer dans Acrobat Studio pour travailler plus intelligemment et plus rapidement.
 
 <table style="table-layout:fixed">
 <tr>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="Audit du contrat de post-intégration M&amp;A" src="../../assets/analyzer_m-and-a.png" />
+      <img alt="Fusions et acquisitions : Contrats d&apos;audit après une acquisition" src="../../assets/analyzer_m-and-a.png" />
     </a>
     <div>
-    <a href="m-and-a-post-audit.md"><strong>Audit de contrat de post-intégration M&amp;A</strong></a>
+    <a href="m-and-a-post-audit.md"><strong>Fusion et acquisition : audit des contrats après une acquisition</strong></a>
     </div>
-    Découvrez comment Analyzer dans Acrobat Studio peut aider les entreprises à exécuter un audit de contrat de fusion et acquisition après l’intégration en quelques minutes au lieu de plusieurs semaines
+    Découvrez comment les équipes de fusions et acquisitions peuvent analyser de grands ensembles de contrats pour identifier les obligations clés, les conditions et les risques potentiels en quelques minutes au lieu de plusieurs semaines
     <br>
   </td>
   <td>
     <a href="accelerate-revenue.md">
-      <img alt="Accélérer la révision des produits et de l’audit dans la finance" src="../../assets/analyzer_accelerate-revenue.png" />
+      <img alt="Finance : Examiner les contrats pour la constatation des produits et les audits" src="../../assets/analyzer_accelerate-revenue.png" />
     </a>
     <div>
-    <a href="accelerate-revenue.md"><strong>Accélération de la révision du chiffre d'affaires et de l'audit dans la finance</strong></a>
+    <a href="accelerate-revenue.md"><strong>Finance : examiner les contrats pour la constatation et les audits des produits</strong></a>
     </div>
-    Découvrez comment Analyzer dans Acrobat Studio aide les équipes financières à extraire, examiner et valider les données de contrat à grande échelle
+    Découvrez comment les équipes financières peuvent se préparer aux audits, prendre en charge la constatation des produits et identifier les risques comptables plus rapidement
     <br>
   </td>
   <td>
     <a href="data-privacy-risk.md">
-      <img alt="Transformer les risques liés à la confidentialité des données en visibilité et surveillance totales" src="../../assets/analyzer_data-privacy.png" />
+      <img alt="Confidentialité et sécurité des informations : consultez les accords de confidentialité des données." src="../../assets/analyzer_data-privacy.png" />
     </a>
     <div>
-    <a href="data-privacy-risk.md"><strong>Transformer le risque de confidentialité des données en visibilité et surveillance totales</strong></a>
+    <a href="data-privacy-risk.md"><strong>Confidentialité et sécurité des informations : consultez les accords de confidentialité des données</strong></a>
     </div>
-    Découvrez comment Analyzer dans Acrobat Studio aide les équipes chargées de la confidentialité, du droit et de l’approvisionnement à extraire, surveiller et valider les termes DPA critiques à grande échelle
+    Découvrez comment les équipes chargées de la confidentialité et de la sécurité des informations peuvent identifier les lacunes de conformité et valider les obligations avec des résultats traçables
     <br>
   </td>
   <td>
     <a href="identify-margin-erosion.md">
-      <img alt="Gestion de sous-traitance pour l&apos;identification de la détection des sources de marge d&apos;érosion" src="../../assets/analyzer_margin-identification.png" />
+      <img alt="Construction : identifier les risques de marge dans les sous-traitances" src="../../assets/analyzer_margin-identification.png" />
     </a>
     <div>
-    <a href="identify-margin-erosion.md"><strong>Gestion de sous-traitance pour l'identification de la détection de la source de la marge d'érosion</strong></a>
+    <a href="identify-margin-erosion.md"><strong>Construction : recherche de risques de marge dans les sous-traitants</strong></a>
     </div>
-    Découvrez comment Analyzer dans Acrobat Studio aide à détecter les signes avant-coureurs de perte de marge dans les accords de sous-traitance et à prendre des mesures avant la hausse des coûts
+    Découvrez comment les équipes de construction et de projet peuvent trouver les ordres de modification manqués, les DDR vieillissantes et les lacunes dans les protections de sous-traitance avant qu'ils n'affectent les marges
+    <br>
+  </td>
+</tr>
+<tr>
+<td>
+    <a href="vendor-risk.md">
+      <img alt="Audit de la sécurité des informations : identification du risque fournisseur" src="../../assets/analyzer_vendor-risk.png" />
+    </a>
+    <div>
+    <a href="vendor-risk.md"><strong>Audit de la sécurité des informations : identification du risque fournisseur</strong></a>
+    </div>
+    Découvrez comment identifier de manière proactive les risques de sécurité des informations liés aux contrats fournisseur
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../../assets/Grayspacer.png" />
+    <div>
     <br>
   </td>
 </tr>
