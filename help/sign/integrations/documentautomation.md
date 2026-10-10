@@ -8,28 +8,35 @@ topic: Integrations
 thumbnail: KT-7488.jpg
 jira: KT-7488
 exl-id: 4113bc3f-293c-44a8-94ab-e1dbac74caed
-TQID: https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4
+TQID: 'https://experienceleague.adobe.com/-6Wi-1ypmwdIENbdMRe2z8dJ-OM7KQl3cGmyuIyKIC4'
 product_v2:
   - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+    internal-label: Acrobat
   - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+    internal-label: Document Cloud
   - id: dc5cf79d-43c4-4731-bffa-1df5d7549cb1
+    internal-label: Acrobat Sign
   - id: f002a92a-b99f-47a4-90c8-65e0e415bc7a
+    internal-label: Pass
 feature_v2:
   - id: a1028f9a-6dbc-4a4f-adf5-eb9f85a408a6
+    internal-label: Integrations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: d92345097c162b68b9d8405122534371c87c5f1a
+    internal-label: Customer experience
+source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
 workflow-type: tm+mt
-source-wordcount: 2466
+source-wordcount: '2445'
 ht-degree: 0%
-
 ---
-
 # Automatisation des documents avec Acrobat Sign pour Microsoft Power Platform
 
 Découvrez comment activer et utiliser les connecteurs Acrobat Sign et Adobe PDF Tools pour Microsoft Power Apps. Créez des workflows qui automatisent les processus d’approbation et de signature de l’entreprise rapidement et en toute sécurité, sans aucun code. Ce tutoriel pratique est divisé en quatre parties, comme indiqué dans les liens ci-dessous :
@@ -194,7 +201,7 @@ Dans la deuxième partie, nous construisons la première partie avec un flux plu
    ![Capture d&#39;écran de la configuration Obtenir le contenu du fichier](assets/documentautomation/automation_15.png)
 
    **Adresse du site :** votre site SharePoint.
-   **Identificateur de fichier :** recherchez « identifiant » et choisissez Identificateur à l&#39;étape **Obtenir les propriétés du fichier**.
+   **Identifiant du fichier :** recherchez « identifiant » et choisissez Identifiant à l&#39;étape **Obtenir les propriétés du fichier**.
 1. Recherchez « Adobe » et choisissez **Acrobat Sign** pour ajouter une autre action.
 
    ![Capture d&#39;écran du menu de recherche](assets/documentautomation/automation_16.png)
@@ -278,7 +285,7 @@ Ces dossiers sont désormais référencés dans le cadre de votre flux Power Aut
 
    ![Capture d&#39;écran de la sélection du symbole +](assets/documentautomation/automation_27.png)
 
-1. Accédez à https://www.adobe.com/go/powerautomate_getstarted_fr dans un nouvel onglet.
+1. Accédez à https://www.adobe.com/go/powerautomate_getstarted dans un nouvel onglet.
 1. Cliquez sur **Démarrer**.
 
    ![Capture d&#39;écran du bouton Commencer](assets/documentautomation/automation_28.png)
@@ -316,7 +323,7 @@ Ces dossiers sont désormais référencés dans le cadre de votre flux Power Aut
 1. Modifiez l&#39;action **Créer un fichier** en bas de l&#39;enchaînement :
 
    Remplacez **Adresse du site** par votre adresse de site.
-Spécifiez l’emplacement du dossier Contrats traités dans le chemin d’accès au dossier.
+   Spécifiez l’emplacement du dossier Contrats traités dans le chemin d’accès au dossier.
 
 1. Cliquez sur **Enregistrer** dans le coin supérieur droit.
 1. Cliquez sur **Tester**.
@@ -397,7 +404,7 @@ Une fois l’enchaînement créé, procédez comme suit :
 1. Sélectionnez le déclencheur **Pour un fichier sélectionné**.
 
    Ajoutez votre site SharePoint à l’adresse du site.
-Ajoutez votre bibliothèque dans la bibliothèque.
+   Ajoutez votre bibliothèque dans la bibliothèque.
 
    ![Capture d&#39;écran du déclencheur terminé](assets/documentautomation/automation_45.png)
 
@@ -422,7 +429,7 @@ Ajoutez votre bibliothèque dans la bibliothèque.
 1. Développez l&#39;action de portée **Fichier sélectionné**.
 
    Remplacez l&#39;adresse du site et le nom de la bibliothèque par votre site et votre bibliothèque SharePoint respectivement sous **Obtenir les propriétés du fichier**.
-Remplacez l&#39;adresse du site par votre site SharePoint sous **Obtenir le contenu du fichier**.
+   Remplacez l&#39;adresse du site par votre site SharePoint sous **Obtenir le contenu du fichier**.
 
    ![Capture d&#39;écran de l&#39;action développée Fichier sélectionné](assets/documentautomation/automation_47.png)
 
