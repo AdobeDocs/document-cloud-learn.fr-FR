@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Découvrez les événements partagés et les paramètres d’alerte que vous pouvez configurer dans Acrobat Sign. Les alertes sont des actions qui n’ont pas eu lieu dans un cadre de temps donné et les événements sont des actions qui ont eu lieu.
 
->[!VIDEO](https://video.tv.adobe.com/v/343589?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411206?captions=fre_fr&quality=12&learn=on&hidetitle=true)
