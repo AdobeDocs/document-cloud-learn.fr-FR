@@ -9,11 +9,9 @@ thumbnail: 33810.jpg
 exl-id: 47471402-6a7b-4e25-947f-5b5ffdc393fd
 source-git-commit: cda31f3acd9215184ba88dcb7c5ffd3e0cd3ac05
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '84'
 ht-degree: 0%
-
 ---
-
 # Subventions et prêts aux entreprises du gouvernement
 
 Aidez rapidement les entreprises en leur fournissant un accès libre-service aux formulaires de demande de subvention, de prêt et de report d&#39;impôt. Découvrez comment créer un formulaire web en ligne qui peut être rempli, signé **et** sans impression ni envoi postal.
