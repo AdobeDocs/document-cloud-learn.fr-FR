@@ -10,11 +10,9 @@ source-git-commit: 063268e985b7a64beffec8fa939a3d8b38d3d03a
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
-
 ---
-
 # Gestion des données de formulaire
 
 Découvrez comment consolider les données de formulaire de vos documents afin de pouvoir les afficher et les gérer dans un rapport ou une feuille de calcul Excel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443520?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)

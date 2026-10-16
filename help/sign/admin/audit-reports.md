@@ -10,11 +10,9 @@ source-git-commit: f3017163d6edf5c2b3e3c6c6c388bf4c1f338084
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # Rapports d’audit
 
 Découvrez comment accéder aux rapports d’audit, les utiliser et les configurer en fonction des besoins de votre organisation. Dans Acrobat Sign, chaque document passe par une série d’événements « jalons » qui définissent la progression d’une transaction. Ces étapes sont documentées en détail dans un rapport d’audit pour chaque transaction.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448547?quality=12&learn=on&hidetitle=true&captions=fre_fr)
+>[!VIDEO](https://video.tv.adobe.com/v/3432661?quality=12&learn=on&hidetitle=true)
