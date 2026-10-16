@@ -20,4 +20,4 @@ Découvrez comment créer des groupes, ajouter des utilisateurs à des groupes e
 >
 >Les groupes sont uniquement disponibles pour les formules Entreprises et Grands comptes.
 
->[!VIDEO](https://video.tv.adobe.com/v/344682?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3411248?captions=fre_fr&quality=12&learn=on&hidetitle=true)

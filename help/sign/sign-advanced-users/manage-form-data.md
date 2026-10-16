@@ -15,4 +15,4 @@ ht-degree: 0%
 
 Découvrez comment consolider les données de formulaire de vos documents afin de pouvoir les afficher et les gérer dans un rapport ou une feuille de calcul Excel.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419330?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3443520?captions=fre_fr&quality=12&learn=on&hidetitle=true)
