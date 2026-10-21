@@ -41,7 +41,7 @@ Dans la partie 1, découvrez comment prendre en main tout ce dont vous avez beso
 
 +++Afficher des détails sur la façon d’obtenir des identifiants d’API
 
-* [Compte développeur Acrobat Sign](https://www.adobe.com/acrobat/business/developer-form.html)
+* [Compte développeur Acrobat Sign](https://www.adobe.com/fr/acrobat/business/developer-form.html)
 * [Code de démarrage](https://github.com/benvanderberg/adobe-sign-api-tutorial)
 * [Code VS (ou éditeur de votre choix)](https://code.visualstudio.com)
 * Python 3.x

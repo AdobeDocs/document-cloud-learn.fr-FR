@@ -43,7 +43,7 @@ Le contenu du PDF doit être unique et structuré comme suit :
 * Ajout d’une table des matières avec hyperlien pour les documents de plus de 25 pages
 * Exécuter la [reconnaissance de texte](https://experienceleague.adobe.com/fr/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) sur tous les documents numérisés
 * Création de PDF adaptés aux mobiles
-Pour vérifier l&#39;expérience de visionnage mobile de votre PDF, ouvrez le fichier dans l&#39;[application mobile Acrobat Reader](https://www.adobe.com/acrobat/mobile/acrobat-reader.html) et activez Liquid Mode. Ajoutez des sous-titres supplémentaires si nécessaire pour améliorer la navigation.
+Pour vérifier l&#39;expérience de visionnage mobile de votre PDF, ouvrez le fichier dans l&#39;[application mobile Acrobat Reader](https://www.adobe.com/fr/acrobat/mobile/acrobat-reader.html) et activez Liquid Mode. Ajoutez des sous-titres supplémentaires si nécessaire pour améliorer la navigation.
 
   ![Capture d’écran de Liquid Mode dans l’application mobile Acrobat Reader](../assets/optimizeseo1.png)
 
