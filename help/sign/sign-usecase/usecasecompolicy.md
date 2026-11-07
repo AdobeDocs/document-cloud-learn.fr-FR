@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Collectez efficacement les signatures de tous vos employés sur les accords de stratégie, les mises à jour de stratégie, etc. Découvrez comment créer un formulaire web en ligne qui peut être rempli, signé **et** sans impression ni envoi postal.
 
->[!VIDEO](https://video.tv.adobe.com/v/33979?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506308?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 Sélectionnez cette option pour télécharger ou ouvrir une recette de PDF étape par étape pour les accords de stratégie.
 

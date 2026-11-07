@@ -33,7 +33,7 @@ ht-degree: 0%
 
 Découvrez comment recueillir efficacement les signatures de tous vos employés sur les accords de télétravail, les mises à jour de politiques, etc. Tout d’abord, créez un modèle de document réutilisable rapidement accessible depuis votre bibliothèque de documents. Ensuite, vous envoyez le nouveau modèle de document pour signature à des centaines d’employés à la fois à l’aide de Mega Sign.
 
->[!VIDEO](https://video.tv.adobe.com/v/33978?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3506372?captions=fre_fr&quality=12&learn=on&hidetitle=true)
 
 Sélectionnez pour télécharger ou ouvrir une recette de PDF étape par étape pour les accords de télétravail.
 
