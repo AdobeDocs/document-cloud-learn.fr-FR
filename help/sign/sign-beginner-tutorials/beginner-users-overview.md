@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 99800d36a3515a93bff9867ace5d0f64505c5efd
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '583'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # Présentation de la prise en main
@@ -37,6 +37,10 @@ Découvrez comment envoyer, signer et suivre des documents à l’aide de ces co
 
 >[!BEGINTABS]
 
+>[!TAB Modifier les documents et les modèles avant l&#39;envoi]
+
+Découvrez comment [modifier le texte, les images et les modèles avant de les envoyer](edit.md) directement dans Acrobat Sign.
+
 >[!TAB Quand utiliser Créer une copie]
 
 Découvrez comment utiliser [Créer une copie](../sign-beginner-tutorials/create-a-copy.md) pour dupliquer un accord existant. Vous pouvez ajuster les modifications nécessaires et les renvoyer en quelques secondes. Pas de reconstruction à partir de zéro.
@@ -44,14 +48,6 @@ Découvrez comment utiliser [Créer une copie](../sign-beginner-tutorials/create
 >[!TAB Modifier un document après l&#39;envoi]
 
 Découvrez comment [modifier un document](../sign-beginner-tutorials/manage-and-track.md) qui a déjà été envoyé pour signature.
-
->[!TAB Gérer et suivre les accords]
-
-Découvrez comment [gérer et suivre les accords](../sign-beginner-tutorials/manage-and-track.md) envoyés pour signature.
-
->[!TAB Signer électroniquement un document]
-
-Découvrez combien il est facile de [signer](../sign-beginner-tutorials/electronically-sign-a-document.md) un document qui vous est envoyé avec Acrobat Sign.
 
 >[!ENDTABS]
 
@@ -183,6 +179,33 @@ Découvrez combien il est facile de [signer](../sign-beginner-tutorials/electron
     Découvrez comment utiliser Créer une copie pour dupliquer un accord existant
     <br>
     </td>
+  </tr>
+  <tr>
+    <td>
+     <a href="edit.md">
+      <img alt="Modification de documents et de modèles avant l’envoi" src="../assets/edit.png" />
+    </a>
+    <div>
+    <a href="edit.md"><strong>Modifier les documents et les modèles avant l'envoi</strong></a>
+    </div>
+    Découvrez comment modifier le texte, les images et les modèles avant l’envoi
+    <br>
+    </td>
+     <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
+  <td>
+    <img alt="Espaceur" src="../assets/Grayspacer.png" />
+    <div>
+    <br>
+  </td>
 </tr>
 </table>
 
