@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f4a2ca705da9c9662c925702fd41d4f5fc494785
+source-git-commit: 8bff0f338f32aec1065ec258e1507078631600dd
 workflow-type: tm+mt
-source-wordcount: '607'
+source-wordcount: '593'
 ht-degree: 22%
 ---
 # Présentation de la prise en main
@@ -48,10 +48,6 @@ Découvrez comment utiliser [Créer une copie](../sign-beginner-tutorials/create
 >[!TAB Modifier un document après l&#39;envoi]
 
 Découvrez comment [modifier un document](../sign-beginner-tutorials/manage-and-track.md) qui a déjà été envoyé pour signature.
-
->[!TAB Gérer et suivre les accords]
-
-Découvrez comment [gérer et suivre les accords](../sign-beginner-tutorials/manage-and-track.md) envoyés pour signature.
 
 >[!ENDTABS]
 
@@ -183,6 +179,8 @@ Découvrez comment [gérer et suivre les accords](../sign-beginner-tutorials/man
     Découvrez comment utiliser Créer une copie pour dupliquer un accord existant
     <br>
     </td>
+  </tr>
+  <tr>
     <td>
      <a href="edit.md">
       <img alt="Modification de documents et de modèles avant l’envoi" src="../assets/edit.png" />
