@@ -17,4 +17,4 @@ Les modifications de dernière minute font partie de chaque workflow. Dans ce tu
 >
 >L&#39;édition de documents doit être activée par votre administrateur. Pour plus d&#39;informations, cliquez [ici](https://helpx.adobe.com/fr/sign/web/settings-configuration/send-settings/edit-agreement.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/3508107?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3508109?captions=fre_fr&quality=12&learn=on&hidetitle=true)
